@@ -1,9 +1,19 @@
 const STORAGE_KEYS = {
   liked: "naver-cafe-random-player-liked",
   disliked: "naver-cafe-random-player-disliked",
+  heroCopy: "naver-cafe-random-player-hero-copy",
 };
 
+const ADMIN_PASSWORD = "4856";
 const PLAYLIST_URL = new URL("./playlist.json", window.location.href);
+
+const DEFAULT_HERO_COPY = {
+  title: "공개게시판 유튜브 랜덤 재생",
+  subtitle:
+    "네이버 카페 공개게시판 20페이지 안의 유튜브 링크를 수집해 랜덤으로 재생합니다. 좋아요와 싫어요는 이 브라우저에만 저장됩니다.",
+  note:
+    "이 페이지는 링크만 열면 바로 동작하는 공개 웹앱입니다. 목록 갱신은 가장 최근에 게시된 공개 플레이리스트 파일을 다시 불러옵니다.",
+};
 
 const dom = {
   refreshButton: document.getElementById("refreshButton"),
@@ -22,7 +32,19 @@ const dom = {
   playerPlaceholder: document.getElementById("playerPlaceholder"),
   filterAll: document.getElementById("filterAll"),
   filterLiked: document.getElementById("filterLiked"),
+  filterDisliked: document.getElementById("filterDisliked"),
   filterAvailable: document.getElementById("filterAvailable"),
+  heroTitle: document.getElementById("heroTitle"),
+  heroSubtitle: document.getElementById("heroSubtitle"),
+  heroNote: document.getElementById("heroNote"),
+  adminEditor: document.getElementById("adminEditor"),
+  adminBackdrop: document.getElementById("adminBackdrop"),
+  adminCloseButton: document.getElementById("adminCloseButton"),
+  adminSaveButton: document.getElementById("adminSaveButton"),
+  adminResetButton: document.getElementById("adminResetButton"),
+  editorHeroTitle: document.getElementById("editorHeroTitle"),
+  editorHeroSubtitle: document.getElementById("editorHeroSubtitle"),
+  editorHeroNote: document.getElementById("editorHeroNote"),
 };
 
 const state = {
@@ -47,6 +69,28 @@ function loadSet(key) {
 
 function saveSet(key, values) {
   localStorage.setItem(key, JSON.stringify([...values]));
+}
+
+function loadHeroCopy() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEYS.heroCopy);
+    if (!raw) {
+      return { ...DEFAULT_HERO_COPY };
+    }
+
+    const parsed = JSON.parse(raw);
+    return {
+      title: String(parsed.title || DEFAULT_HERO_COPY.title),
+      subtitle: String(parsed.subtitle || DEFAULT_HERO_COPY.subtitle),
+      note: String(parsed.note || DEFAULT_HERO_COPY.note),
+    };
+  } catch {
+    return { ...DEFAULT_HERO_COPY };
+  }
+}
+
+function saveHeroCopy(value) {
+  localStorage.setItem(STORAGE_KEYS.heroCopy, JSON.stringify(value));
 }
 
 const likedSet = loadSet(STORAGE_KEYS.liked);
@@ -86,6 +130,10 @@ function currentItem() {
 function filterItems(items) {
   if (state.filter === "liked") {
     return items.filter((item) => likedSet.has(item.key));
+  }
+
+  if (state.filter === "disliked") {
+    return items.filter((item) => dislikedSet.has(item.key));
   }
 
   if (state.filter === "available") {
@@ -257,6 +305,47 @@ function toggleDislike() {
   }
 }
 
+function renderHeroCopy() {
+  const heroCopy = loadHeroCopy();
+  dom.heroTitle.textContent = heroCopy.title;
+  dom.heroSubtitle.textContent = heroCopy.subtitle;
+  dom.heroNote.textContent = heroCopy.note;
+}
+
+function openAdminEditor() {
+  const heroCopy = loadHeroCopy();
+  dom.editorHeroTitle.value = heroCopy.title;
+  dom.editorHeroSubtitle.value = heroCopy.subtitle;
+  dom.editorHeroNote.value = heroCopy.note;
+  dom.adminEditor.hidden = false;
+}
+
+function closeAdminEditor() {
+  dom.adminEditor.hidden = true;
+}
+
+function saveAdminEditor() {
+  const nextHeroCopy = {
+    title: dom.editorHeroTitle.value.trim() || DEFAULT_HERO_COPY.title,
+    subtitle: dom.editorHeroSubtitle.value.trim() || DEFAULT_HERO_COPY.subtitle,
+    note: dom.editorHeroNote.value.trim() || DEFAULT_HERO_COPY.note,
+  };
+
+  saveHeroCopy(nextHeroCopy);
+  renderHeroCopy();
+  closeAdminEditor();
+  setStatus("상단 안내 문구를 이 브라우저에 저장했습니다.");
+}
+
+function resetAdminEditor() {
+  saveHeroCopy(DEFAULT_HERO_COPY);
+  renderHeroCopy();
+  dom.editorHeroTitle.value = DEFAULT_HERO_COPY.title;
+  dom.editorHeroSubtitle.value = DEFAULT_HERO_COPY.subtitle;
+  dom.editorHeroNote.value = DEFAULT_HERO_COPY.note;
+  setStatus("상단 안내 문구를 기본값으로 되돌렸습니다.");
+}
+
 async function fetchPlaylist({ bustCache = false } = {}) {
   const url = new URL(PLAYLIST_URL);
   if (bustCache) {
@@ -308,6 +397,7 @@ function setFilter(nextFilter) {
   state.filter = nextFilter;
   dom.filterAll.classList.toggle("is-active", nextFilter === "all");
   dom.filterLiked.classList.toggle("is-active", nextFilter === "liked");
+  dom.filterDisliked.classList.toggle("is-active", nextFilter === "disliked");
   dom.filterAvailable.classList.toggle("is-active", nextFilter === "available");
   renderPlaylist();
 }
@@ -337,6 +427,21 @@ window.onYouTubeIframeAPIReady = function onYouTubeIframeAPIReady() {
   });
 };
 
+window.addEventListener("keydown", (event) => {
+  if (!(event.ctrlKey || event.metaKey) || event.key.toLowerCase() !== "p") {
+    return;
+  }
+
+  event.preventDefault();
+  const password = window.prompt("관리자 비밀번호를 입력하세요.");
+  if (password !== ADMIN_PASSWORD) {
+    setStatus("관리자 비밀번호가 일치하지 않습니다.");
+    return;
+  }
+
+  openAdminEditor();
+});
+
 dom.refreshButton.addEventListener("click", async () => {
   try {
     dom.refreshButton.disabled = true;
@@ -359,6 +464,7 @@ dom.dislikeButton.addEventListener("click", toggleDislike);
 
 dom.filterAll.addEventListener("click", () => setFilter("all"));
 dom.filterLiked.addEventListener("click", () => setFilter("liked"));
+dom.filterDisliked.addEventListener("click", () => setFilter("disliked"));
 dom.filterAvailable.addEventListener("click", () => setFilter("available"));
 
 dom.playlistList.addEventListener("click", (event) => {
@@ -371,7 +477,14 @@ dom.playlistList.addEventListener("click", (event) => {
   playItem(item || null);
 });
 
+dom.adminCloseButton.addEventListener("click", closeAdminEditor);
+dom.adminBackdrop.addEventListener("click", closeAdminEditor);
+dom.adminSaveButton.addEventListener("click", saveAdminEditor);
+dom.adminResetButton.addEventListener("click", resetAdminEditor);
+
 async function boot() {
+  renderHeroCopy();
+
   try {
     setStatus("공개 플레이리스트를 불러오는 중입니다.");
     const payload = await fetchPlaylist();
