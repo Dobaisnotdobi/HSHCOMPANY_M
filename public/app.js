@@ -1,18 +1,23 @@
 const STORAGE_KEYS = {
   liked: "naver-cafe-random-player-liked",
   disliked: "naver-cafe-random-player-disliked",
-  heroCopy: "naver-cafe-random-player-hero-copy",
 };
 
 const ADMIN_PASSWORD = "4856";
 const PLAYLIST_URL = new URL("./playlist.json", window.location.href);
+const SITE_COPY_URL = new URL("./site-copy.json", window.location.href);
 
 const DEFAULT_HERO_COPY = {
-  title: "공개게시판 유튜브 랜덤 재생",
+  title: "한냉오풍 랜덤 플레이리스트",
   subtitle:
-    "네이버 카페 공개게시판 20페이지 안의 유튜브 링크를 수집해 랜덤으로 재생합니다. 좋아요와 싫어요는 이 브라우저에만 저장됩니다.",
-  note:
-    "이 페이지는 링크만 열면 바로 동작하는 공개 웹앱입니다. 목록 갱신은 가장 최근에 게시된 공개 플레이리스트 파일을 다시 불러옵니다.",
+    "한세현 팬카페(한세현의 냉장고는 오늘도 풍족하다) 들어보세요 게시판의 추천곡(유튜브링크)을 랜덤재생하는 플레이어입니다 / 좋아요: 리스트 갱신되어도 플레이리스트에 남음. 싫어요: 다시 재생되지 않음.",
+  note: "좋아요/싫어요 체크 여부는 본인에게만 표기됩니다.",
+};
+
+const DEFAULT_REPO_INFO = {
+  owner: "Dobaisnotdobi",
+  repo: "HSHCOMPANY_M",
+  branch: "master",
 };
 
 const dom = {
@@ -53,6 +58,7 @@ const state = {
   filter: "all",
   playerReady: false,
   pendingVideoId: null,
+  heroCopy: { ...DEFAULT_HERO_COPY },
 };
 
 let player = null;
@@ -69,28 +75,6 @@ function loadSet(key) {
 
 function saveSet(key, values) {
   localStorage.setItem(key, JSON.stringify([...values]));
-}
-
-function loadHeroCopy() {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEYS.heroCopy);
-    if (!raw) {
-      return { ...DEFAULT_HERO_COPY };
-    }
-
-    const parsed = JSON.parse(raw);
-    return {
-      title: String(parsed.title || DEFAULT_HERO_COPY.title),
-      subtitle: String(parsed.subtitle || DEFAULT_HERO_COPY.subtitle),
-      note: String(parsed.note || DEFAULT_HERO_COPY.note),
-    };
-  } catch {
-    return { ...DEFAULT_HERO_COPY };
-  }
-}
-
-function saveHeroCopy(value) {
-  localStorage.setItem(STORAGE_KEYS.heroCopy, JSON.stringify(value));
 }
 
 const likedSet = loadSet(STORAGE_KEYS.liked);
@@ -327,18 +311,25 @@ function toggleDislike() {
   toggleDislikeForItem(currentItem());
 }
 
+function normalizeSiteCopy(value) {
+  return {
+    title: String(value?.title || DEFAULT_HERO_COPY.title),
+    subtitle: String(value?.subtitle || DEFAULT_HERO_COPY.subtitle),
+    note: String(value?.note || DEFAULT_HERO_COPY.note),
+  };
+}
+
 function renderHeroCopy() {
-  const heroCopy = loadHeroCopy();
-  dom.heroTitle.textContent = heroCopy.title;
-  dom.heroSubtitle.textContent = heroCopy.subtitle;
-  dom.heroNote.textContent = heroCopy.note;
+  dom.heroTitle.textContent = state.heroCopy.title;
+  dom.heroSubtitle.textContent = state.heroCopy.subtitle;
+  dom.heroNote.textContent = state.heroCopy.note;
+  document.title = state.heroCopy.title;
 }
 
 function openAdminEditor() {
-  const heroCopy = loadHeroCopy();
-  dom.editorHeroTitle.value = heroCopy.title;
-  dom.editorHeroSubtitle.value = heroCopy.subtitle;
-  dom.editorHeroNote.value = heroCopy.note;
+  dom.editorHeroTitle.value = state.heroCopy.title;
+  dom.editorHeroSubtitle.value = state.heroCopy.subtitle;
+  dom.editorHeroNote.value = state.heroCopy.note;
   dom.adminEditor.hidden = false;
 }
 
@@ -346,26 +337,116 @@ function closeAdminEditor() {
   dom.adminEditor.hidden = true;
 }
 
-function saveAdminEditor() {
-  const nextHeroCopy = {
-    title: dom.editorHeroTitle.value.trim() || DEFAULT_HERO_COPY.title,
-    subtitle: dom.editorHeroSubtitle.value.trim() || DEFAULT_HERO_COPY.subtitle,
-    note: dom.editorHeroNote.value.trim() || DEFAULT_HERO_COPY.note,
-  };
-
-  saveHeroCopy(nextHeroCopy);
-  renderHeroCopy();
-  closeAdminEditor();
-  setStatus("상단 안내 문구를 이 브라우저에 저장했습니다.");
-}
-
-function resetAdminEditor() {
-  saveHeroCopy(DEFAULT_HERO_COPY);
-  renderHeroCopy();
+function fillDefaultAdminEditor() {
   dom.editorHeroTitle.value = DEFAULT_HERO_COPY.title;
   dom.editorHeroSubtitle.value = DEFAULT_HERO_COPY.subtitle;
   dom.editorHeroNote.value = DEFAULT_HERO_COPY.note;
-  setStatus("상단 안내 문구를 기본값으로 되돌렸습니다.");
+  setStatus("기본 문구를 채웠습니다. 저장을 누르면 전체 반영됩니다.");
+}
+
+function getRepoInfo() {
+  const host = window.location.hostname.toLowerCase();
+  const pathParts = window.location.pathname.split("/").filter(Boolean);
+
+  if (host.endsWith(".github.io")) {
+    const owner = host.replace(/\.github\.io$/, "");
+    const repo = pathParts[0] || `${owner}.github.io`;
+    return {
+      owner,
+      repo,
+      branch: DEFAULT_REPO_INFO.branch,
+    };
+  }
+
+  return { ...DEFAULT_REPO_INFO };
+}
+
+function encodeBase64Unicode(value) {
+  return window.btoa(unescape(encodeURIComponent(value)));
+}
+
+async function fetchSiteCopy() {
+  try {
+    const response = await fetch(SITE_COPY_URL, { cache: "no-store" });
+    if (!response.ok) {
+      throw new Error("site-copy.json not found");
+    }
+
+    const payload = await response.json();
+    state.heroCopy = normalizeSiteCopy(payload);
+  } catch {
+    state.heroCopy = { ...DEFAULT_HERO_COPY };
+  }
+
+  renderHeroCopy();
+}
+
+async function saveSiteCopyGlobally(nextHeroCopy, token) {
+  const repoInfo = getRepoInfo();
+  const apiUrl = `https://api.github.com/repos/${repoInfo.owner}/${repoInfo.repo}/contents/public/site-copy.json`;
+  const commonHeaders = {
+    Accept: "application/vnd.github+json",
+    Authorization: `Bearer ${token}`,
+    "Content-Type": "application/json",
+  };
+
+  const metadataResponse = await fetch(`${apiUrl}?ref=${encodeURIComponent(repoInfo.branch)}`, {
+    headers: commonHeaders,
+  });
+
+  if (!metadataResponse.ok) {
+    throw new Error("site-copy.json 메타데이터를 읽지 못했습니다.");
+  }
+
+  const metadata = await metadataResponse.json();
+  const content = `${JSON.stringify(nextHeroCopy, null, 2)}\n`;
+  const saveResponse = await fetch(apiUrl, {
+    method: "PUT",
+    headers: commonHeaders,
+    body: JSON.stringify({
+      message: "Update site copy",
+      content: encodeBase64Unicode(content),
+      sha: metadata.sha,
+      branch: repoInfo.branch,
+    }),
+  });
+
+  if (!saveResponse.ok) {
+    const errorPayload = await saveResponse.json().catch(() => null);
+    const message = errorPayload?.message || "site-copy.json 저장에 실패했습니다.";
+    throw new Error(message);
+  }
+}
+
+async function saveAdminEditor() {
+  const nextHeroCopy = normalizeSiteCopy({
+    title: dom.editorHeroTitle.value.trim(),
+    subtitle: dom.editorHeroSubtitle.value.trim(),
+    note: dom.editorHeroNote.value.trim(),
+  });
+
+  const token = window.prompt(
+    "GitHub Personal Access Token을 입력하세요. 이 토큰은 저장하지 않고, site-copy.json 전역 반영에만 사용됩니다.",
+  );
+
+  if (!token) {
+    setStatus("전역 반영을 취소했습니다.");
+    return;
+  }
+
+  try {
+    dom.adminSaveButton.disabled = true;
+    setStatus("상단 안내 문구를 전체 반영하는 중입니다.");
+    await saveSiteCopyGlobally(nextHeroCopy, token.trim());
+    state.heroCopy = nextHeroCopy;
+    renderHeroCopy();
+    closeAdminEditor();
+    setStatus("전역 저장 완료. GitHub Pages가 다시 배포되면 모두에게 반영됩니다.");
+  } catch (error) {
+    setStatus(error instanceof Error ? error.message : String(error));
+  } finally {
+    dom.adminSaveButton.disabled = false;
+  }
 }
 
 async function fetchPlaylist({ bustCache = false } = {}) {
@@ -518,10 +599,10 @@ dom.playlistList.addEventListener("click", (event) => {
 dom.adminCloseButton.addEventListener("click", closeAdminEditor);
 dom.adminBackdrop.addEventListener("click", closeAdminEditor);
 dom.adminSaveButton.addEventListener("click", saveAdminEditor);
-dom.adminResetButton.addEventListener("click", resetAdminEditor);
+dom.adminResetButton.addEventListener("click", fillDefaultAdminEditor);
 
 async function boot() {
-  renderHeroCopy();
+  await fetchSiteCopy();
 
   try {
     setStatus("공개 플레이리스트를 불러오는 중입니다.");
