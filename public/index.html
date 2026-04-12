@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>카페 랜덤 플레이어</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">NAVER CAFE RANDOM PLAYER</p>
+          <h1>공개게시판 유튜브 랜덤 재생</h1>
+          <p class="subtitle">
+            네이버 카페 공개게시판 20페이지 안의 유튜브 링크를 수집해 랜덤으로 재생합니다.
+            좋아요와 싫어요는 이 브라우저에만 저장됩니다.
+          </p>
+          <p class="publish-note">
+            이 페이지는 링크만 열면 바로 동작하는 공개 웹앱입니다. 목록 갱신은 가장 최근에 게시된 공개
+            플레이리스트 파일을 다시 불러옵니다.
+          </p>
+        </div>
+        <div class="hero-actions">
+          <button id="refreshButton" class="primary-button" type="button">목록 갱신</button>
+          <button id="randomButton" class="secondary-button" type="button">다음 랜덤</button>
+        </div>
+      </section>
+
+      <section class="player-panel">
+        <div class="player-frame">
+          <div id="player"></div>
+          <div id="playerPlaceholder" class="player-placeholder">플레이어와 목록을 불러오는 중입니다.</div>
+        </div>
+
+        <div class="player-meta">
+          <div class="meta-top">
+            <div>
+              <p class="meta-label">현재 재생</p>
+              <h2 id="currentTitle" class="meta-title">대기 중</h2>
+              <p id="currentVideo" class="meta-subtitle">재생할 영상을 준비하고 있습니다.</p>
+            </div>
+            <div class="preference-actions">
+              <button id="likeButton" class="pref-button" type="button">좋아요</button>
+              <button id="dislikeButton" class="pref-button" type="button">싫어요</button>
+            </div>
+          </div>
+
+          <div class="stats-grid">
+            <div class="stat-card">
+              <span class="stat-label">플레이리스트</span>
+              <strong id="playlistCount">0</strong>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">재생 가능</span>
+              <strong id="eligibleCount">0</strong>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">좋아요</span>
+              <strong id="likedCount">0</strong>
+            </div>
+            <div class="stat-card">
+              <span class="stat-label">싫어요</span>
+              <strong id="dislikedCount">0</strong>
+            </div>
+          </div>
+
+          <div class="source-box">
+            <p class="source-label">원글 링크</p>
+            <a id="sourceLink" class="source-link" href="#" target="_blank" rel="noreferrer noopener">
+              아직 선택된 게시물이 없습니다.
+            </a>
+          </div>
+
+          <div class="status-box">
+            <p class="status-label">상태</p>
+            <p id="statusText" class="status-text">공개 플레이리스트에 연결 중입니다.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="list-panel">
+        <div class="list-header">
+          <div>
+            <p class="meta-label">수집 결과</p>
+            <h2>영상 목록</h2>
+          </div>
+          <div class="filters">
+            <button id="filterAll" class="filter-chip is-active" type="button">전체</button>
+            <button id="filterLiked" class="filter-chip" type="button">좋아요</button>
+            <button id="filterAvailable" class="filter-chip" type="button">재생 가능</button>
+          </div>
+        </div>
+        <ul id="playlistList" class="playlist-list"></ul>
+      </section>
+    </main>
+
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

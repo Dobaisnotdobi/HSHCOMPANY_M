@@ -1,0 +1,10 @@
+{
+  "name": "naver-cafe-youtube-random-player",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shareable static YouTube player fed by a public Naver Cafe board",
+  "scripts": {
+    "build:playlist": "node scripts/build-playlist.js",
+    "start": "node server.js"
+  }
+}
