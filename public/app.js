@@ -217,6 +217,22 @@ function renderPlaylist() {
           <div class="playlist-pill-row">${pills.join("")}</div>
           <div class="playlist-item-actions">
             <button class="mini-button" type="button" data-action="play" data-key="${item.key}">재생</button>
+            <button
+              class="mini-button ${likedSet.has(item.key) ? "is-selected-like" : ""}"
+              type="button"
+              data-action="toggle-like"
+              data-key="${item.key}"
+            >
+              ${likedSet.has(item.key) ? "좋아요 취소" : "좋아요"}
+            </button>
+            <button
+              class="mini-button ${dislikedSet.has(item.key) ? "is-selected-dislike" : ""}"
+              type="button"
+              data-action="toggle-dislike"
+              data-key="${item.key}"
+            >
+              ${dislikedSet.has(item.key) ? "싫어요 취소" : "싫어요"}
+            </button>
             <a class="mini-button link" href="${item.sourceUrl}" target="_blank" rel="noreferrer noopener">원글 열기</a>
           </div>
         </li>
@@ -260,8 +276,7 @@ function playRandom() {
   playItem(chooseRandomItem());
 }
 
-function toggleLike() {
-  const item = currentItem();
+function toggleLikeForItem(item) {
   if (!item) {
     return;
   }
@@ -280,8 +295,7 @@ function toggleLike() {
   renderPlaylist();
 }
 
-function toggleDislike() {
-  const item = currentItem();
+function toggleDislikeForItem(item) {
   if (!item) {
     return;
   }
@@ -303,6 +317,14 @@ function toggleDislike() {
   if (willDislike) {
     playRandom();
   }
+}
+
+function toggleLike() {
+  toggleLikeForItem(currentItem());
+}
+
+function toggleDislike() {
+  toggleDislikeForItem(currentItem());
 }
 
 function renderHeroCopy() {
@@ -468,13 +490,29 @@ dom.filterDisliked.addEventListener("click", () => setFilter("disliked"));
 dom.filterAvailable.addEventListener("click", () => setFilter("available"));
 
 dom.playlistList.addEventListener("click", (event) => {
-  const target = event.target.closest("[data-action='play']");
+  const target = event.target.closest("[data-action]");
   if (!target) {
     return;
   }
 
   const item = state.items.find((candidate) => candidate.key === target.dataset.key);
-  playItem(item || null);
+  if (!item) {
+    return;
+  }
+
+  if (target.dataset.action === "play") {
+    playItem(item);
+    return;
+  }
+
+  if (target.dataset.action === "toggle-like") {
+    toggleLikeForItem(item);
+    return;
+  }
+
+  if (target.dataset.action === "toggle-dislike") {
+    toggleDislikeForItem(item);
+  }
 });
 
 dom.adminCloseButton.addEventListener("click", closeAdminEditor);

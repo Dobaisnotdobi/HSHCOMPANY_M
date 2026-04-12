@@ -451,6 +451,18 @@ button:hover,
   background: white;
 }
 
+.mini-button.is-selected-like {
+  color: #fff;
+  border-color: transparent;
+  background: linear-gradient(135deg, #3e8f5d 0%, #2e6e49 100%);
+}
+
+.mini-button.is-selected-dislike {
+  color: #fff;
+  border-color: transparent;
+  background: linear-gradient(135deg, #6b6f79 0%, #474c56 100%);
+}
+
 .mini-button.link {
   text-decoration: none;
 }
