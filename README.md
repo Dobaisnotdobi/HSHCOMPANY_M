@@ -41,14 +41,21 @@ http://127.0.0.1:3000
 https://<github-user>.github.io/<repository-name>/
 ```
 
-## 자동 갱신
+## 배포 방식
 
-- 워크플로는 `push`, `workflow_dispatch`, `schedule` 로 동작합니다.
-- 현재 스케줄은 하루 2회입니다.
-- GitHub public repository의 scheduled workflow는 저장소 활동이 60일 없으면 자동 비활성화될 수 있습니다.
+- `Deploy GitHub Pages` 워크플로는 저장소에 커밋된 `public/` 폴더만 그대로 배포합니다.
+- `Refresh Playlist` 워크플로는 하루 2회 네이버 카페를 다시 수집해 `public/playlist.json` 을 갱신합니다.
+- 수집 워크플로가 새 플레이리스트를 커밋하면, 그 푸시를 계기로 Pages 배포가 다시 실행됩니다.
+- 따라서 수집 실패가 나도 기존 공개 사이트는 그대로 유지되고, 성공했을 때만 최신 목록으로 교체됩니다.
+
+플레이리스트를 수동으로 최신화하고 싶다면 로컬에서도 아래 명령을 실행할 수 있습니다.
+
+```powershell
+npm run build:playlist
+```
 
 ## 참고
 
 - 공개 링크로 접속하는 사용자는 서버 없이 정적 파일만 받습니다.
-- 실제 수집은 GitHub Actions가 `scripts/build-playlist.js` 를 실행해 `public/playlist.json` 을 갱신하는 방식입니다.
+- 실제 수집 스크립트는 `scripts/build-playlist.js` 이며, 로컬 또는 `Refresh Playlist` 워크플로에서 실행됩니다.
 - 게시판 구조가 바뀌면 수집 스크립트 수정이 필요할 수 있습니다.

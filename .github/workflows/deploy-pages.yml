@@ -6,8 +6,6 @@ on:
       - main
       - master
   workflow_dispatch:
-  schedule:
-    - cron: "17 3,15 * * *"
 
 permissions:
   contents: read
@@ -20,19 +18,11 @@ concurrency:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Build latest playlist
-        run: node scripts/build-playlist.js
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
