@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-04-14T05:53:10.038Z",
+  "generatedAt": "2026-04-14T16:40:30.117Z",
   "pageCount": 20,
-  "sourceArticleCount": 229,
+  "sourceArticleCount": 231,
   "summaryMatchCount": 79,
-  "detailMatchCount": 84,
+  "detailMatchCount": 91,
   "items": [
+    {
+      "key": "1099:BrwvOA0q0GA",
+      "articleId": "1099",
+      "articleTitle": "홍다빈-shower song",
+      "writer": "납엄진",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1099",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1099",
+      "videoId": "BrwvOA0q0GA",
+      "watchUrl": "https://www.youtube.com/watch?v=BrwvOA0q0GA",
+      "embedUrl": "https://www.youtube.com/embed/BrwvOA0q0GA",
+      "originalUrl": "https://www.youtube.com/embed/BrwvOA0q0GA?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1776164945017
+    },
+    {
+      "key": "1097:nNR74qU3VXA",
+      "articleId": "1097",
+      "articleTitle": "우원재 (Woo) - '싸가지 (Feat. 비비 (BIBI))'",
+      "writer": "켄서펀트",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1097",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1097",
+      "videoId": "nNR74qU3VXA",
+      "watchUrl": "https://www.youtube.com/watch?v=nNR74qU3VXA",
+      "embedUrl": "https://www.youtube.com/embed/nNR74qU3VXA",
+      "originalUrl": "https://www.youtube.com/embed/nNR74qU3VXA?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1776162076570
+    },
     {
       "key": "1071:CLdzzVFq33c",
       "articleId": "1071",
@@ -1028,6 +1056,48 @@
       "writeTimestamp": 1775884045427
     },
     {
+      "key": "719:IpFX2vq8HKw",
+      "articleId": "719",
+      "articleTitle": "Yung fazo - GOIN IN",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/719",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/719",
+      "videoId": "IpFX2vq8HKw",
+      "watchUrl": "https://www.youtube.com/watch?v=IpFX2vq8HKw",
+      "embedUrl": "https://www.youtube.com/embed/IpFX2vq8HKw",
+      "originalUrl": "https://youtu.be/IpFX2vq8HKw?",
+      "origin": "detail",
+      "writeTimestamp": 1775879848103
+    },
+    {
+      "key": "719:RzEqYkPV2d0",
+      "articleId": "719",
+      "articleTitle": "Yung fazo - GOIN IN",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/719",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/719",
+      "videoId": "RzEqYkPV2d0",
+      "watchUrl": "https://www.youtube.com/watch?v=RzEqYkPV2d0",
+      "embedUrl": "https://www.youtube.com/embed/RzEqYkPV2d0",
+      "originalUrl": "https://youtu.be/RzEqYkPV2d0?",
+      "origin": "detail",
+      "writeTimestamp": 1775879848103
+    },
+    {
+      "key": "719:jDf07wV5gMU",
+      "articleId": "719",
+      "articleTitle": "Yung fazo - GOIN IN",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/719",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/719",
+      "videoId": "jDf07wV5gMU",
+      "watchUrl": "https://www.youtube.com/watch?v=jDf07wV5gMU",
+      "embedUrl": "https://www.youtube.com/embed/jDf07wV5gMU",
+      "originalUrl": "https://youtu.be/jDf07wV5gMU?",
+      "origin": "detail",
+      "writeTimestamp": 1775879848103
+    },
+    {
       "key": "700:OQB5A6Ay0_I",
       "articleId": "700",
       "articleTitle": "우리 같이 내 인생을 비웃자",
@@ -1532,6 +1602,20 @@
       "writeTimestamp": 1775776625637
     },
     {
+      "key": "510:G6RyuWBe1qE",
+      "articleId": "510",
+      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
+      "writer": "바보",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
+      "videoId": "G6RyuWBe1qE",
+      "watchUrl": "https://www.youtube.com/watch?v=G6RyuWBe1qE",
+      "embedUrl": "https://www.youtube.com/embed/G6RyuWBe1qE",
+      "originalUrl": "https://youtube.com/shorts/G6RyuWBe1qE?",
+      "origin": "detail",
+      "writeTimestamp": 1775776625637
+    },
+    {
       "key": "485:GV57LLqeAmA",
       "articleId": "485",
       "articleTitle": "나한테는 이게 LOV3이야",
@@ -1992,6 +2076,20 @@
       "originalUrl": "https://youtu.be/cgW05HJjQtA?li",
       "origin": "summary",
       "writeTimestamp": 1775493227473
+    },
+    {
+      "key": "184:BinNkFZ89ZQ",
+      "articleId": "184",
+      "articleTitle": "J-Tong - Woof Remix ( Feat . Nosun , Mckdaddy , Raf Sandou , Zenethezilla , Street Baby , Owen )",
+      "writer": "blank",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/184",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/184",
+      "videoId": "BinNkFZ89ZQ",
+      "watchUrl": "https://www.youtube.com/watch?v=BinNkFZ89ZQ",
+      "embedUrl": "https://www.youtube.com/embed/BinNkFZ89ZQ",
+      "originalUrl": "https://www.youtube.com/watch?v=BinNkFZ89ZQ",
+      "origin": "detail",
+      "writeTimestamp": 1775492372897
     },
     {
       "key": "183:gNg2Qw5R-Q4",
