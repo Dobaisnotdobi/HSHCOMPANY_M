@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-04-14T16:40:30.117Z",
+  "generatedAt": "2026-04-15T05:48:38.112Z",
   "pageCount": 20,
-  "sourceArticleCount": 231,
-  "summaryMatchCount": 79,
-  "detailMatchCount": 91,
+  "sourceArticleCount": 236,
+  "summaryMatchCount": 81,
+  "detailMatchCount": 90,
   "items": [
+    {
+      "key": "1154:EmGV8AyBvYU",
+      "articleId": "1154",
+      "articleTitle": "제 앨범입니다) GLARE",
+      "writer": "사애",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1154",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1154",
+      "videoId": "EmGV8AyBvYU",
+      "watchUrl": "https://www.youtube.com/watch?v=EmGV8AyBvYU",
+      "embedUrl": "https://www.youtube.com/embed/EmGV8AyBvYU",
+      "originalUrl": "https://youtu.be/EmGV8AyBvYU?",
+      "origin": "summary",
+      "writeTimestamp": 1776210644363
+    },
+    {
+      "key": "1149:MgI76bh6yyg",
+      "articleId": "1149",
+      "articleTitle": "ALEPH - 영혼의 단짝",
+      "writer": "유구얼",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1149",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1149",
+      "videoId": "MgI76bh6yyg",
+      "watchUrl": "https://www.youtube.com/watch?v=MgI76bh6yyg",
+      "embedUrl": "https://www.youtube.com/embed/MgI76bh6yyg",
+      "originalUrl": "https://youtu.be/MgI76bh6yyg?",
+      "origin": "summary",
+      "writeTimestamp": 1776201726740
+    },
+    {
+      "key": "1132:XjBxF66665I",
+      "articleId": "1132",
+      "articleTitle": "칸예 tlop 리스닝파티 다시보는 레전드(쇼츠)",
+      "writer": "인즈",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1132",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1132",
+      "videoId": "XjBxF66665I",
+      "watchUrl": "https://www.youtube.com/watch?v=XjBxF66665I",
+      "embedUrl": "https://www.youtube.com/embed/XjBxF66665I",
+      "originalUrl": "https://www.youtube.com/embed/XjBxF66665I?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1776183843667
+    },
     {
       "key": "1099:BrwvOA0q0GA",
       "articleId": "1099",
@@ -242,6 +284,20 @@
       "originalUrl": "https://www.youtube.com/embed/rlBLghQEa4w?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776067649470
+    },
+    {
+      "key": "989:8_GyMJb2i7E",
+      "articleId": "989",
+      "articleTitle": "EK - 특수머리",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
+      "videoId": "8_GyMJb2i7E",
+      "watchUrl": "https://www.youtube.com/watch?v=8_GyMJb2i7E",
+      "embedUrl": "https://www.youtube.com/embed/8_GyMJb2i7E",
+      "originalUrl": "https://youtu.be/8_GyMJb2i7E?",
+      "origin": "detail",
+      "writeTimestamp": 1776065964997
     },
     {
       "key": "984:iFnP6NPZbzM",
@@ -846,6 +902,20 @@
       "writeTimestamp": 1775894003293
     },
     {
+      "key": "741:hCrtcVDgCGw",
+      "articleId": "741",
+      "articleTitle": "Kimmy gone - Softcore (feat.EK)",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/741",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/741",
+      "videoId": "hCrtcVDgCGw",
+      "watchUrl": "https://www.youtube.com/watch?v=hCrtcVDgCGw",
+      "embedUrl": "https://www.youtube.com/embed/hCrtcVDgCGw",
+      "originalUrl": "https://www.youtube.com/watch?v=hCrtcVDgCGw&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1775892703270
+    },
+    {
       "key": "740:Ew3WUpPw2nA",
       "articleId": "740",
       "articleTitle": "(고봉밥주의) 이번 주 들은 앨범들",
@@ -1054,48 +1124,6 @@
       "originalUrl": "https://www.youtube.com/embed/pxcZCkkb4m8?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775884045427
-    },
-    {
-      "key": "719:IpFX2vq8HKw",
-      "articleId": "719",
-      "articleTitle": "Yung fazo - GOIN IN",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/719",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/719",
-      "videoId": "IpFX2vq8HKw",
-      "watchUrl": "https://www.youtube.com/watch?v=IpFX2vq8HKw",
-      "embedUrl": "https://www.youtube.com/embed/IpFX2vq8HKw",
-      "originalUrl": "https://youtu.be/IpFX2vq8HKw?",
-      "origin": "detail",
-      "writeTimestamp": 1775879848103
-    },
-    {
-      "key": "719:RzEqYkPV2d0",
-      "articleId": "719",
-      "articleTitle": "Yung fazo - GOIN IN",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/719",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/719",
-      "videoId": "RzEqYkPV2d0",
-      "watchUrl": "https://www.youtube.com/watch?v=RzEqYkPV2d0",
-      "embedUrl": "https://www.youtube.com/embed/RzEqYkPV2d0",
-      "originalUrl": "https://youtu.be/RzEqYkPV2d0?",
-      "origin": "detail",
-      "writeTimestamp": 1775879848103
-    },
-    {
-      "key": "719:jDf07wV5gMU",
-      "articleId": "719",
-      "articleTitle": "Yung fazo - GOIN IN",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/719",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/719",
-      "videoId": "jDf07wV5gMU",
-      "watchUrl": "https://www.youtube.com/watch?v=jDf07wV5gMU",
-      "embedUrl": "https://www.youtube.com/embed/jDf07wV5gMU",
-      "originalUrl": "https://youtu.be/jDf07wV5gMU?",
-      "origin": "detail",
-      "writeTimestamp": 1775879848103
     },
     {
       "key": "700:OQB5A6Ay0_I",
@@ -1598,20 +1626,6 @@
       "watchUrl": "https://www.youtube.com/watch?v=xljM81no-v4",
       "embedUrl": "https://www.youtube.com/embed/xljM81no-v4",
       "originalUrl": "https://youtu.be/xljM81no-v4?",
-      "origin": "detail",
-      "writeTimestamp": 1775776625637
-    },
-    {
-      "key": "510:G6RyuWBe1qE",
-      "articleId": "510",
-      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
-      "writer": "바보",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
-      "videoId": "G6RyuWBe1qE",
-      "watchUrl": "https://www.youtube.com/watch?v=G6RyuWBe1qE",
-      "embedUrl": "https://www.youtube.com/embed/G6RyuWBe1qE",
-      "originalUrl": "https://youtube.com/shorts/G6RyuWBe1qE?",
       "origin": "detail",
       "writeTimestamp": 1775776625637
     },
