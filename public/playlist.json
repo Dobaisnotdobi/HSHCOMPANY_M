@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-04-16T06:00:23.172Z",
+  "generatedAt": "2026-04-16T17:09:18.084Z",
   "pageCount": 20,
-  "sourceArticleCount": 246,
-  "summaryMatchCount": 83,
-  "detailMatchCount": 92,
+  "sourceArticleCount": 250,
+  "summaryMatchCount": 84,
+  "detailMatchCount": 94,
   "items": [
+    {
+      "key": "1264:NROJzTGWip8",
+      "articleId": "1264",
+      "articleTitle": "유명한아이-돈만보라고",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1264",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1264",
+      "videoId": "NROJzTGWip8",
+      "watchUrl": "https://www.youtube.com/watch?v=NROJzTGWip8",
+      "embedUrl": "https://www.youtube.com/embed/NROJzTGWip8",
+      "originalUrl": "https://youtu.be/NROJzTGWip8?",
+      "origin": "summary",
+      "writeTimestamp": 1776356073577
+    },
+    {
+      "key": "1257:qN4ooNx77u0",
+      "articleId": "1257",
+      "articleTitle": "평화와 사랑을 외치며 잠시 쉬어가는 시간으로",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1257",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1257",
+      "videoId": "qN4ooNx77u0",
+      "watchUrl": "https://www.youtube.com/watch?v=qN4ooNx77u0",
+      "embedUrl": "https://www.youtube.com/embed/qN4ooNx77u0",
+      "originalUrl": "https://www.youtube.com/embed/qN4ooNx77u0?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1776345592270
+    },
     {
       "key": "1223:2lT3OE-IuPA",
       "articleId": "1223",
@@ -1682,6 +1710,20 @@
       "watchUrl": "https://www.youtube.com/watch?v=xljM81no-v4",
       "embedUrl": "https://www.youtube.com/embed/xljM81no-v4",
       "originalUrl": "https://youtu.be/xljM81no-v4?",
+      "origin": "detail",
+      "writeTimestamp": 1775776625637
+    },
+    {
+      "key": "510:2lT3OE-IuPA",
+      "articleId": "510",
+      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
+      "writer": "바보",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
+      "videoId": "2lT3OE-IuPA",
+      "watchUrl": "https://www.youtube.com/watch?v=2lT3OE-IuPA",
+      "embedUrl": "https://www.youtube.com/embed/2lT3OE-IuPA",
+      "originalUrl": "https://youtu.be/2lT3OE-IuPA?",
       "origin": "detail",
       "writeTimestamp": 1775776625637
     },
