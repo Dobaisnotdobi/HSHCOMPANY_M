@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-04-15T16:35:20.245Z",
+  "generatedAt": "2026-04-16T06:00:23.172Z",
   "pageCount": 20,
-  "sourceArticleCount": 243,
-  "summaryMatchCount": 82,
+  "sourceArticleCount": 246,
+  "summaryMatchCount": 83,
   "detailMatchCount": 92,
   "items": [
+    {
+      "key": "1223:2lT3OE-IuPA",
+      "articleId": "1223",
+      "articleTitle": "동현이일걸 김상민 스윙스 디스",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1223",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1223",
+      "videoId": "2lT3OE-IuPA",
+      "watchUrl": "https://www.youtube.com/watch?v=2lT3OE-IuPA",
+      "embedUrl": "https://www.youtube.com/embed/2lT3OE-IuPA",
+      "originalUrl": "https://youtu.be/2lT3OE-IuPA?",
+      "origin": "summary",
+      "writeTimestamp": 1776280490180
+    },
     {
       "key": "1214:kkqmWcmgOgU",
       "articleId": "1214",
