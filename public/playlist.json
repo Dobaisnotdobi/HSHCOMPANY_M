@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-18T16:19:06.495Z",
+  "generatedAt": "2026-04-19T05:55:59.261Z",
   "pageCount": 20,
-  "sourceArticleCount": 279,
+  "sourceArticleCount": 281,
   "summaryMatchCount": 94,
-  "detailMatchCount": 108,
+  "detailMatchCount": 104,
   "items": [
     {
       "key": "1367:uHRRrnhTDiQ",
@@ -930,48 +930,6 @@
       "writeTimestamp": 1775971679680
     },
     {
-      "key": "882:Nv7AIGxf_gQ",
-      "articleId": "882",
-      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
-      "videoId": "Nv7AIGxf_gQ",
-      "watchUrl": "https://www.youtube.com/watch?v=Nv7AIGxf_gQ",
-      "embedUrl": "https://www.youtube.com/embed/Nv7AIGxf_gQ",
-      "originalUrl": "https://youtu.be/Nv7AIGxf_gQ?",
-      "origin": "detail",
-      "writeTimestamp": 1775970684243
-    },
-    {
-      "key": "882:0g9zolto2mc",
-      "articleId": "882",
-      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
-      "videoId": "0g9zolto2mc",
-      "watchUrl": "https://www.youtube.com/watch?v=0g9zolto2mc",
-      "embedUrl": "https://www.youtube.com/embed/0g9zolto2mc",
-      "originalUrl": "https://youtu.be/0g9zolto2mc?",
-      "origin": "detail",
-      "writeTimestamp": 1775970684243
-    },
-    {
-      "key": "882:mzgeATGfriY",
-      "articleId": "882",
-      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
-      "videoId": "mzgeATGfriY",
-      "watchUrl": "https://www.youtube.com/watch?v=mzgeATGfriY",
-      "embedUrl": "https://www.youtube.com/embed/mzgeATGfriY",
-      "originalUrl": "https://youtu.be/mzgeATGfriY?",
-      "origin": "detail",
-      "writeTimestamp": 1775970684243
-    },
-    {
       "key": "881:9PukqhfMxfc",
       "articleId": "881",
       "articleTitle": "예로부터 레게는 힙합의 가족이었다, 데미안 말리 - Medication(Feat. 스티븐 말리)",
@@ -1726,20 +1684,6 @@
       "originalUrl": "https://youtu.be/75jq_EQxht8?",
       "origin": "summary",
       "writeTimestamp": 1775828889540
-    },
-    {
-      "key": "599:CNcdaCqlqkI",
-      "articleId": "599",
-      "articleTitle": "2mh41k",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
-      "videoId": "CNcdaCqlqkI",
-      "watchUrl": "https://www.youtube.com/watch?v=CNcdaCqlqkI",
-      "embedUrl": "https://www.youtube.com/embed/CNcdaCqlqkI",
-      "originalUrl": "https://www.youtube.com/watch?v=CNcdaCqlqkI&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1775816958720
     },
     {
       "key": "595:cba5xopcZ2Q",
