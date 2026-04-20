@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-04-19T16:19:34.314Z",
+  "generatedAt": "2026-04-20T06:15:21.412Z",
   "pageCount": 20,
-  "sourceArticleCount": 288,
-  "summaryMatchCount": 95,
-  "detailMatchCount": 108,
+  "sourceArticleCount": 292,
+  "summaryMatchCount": 98,
+  "detailMatchCount": 111,
   "items": [
+    {
+      "key": "1518:DtKKUGa3p3I",
+      "articleId": "1518",
+      "articleTitle": "(방송에서 틀지 마시오)개빠개고 싶을 때 듣는 SKIT GOAT",
+      "writer": "Tyler the Creator",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1518",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1518",
+      "videoId": "DtKKUGa3p3I",
+      "watchUrl": "https://www.youtube.com/watch?v=DtKKUGa3p3I",
+      "embedUrl": "https://www.youtube.com/embed/DtKKUGa3p3I",
+      "originalUrl": "https://youtu.be/DtKKUGa3p3I?",
+      "origin": "summary",
+      "writeTimestamp": 1776660987290
+    },
+    {
+      "key": "1510:jDTAhWBVEFQ",
+      "articleId": "1510",
+      "articleTitle": "붐뱁붐은 온다니까",
+      "writer": "도바",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1510",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1510",
+      "videoId": "jDTAhWBVEFQ",
+      "watchUrl": "https://www.youtube.com/watch?v=jDTAhWBVEFQ",
+      "embedUrl": "https://www.youtube.com/embed/jDTAhWBVEFQ",
+      "originalUrl": "https://youtu.be/jDTAhWBVEFQ?",
+      "origin": "summary",
+      "writeTimestamp": 1776640840857
+    },
+    {
+      "key": "1508:g5IZhJijMiE",
+      "articleId": "1508",
+      "articleTitle": "빅나띠- 10게이 (천식게이디스)",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1508",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1508",
+      "videoId": "g5IZhJijMiE",
+      "watchUrl": "https://www.youtube.com/watch?v=g5IZhJijMiE",
+      "embedUrl": "https://www.youtube.com/embed/g5IZhJijMiE",
+      "originalUrl": "https://youtu.be/g5IZhJijMiE?",
+      "origin": "summary",
+      "writeTimestamp": 1776622588457
+    },
     {
       "key": "1464:lHU5eecnUyY",
       "articleId": "1464",
@@ -874,6 +916,20 @@
       "writeTimestamp": 1776010893590
     },
     {
+      "key": "951:jDTAhWBVEFQ",
+      "articleId": "951",
+      "articleTitle": "ycs - 黎崍阿",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
+      "videoId": "jDTAhWBVEFQ",
+      "watchUrl": "https://www.youtube.com/watch?v=jDTAhWBVEFQ",
+      "embedUrl": "https://www.youtube.com/embed/jDTAhWBVEFQ",
+      "originalUrl": "https://youtu.be/jDTAhWBVEFQ?",
+      "origin": "detail",
+      "writeTimestamp": 1776006657800
+    },
+    {
       "key": "936:BMJnGgX_N0A",
       "articleId": "936",
       "articleTitle": "‘나는 또 다시 너랑 가라앉고 있네’",
@@ -998,6 +1054,20 @@
       "originalUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM&li",
       "origin": "summary",
       "writeTimestamp": 1775971679680
+    },
+    {
+      "key": "882:jDTAhWBVEFQ",
+      "articleId": "882",
+      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
+      "videoId": "jDTAhWBVEFQ",
+      "watchUrl": "https://www.youtube.com/watch?v=jDTAhWBVEFQ",
+      "embedUrl": "https://www.youtube.com/embed/jDTAhWBVEFQ",
+      "originalUrl": "https://youtu.be/jDTAhWBVEFQ?",
+      "origin": "detail",
+      "writeTimestamp": 1775970684243
     },
     {
       "key": "881:9PukqhfMxfc",
@@ -1852,6 +1922,20 @@
       "originalUrl": "https://www.youtube.com/watch?v=Ara-baLw5bk",
       "origin": "detail",
       "writeTimestamp": 1775809753610
+    },
+    {
+      "key": "568:jDTAhWBVEFQ",
+      "articleId": "568",
+      "articleTitle": "앨범 추천 : 버나보이 1집",
+      "writer": "haneul57",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/568",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/568",
+      "videoId": "jDTAhWBVEFQ",
+      "watchUrl": "https://www.youtube.com/watch?v=jDTAhWBVEFQ",
+      "embedUrl": "https://www.youtube.com/embed/jDTAhWBVEFQ",
+      "originalUrl": "https://youtu.be/jDTAhWBVEFQ?",
+      "origin": "detail",
+      "writeTimestamp": 1775809260033
     },
     {
       "key": "559:nZqwQCLYgjk",
