@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-04-20T16:44:49.037Z",
+  "generatedAt": "2026-04-21T05:55:57.594Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 100,
-  "detailMatchCount": 115,
+  "summaryMatchCount": 103,
+  "detailMatchCount": 112,
   "items": [
+    {
+      "key": "1593:fWC-GIJaCkc",
+      "articleId": "1593",
+      "articleTitle": "아이언 - 하남주공아파트",
+      "writer": "단감씨",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1593",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1593",
+      "videoId": "fWC-GIJaCkc",
+      "watchUrl": "https://www.youtube.com/watch?v=fWC-GIJaCkc",
+      "embedUrl": "https://www.youtube.com/embed/fWC-GIJaCkc",
+      "originalUrl": "https://youtu.be/fWC-GIJaCkc?",
+      "origin": "summary",
+      "writeTimestamp": 1776729604313
+    },
+    {
+      "key": "1586:B_UcovKaBtk",
+      "articleId": "1586",
+      "articleTitle": "리치이기 gom gom",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1586",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1586",
+      "videoId": "B_UcovKaBtk",
+      "watchUrl": "https://www.youtube.com/watch?v=B_UcovKaBtk",
+      "embedUrl": "https://www.youtube.com/embed/B_UcovKaBtk",
+      "originalUrl": "https://youtu.be/B_UcovKaBtk?",
+      "origin": "summary",
+      "writeTimestamp": 1776707360900
+    },
+    {
+      "key": "1573:NGz-RGCi710",
+      "articleId": "1573",
+      "articleTitle": "개인적으로 가장 좋아하는 아웃트로들",
+      "writer": "Orlip",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1573",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1573",
+      "videoId": "NGz-RGCi710",
+      "watchUrl": "https://www.youtube.com/watch?v=NGz-RGCi710",
+      "embedUrl": "https://www.youtube.com/embed/NGz-RGCi710",
+      "originalUrl": "https://youtu.be/NGz-RGCi710?",
+      "origin": "summary",
+      "writeTimestamp": 1776702771917
+    },
+    {
+      "key": "1573:C8xlNOy-QqU",
+      "articleId": "1573",
+      "articleTitle": "개인적으로 가장 좋아하는 아웃트로들",
+      "writer": "Orlip",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1573",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1573",
+      "videoId": "C8xlNOy-QqU",
+      "watchUrl": "https://www.youtube.com/watch?v=C8xlNOy-QqU",
+      "embedUrl": "https://www.youtube.com/embed/C8xlNOy-QqU",
+      "originalUrl": "https://youtu.be/C8xlNOy-QqU?",
+      "origin": "summary",
+      "writeTimestamp": 1776702771917
+    },
     {
       "key": "1570:vrUnIkVaF3o",
       "articleId": "1570",
@@ -1910,20 +1966,6 @@
       "writeTimestamp": 1775828889540
     },
     {
-      "key": "599:jDTAhWBVEFQ",
-      "articleId": "599",
-      "articleTitle": "2mh41k",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
-      "videoId": "jDTAhWBVEFQ",
-      "watchUrl": "https://www.youtube.com/watch?v=jDTAhWBVEFQ",
-      "embedUrl": "https://www.youtube.com/embed/jDTAhWBVEFQ",
-      "originalUrl": "https://youtu.be/jDTAhWBVEFQ?",
-      "origin": "detail",
-      "writeTimestamp": 1775816958720
-    },
-    {
       "key": "595:cba5xopcZ2Q",
       "articleId": "595",
       "articleTitle": "MF DOOM-Rapp Snitch Knishes",
@@ -2972,48 +3014,6 @@
       "originalUrl": "https://youtu.be/X9QGR2CnOGE?",
       "origin": "summary",
       "writeTimestamp": 1775393971403
-    },
-    {
-      "key": "66:ZmKB_0tecKM",
-      "articleId": "66",
-      "articleTitle": "NO BOSS- E sens",
-      "writer": "기기둘기",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/66",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/66",
-      "videoId": "ZmKB_0tecKM",
-      "watchUrl": "https://www.youtube.com/watch?v=ZmKB_0tecKM",
-      "embedUrl": "https://www.youtube.com/embed/ZmKB_0tecKM",
-      "originalUrl": "https://www.youtube.com/embed/ZmKB_0tecKM?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775361778557
-    },
-    {
-      "key": "59:0tbRQGF1bhw",
-      "articleId": "59",
-      "articleTitle": "*p3ninsula - k4ren cr4zy (feat. 0siggy)",
-      "writer": "부끄북극곰",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/59",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/59",
-      "videoId": "0tbRQGF1bhw",
-      "watchUrl": "https://www.youtube.com/watch?v=0tbRQGF1bhw",
-      "embedUrl": "https://www.youtube.com/embed/0tbRQGF1bhw",
-      "originalUrl": "https://www.youtube.com/watch?v=0tbRQGF1bhw",
-      "origin": "summary",
-      "writeTimestamp": 1775359700440
-    },
-    {
-      "key": "57:vU4ccpTDR6U",
-      "articleId": "57",
-      "articleTitle": "[아티스트 저점매수] Kanii : 넥스트 마이클 잭슨?",
-      "writer": "부끄북극곰",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/57",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/57",
-      "videoId": "vU4ccpTDR6U",
-      "watchUrl": "https://www.youtube.com/watch?v=vU4ccpTDR6U",
-      "embedUrl": "https://www.youtube.com/embed/vU4ccpTDR6U",
-      "originalUrl": "https://www.youtube.com/watch?v=vU4ccpTDR6U",
-      "origin": "detail",
-      "writeTimestamp": 1775358503447
     }
   ]
 }
