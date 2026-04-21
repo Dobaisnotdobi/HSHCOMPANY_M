@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-04-21T05:55:57.594Z",
+  "generatedAt": "2026-04-21T16:48:28.193Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 103,
-  "detailMatchCount": 112,
+  "summaryMatchCount": 101,
+  "detailMatchCount": 115,
   "items": [
+    {
+      "key": "1626:IfPJRzngZd4",
+      "articleId": "1626",
+      "articleTitle": "릴보이의 스윙스 디스곡?",
+      "writer": "ㅇㅇ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1626",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1626",
+      "videoId": "IfPJRzngZd4",
+      "watchUrl": "https://www.youtube.com/watch?v=IfPJRzngZd4",
+      "embedUrl": "https://www.youtube.com/embed/IfPJRzngZd4",
+      "originalUrl": "https://www.youtube.com/embed/IfPJRzngZd4?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1776785427770
+    },
+    {
+      "key": "1605:3HDUx732xyk",
+      "articleId": "1605",
+      "articleTitle": "도쿄 마나카 - Brain Rot ( Feat. 카사네 테토 )",
+      "writer": "공백",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1605",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1605",
+      "videoId": "3HDUx732xyk",
+      "watchUrl": "https://www.youtube.com/watch?v=3HDUx732xyk",
+      "embedUrl": "https://www.youtube.com/embed/3HDUx732xyk",
+      "originalUrl": "https://youtu.be/3HDUx732xyk?li",
+      "origin": "summary",
+      "writeTimestamp": 1776770728567
+    },
+    {
+      "key": "1598:Ec4Ux6dmy3Y",
+      "articleId": "1598",
+      "articleTitle": "페스티벌에서 라이브로 먼저 듣고 플리에 넣게 된 곡",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1598",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1598",
+      "videoId": "Ec4Ux6dmy3Y",
+      "watchUrl": "https://www.youtube.com/watch?v=Ec4Ux6dmy3Y",
+      "embedUrl": "https://www.youtube.com/embed/Ec4Ux6dmy3Y",
+      "originalUrl": "https://www.youtube.com/embed/Ec4Ux6dmy3Y?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1776750768937
+    },
     {
       "key": "1593:fWC-GIJaCkc",
       "articleId": "1593",
@@ -860,6 +902,20 @@
       "writeTimestamp": 1776095396583
     },
     {
+      "key": "1037:fWC-GIJaCkc",
+      "articleId": "1037",
+      "articleTitle": "B-Free - MacGyver",
+      "writer": "감자회오리",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1037",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1037",
+      "videoId": "fWC-GIJaCkc",
+      "watchUrl": "https://www.youtube.com/watch?v=fWC-GIJaCkc",
+      "embedUrl": "https://www.youtube.com/embed/fWC-GIJaCkc",
+      "originalUrl": "https://youtu.be/fWC-GIJaCkc?",
+      "origin": "detail",
+      "writeTimestamp": 1776093531943
+    },
+    {
       "key": "1029:u304mBmRFok",
       "articleId": "1029",
       "articleTitle": "데카당 - 일당백",
@@ -1208,6 +1264,20 @@
       "originalUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM&li",
       "origin": "summary",
       "writeTimestamp": 1775971679680
+    },
+    {
+      "key": "882:g5IZhJijMiE",
+      "articleId": "882",
+      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
+      "videoId": "g5IZhJijMiE",
+      "watchUrl": "https://www.youtube.com/watch?v=g5IZhJijMiE",
+      "embedUrl": "https://www.youtube.com/embed/g5IZhJijMiE",
+      "originalUrl": "https://youtube.com/watch?v=g5IZhJijMiE&amp;",
+      "origin": "detail",
+      "writeTimestamp": 1775970684243
     },
     {
       "key": "881:9PukqhfMxfc",
@@ -2958,62 +3028,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=opaZ_APcfz8",
       "origin": "detail",
       "writeTimestamp": 1775407357257
-    },
-    {
-      "key": "132:0lrQPeVfUL8",
-      "articleId": "132",
-      "articleTitle": "양치기소년단 - 떠야 해",
-      "writer": "츠키",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/132",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/132",
-      "videoId": "0lrQPeVfUL8",
-      "watchUrl": "https://www.youtube.com/watch?v=0lrQPeVfUL8",
-      "embedUrl": "https://www.youtube.com/embed/0lrQPeVfUL8",
-      "originalUrl": "https://youtu.be/0lrQPeVfUL8?",
-      "origin": "summary",
-      "writeTimestamp": 1775407112327
-    },
-    {
-      "key": "114:p5Ad5_MRdcw",
-      "articleId": "114",
-      "articleTitle": "HALYANG DREAM (feat.John Park) (뚝방의 꿈 (FEAT.존 박))",
-      "writer": "솜니움",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/114",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/114",
-      "videoId": "p5Ad5_MRdcw",
-      "watchUrl": "https://www.youtube.com/watch?v=p5Ad5_MRdcw",
-      "embedUrl": "https://www.youtube.com/embed/p5Ad5_MRdcw",
-      "originalUrl": "https://youtu.be/p5Ad5_MRdcw?",
-      "origin": "summary",
-      "writeTimestamp": 1775400029100
-    },
-    {
-      "key": "100:TVFdJ3Z2Zzk",
-      "articleId": "100",
-      "articleTitle": "야차의세계 언캄포 - I AM REMIX",
-      "writer": "리크",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/100",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/100",
-      "videoId": "TVFdJ3Z2Zzk",
-      "watchUrl": "https://www.youtube.com/watch?v=TVFdJ3Z2Zzk",
-      "embedUrl": "https://www.youtube.com/embed/TVFdJ3Z2Zzk",
-      "originalUrl": "https://www.youtube.com/embed/TVFdJ3Z2Zzk?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775396060613
-    },
-    {
-      "key": "99:X9QGR2CnOGE",
-      "articleId": "99",
-      "articleTitle": "페노메코 관심있어서 찾아보다가 딱 꽃힌 페노메코 노래",
-      "writer": "라유09",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/99",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/99",
-      "videoId": "X9QGR2CnOGE",
-      "watchUrl": "https://www.youtube.com/watch?v=X9QGR2CnOGE",
-      "embedUrl": "https://www.youtube.com/embed/X9QGR2CnOGE",
-      "originalUrl": "https://youtu.be/X9QGR2CnOGE?",
-      "origin": "summary",
-      "writeTimestamp": 1775393971403
     }
   ]
 }
