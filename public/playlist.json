@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-04-21T16:48:28.193Z",
+  "generatedAt": "2026-04-22T05:57:52.421Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 101,
-  "detailMatchCount": 115,
+  "detailMatchCount": 113,
   "items": [
+    {
+      "key": "1630:X0PUdt1gt5c",
+      "articleId": "1630",
+      "articleTitle": "이 벌스를 부를 때만큼은 국힙원탑이 된다",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1630",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1630",
+      "videoId": "X0PUdt1gt5c",
+      "watchUrl": "https://www.youtube.com/watch?v=X0PUdt1gt5c",
+      "embedUrl": "https://www.youtube.com/embed/X0PUdt1gt5c",
+      "originalUrl": "https://www.youtube.com/embed/X0PUdt1gt5c?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1776794742787
+    },
     {
       "key": "1626:IfPJRzngZd4",
       "articleId": "1626",
@@ -902,20 +916,6 @@
       "writeTimestamp": 1776095396583
     },
     {
-      "key": "1037:fWC-GIJaCkc",
-      "articleId": "1037",
-      "articleTitle": "B-Free - MacGyver",
-      "writer": "감자회오리",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1037",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1037",
-      "videoId": "fWC-GIJaCkc",
-      "watchUrl": "https://www.youtube.com/watch?v=fWC-GIJaCkc",
-      "embedUrl": "https://www.youtube.com/embed/fWC-GIJaCkc",
-      "originalUrl": "https://youtu.be/fWC-GIJaCkc?",
-      "origin": "detail",
-      "writeTimestamp": 1776093531943
-    },
-    {
       "key": "1029:u304mBmRFok",
       "articleId": "1029",
       "articleTitle": "데카당 - 일당백",
@@ -1264,20 +1264,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM&li",
       "origin": "summary",
       "writeTimestamp": 1775971679680
-    },
-    {
-      "key": "882:g5IZhJijMiE",
-      "articleId": "882",
-      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
-      "videoId": "g5IZhJijMiE",
-      "watchUrl": "https://www.youtube.com/watch?v=g5IZhJijMiE",
-      "embedUrl": "https://www.youtube.com/embed/g5IZhJijMiE",
-      "originalUrl": "https://youtube.com/watch?v=g5IZhJijMiE&amp;",
-      "origin": "detail",
-      "writeTimestamp": 1775970684243
     },
     {
       "key": "881:9PukqhfMxfc",
@@ -3014,20 +3000,6 @@
       "originalUrl": "https://youtu.be/3vhA8njtoQg?li",
       "origin": "summary",
       "writeTimestamp": 1775410601573
-    },
-    {
-      "key": "134:opaZ_APcfz8",
-      "articleId": "134",
-      "articleTitle": "slayr - love blur",
-      "writer": "개떡이",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/134",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/134",
-      "videoId": "opaZ_APcfz8",
-      "watchUrl": "https://www.youtube.com/watch?v=opaZ_APcfz8",
-      "embedUrl": "https://www.youtube.com/embed/opaZ_APcfz8",
-      "originalUrl": "https://www.youtube.com/watch?v=opaZ_APcfz8",
-      "origin": "detail",
-      "writeTimestamp": 1775407357257
     }
   ]
 }
