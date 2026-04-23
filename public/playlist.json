@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-04-22T16:49:48.623Z",
+  "generatedAt": "2026-04-23T06:03:02.406Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 104,
-  "detailMatchCount": 103,
+  "summaryMatchCount": 105,
+  "detailMatchCount": 107,
   "items": [
+    {
+      "key": "1691:ttPkPfQzEIg",
+      "articleId": "1691",
+      "articleTitle": "빅나띠- (보너스트랙)응급실",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1691",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1691",
+      "videoId": "ttPkPfQzEIg",
+      "watchUrl": "https://www.youtube.com/watch?v=ttPkPfQzEIg",
+      "embedUrl": "https://www.youtube.com/embed/ttPkPfQzEIg",
+      "originalUrl": "https://youtu.be/ttPkPfQzEIg?",
+      "origin": "summary",
+      "writeTimestamp": 1776883853627
+    },
+    {
+      "key": "1689:RjUCavxOQQQ",
+      "articleId": "1689",
+      "articleTitle": "빅나띠- 빅나띠 vol.02",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1689",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1689",
+      "videoId": "RjUCavxOQQQ",
+      "watchUrl": "https://www.youtube.com/watch?v=RjUCavxOQQQ",
+      "embedUrl": "https://www.youtube.com/embed/RjUCavxOQQQ",
+      "originalUrl": "https://youtu.be/RjUCavxOQQQ?",
+      "origin": "summary",
+      "writeTimestamp": 1776882017917
+    },
+    {
+      "key": "1688:Evo7a6yaplY",
+      "articleId": "1688",
+      "articleTitle": "빅변내-변기위에서",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1688",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1688",
+      "videoId": "Evo7a6yaplY",
+      "watchUrl": "https://www.youtube.com/watch?v=Evo7a6yaplY",
+      "embedUrl": "https://www.youtube.com/embed/Evo7a6yaplY",
+      "originalUrl": "https://youtu.be/Evo7a6yaplY?",
+      "origin": "summary",
+      "writeTimestamp": 1776879350590
+    },
     {
       "key": "1676:HWMnCm-9ZkY",
       "articleId": "1676",
@@ -1672,20 +1714,6 @@
       "writeTimestamp": 1775894003293
     },
     {
-      "key": "741:hCrtcVDgCGw",
-      "articleId": "741",
-      "articleTitle": "Kimmy gone - Softcore (feat.EK)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/741",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/741",
-      "videoId": "hCrtcVDgCGw",
-      "watchUrl": "https://www.youtube.com/watch?v=hCrtcVDgCGw",
-      "embedUrl": "https://www.youtube.com/embed/hCrtcVDgCGw",
-      "originalUrl": "https://www.youtube.com/watch?v=hCrtcVDgCGw&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1775892703270
-    },
-    {
       "key": "737:f6P-po9ta_I",
       "articleId": "737",
       "articleTitle": "강혁 - Zzz드르렁",
@@ -1964,6 +1992,62 @@
       "originalUrl": "https://youtu.be/75jq_EQxht8?",
       "origin": "summary",
       "writeTimestamp": 1775828889540
+    },
+    {
+      "key": "618:ttPkPfQzEIg",
+      "articleId": "618",
+      "articleTitle": "EK - 디지털부대, 경연대회",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/618",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/618",
+      "videoId": "ttPkPfQzEIg",
+      "watchUrl": "https://www.youtube.com/watch?v=ttPkPfQzEIg",
+      "embedUrl": "https://www.youtube.com/embed/ttPkPfQzEIg",
+      "originalUrl": "https://youtu.be/ttPkPfQzEIg?",
+      "origin": "detail",
+      "writeTimestamp": 1775824647327
+    },
+    {
+      "key": "599:PZeTKfpFfOI",
+      "articleId": "599",
+      "articleTitle": "2mh41k",
+      "writer": "park123hon",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
+      "videoId": "PZeTKfpFfOI",
+      "watchUrl": "https://www.youtube.com/watch?v=PZeTKfpFfOI",
+      "embedUrl": "https://www.youtube.com/embed/PZeTKfpFfOI",
+      "originalUrl": "https://youtu.be/PZeTKfpFfOI?li",
+      "origin": "detail",
+      "writeTimestamp": 1775816958720
+    },
+    {
+      "key": "599:6vT1DPMJD5c",
+      "articleId": "599",
+      "articleTitle": "2mh41k",
+      "writer": "park123hon",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
+      "videoId": "6vT1DPMJD5c",
+      "watchUrl": "https://www.youtube.com/watch?v=6vT1DPMJD5c",
+      "embedUrl": "https://www.youtube.com/embed/6vT1DPMJD5c",
+      "originalUrl": "https://youtu.be/6vT1DPMJD5c?",
+      "origin": "detail",
+      "writeTimestamp": 1775816958720
+    },
+    {
+      "key": "599:Evo7a6yaplY",
+      "articleId": "599",
+      "articleTitle": "2mh41k",
+      "writer": "park123hon",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
+      "videoId": "Evo7a6yaplY",
+      "watchUrl": "https://www.youtube.com/watch?v=Evo7a6yaplY",
+      "embedUrl": "https://www.youtube.com/embed/Evo7a6yaplY",
+      "originalUrl": "https://youtu.be/Evo7a6yaplY?",
+      "origin": "detail",
+      "writeTimestamp": 1775816958720
     },
     {
       "key": "595:cba5xopcZ2Q",
@@ -2286,6 +2370,34 @@
       "originalUrl": "https://youtu.be/CiPrliAtWTY?",
       "origin": "detail",
       "writeTimestamp": 1775776625637
+    },
+    {
+      "key": "508:RjUCavxOQQQ",
+      "articleId": "508",
+      "articleTitle": "창모 앨범 들으셨으면",
+      "writer": "별명",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/508",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/508",
+      "videoId": "RjUCavxOQQQ",
+      "watchUrl": "https://www.youtube.com/watch?v=RjUCavxOQQQ",
+      "embedUrl": "https://www.youtube.com/embed/RjUCavxOQQQ",
+      "originalUrl": "https://youtu.be/RjUCavxOQQQ?",
+      "origin": "detail",
+      "writeTimestamp": 1775774950693
+    },
+    {
+      "key": "508:ttPkPfQzEIg",
+      "articleId": "508",
+      "articleTitle": "창모 앨범 들으셨으면",
+      "writer": "별명",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/508",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/508",
+      "videoId": "ttPkPfQzEIg",
+      "watchUrl": "https://www.youtube.com/watch?v=ttPkPfQzEIg",
+      "embedUrl": "https://www.youtube.com/embed/ttPkPfQzEIg",
+      "originalUrl": "https://youtu.be/ttPkPfQzEIg?",
+      "origin": "detail",
+      "writeTimestamp": 1775774950693
     },
     {
       "key": "485:GV57LLqeAmA",
@@ -2860,48 +2972,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=tkPoOvVnbRk",
       "origin": "detail",
       "writeTimestamp": 1775456202310
-    },
-    {
-      "key": "139:-PcG4mtfILg",
-      "articleId": "139",
-      "articleTitle": "HAON - Graduation ( Feat . VINXEN , 배연서 ( 이로한 ) WEBSTER B )",
-      "writer": "blank",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/139",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/139",
-      "videoId": "-PcG4mtfILg",
-      "watchUrl": "https://www.youtube.com/watch?v=-PcG4mtfILg",
-      "embedUrl": "https://www.youtube.com/embed/-PcG4mtfILg",
-      "originalUrl": "https://www.youtube.com/watch?v=-PcG4mtfILg",
-      "origin": "detail",
-      "writeTimestamp": 1775414181220
-    },
-    {
-      "key": "137:gnLdwkh4rjw",
-      "articleId": "137",
-      "articleTitle": "달의 하루 - 순혈주의자 ( Pure Blood )",
-      "writer": "blank",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/137",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/137",
-      "videoId": "gnLdwkh4rjw",
-      "watchUrl": "https://www.youtube.com/watch?v=gnLdwkh4rjw",
-      "embedUrl": "https://www.youtube.com/embed/gnLdwkh4rjw",
-      "originalUrl": "https://youtu.be/gnLdwkh4rjw?li",
-      "origin": "summary",
-      "writeTimestamp": 1775412792403
-    },
-    {
-      "key": "136:3vhA8njtoQg",
-      "articleId": "136",
-      "articleTitle": "달의하루 - 너로피어오라 ( Flowering )",
-      "writer": "blank",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/136",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/136",
-      "videoId": "3vhA8njtoQg",
-      "watchUrl": "https://www.youtube.com/watch?v=3vhA8njtoQg",
-      "embedUrl": "https://www.youtube.com/embed/3vhA8njtoQg",
-      "originalUrl": "https://youtu.be/3vhA8njtoQg?li",
-      "origin": "summary",
-      "writeTimestamp": 1775410601573
     }
   ]
 }
