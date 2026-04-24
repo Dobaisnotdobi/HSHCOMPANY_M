@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-04-23T17:15:29.301Z",
+  "generatedAt": "2026-04-24T06:09:40.754Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 103,
   "detailMatchCount": 99,
   "items": [
+    {
+      "key": "1742:MibzL1u-g8w",
+      "articleId": "1742",
+      "articleTitle": "(신곡)mc 스나이퍼 - 마음의모양 ( feat.수란)",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1742",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1742",
+      "videoId": "MibzL1u-g8w",
+      "watchUrl": "https://www.youtube.com/watch?v=MibzL1u-g8w",
+      "embedUrl": "https://www.youtube.com/embed/MibzL1u-g8w",
+      "originalUrl": "https://youtu.be/MibzL1u-g8w?",
+      "origin": "summary",
+      "writeTimestamp": 1776971253417
+    },
+    {
+      "key": "1741:kZUPLToG788",
+      "articleId": "1741",
+      "articleTitle": "오도마- 그만하자 (이번디스전 하고싶은말)",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1741",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1741",
+      "videoId": "kZUPLToG788",
+      "watchUrl": "https://www.youtube.com/watch?v=kZUPLToG788",
+      "embedUrl": "https://www.youtube.com/embed/kZUPLToG788",
+      "originalUrl": "https://youtu.be/kZUPLToG788?",
+      "origin": "summary",
+      "writeTimestamp": 1776969144897
+    },
     {
       "key": "1718:Qn8F_u0vBNI",
       "articleId": "1718",
@@ -1714,6 +1742,20 @@
       "writeTimestamp": 1775906432737
     },
     {
+      "key": "749:D6-tZnPfNUY",
+      "articleId": "749",
+      "articleTitle": "ilypvc - die with you",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/749",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/749",
+      "videoId": "D6-tZnPfNUY",
+      "watchUrl": "https://www.youtube.com/watch?v=D6-tZnPfNUY",
+      "embedUrl": "https://www.youtube.com/embed/D6-tZnPfNUY",
+      "originalUrl": "https://youtu.be/D6-tZnPfNUY?",
+      "origin": "detail",
+      "writeTimestamp": 1775896832390
+    },
+    {
       "key": "746:uZhy8pE_aG0",
       "articleId": "746",
       "articleTitle": "창모 [I n c o m p l e t]에서 가장 좋았던 곡",
@@ -2790,48 +2832,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=2t_inrWZDMY&li",
       "origin": "summary",
       "writeTimestamp": 1775557521103
-    },
-    {
-      "key": "186:cgW05HJjQtA",
-      "articleId": "186",
-      "articleTitle": "달에 가.....",
-      "writer": "blank",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/186",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/186",
-      "videoId": "cgW05HJjQtA",
-      "watchUrl": "https://www.youtube.com/watch?v=cgW05HJjQtA",
-      "embedUrl": "https://www.youtube.com/embed/cgW05HJjQtA",
-      "originalUrl": "https://youtu.be/cgW05HJjQtA?li",
-      "origin": "summary",
-      "writeTimestamp": 1775493227473
-    },
-    {
-      "key": "184:BinNkFZ89ZQ",
-      "articleId": "184",
-      "articleTitle": "J-Tong - Woof Remix ( Feat . Nosun , Mckdaddy , Raf Sandou , Zenethezilla , Street Baby , Owen )",
-      "writer": "blank",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/184",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/184",
-      "videoId": "BinNkFZ89ZQ",
-      "watchUrl": "https://www.youtube.com/watch?v=BinNkFZ89ZQ",
-      "embedUrl": "https://www.youtube.com/embed/BinNkFZ89ZQ",
-      "originalUrl": "https://www.youtube.com/watch?v=BinNkFZ89ZQ",
-      "origin": "detail",
-      "writeTimestamp": 1775492372897
-    },
-    {
-      "key": "183:gNg2Qw5R-Q4",
-      "articleId": "183",
-      "articleTitle": "natori - Serenade ( 최애의 아이 3기 ED )",
-      "writer": "blank",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/183",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/183",
-      "videoId": "gNg2Qw5R-Q4",
-      "watchUrl": "https://www.youtube.com/watch?v=gNg2Qw5R-Q4",
-      "embedUrl": "https://www.youtube.com/embed/gNg2Qw5R-Q4",
-      "originalUrl": "https://youtu.be/gNg2Qw5R-Q4?li",
-      "origin": "summary",
-      "writeTimestamp": 1775492127627
     }
   ]
 }
