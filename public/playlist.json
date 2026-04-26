@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-04-26T06:31:32.341Z",
+  "generatedAt": "2026-04-26T16:16:44.883Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 95,
-  "detailMatchCount": 105,
+  "summaryMatchCount": 94,
+  "detailMatchCount": 103,
   "items": [
+    {
+      "key": "1870:5XNg9I__rVM",
+      "articleId": "1870",
+      "articleTitle": "0siggy - TESLA remix",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1870",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1870",
+      "videoId": "5XNg9I__rVM",
+      "watchUrl": "https://www.youtube.com/watch?v=5XNg9I__rVM",
+      "embedUrl": "https://www.youtube.com/embed/5XNg9I__rVM",
+      "originalUrl": "https://www.youtube.com/embed/5XNg9I__rVM?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1777199017217
+    },
+    {
+      "key": "1862:ukbiRcyzrpc",
+      "articleId": "1862",
+      "articleTitle": "작년에 제일 큰 인상을 남겼던 외힙곡",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1862",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1862",
+      "videoId": "ukbiRcyzrpc",
+      "watchUrl": "https://www.youtube.com/watch?v=ukbiRcyzrpc",
+      "embedUrl": "https://www.youtube.com/embed/ukbiRcyzrpc",
+      "originalUrl": "https://www.youtube.com/embed/ukbiRcyzrpc?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1777187837410
+    },
     {
       "key": "1816:bwVNydbMTO0",
       "articleId": "1816",
@@ -916,20 +944,6 @@
       "writeTimestamp": 1776356073577
     },
     {
-      "key": "1260:a2grcJdfXmY",
-      "articleId": "1260",
-      "articleTitle": "패닉 2집 - 밑",
-      "writer": "시분펍",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1260",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1260",
-      "videoId": "a2grcJdfXmY",
-      "watchUrl": "https://www.youtube.com/watch?v=a2grcJdfXmY",
-      "embedUrl": "https://www.youtube.com/embed/a2grcJdfXmY",
-      "originalUrl": "https://youtu.be/a2grcJdfXmY?",
-      "origin": "detail",
-      "writeTimestamp": 1776347256960
-    },
-    {
       "key": "1257:qN4ooNx77u0",
       "articleId": "1257",
       "articleTitle": "평화와 사랑을 외치며 잠시 쉬어가는 시간으로",
@@ -1390,20 +1404,6 @@
       "originalUrl": "https://youtu.be/ciya_AQu25o?",
       "origin": "summary",
       "writeTimestamp": 1776012525673
-    },
-    {
-      "key": "957:KGq9_lrqCgc",
-      "articleId": "957",
-      "articleTitle": "ericodoa - deep end",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/957",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/957",
-      "videoId": "KGq9_lrqCgc",
-      "watchUrl": "https://www.youtube.com/watch?v=KGq9_lrqCgc",
-      "embedUrl": "https://www.youtube.com/embed/KGq9_lrqCgc",
-      "originalUrl": "https://youtu.be/KGq9_lrqCgc?",
-      "origin": "detail",
-      "writeTimestamp": 1776012027543
     },
     {
       "key": "955:pa4e5C_dLJA",
@@ -1992,34 +1992,6 @@
       "originalUrl": "https://www.youtube.com/embed/pxcZCkkb4m8?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775884045427
-    },
-    {
-      "key": "719:IpFX2vq8HKw",
-      "articleId": "719",
-      "articleTitle": "Yung fazo - GOIN IN",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/719",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/719",
-      "videoId": "IpFX2vq8HKw",
-      "watchUrl": "https://www.youtube.com/watch?v=IpFX2vq8HKw",
-      "embedUrl": "https://www.youtube.com/embed/IpFX2vq8HKw",
-      "originalUrl": "https://youtu.be/IpFX2vq8HKw?",
-      "origin": "detail",
-      "writeTimestamp": 1775879848103
-    },
-    {
-      "key": "719:jDf07wV5gMU",
-      "articleId": "719",
-      "articleTitle": "Yung fazo - GOIN IN",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/719",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/719",
-      "videoId": "jDf07wV5gMU",
-      "watchUrl": "https://www.youtube.com/watch?v=jDf07wV5gMU",
-      "embedUrl": "https://www.youtube.com/embed/jDf07wV5gMU",
-      "originalUrl": "https://youtu.be/jDf07wV5gMU?",
-      "origin": "detail",
-      "writeTimestamp": 1775879848103
     },
     {
       "key": "700:OQB5A6Ay0_I",
@@ -2790,20 +2762,6 @@
       "originalUrl": "https://www.youtube.com/embed/vWl_pd19RRU?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775748454840
-    },
-    {
-      "key": "387:1CwbEC9T42Y",
-      "articleId": "387",
-      "articleTitle": "X같은 바라클라바 좀 벗어",
-      "writer": "아아아123",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/387",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/387",
-      "videoId": "1CwbEC9T42Y",
-      "watchUrl": "https://www.youtube.com/watch?v=1CwbEC9T42Y",
-      "embedUrl": "https://www.youtube.com/embed/1CwbEC9T42Y",
-      "originalUrl": "https://youtu.be/1CwbEC9T42Y?",
-      "origin": "summary",
-      "writeTimestamp": 1775748354360
     }
   ]
 }
