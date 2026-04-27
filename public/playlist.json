@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-04-27T06:32:01.398Z",
+  "generatedAt": "2026-04-27T17:18:40.749Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 94,
   "detailMatchCount": 103,
   "items": [
+    {
+      "key": "1944:lygdOgUFWg4",
+      "articleId": "1944",
+      "articleTitle": "슬픈 노래로 밤을 채우고 싶을 때.",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1944",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1944",
+      "videoId": "lygdOgUFWg4",
+      "watchUrl": "https://www.youtube.com/watch?v=lygdOgUFWg4",
+      "embedUrl": "https://www.youtube.com/embed/lygdOgUFWg4",
+      "originalUrl": "https://www.youtube.com/embed/lygdOgUFWg4?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1777302194470
+    },
+    {
+      "key": "1906:iaKXLv57i1k",
+      "articleId": "1906",
+      "articleTitle": "바이스벌사x언캄포 야차 프리스타일 리믹스나옴 ㄷㄷ",
+      "writer": "단감씨",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1906",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1906",
+      "videoId": "iaKXLv57i1k",
+      "watchUrl": "https://www.youtube.com/watch?v=iaKXLv57i1k",
+      "embedUrl": "https://www.youtube.com/embed/iaKXLv57i1k",
+      "originalUrl": "https://www.youtube.com/watch?v=iaKXLv57i1k",
+      "origin": "summary",
+      "writeTimestamp": 1777283699833
+    },
     {
       "key": "1870:5XNg9I__rVM",
       "articleId": "1870",
@@ -2734,34 +2762,6 @@
       "originalUrl": "https://youtu.be/u92MKx8qzFI?",
       "origin": "summary",
       "writeTimestamp": 1775748940067
-    },
-    {
-      "key": "401:8mGHm2Et7Ao",
-      "articleId": "401",
-      "articleTitle": "Me and my team never die look how we do",
-      "writer": "아아아123",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/401",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/401",
-      "videoId": "8mGHm2Et7Ao",
-      "watchUrl": "https://www.youtube.com/watch?v=8mGHm2Et7Ao",
-      "embedUrl": "https://www.youtube.com/embed/8mGHm2Et7Ao",
-      "originalUrl": "https://youtu.be/8mGHm2Et7Ao?",
-      "origin": "summary",
-      "writeTimestamp": 1775748769840
-    },
-    {
-      "key": "392:vWl_pd19RRU",
-      "articleId": "392",
-      "articleTitle": "Tabber, DEAN, 김심야 - 3AM Freestyle",
-      "writer": "피이리리리",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/392",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/392",
-      "videoId": "vWl_pd19RRU",
-      "watchUrl": "https://www.youtube.com/watch?v=vWl_pd19RRU",
-      "embedUrl": "https://www.youtube.com/embed/vWl_pd19RRU",
-      "originalUrl": "https://www.youtube.com/embed/vWl_pd19RRU?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775748454840
     }
   ]
 }
