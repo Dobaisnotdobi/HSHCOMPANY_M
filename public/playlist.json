@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-04-28T06:39:57.761Z",
+  "generatedAt": "2026-04-28T17:27:48.641Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 92,
-  "detailMatchCount": 101,
+  "summaryMatchCount": 91,
+  "detailMatchCount": 105,
   "items": [
+    {
+      "key": "2016:R-fB7jypYGo",
+      "articleId": "2016",
+      "articleTitle": "Creepy Nuts - Fright",
+      "writer": "유구얼",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2016",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2016",
+      "videoId": "R-fB7jypYGo",
+      "watchUrl": "https://www.youtube.com/watch?v=R-fB7jypYGo",
+      "embedUrl": "https://www.youtube.com/embed/R-fB7jypYGo",
+      "originalUrl": "https://youtu.be/R-fB7jypYGo?",
+      "origin": "summary",
+      "writeTimestamp": 1777394968357
+    },
+    {
+      "key": "2006:_QLWtoOoHkM",
+      "articleId": "2006",
+      "articleTitle": "\"소리 내 우는 법을 잊은 널 위해 부를게\"",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2006",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2006",
+      "videoId": "_QLWtoOoHkM",
+      "watchUrl": "https://www.youtube.com/watch?v=_QLWtoOoHkM",
+      "embedUrl": "https://www.youtube.com/embed/_QLWtoOoHkM",
+      "originalUrl": "https://www.youtube.com/embed/_QLWtoOoHkM?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1777384906617
+    },
     {
       "key": "1967:7bjVQ_dMJK8",
       "articleId": "1967",
@@ -2246,18 +2274,18 @@
       "writeTimestamp": 1775828889540
     },
     {
-      "key": "599:-77qnaEdajk",
-      "articleId": "599",
-      "articleTitle": "2mh41k",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
-      "videoId": "-77qnaEdajk",
-      "watchUrl": "https://www.youtube.com/watch?v=-77qnaEdajk",
-      "embedUrl": "https://www.youtube.com/embed/-77qnaEdajk",
-      "originalUrl": "https://youtu.be/-77qnaEdajk?li",
+      "key": "608:y5-McTLkMMY",
+      "articleId": "608",
+      "articleTitle": "힙린이분들을 위한 앨범 추천",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/608",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/608",
+      "videoId": "y5-McTLkMMY",
+      "watchUrl": "https://www.youtube.com/watch?v=y5-McTLkMMY",
+      "embedUrl": "https://www.youtube.com/embed/y5-McTLkMMY",
+      "originalUrl": "https://youtu.be/y5-McTLkMMY?",
       "origin": "detail",
-      "writeTimestamp": 1775816958720
+      "writeTimestamp": 1775820106040
     },
     {
       "key": "595:cba5xopcZ2Q",
@@ -2526,6 +2554,62 @@
       "writeTimestamp": 1775788899090
     },
     {
+      "key": "510:o4L6Zj-1T1g",
+      "articleId": "510",
+      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
+      "writer": "바보",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
+      "videoId": "o4L6Zj-1T1g",
+      "watchUrl": "https://www.youtube.com/watch?v=o4L6Zj-1T1g",
+      "embedUrl": "https://www.youtube.com/embed/o4L6Zj-1T1g",
+      "originalUrl": "https://youtu.be/o4L6Zj-1T1g?",
+      "origin": "detail",
+      "writeTimestamp": 1775776625637
+    },
+    {
+      "key": "510:xljM81no-v4",
+      "articleId": "510",
+      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
+      "writer": "바보",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
+      "videoId": "xljM81no-v4",
+      "watchUrl": "https://www.youtube.com/watch?v=xljM81no-v4",
+      "embedUrl": "https://www.youtube.com/embed/xljM81no-v4",
+      "originalUrl": "https://youtu.be/xljM81no-v4?",
+      "origin": "detail",
+      "writeTimestamp": 1775776625637
+    },
+    {
+      "key": "510:-Cd_E8WkPu8",
+      "articleId": "510",
+      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
+      "writer": "바보",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
+      "videoId": "-Cd_E8WkPu8",
+      "watchUrl": "https://www.youtube.com/watch?v=-Cd_E8WkPu8",
+      "embedUrl": "https://www.youtube.com/embed/-Cd_E8WkPu8",
+      "originalUrl": "https://www.youtube.com/watch?v=-Cd_E8WkPu8",
+      "origin": "detail",
+      "writeTimestamp": 1775776625637
+    },
+    {
+      "key": "510:CiPrliAtWTY",
+      "articleId": "510",
+      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
+      "writer": "바보",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
+      "videoId": "CiPrliAtWTY",
+      "watchUrl": "https://www.youtube.com/watch?v=CiPrliAtWTY",
+      "embedUrl": "https://www.youtube.com/embed/CiPrliAtWTY",
+      "originalUrl": "https://youtu.be/CiPrliAtWTY?",
+      "origin": "detail",
+      "writeTimestamp": 1775776625637
+    },
+    {
       "key": "485:GV57LLqeAmA",
       "articleId": "485",
       "articleTitle": "나한테는 이게 LOV3이야",
@@ -2664,48 +2748,6 @@
       "originalUrl": "https://youtu.be/K8h1PNU5ct4?",
       "origin": "summary",
       "writeTimestamp": 1775751529767
-    },
-    {
-      "key": "427:cFlWi3Qe2MU",
-      "articleId": "427",
-      "articleTitle": "바퀴벌레 맛있당 헤헤",
-      "writer": "Tyler the Creator",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/427",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/427",
-      "videoId": "cFlWi3Qe2MU",
-      "watchUrl": "https://www.youtube.com/watch?v=cFlWi3Qe2MU",
-      "embedUrl": "https://www.youtube.com/embed/cFlWi3Qe2MU",
-      "originalUrl": "https://www.youtube.com/embed/cFlWi3Qe2MU?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775749909640
-    },
-    {
-      "key": "420:GJBJCrQpi3I",
-      "articleId": "420",
-      "articleTitle": "믿어 내 말의 힘 높은 곳보다 높이",
-      "writer": "아아아123",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/420",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/420",
-      "videoId": "GJBJCrQpi3I",
-      "watchUrl": "https://www.youtube.com/watch?v=GJBJCrQpi3I",
-      "embedUrl": "https://www.youtube.com/embed/GJBJCrQpi3I",
-      "originalUrl": "https://youtu.be/GJBJCrQpi3I?",
-      "origin": "summary",
-      "writeTimestamp": 1775749695887
-    },
-    {
-      "key": "420:Znu6L28foMM",
-      "articleId": "420",
-      "articleTitle": "믿어 내 말의 힘 높은 곳보다 높이",
-      "writer": "아아아123",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/420",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/420",
-      "videoId": "Znu6L28foMM",
-      "watchUrl": "https://www.youtube.com/watch?v=Znu6L28foMM",
-      "embedUrl": "https://www.youtube.com/embed/Znu6L28foMM",
-      "originalUrl": "https://youtu.be/Znu6L28foMM?",
-      "origin": "summary",
-      "writeTimestamp": 1775749695887
     }
   ]
 }
