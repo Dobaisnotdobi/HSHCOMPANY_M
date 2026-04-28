@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-04-27T17:18:40.749Z",
+  "generatedAt": "2026-04-28T06:39:57.761Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 94,
-  "detailMatchCount": 103,
+  "summaryMatchCount": 92,
+  "detailMatchCount": 101,
   "items": [
+    {
+      "key": "1967:7bjVQ_dMJK8",
+      "articleId": "1967",
+      "articleTitle": "마브, paak -voo boo",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1967",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1967",
+      "videoId": "7bjVQ_dMJK8",
+      "watchUrl": "https://www.youtube.com/watch?v=7bjVQ_dMJK8",
+      "embedUrl": "https://www.youtube.com/embed/7bjVQ_dMJK8",
+      "originalUrl": "https://youtu.be/7bjVQ_dMJK8?",
+      "origin": "summary",
+      "writeTimestamp": 1777351744383
+    },
+    {
+      "key": "1958:B1xnP6v9hTw",
+      "articleId": "1958",
+      "articleTitle": "사운드 지리는 칩튠",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1958",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1958",
+      "videoId": "B1xnP6v9hTw",
+      "watchUrl": "https://www.youtube.com/watch?v=B1xnP6v9hTw",
+      "embedUrl": "https://www.youtube.com/embed/B1xnP6v9hTw",
+      "originalUrl": "https://www.youtube.com/embed/B1xnP6v9hTw?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1777330085940
+    },
     {
       "key": "1944:lygdOgUFWg4",
       "articleId": "1944",
@@ -2218,6 +2246,20 @@
       "writeTimestamp": 1775828889540
     },
     {
+      "key": "599:-77qnaEdajk",
+      "articleId": "599",
+      "articleTitle": "2mh41k",
+      "writer": "park123hon",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
+      "videoId": "-77qnaEdajk",
+      "watchUrl": "https://www.youtube.com/watch?v=-77qnaEdajk",
+      "embedUrl": "https://www.youtube.com/embed/-77qnaEdajk",
+      "originalUrl": "https://youtu.be/-77qnaEdajk?li",
+      "origin": "detail",
+      "writeTimestamp": 1775816958720
+    },
+    {
       "key": "595:cba5xopcZ2Q",
       "articleId": "595",
       "articleTitle": "MF DOOM-Rapp Snitch Knishes",
@@ -2484,62 +2526,6 @@
       "writeTimestamp": 1775788899090
     },
     {
-      "key": "510:o4L6Zj-1T1g",
-      "articleId": "510",
-      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
-      "writer": "바보",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
-      "videoId": "o4L6Zj-1T1g",
-      "watchUrl": "https://www.youtube.com/watch?v=o4L6Zj-1T1g",
-      "embedUrl": "https://www.youtube.com/embed/o4L6Zj-1T1g",
-      "originalUrl": "https://youtu.be/o4L6Zj-1T1g?",
-      "origin": "detail",
-      "writeTimestamp": 1775776625637
-    },
-    {
-      "key": "510:xljM81no-v4",
-      "articleId": "510",
-      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
-      "writer": "바보",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
-      "videoId": "xljM81no-v4",
-      "watchUrl": "https://www.youtube.com/watch?v=xljM81no-v4",
-      "embedUrl": "https://www.youtube.com/embed/xljM81no-v4",
-      "originalUrl": "https://youtu.be/xljM81no-v4?",
-      "origin": "detail",
-      "writeTimestamp": 1775776625637
-    },
-    {
-      "key": "510:-Cd_E8WkPu8",
-      "articleId": "510",
-      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
-      "writer": "바보",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
-      "videoId": "-Cd_E8WkPu8",
-      "watchUrl": "https://www.youtube.com/watch?v=-Cd_E8WkPu8",
-      "embedUrl": "https://www.youtube.com/embed/-Cd_E8WkPu8",
-      "originalUrl": "https://www.youtube.com/watch?v=-Cd_E8WkPu8",
-      "origin": "detail",
-      "writeTimestamp": 1775776625637
-    },
-    {
-      "key": "510:CiPrliAtWTY",
-      "articleId": "510",
-      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
-      "writer": "바보",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
-      "videoId": "CiPrliAtWTY",
-      "watchUrl": "https://www.youtube.com/watch?v=CiPrliAtWTY",
-      "embedUrl": "https://www.youtube.com/embed/CiPrliAtWTY",
-      "originalUrl": "https://youtu.be/CiPrliAtWTY?",
-      "origin": "detail",
-      "writeTimestamp": 1775776625637
-    },
-    {
       "key": "485:GV57LLqeAmA",
       "articleId": "485",
       "articleTitle": "나한테는 이게 LOV3이야",
@@ -2720,48 +2706,6 @@
       "originalUrl": "https://youtu.be/Znu6L28foMM?",
       "origin": "summary",
       "writeTimestamp": 1775749695887
-    },
-    {
-      "key": "409:oBeUx0f7gZk",
-      "articleId": "409",
-      "articleTitle": "꼬마선장 그 노래",
-      "writer": "피이리리리",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/409",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/409",
-      "videoId": "oBeUx0f7gZk",
-      "watchUrl": "https://www.youtube.com/watch?v=oBeUx0f7gZk",
-      "embedUrl": "https://www.youtube.com/embed/oBeUx0f7gZk",
-      "originalUrl": "https://youtu.be/oBeUx0f7gZk?",
-      "origin": "summary",
-      "writeTimestamp": 1775749119597
-    },
-    {
-      "key": "408:OmmZrtPVkok",
-      "articleId": "408",
-      "articleTitle": "TEAM NY 우리들은 hit the road!!!!!!!!!!",
-      "writer": "아아아123",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/408",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/408",
-      "videoId": "OmmZrtPVkok",
-      "watchUrl": "https://www.youtube.com/watch?v=OmmZrtPVkok",
-      "embedUrl": "https://www.youtube.com/embed/OmmZrtPVkok",
-      "originalUrl": "https://youtu.be/OmmZrtPVkok?",
-      "origin": "summary",
-      "writeTimestamp": 1775749116240
-    },
-    {
-      "key": "405:u92MKx8qzFI",
-      "articleId": "405",
-      "articleTitle": "WILLA , viceversa, CHIO CHICANO , Foggyattebottom - BUSINESS",
-      "writer": "아아아123",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/405",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/405",
-      "videoId": "u92MKx8qzFI",
-      "watchUrl": "https://www.youtube.com/watch?v=u92MKx8qzFI",
-      "embedUrl": "https://www.youtube.com/embed/u92MKx8qzFI",
-      "originalUrl": "https://youtu.be/u92MKx8qzFI?",
-      "origin": "summary",
-      "writeTimestamp": 1775748940067
     }
   ]
 }
