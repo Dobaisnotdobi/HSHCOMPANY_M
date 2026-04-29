@@ -43,10 +43,11 @@ https://<github-user>.github.io/<repository-name>/
 
 ## 배포 방식
 
-- `Deploy GitHub Pages` 워크플로는 저장소에 커밋된 `public/` 폴더만 그대로 배포합니다.
-- `Refresh Playlist` 워크플로는 하루 2회 네이버 카페를 다시 수집해 `public/playlist.json` 을 갱신합니다.
-- 수집 워크플로가 새 플레이리스트를 커밋하면, 그 푸시를 계기로 Pages 배포가 다시 실행됩니다.
-- 따라서 수집 실패가 나도 기존 공개 사이트는 그대로 유지되고, 성공했을 때만 최신 목록으로 교체됩니다.
+- `Deploy GitHub Pages` 워크플로는 저장소에 커밋된 `public/` 폴더를 일반 변경 배포에 사용합니다.
+- `Refresh Playlist` 워크플로는 매일 1회 네이버 카페를 다시 수집해 `public/playlist.json` 을 갱신합니다.
+- 수집 워크플로는 변경이 있을 때 `playlist.json` 을 커밋한 뒤, 같은 실행 안에서 GitHub Pages까지 다시 배포합니다.
+- 따라서 `목록 갱신` 버튼은 가장 최근에 배포된 공개 `playlist.json` 을 다시 불러오게 됩니다.
+- 수집 실패가 나도 기존 공개 사이트는 그대로 유지되고, 성공했을 때만 최신 목록으로 교체됩니다.
 
 플레이리스트를 수동으로 최신화하고 싶다면 로컬에서도 아래 명령을 실행할 수 있습니다.
 
