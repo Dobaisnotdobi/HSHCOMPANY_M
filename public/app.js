@@ -6,6 +6,11 @@ const STORAGE_KEYS = {
 const ADMIN_PASSWORD = "4856";
 const PLAYLIST_URL = new URL("./playlist.json", window.location.href);
 const SITE_COPY_URL = new URL("./site-copy.json", window.location.href);
+const YOUTUBE_IFRAME_API_SRC = "https://www.youtube.com/iframe_api";
+const REFRESH_WORKFLOW_PATH = "refresh-playlist.yml";
+const REFRESH_TOAST_TEXT = "[목록 갱신중>.O]";
+const REFRESH_STATUS_IDLE_POLL_MS = 5 * 60 * 1000;
+const REFRESH_STATUS_ACTIVE_POLL_MS = 20 * 1000;
 
 const DEFAULT_HERO_COPY = {
   title: "한냉오풍 랜덤 플레이리스트",
@@ -21,7 +26,6 @@ const DEFAULT_REPO_INFO = {
 };
 
 const dom = {
-  refreshButton: document.getElementById("refreshButton"),
   randomButton: document.getElementById("randomButton"),
   likeButton: document.getElementById("likeButton"),
   dislikeButton: document.getElementById("dislikeButton"),
@@ -34,6 +38,7 @@ const dom = {
   likedCount: document.getElementById("likedCount"),
   dislikedCount: document.getElementById("dislikedCount"),
   playlistList: document.getElementById("playlistList"),
+  playerMount: document.getElementById("playerMount"),
   playerPlaceholder: document.getElementById("playerPlaceholder"),
   filterAll: document.getElementById("filterAll"),
   filterLiked: document.getElementById("filterLiked"),
@@ -50,6 +55,7 @@ const dom = {
   editorHeroTitle: document.getElementById("editorHeroTitle"),
   editorHeroSubtitle: document.getElementById("editorHeroSubtitle"),
   editorHeroNote: document.getElementById("editorHeroNote"),
+  refreshToast: document.getElementById("refreshToast"),
 };
 
 const state = {
@@ -57,11 +63,16 @@ const state = {
   currentKey: null,
   filter: "all",
   playerReady: false,
+  playerMode: "idle",
   pendingVideoId: null,
   heroCopy: { ...DEFAULT_HERO_COPY },
+  refreshPreviewVisible: false,
+  workflowRefreshing: false,
 };
 
 let player = null;
+let playerApiPromise = null;
+let refreshStatusTimer = 0;
 
 function loadSet(key) {
   try {
@@ -82,6 +93,224 @@ const dislikedSet = loadSet(STORAGE_KEYS.disliked);
 
 function setStatus(message) {
   dom.statusText.textContent = message;
+}
+
+function updateRefreshToast() {
+  const shouldShow = state.refreshPreviewVisible || state.workflowRefreshing;
+  dom.refreshToast.textContent = REFRESH_TOAST_TEXT;
+  dom.refreshToast.hidden = !shouldShow;
+  dom.refreshToast.classList.toggle("is-visible", shouldShow);
+}
+
+function setRefreshPreviewVisible(visible) {
+  state.refreshPreviewVisible = visible;
+  updateRefreshToast();
+}
+
+function clearRefreshPreview() {
+  setRefreshPreviewVisible(false);
+}
+
+function showPlayerPlaceholder(message) {
+  dom.playerPlaceholder.style.display = "grid";
+  dom.playerPlaceholder.textContent = message;
+}
+
+function hidePlayerPlaceholder() {
+  dom.playerPlaceholder.style.display = "none";
+}
+
+function getPlayerElement() {
+  return document.getElementById("player");
+}
+
+function resetPlayerMount() {
+  dom.playerMount.innerHTML = '<div id="player"></div>';
+}
+
+function createEmbedUrl(videoId, autoplay = false) {
+  const url = new URL(`https://www.youtube.com/embed/${videoId}`);
+  url.searchParams.set("rel", "0");
+  url.searchParams.set("modestbranding", "1");
+  if (autoplay) {
+    url.searchParams.set("autoplay", "1");
+  }
+  return url.toString();
+}
+
+function mountFallbackPlayer(item) {
+  if (!item) {
+    return;
+  }
+
+  state.playerMode = "fallback";
+  state.playerReady = true;
+  state.pendingVideoId = null;
+  player = null;
+
+  const iframe = document.createElement("iframe");
+  iframe.id = "player";
+  iframe.src = createEmbedUrl(item.videoId, true);
+  iframe.title = item.articleTitle || "YouTube video player";
+  iframe.setAttribute("frameborder", "0");
+  iframe.setAttribute("allowfullscreen", "");
+  iframe.setAttribute(
+    "allow",
+    "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+  );
+  iframe.setAttribute("referrerpolicy", "strict-origin-when-cross-origin");
+
+  dom.playerMount.replaceChildren(iframe);
+  hidePlayerPlaceholder();
+}
+
+function updateFallbackPlayer(item) {
+  const frame = getPlayerElement();
+  if (!item || !frame || frame.tagName !== "IFRAME") {
+    return false;
+  }
+
+  frame.src = createEmbedUrl(item.videoId, true);
+  frame.title = item.articleTitle || "YouTube video player";
+  state.pendingVideoId = null;
+  hidePlayerPlaceholder();
+  return true;
+}
+
+function describePlayerError(code) {
+  if (code === 2) {
+    return "유튜브 영상 주소가 올바르지 않습니다.";
+  }
+
+  if (code === 5) {
+    return "브라우저가 이 유튜브 영상 재생을 완료하지 못했습니다.";
+  }
+
+  if (code === 100) {
+    return "유튜브에서 이 영상을 찾을 수 없습니다.";
+  }
+
+  if (code === 101 || code === 150) {
+    return "유튜브 정책상 이 영상은 임베드 재생이 제한됩니다.";
+  }
+
+  return `유튜브 플레이어 오류가 발생했습니다. (${code})`;
+}
+
+function ensureYouTubePlayer() {
+  if (state.playerMode === "fallback") {
+    return Promise.reject(new Error("fallback-active"));
+  }
+
+  if (player && state.playerReady && state.playerMode === "api") {
+    return Promise.resolve(player);
+  }
+
+  if (playerApiPromise) {
+    return playerApiPromise;
+  }
+
+  resetPlayerMount();
+  state.playerReady = false;
+  state.playerMode = "loading";
+
+  playerApiPromise = new Promise((resolve, reject) => {
+    let settled = false;
+    let timeoutId = 0;
+
+    const finishResolve = () => {
+      if (settled) {
+        return;
+      }
+
+      settled = true;
+      window.clearTimeout(timeoutId);
+      resolve(player);
+    };
+
+    const finishReject = (error) => {
+      if (settled) {
+        return;
+      }
+
+      settled = true;
+      window.clearTimeout(timeoutId);
+      reject(error);
+    };
+
+    const buildPlayer = () => {
+      if (!window.YT || typeof window.YT.Player !== "function") {
+        finishReject(new Error("유튜브 플레이어를 초기화하지 못했습니다."));
+        return;
+      }
+
+      player = new window.YT.Player("player", {
+        videoId: "",
+        playerVars: {
+          rel: 0,
+          modestbranding: 1,
+        },
+        events: {
+          onReady: () => {
+            state.playerReady = true;
+            state.playerMode = "api";
+            hidePlayerPlaceholder();
+            if (state.pendingVideoId) {
+              player.loadVideoById(state.pendingVideoId);
+              state.pendingVideoId = null;
+            }
+            finishResolve();
+          },
+          onStateChange: (event) => {
+            if (event.data === window.YT.PlayerState.ENDED) {
+              playRandom();
+            }
+          },
+          onError: (event) => {
+            setStatus(describePlayerError(event.data));
+          },
+        },
+      });
+    };
+
+    if (window.YT && typeof window.YT.Player === "function") {
+      buildPlayer();
+      timeoutId = window.setTimeout(() => {
+        finishReject(new Error("유튜브 플레이어 준비 시간이 초과되었습니다."));
+      }, 8000);
+      return;
+    }
+
+    const previousCallback = window.onYouTubeIframeAPIReady;
+    const script = document.createElement("script");
+    script.src = YOUTUBE_IFRAME_API_SRC;
+    script.async = true;
+    script.onerror = () => {
+      finishReject(new Error("유튜브 플레이어 스크립트를 불러오지 못했습니다."));
+    };
+
+    window.onYouTubeIframeAPIReady = () => {
+      if (typeof previousCallback === "function") {
+        previousCallback();
+      }
+      buildPlayer();
+    };
+
+    timeoutId = window.setTimeout(() => {
+      finishReject(new Error("유튜브 플레이어 연결이 지연되고 있습니다."));
+    }, 8000);
+
+    document.head.appendChild(script);
+  }).catch((error) => {
+    playerApiPromise = null;
+    state.playerReady = false;
+    if (state.playerMode !== "fallback") {
+      state.playerMode = "idle";
+    }
+    throw error;
+  });
+
+  return playerApiPromise;
 }
 
 function formatGeneratedAt(value) {
@@ -245,14 +474,26 @@ function playItem(item) {
   state.currentKey = item.key;
   updateCurrentMeta();
   renderPlaylist();
+  state.pendingVideoId = item.videoId;
 
-  if (player && state.playerReady) {
-    dom.playerPlaceholder.style.display = "none";
+  if (state.playerMode === "fallback" && updateFallbackPlayer(item)) {
+    return;
+  }
+
+  if (player && state.playerReady && state.playerMode === "api") {
+    hidePlayerPlaceholder();
     player.loadVideoById(item.videoId);
+    state.pendingVideoId = null;
   } else {
-    state.pendingVideoId = item.videoId;
-    dom.playerPlaceholder.style.display = "grid";
-    dom.playerPlaceholder.textContent = "유튜브 플레이어를 준비하는 중입니다.";
+    showPlayerPlaceholder("유튜브 플레이어를 준비하는 중입니다.");
+    ensureYouTubePlayer().catch(() => {
+      if (state.currentKey !== item.key) {
+        return;
+      }
+
+      mountFallbackPlayer(item);
+      setStatus("유튜브 API 연결이 지연되거나 차단되어 웹 임베드 모드로 재생합니다. 자동 다음 곡은 일부 브라우저에서 제한될 수 있습니다.");
+    });
   }
 }
 
@@ -335,6 +576,7 @@ function openAdminEditor() {
 
 function closeAdminEditor() {
   dom.adminEditor.hidden = true;
+  clearRefreshPreview();
 }
 
 function fillDefaultAdminEditor() {
@@ -361,6 +603,19 @@ function getRepoInfo() {
   return { ...DEFAULT_REPO_INFO };
 }
 
+function isEditorTextTarget(target) {
+  if (!(target instanceof HTMLElement)) {
+    return false;
+  }
+
+  return (
+    target.tagName === "TEXTAREA" ||
+    target.tagName === "INPUT" ||
+    target.tagName === "SELECT" ||
+    target.isContentEditable
+  );
+}
+
 function encodeBase64Unicode(value) {
   return window.btoa(unescape(encodeURIComponent(value)));
 }
@@ -379,6 +634,33 @@ async function fetchSiteCopy() {
   }
 
   renderHeroCopy();
+}
+
+async function fetchRefreshWorkflowStatus() {
+  const repoInfo = getRepoInfo();
+  const url = new URL(
+    `https://api.github.com/repos/${repoInfo.owner}/${repoInfo.repo}/actions/workflows/${encodeURIComponent(
+      REFRESH_WORKFLOW_PATH,
+    )}/runs`,
+  );
+  url.searchParams.set("per_page", "1");
+  url.searchParams.set("branch", repoInfo.branch);
+  url.searchParams.set("t", String(Date.now()));
+
+  const response = await fetch(url, {
+    headers: {
+      Accept: "application/vnd.github+json",
+    },
+    cache: "no-store",
+  });
+
+  if (!response.ok) {
+    throw new Error("갱신 상태를 확인하지 못했습니다.");
+  }
+
+  const payload = await response.json();
+  const latestRun = payload?.workflow_runs?.[0];
+  return Boolean(latestRun && latestRun.status && latestRun.status !== "completed");
 }
 
 async function saveSiteCopyGlobally(nextHeroCopy, token) {
@@ -466,6 +748,42 @@ async function fetchPlaylist({ bustCache = false } = {}) {
   return response.json();
 }
 
+async function reloadPlaylistAfterRefresh() {
+  try {
+    setStatus("목록 갱신이 완료되어 최신 공개 목록을 다시 불러오는 중입니다.");
+    const payload = await fetchPlaylist({ bustCache: true });
+    applyPlaylistPayload(payload);
+  } catch (error) {
+    setStatus(error instanceof Error ? error.message : String(error));
+  }
+}
+
+async function syncRefreshWorkflowStatus() {
+  const wasRefreshing = state.workflowRefreshing;
+
+  try {
+    state.workflowRefreshing = await fetchRefreshWorkflowStatus();
+  } catch {
+    updateRefreshToast();
+    return;
+  }
+
+  updateRefreshToast();
+
+  if (wasRefreshing && !state.workflowRefreshing) {
+    await reloadPlaylistAfterRefresh();
+  }
+}
+
+function scheduleRefreshWorkflowStatusPoll(delay = null) {
+  window.clearTimeout(refreshStatusTimer);
+  const nextDelay = delay ?? (state.workflowRefreshing ? REFRESH_STATUS_ACTIVE_POLL_MS : REFRESH_STATUS_IDLE_POLL_MS);
+  refreshStatusTimer = window.setTimeout(async () => {
+    await syncRefreshWorkflowStatus();
+    scheduleRefreshWorkflowStatusPoll();
+  }, nextDelay);
+}
+
 function summarizePayload(payload) {
   const generatedAtText = formatGeneratedAt(payload.generatedAt);
   return `최신 공개 목록을 불러왔습니다. 영상 ${payload.items.length}개, 게시물 ${payload.sourceArticleCount}개, 생성 시각 ${generatedAtText}.`;
@@ -505,32 +823,21 @@ function setFilter(nextFilter) {
   renderPlaylist();
 }
 
-window.onYouTubeIframeAPIReady = function onYouTubeIframeAPIReady() {
-  player = new window.YT.Player("player", {
-    videoId: "",
-    playerVars: {
-      rel: 0,
-      modestbranding: 1,
-    },
-    events: {
-      onReady: () => {
-        state.playerReady = true;
-        if (state.pendingVideoId) {
-          dom.playerPlaceholder.style.display = "none";
-          player.loadVideoById(state.pendingVideoId);
-          state.pendingVideoId = null;
-        }
-      },
-      onStateChange: (event) => {
-        if (event.data === window.YT.PlayerState.ENDED) {
-          playRandom();
-        }
-      },
-    },
-  });
-};
-
 window.addEventListener("keydown", (event) => {
+  if (
+    !dom.adminEditor.hidden &&
+    event.code === "Space" &&
+    !event.repeat &&
+    !event.ctrlKey &&
+    !event.metaKey &&
+    !event.altKey &&
+    !isEditorTextTarget(event.target)
+  ) {
+    event.preventDefault();
+    setRefreshPreviewVisible(!state.refreshPreviewVisible);
+    return;
+  }
+
   if (!(event.ctrlKey || event.metaKey) || event.key.toLowerCase() !== "p") {
     return;
   }
@@ -543,19 +850,6 @@ window.addEventListener("keydown", (event) => {
   }
 
   openAdminEditor();
-});
-
-dom.refreshButton.addEventListener("click", async () => {
-  try {
-    dom.refreshButton.disabled = true;
-    setStatus("가장 최근에 게시된 공개 목록 파일을 다시 불러오는 중입니다.");
-    const payload = await fetchPlaylist({ bustCache: true });
-    applyPlaylistPayload(payload);
-  } catch (error) {
-    setStatus(error instanceof Error ? error.message : String(error));
-  } finally {
-    dom.refreshButton.disabled = false;
-  }
 });
 
 dom.randomButton.addEventListener("click", () => {
@@ -600,9 +894,19 @@ dom.adminCloseButton.addEventListener("click", closeAdminEditor);
 dom.adminBackdrop.addEventListener("click", closeAdminEditor);
 dom.adminSaveButton.addEventListener("click", saveAdminEditor);
 dom.adminResetButton.addEventListener("click", fillDefaultAdminEditor);
+document.addEventListener("visibilitychange", () => {
+  if (document.hidden) {
+    return;
+  }
+
+  syncRefreshWorkflowStatus();
+  scheduleRefreshWorkflowStatusPoll();
+});
 
 async function boot() {
   await fetchSiteCopy();
+  showPlayerPlaceholder("유튜브 플레이어를 준비하는 중입니다.");
+  updateRefreshToast();
 
   try {
     setStatus("공개 플레이리스트를 불러오는 중입니다.");
@@ -611,6 +915,19 @@ async function boot() {
   } catch (error) {
     setStatus(error instanceof Error ? error.message : String(error));
   }
+
+  ensureYouTubePlayer().catch(() => {
+    const item = currentItem();
+    if (!item) {
+      return;
+    }
+
+    mountFallbackPlayer(item);
+    setStatus("유튜브 API 연결이 지연되거나 차단되어 웹 임베드 모드로 재생합니다. 자동 다음 곡은 일부 브라우저에서 제한될 수 있습니다.");
+  });
+
+  await syncRefreshWorkflowStatus();
+  scheduleRefreshWorkflowStatusPoll();
 }
 
 boot();
