@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-04-28T17:27:48.641Z",
+  "generatedAt": "2026-04-29T06:31:52.891Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 91,
-  "detailMatchCount": 105,
+  "detailMatchCount": 104,
   "items": [
+    {
+      "key": "2028:HPNJ67RUIqw",
+      "articleId": "2028",
+      "articleTitle": "[Full] TRADE L - aurora",
+      "writer": "유구얼",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2028",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2028",
+      "videoId": "HPNJ67RUIqw",
+      "watchUrl": "https://www.youtube.com/watch?v=HPNJ67RUIqw",
+      "embedUrl": "https://www.youtube.com/embed/HPNJ67RUIqw",
+      "originalUrl": "https://youtu.be/HPNJ67RUIqw?",
+      "origin": "summary",
+      "writeTimestamp": 1777437621127
+    },
+    {
+      "key": "2024:5XNg9I__rVM",
+      "articleId": "2024",
+      "articleTitle": "0siggy - telsa remix (ft. Jmin, molly yam)",
+      "writer": "피이리리리",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2024",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2024",
+      "videoId": "5XNg9I__rVM",
+      "watchUrl": "https://www.youtube.com/watch?v=5XNg9I__rVM",
+      "embedUrl": "https://www.youtube.com/embed/5XNg9I__rVM",
+      "originalUrl": "https://www.youtube.com/embed/5XNg9I__rVM?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1777433840017
+    },
     {
       "key": "2016:R-fB7jypYGo",
       "articleId": "2016",
@@ -2274,20 +2302,6 @@
       "writeTimestamp": 1775828889540
     },
     {
-      "key": "608:y5-McTLkMMY",
-      "articleId": "608",
-      "articleTitle": "힙린이분들을 위한 앨범 추천",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/608",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/608",
-      "videoId": "y5-McTLkMMY",
-      "watchUrl": "https://www.youtube.com/watch?v=y5-McTLkMMY",
-      "embedUrl": "https://www.youtube.com/embed/y5-McTLkMMY",
-      "originalUrl": "https://youtu.be/y5-McTLkMMY?",
-      "origin": "detail",
-      "writeTimestamp": 1775820106040
-    },
-    {
       "key": "595:cba5xopcZ2Q",
       "articleId": "595",
       "articleTitle": "MF DOOM-Rapp Snitch Knishes",
@@ -2720,34 +2734,6 @@
       "originalUrl": "https://www.youtube.com/embed/vWGXr5NdC2E?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775752700080
-    },
-    {
-      "key": "446:hI-RaWnZU3g",
-      "articleId": "446",
-      "articleTitle": "창모, 레이지 또한 매우 정교합니다",
-      "writer": "KYVNG",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/446",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/446",
-      "videoId": "hI-RaWnZU3g",
-      "watchUrl": "https://www.youtube.com/watch?v=hI-RaWnZU3g",
-      "embedUrl": "https://www.youtube.com/embed/hI-RaWnZU3g",
-      "originalUrl": "https://www.youtube.com/embed/hI-RaWnZU3g?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775751770697
-    },
-    {
-      "key": "445:K8h1PNU5ct4",
-      "articleId": "445",
-      "articleTitle": "디깅하다 찾은 곡",
-      "writer": "Tyler the Creator",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/445",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/445",
-      "videoId": "K8h1PNU5ct4",
-      "watchUrl": "https://www.youtube.com/watch?v=K8h1PNU5ct4",
-      "embedUrl": "https://www.youtube.com/embed/K8h1PNU5ct4",
-      "originalUrl": "https://youtu.be/K8h1PNU5ct4?",
-      "origin": "summary",
-      "writeTimestamp": 1775751529767
     }
   ]
 }
