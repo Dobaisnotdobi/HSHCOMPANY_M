@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-04-29T20:35:02.314Z",
+  "generatedAt": "2026-04-30T20:32:31.665Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 97,
-  "detailMatchCount": 99,
+  "summaryMatchCount": 93,
+  "detailMatchCount": 95,
   "items": [
+    {
+      "key": "2147:Jg9NbDizoPM",
+      "articleId": "2147",
+      "articleTitle": "'잃어버린 퍼즐이, 나는 너라는 걸 확신해'",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2147",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2147",
+      "videoId": "Jg9NbDizoPM",
+      "watchUrl": "https://www.youtube.com/watch?v=Jg9NbDizoPM",
+      "embedUrl": "https://www.youtube.com/embed/Jg9NbDizoPM",
+      "originalUrl": "https://www.youtube.com/embed/Jg9NbDizoPM?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1777528929697
+    },
     {
       "key": "2111:LoCcF6wELJU",
       "articleId": "2111",
@@ -452,20 +466,6 @@
       "originalUrl": "https://youtu.be/Qn8F_u0vBNI?",
       "origin": "summary",
       "writeTimestamp": 1776943078603
-    },
-    {
-      "key": "1701:RZP807Do0ko",
-      "articleId": "1701",
-      "articleTitle": "빅나띠 일반 음원 공개",
-      "writer": "미꾸라지",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1701",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1701",
-      "videoId": "RZP807Do0ko",
-      "watchUrl": "https://www.youtube.com/watch?v=RZP807Do0ko",
-      "embedUrl": "https://www.youtube.com/embed/RZP807Do0ko",
-      "originalUrl": "https://youtu.be/RZP807Do0ko?",
-      "origin": "detail",
-      "writeTimestamp": 1776926291740
     },
     {
       "key": "1691:ttPkPfQzEIg",
@@ -1574,20 +1574,6 @@
       "writeTimestamp": 1776069220350
     },
     {
-      "key": "989:nhpteF75kg8",
-      "articleId": "989",
-      "articleTitle": "EK - 특수머리",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
-      "videoId": "nhpteF75kg8",
-      "watchUrl": "https://www.youtube.com/watch?v=nhpteF75kg8",
-      "embedUrl": "https://www.youtube.com/embed/nhpteF75kg8",
-      "originalUrl": "https://youtu.be/nhpteF75kg8?li",
-      "origin": "detail",
-      "writeTimestamp": 1776065964997
-    },
-    {
       "key": "984:iFnP6NPZbzM",
       "articleId": "984",
       "articleTitle": "날씨가 너무 화창합니다",
@@ -2470,20 +2456,6 @@
       "writeTimestamp": 1775828889540
     },
     {
-      "key": "599:0Fd2jytayiU",
-      "articleId": "599",
-      "articleTitle": "2mh41k",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
-      "videoId": "0Fd2jytayiU",
-      "watchUrl": "https://www.youtube.com/watch?v=0Fd2jytayiU",
-      "embedUrl": "https://www.youtube.com/embed/0Fd2jytayiU",
-      "originalUrl": "https://www.youtube.com/watch?v=0Fd2jytayiU",
-      "origin": "detail",
-      "writeTimestamp": 1775816958720
-    },
-    {
       "key": "595:cba5xopcZ2Q",
       "articleId": "595",
       "articleTitle": "MF DOOM-Rapp Snitch Knishes",
@@ -2664,90 +2636,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=eEnEH7IpQtc&li",
       "origin": "summary",
       "writeTimestamp": 1775798512647
-    },
-    {
-      "key": "540:6puRbhN3nbQ",
-      "articleId": "540",
-      "articleTitle": "이한울 - 우리 사랑하자 지구가 끝나는 그 어느 날까지",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/540",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/540",
-      "videoId": "6puRbhN3nbQ",
-      "watchUrl": "https://www.youtube.com/watch?v=6puRbhN3nbQ",
-      "embedUrl": "https://www.youtube.com/embed/6puRbhN3nbQ",
-      "originalUrl": "https://youtu.be/6puRbhN3nbQ?",
-      "origin": "summary",
-      "writeTimestamp": 1775798243610
-    },
-    {
-      "key": "536:VDdLF1YubI0",
-      "articleId": "536",
-      "articleTitle": "natori - Propose",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/536",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/536",
-      "videoId": "VDdLF1YubI0",
-      "watchUrl": "https://www.youtube.com/watch?v=VDdLF1YubI0",
-      "embedUrl": "https://www.youtube.com/embed/VDdLF1YubI0",
-      "originalUrl": "https://youtu.be/VDdLF1YubI0?",
-      "origin": "summary",
-      "writeTimestamp": 1775797171243
-    },
-    {
-      "key": "536:Fe33UEeAqko",
-      "articleId": "536",
-      "articleTitle": "natori - Propose",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/536",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/536",
-      "videoId": "Fe33UEeAqko",
-      "watchUrl": "https://www.youtube.com/watch?v=Fe33UEeAqko",
-      "embedUrl": "https://www.youtube.com/embed/Fe33UEeAqko",
-      "originalUrl": "https://youtu.be/Fe33UEeAqko?li",
-      "origin": "summary",
-      "writeTimestamp": 1775797171243
-    },
-    {
-      "key": "528:_GjXQTNF47M",
-      "articleId": "528",
-      "articleTitle": "숨은 명곡 nuol - finder",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/528",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/528",
-      "videoId": "_GjXQTNF47M",
-      "watchUrl": "https://www.youtube.com/watch?v=_GjXQTNF47M",
-      "embedUrl": "https://www.youtube.com/embed/_GjXQTNF47M",
-      "originalUrl": "https://www.youtube.com/embed/_GjXQTNF47M?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775795095780
-    },
-    {
-      "key": "524:H_zbGdypI4A",
-      "articleId": "524",
-      "articleTitle": "어제 UGRS 듣고 생각한 나의 \"RockStar\"",
-      "writer": "Post Malone",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/524",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/524",
-      "videoId": "H_zbGdypI4A",
-      "watchUrl": "https://www.youtube.com/watch?v=H_zbGdypI4A",
-      "embedUrl": "https://www.youtube.com/embed/H_zbGdypI4A",
-      "originalUrl": "https://www.youtube.com/watch?v=H_zbGdypI4A&li",
-      "origin": "summary",
-      "writeTimestamp": 1775793931917
-    },
-    {
-      "key": "517:xbKma3CtBCE",
-      "articleId": "517",
-      "articleTitle": "어제 리뷰때 빌었어를 인상 깊게 들으셨다면,",
-      "writer": "KYVNG",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/517",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/517",
-      "videoId": "xbKma3CtBCE",
-      "watchUrl": "https://www.youtube.com/watch?v=xbKma3CtBCE",
-      "embedUrl": "https://www.youtube.com/embed/xbKma3CtBCE",
-      "originalUrl": "https://www.youtube.com/embed/xbKma3CtBCE?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775788899090
     }
   ]
 }
