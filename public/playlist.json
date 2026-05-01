@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-04-30T20:32:31.665Z",
+  "generatedAt": "2026-05-01T20:28:41.942Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 93,
+  "summaryMatchCount": 90,
   "detailMatchCount": 95,
   "items": [
+    {
+      "key": "2243:JwAjANmjajc",
+      "articleId": "2243",
+      "articleTitle": "[가사 번역본] Kanye West - Family Business (5월 가정의 달 관련)",
+      "writer": "해온반",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2243",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2243",
+      "videoId": "JwAjANmjajc",
+      "watchUrl": "https://www.youtube.com/watch?v=JwAjANmjajc",
+      "embedUrl": "https://www.youtube.com/embed/JwAjANmjajc",
+      "originalUrl": "https://www.youtube.com/watch?v=JwAjANmjajc&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1777660405143
+    },
+    {
+      "key": "2148:Z2neajn3mCI",
+      "articleId": "2148",
+      "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2148",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2148",
+      "videoId": "Z2neajn3mCI",
+      "watchUrl": "https://www.youtube.com/watch?v=Z2neajn3mCI",
+      "embedUrl": "https://www.youtube.com/embed/Z2neajn3mCI",
+      "originalUrl": "https://www.youtube.com/embed/Z2neajn3mCI?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1777530254537
+    },
     {
       "key": "2147:Jg9NbDizoPM",
       "articleId": "2147",
@@ -2566,76 +2594,6 @@
       "originalUrl": "https://www.youtube.com/embed/nZqwQCLYgjk?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775804762803
-    },
-    {
-      "key": "552:lanpt2NRg78",
-      "articleId": "552",
-      "articleTitle": "최성 - 자자",
-      "writer": "새모",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/552",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/552",
-      "videoId": "lanpt2NRg78",
-      "watchUrl": "https://www.youtube.com/watch?v=lanpt2NRg78",
-      "embedUrl": "https://www.youtube.com/embed/lanpt2NRg78",
-      "originalUrl": "https://www.youtube.com/watch?v=lanpt2NRg78",
-      "origin": "detail",
-      "writeTimestamp": 1775801184660
-    },
-    {
-      "key": "548:dAVXWxGhiHE",
-      "articleId": "548",
-      "articleTitle": "vusglacks - 너무 쉽게 물드는 순수",
-      "writer": "새모",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/548",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/548",
-      "videoId": "dAVXWxGhiHE",
-      "watchUrl": "https://www.youtube.com/watch?v=dAVXWxGhiHE",
-      "embedUrl": "https://www.youtube.com/embed/dAVXWxGhiHE",
-      "originalUrl": "https://www.youtube.com/watch?v=dAVXWxGhiHE",
-      "origin": "detail",
-      "writeTimestamp": 1775799810810
-    },
-    {
-      "key": "547:MY55Z6algYM",
-      "articleId": "547",
-      "articleTitle": "이한울 - 그렇게 하는 거 아닌데",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/547",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/547",
-      "videoId": "MY55Z6algYM",
-      "watchUrl": "https://www.youtube.com/watch?v=MY55Z6algYM",
-      "embedUrl": "https://www.youtube.com/embed/MY55Z6algYM",
-      "originalUrl": "https://youtu.be/MY55Z6algYM?li",
-      "origin": "summary",
-      "writeTimestamp": 1775799493817
-    },
-    {
-      "key": "544:wOB6hnbezco",
-      "articleId": "544",
-      "articleTitle": "이한울 - want to know",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/544",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/544",
-      "videoId": "wOB6hnbezco",
-      "watchUrl": "https://www.youtube.com/watch?v=wOB6hnbezco",
-      "embedUrl": "https://www.youtube.com/embed/wOB6hnbezco",
-      "originalUrl": "https://youtu.be/wOB6hnbezco?li",
-      "origin": "summary",
-      "writeTimestamp": 1775799214467
-    },
-    {
-      "key": "541:eEnEH7IpQtc",
-      "articleId": "541",
-      "articleTitle": "이한울 - 어젯밤도",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/541",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/541",
-      "videoId": "eEnEH7IpQtc",
-      "watchUrl": "https://www.youtube.com/watch?v=eEnEH7IpQtc",
-      "embedUrl": "https://www.youtube.com/embed/eEnEH7IpQtc",
-      "originalUrl": "https://www.youtube.com/watch?v=eEnEH7IpQtc&li",
-      "origin": "summary",
-      "writeTimestamp": 1775798512647
     }
   ]
 }
