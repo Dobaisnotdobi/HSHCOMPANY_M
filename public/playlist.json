@@ -1,10 +1,80 @@
 {
-  "generatedAt": "2026-05-02T20:10:22.021Z",
+  "generatedAt": "2026-05-03T20:09:01.825Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 91,
-  "detailMatchCount": 94,
+  "summaryMatchCount": 93,
+  "detailMatchCount": 101,
   "items": [
+    {
+      "key": "2423:EweBXFfuFNQ",
+      "articleId": "2423",
+      "articleTitle": "율음 - DAISIES COVER",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2423",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2423",
+      "videoId": "EweBXFfuFNQ",
+      "watchUrl": "https://www.youtube.com/watch?v=EweBXFfuFNQ",
+      "embedUrl": "https://www.youtube.com/embed/EweBXFfuFNQ",
+      "originalUrl": "https://www.youtube.com/embed/EweBXFfuFNQ?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1777812687680
+    },
+    {
+      "key": "2415:ZtXhHltLueI",
+      "articleId": "2415",
+      "articleTitle": "SOHO - Storytape",
+      "writer": "자주놀자",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2415",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2415",
+      "videoId": "ZtXhHltLueI",
+      "watchUrl": "https://www.youtube.com/watch?v=ZtXhHltLueI",
+      "embedUrl": "https://www.youtube.com/embed/ZtXhHltLueI",
+      "originalUrl": "https://youtu.be/ZtXhHltLueI?",
+      "origin": "summary",
+      "writeTimestamp": 1777810371473
+    },
+    {
+      "key": "2405:pDDyUiH1dVE",
+      "articleId": "2405",
+      "articleTitle": "bbs Asia Underground Cypher 2026 (JP x CN x KR) | ft. Kianna, SYSTEM SEOUL, kegon, TrickYzb, Yvnlazy",
+      "writer": "공백",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2405",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2405",
+      "videoId": "pDDyUiH1dVE",
+      "watchUrl": "https://www.youtube.com/watch?v=pDDyUiH1dVE",
+      "embedUrl": "https://www.youtube.com/embed/pDDyUiH1dVE",
+      "originalUrl": "https://youtu.be/pDDyUiH1dVE?li",
+      "origin": "summary",
+      "writeTimestamp": 1777802300283
+    },
+    {
+      "key": "2383:vRe7tuGIH9k",
+      "articleId": "2383",
+      "articleTitle": "짙은 구름에 덮힌 하늘을 보다가 | 오존과 카더가든",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2383",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2383",
+      "videoId": "vRe7tuGIH9k",
+      "watchUrl": "https://www.youtube.com/watch?v=vRe7tuGIH9k",
+      "embedUrl": "https://www.youtube.com/embed/vRe7tuGIH9k",
+      "originalUrl": "https://www.youtube.com/embed/vRe7tuGIH9k?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1777782940527
+    },
+    {
+      "key": "2366:8qZ19y2QmYo",
+      "articleId": "2366",
+      "articleTitle": "드레이크 팬으로써",
+      "writer": "champagnepapi",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2366",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2366",
+      "videoId": "8qZ19y2QmYo",
+      "watchUrl": "https://www.youtube.com/watch?v=8qZ19y2QmYo",
+      "embedUrl": "https://www.youtube.com/embed/8qZ19y2QmYo",
+      "originalUrl": "https://youtu.be/8qZ19y2QmYo?",
+      "origin": "summary",
+      "writeTimestamp": 1777751079597
+    },
     {
       "key": "2356:0bjJdR0CpO4",
       "articleId": "2356",
@@ -74,6 +144,62 @@
       "originalUrl": "https://youtu.be/81kzxCNBKM4?",
       "origin": "summary",
       "writeTimestamp": 1777700520883
+    },
+    {
+      "key": "2177:ZtXhHltLueI",
+      "articleId": "2177",
+      "articleTitle": "탑 앨범에서 유일하게 계속 듣는 곡",
+      "writer": "JUSTHIS",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2177",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2177",
+      "videoId": "ZtXhHltLueI",
+      "watchUrl": "https://www.youtube.com/watch?v=ZtXhHltLueI",
+      "embedUrl": "https://www.youtube.com/embed/ZtXhHltLueI",
+      "originalUrl": "https://youtu.be/ZtXhHltLueI?",
+      "origin": "detail",
+      "writeTimestamp": 1777561883103
+    },
+    {
+      "key": "2176:F_ZNIXPcuig",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "F_ZNIXPcuig",
+      "watchUrl": "https://www.youtube.com/watch?v=F_ZNIXPcuig",
+      "embedUrl": "https://www.youtube.com/embed/F_ZNIXPcuig",
+      "originalUrl": "https://youtu.be/F_ZNIXPcuig?",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
+    },
+    {
+      "key": "2176:_Ngk-DCHfD0",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "_Ngk-DCHfD0",
+      "watchUrl": "https://www.youtube.com/watch?v=_Ngk-DCHfD0",
+      "embedUrl": "https://www.youtube.com/embed/_Ngk-DCHfD0",
+      "originalUrl": "https://youtu.be/_Ngk-DCHfD0?",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
+    },
+    {
+      "key": "2176:7Md86Q45FnA",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "7Md86Q45FnA",
+      "watchUrl": "https://www.youtube.com/watch?v=7Md86Q45FnA",
+      "embedUrl": "https://www.youtube.com/embed/7Md86Q45FnA",
+      "originalUrl": "https://youtu.be/7Md86Q45FnA?",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
     },
     {
       "key": "2148:Z2neajn3mCI",
@@ -284,6 +410,20 @@
       "originalUrl": "https://www.youtube.com/embed/5XNg9I__rVM?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1777433840017
+    },
+    {
+      "key": "2017:mrV8kK5t0V8",
+      "articleId": "2017",
+      "articleTitle": "5월 1일에 발매되는 제 싱글을 한번 드셔보실렵니까",
+      "writer": "사애",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2017",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2017",
+      "videoId": "mrV8kK5t0V8",
+      "watchUrl": "https://www.youtube.com/watch?v=mrV8kK5t0V8",
+      "embedUrl": "https://www.youtube.com/embed/mrV8kK5t0V8",
+      "originalUrl": "https://youtu.be/mrV8kK5t0V8",
+      "origin": "detail",
+      "writeTimestamp": 1777398239353
     },
     {
       "key": "2016:R-fB7jypYGo",
@@ -550,6 +690,20 @@
       "originalUrl": "https://youtu.be/Qn8F_u0vBNI?",
       "origin": "summary",
       "writeTimestamp": 1776943078603
+    },
+    {
+      "key": "1701:3g2WzEAd4_Q",
+      "articleId": "1701",
+      "articleTitle": "빅나띠 일반 음원 공개",
+      "writer": "미꾸라지",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1701",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1701",
+      "videoId": "3g2WzEAd4_Q",
+      "watchUrl": "https://www.youtube.com/watch?v=3g2WzEAd4_Q",
+      "embedUrl": "https://www.youtube.com/embed/3g2WzEAd4_Q",
+      "originalUrl": "https://youtu.be/3g2WzEAd4_Q?",
+      "origin": "detail",
+      "writeTimestamp": 1776926291740
     },
     {
       "key": "1691:ttPkPfQzEIg",
@@ -1658,6 +1812,20 @@
       "writeTimestamp": 1776069220350
     },
     {
+      "key": "989:PnTFVrWKP3c",
+      "articleId": "989",
+      "articleTitle": "EK - 특수머리",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
+      "videoId": "PnTFVrWKP3c",
+      "watchUrl": "https://www.youtube.com/watch?v=PnTFVrWKP3c",
+      "embedUrl": "https://www.youtube.com/embed/PnTFVrWKP3c",
+      "originalUrl": "https://youtu.be/PnTFVrWKP3c?",
+      "origin": "detail",
+      "writeTimestamp": 1776065964997
+    },
+    {
       "key": "984:iFnP6NPZbzM",
       "articleId": "984",
       "articleTitle": "날씨가 너무 화창합니다",
@@ -1922,6 +2090,20 @@
       "originalUrl": "https://www.youtube.com/embed/9PukqhfMxfc?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775969663933
+    },
+    {
+      "key": "870:IZDTjH6AGVQ",
+      "articleId": "870",
+      "articleTitle": "onlywoke - ex",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/870",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/870",
+      "videoId": "IZDTjH6AGVQ",
+      "watchUrl": "https://www.youtube.com/watch?v=IZDTjH6AGVQ",
+      "embedUrl": "https://www.youtube.com/embed/IZDTjH6AGVQ",
+      "originalUrl": "https://youtu.be/IZDTjH6AGVQ?",
+      "origin": "detail",
+      "writeTimestamp": 1775954192990
     },
     {
       "key": "852:XlgwZqJbIdg",
@@ -2538,62 +2720,6 @@
       "originalUrl": "https://youtu.be/75jq_EQxht8?",
       "origin": "summary",
       "writeTimestamp": 1775828889540
-    },
-    {
-      "key": "595:cba5xopcZ2Q",
-      "articleId": "595",
-      "articleTitle": "MF DOOM-Rapp Snitch Knishes",
-      "writer": "힙합호날두",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/595",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/595",
-      "videoId": "cba5xopcZ2Q",
-      "watchUrl": "https://www.youtube.com/watch?v=cba5xopcZ2Q",
-      "embedUrl": "https://www.youtube.com/embed/cba5xopcZ2Q",
-      "originalUrl": "https://youtu.be/cba5xopcZ2Q?",
-      "origin": "summary",
-      "writeTimestamp": 1775815921363
-    },
-    {
-      "key": "589:Uw_hZfH5Ukc",
-      "articleId": "589",
-      "articleTitle": "멤피스 조지는 시구레우이",
-      "writer": "이승",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/589",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/589",
-      "videoId": "Uw_hZfH5Ukc",
-      "watchUrl": "https://www.youtube.com/watch?v=Uw_hZfH5Ukc",
-      "embedUrl": "https://www.youtube.com/embed/Uw_hZfH5Ukc",
-      "originalUrl": "https://www.youtube.com/embed/Uw_hZfH5Ukc?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775814848227
-    },
-    {
-      "key": "589:01BgkNdHCDQ",
-      "articleId": "589",
-      "articleTitle": "멤피스 조지는 시구레우이",
-      "writer": "이승",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/589",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/589",
-      "videoId": "01BgkNdHCDQ",
-      "watchUrl": "https://www.youtube.com/watch?v=01BgkNdHCDQ",
-      "embedUrl": "https://www.youtube.com/embed/01BgkNdHCDQ",
-      "originalUrl": "https://youtu.be/01BgkNdHCDQ",
-      "origin": "detail",
-      "writeTimestamp": 1775814848227
-    },
-    {
-      "key": "587:52UJuV4eLjk",
-      "articleId": "587",
-      "articleTitle": "어제 들었던 ugrs noregret콘서트 버전도 들어보세요우~",
-      "writer": "아루고",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/587",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/587",
-      "videoId": "52UJuV4eLjk",
-      "watchUrl": "https://www.youtube.com/watch?v=52UJuV4eLjk",
-      "embedUrl": "https://www.youtube.com/embed/52UJuV4eLjk",
-      "originalUrl": "https://www.youtube.com/embed/52UJuV4eLjk?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775814300440
     }
   ]
 }
