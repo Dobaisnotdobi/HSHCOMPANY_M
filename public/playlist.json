@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-05-04T20:47:03.931Z",
+  "generatedAt": "2026-05-05T20:27:19.700Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 94,
-  "detailMatchCount": 98,
+  "summaryMatchCount": 91,
+  "detailMatchCount": 97,
   "items": [
+    {
+      "key": "2589:OOl13XJ-7J8",
+      "articleId": "2589",
+      "articleTitle": "희대의 세번째 미공개곡",
+      "writer": "yes창",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2589",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2589",
+      "videoId": "OOl13XJ-7J8",
+      "watchUrl": "https://www.youtube.com/watch?v=OOl13XJ-7J8",
+      "embedUrl": "https://www.youtube.com/embed/OOl13XJ-7J8",
+      "originalUrl": "https://www.youtube.com/watch?v=OOl13XJ-7J8",
+      "origin": "detail",
+      "writeTimestamp": 1777988215350
+    },
+    {
+      "key": "2556:cOYOc0YwDCk",
+      "articleId": "2556",
+      "articleTitle": "오늘 날씨 보고 생각난 뮤비",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2556",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2556",
+      "videoId": "cOYOc0YwDCk",
+      "watchUrl": "https://www.youtube.com/watch?v=cOYOc0YwDCk",
+      "embedUrl": "https://www.youtube.com/embed/cOYOc0YwDCk",
+      "originalUrl": "https://www.youtube.com/embed/cOYOc0YwDCk?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1777963808750
+    },
     {
       "key": "2537:MG3Y77vLZNM",
       "articleId": "2537",
@@ -18,6 +46,20 @@
       "originalUrl": "https://youtu.be/MG3Y77vLZNM?",
       "origin": "summary",
       "writeTimestamp": 1777915257667
+    },
+    {
+      "key": "2516:y5-McTLkMMY",
+      "articleId": "2516",
+      "articleTitle": "릴러말즈 앨범 추천",
+      "writer": "R3dstorys",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2516",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2516",
+      "videoId": "y5-McTLkMMY",
+      "watchUrl": "https://www.youtube.com/watch?v=y5-McTLkMMY",
+      "embedUrl": "https://www.youtube.com/embed/y5-McTLkMMY",
+      "originalUrl": "https://youtu.be/y5-McTLkMMY?",
+      "origin": "detail",
+      "writeTimestamp": 1777907117883
     },
     {
       "key": "2514:IU371ATtL_I",
@@ -172,48 +214,6 @@
       "originalUrl": "https://youtu.be/81kzxCNBKM4?",
       "origin": "summary",
       "writeTimestamp": 1777700520883
-    },
-    {
-      "key": "2176:v0CevnCddl8",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "v0CevnCddl8",
-      "watchUrl": "https://www.youtube.com/watch?v=v0CevnCddl8",
-      "embedUrl": "https://www.youtube.com/embed/v0CevnCddl8",
-      "originalUrl": "https://youtube.com/shorts/v0CevnCddl8?",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
-    },
-    {
-      "key": "2176:TopdlAgjdA4",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "TopdlAgjdA4",
-      "watchUrl": "https://www.youtube.com/watch?v=TopdlAgjdA4",
-      "embedUrl": "https://www.youtube.com/embed/TopdlAgjdA4",
-      "originalUrl": "https://youtu.be/TopdlAgjdA4?",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
-    },
-    {
-      "key": "2176:7Md86Q45FnA",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "7Md86Q45FnA",
-      "watchUrl": "https://www.youtube.com/watch?v=7Md86Q45FnA",
-      "embedUrl": "https://www.youtube.com/embed/7Md86Q45FnA",
-      "originalUrl": "https://youtu.be/7Md86Q45FnA?",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
     },
     {
       "key": "2148:Z2neajn3mCI",
@@ -424,20 +424,6 @@
       "originalUrl": "https://www.youtube.com/embed/5XNg9I__rVM?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1777433840017
-    },
-    {
-      "key": "2017:mrV8kK5t0V8",
-      "articleId": "2017",
-      "articleTitle": "5월 1일에 발매되는 제 싱글을 한번 드셔보실렵니까",
-      "writer": "사애",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2017",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2017",
-      "videoId": "mrV8kK5t0V8",
-      "watchUrl": "https://www.youtube.com/watch?v=mrV8kK5t0V8",
-      "embedUrl": "https://www.youtube.com/embed/mrV8kK5t0V8",
-      "originalUrl": "https://youtu.be/mrV8kK5t0V8",
-      "origin": "detail",
-      "writeTimestamp": 1777398239353
     },
     {
       "key": "2016:R-fB7jypYGo",
@@ -2650,48 +2636,6 @@
       "originalUrl": "https://youtu.be/LtNTI0hf-Vk?",
       "origin": "summary",
       "writeTimestamp": 1775831355920
-    },
-    {
-      "key": "643:QrjUncCxQuA",
-      "articleId": "643",
-      "articleTitle": "see me on top come here 경리단 block",
-      "writer": "아아아123",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/643",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/643",
-      "videoId": "QrjUncCxQuA",
-      "watchUrl": "https://www.youtube.com/watch?v=QrjUncCxQuA",
-      "embedUrl": "https://www.youtube.com/embed/QrjUncCxQuA",
-      "originalUrl": "https://youtu.be/QrjUncCxQuA?",
-      "origin": "summary",
-      "writeTimestamp": 1775831258890
-    },
-    {
-      "key": "642:zhVw-7MtGco",
-      "articleId": "642",
-      "articleTitle": "릴보이&ph-1&빅나티 미친 프리스타일 신곡 떴다",
-      "writer": "라유09",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/642",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/642",
-      "videoId": "zhVw-7MtGco",
-      "watchUrl": "https://www.youtube.com/watch?v=zhVw-7MtGco",
-      "embedUrl": "https://www.youtube.com/embed/zhVw-7MtGco",
-      "originalUrl": "https://youtube.com/watch?v=zhVw-7MtGco&",
-      "origin": "summary",
-      "writeTimestamp": 1775831203143
-    },
-    {
-      "key": "629:75jq_EQxht8",
-      "articleId": "629",
-      "articleTitle": "OYSTERS - 그때가 좋았어",
-      "writer": "츠키",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/629",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/629",
-      "videoId": "75jq_EQxht8",
-      "watchUrl": "https://www.youtube.com/watch?v=75jq_EQxht8",
-      "embedUrl": "https://www.youtube.com/embed/75jq_EQxht8",
-      "originalUrl": "https://youtu.be/75jq_EQxht8?",
-      "origin": "summary",
-      "writeTimestamp": 1775828889540
     }
   ]
 }
