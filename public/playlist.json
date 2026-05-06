@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-05-05T20:27:19.700Z",
+  "generatedAt": "2026-05-06T20:42:52.447Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 91,
+  "summaryMatchCount": 90,
   "detailMatchCount": 97,
   "items": [
+    {
+      "key": "2616:IU371ATtL_I",
+      "articleId": "2616",
+      "articleTitle": "창모가 칸예곡 보고 영감받아 세레나데 제작했을듯(추측)",
+      "writer": "인즈",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2616",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2616",
+      "videoId": "IU371ATtL_I",
+      "watchUrl": "https://www.youtube.com/watch?v=IU371ATtL_I",
+      "embedUrl": "https://www.youtube.com/embed/IU371ATtL_I",
+      "originalUrl": "https://www.youtube.com/embed/IU371ATtL_I?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1778067527797
+    },
+    {
+      "key": "2606:qLuwR4a1KjE",
+      "articleId": "2606",
+      "articleTitle": "쿤타 - 바래 (Feat. 정인)",
+      "writer": "단감씨",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2606",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2606",
+      "videoId": "qLuwR4a1KjE",
+      "watchUrl": "https://www.youtube.com/watch?v=qLuwR4a1KjE",
+      "embedUrl": "https://www.youtube.com/embed/qLuwR4a1KjE",
+      "originalUrl": "https://www.youtube.com/watch?v=qLuwR4a1KjE&li",
+      "origin": "summary",
+      "writeTimestamp": 1778059351437
+    },
     {
       "key": "2589:OOl13XJ-7J8",
       "articleId": "2589",
@@ -2594,48 +2622,6 @@
       "originalUrl": "https://youtube.com/watch?v=fmE7WfLh-k4&",
       "origin": "summary",
       "writeTimestamp": 1775831658047
-    },
-    {
-      "key": "647:F_pJTYjc6Bo",
-      "articleId": "647",
-      "articleTitle": "린린 - 우린서로아픔을토하며잠시돌아섰지만",
-      "writer": "새모",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/647",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/647",
-      "videoId": "F_pJTYjc6Bo",
-      "watchUrl": "https://www.youtube.com/watch?v=F_pJTYjc6Bo",
-      "embedUrl": "https://www.youtube.com/embed/F_pJTYjc6Bo",
-      "originalUrl": "https://www.youtube.com/watch?v=F_pJTYjc6Bo",
-      "origin": "detail",
-      "writeTimestamp": 1775831441667
-    },
-    {
-      "key": "646:oUlaf5Gi52A",
-      "articleId": "646",
-      "articleTitle": "루시갱이랑 히피쿤다는 못 참지",
-      "writer": "아아아123",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/646",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/646",
-      "videoId": "oUlaf5Gi52A",
-      "watchUrl": "https://www.youtube.com/watch?v=oUlaf5Gi52A",
-      "embedUrl": "https://www.youtube.com/embed/oUlaf5Gi52A",
-      "originalUrl": "https://youtu.be/oUlaf5Gi52A?",
-      "origin": "summary",
-      "writeTimestamp": 1775831438790
-    },
-    {
-      "key": "645:LtNTI0hf-Vk",
-      "articleId": "645",
-      "articleTitle": "크리피 넛츠 - 도플갱어",
-      "writer": "아아아123",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/645",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/645",
-      "videoId": "LtNTI0hf-Vk",
-      "watchUrl": "https://www.youtube.com/watch?v=LtNTI0hf-Vk",
-      "embedUrl": "https://www.youtube.com/embed/LtNTI0hf-Vk",
-      "originalUrl": "https://youtu.be/LtNTI0hf-Vk?",
-      "origin": "summary",
-      "writeTimestamp": 1775831355920
     }
   ]
 }
