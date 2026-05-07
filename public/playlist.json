@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-05-06T20:42:52.447Z",
+  "generatedAt": "2026-05-07T20:35:38.493Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 90,
+  "summaryMatchCount": 93,
   "detailMatchCount": 97,
   "items": [
+    {
+      "key": "2695:er6OiZrM92Q",
+      "articleId": "2695",
+      "articleTitle": "신지훈 - 소년시절 (단콘 Live)",
+      "writer": "유구얼",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2695",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2695",
+      "videoId": "er6OiZrM92Q",
+      "watchUrl": "https://www.youtube.com/watch?v=er6OiZrM92Q",
+      "embedUrl": "https://www.youtube.com/embed/er6OiZrM92Q",
+      "originalUrl": "https://youtu.be/er6OiZrM92Q?",
+      "origin": "summary",
+      "writeTimestamp": 1778179763510
+    },
+    {
+      "key": "2685:DCQRE0VKK2I",
+      "articleId": "2685",
+      "articleTitle": "Silica Gel - NO PAIN",
+      "writer": "공백",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2685",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2685",
+      "videoId": "DCQRE0VKK2I",
+      "watchUrl": "https://www.youtube.com/watch?v=DCQRE0VKK2I",
+      "embedUrl": "https://www.youtube.com/embed/DCQRE0VKK2I",
+      "originalUrl": "https://youtu.be/DCQRE0VKK2I?li",
+      "origin": "summary",
+      "writeTimestamp": 1778172376997
+    },
+    {
+      "key": "2651:Rk2GkFxeQb0",
+      "articleId": "2651",
+      "articleTitle": "Royal 44 - I Been Freestyle [I Been Freestyle]",
+      "writer": "라유09",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2651",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2651",
+      "videoId": "Rk2GkFxeQb0",
+      "watchUrl": "https://www.youtube.com/watch?v=Rk2GkFxeQb0",
+      "embedUrl": "https://www.youtube.com/embed/Rk2GkFxeQb0",
+      "originalUrl": "https://youtu.be/Rk2GkFxeQb0?",
+      "origin": "summary",
+      "writeTimestamp": 1778156090377
+    },
+    {
+      "key": "2650:EEFFA0dfk2I",
+      "articleId": "2650",
+      "articleTitle": "Marv - Star* (with BIG Naughty)",
+      "writer": "라유09",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2650",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2650",
+      "videoId": "EEFFA0dfk2I",
+      "watchUrl": "https://www.youtube.com/watch?v=EEFFA0dfk2I",
+      "embedUrl": "https://www.youtube.com/embed/EEFFA0dfk2I",
+      "originalUrl": "https://youtu.be/EEFFA0dfk2I?",
+      "origin": "summary",
+      "writeTimestamp": 1778156075210
+    },
     {
       "key": "2616:IU371ATtL_I",
       "articleId": "2616",
@@ -74,20 +130,6 @@
       "originalUrl": "https://youtu.be/MG3Y77vLZNM?",
       "origin": "summary",
       "writeTimestamp": 1777915257667
-    },
-    {
-      "key": "2516:y5-McTLkMMY",
-      "articleId": "2516",
-      "articleTitle": "릴러말즈 앨범 추천",
-      "writer": "R3dstorys",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2516",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2516",
-      "videoId": "y5-McTLkMMY",
-      "watchUrl": "https://www.youtube.com/watch?v=y5-McTLkMMY",
-      "embedUrl": "https://www.youtube.com/embed/y5-McTLkMMY",
-      "originalUrl": "https://youtu.be/y5-McTLkMMY?",
-      "origin": "detail",
-      "writeTimestamp": 1777907117883
     },
     {
       "key": "2514:IU371ATtL_I",
@@ -1826,6 +1868,48 @@
       "writeTimestamp": 1776069220350
     },
     {
+      "key": "989:pM6WAB3HiTc",
+      "articleId": "989",
+      "articleTitle": "EK - 특수머리",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
+      "videoId": "pM6WAB3HiTc",
+      "watchUrl": "https://www.youtube.com/watch?v=pM6WAB3HiTc",
+      "embedUrl": "https://www.youtube.com/embed/pM6WAB3HiTc",
+      "originalUrl": "https://youtu.be/pM6WAB3HiTc?",
+      "origin": "detail",
+      "writeTimestamp": 1776065964997
+    },
+    {
+      "key": "989:ZM4apwYuyhI",
+      "articleId": "989",
+      "articleTitle": "EK - 특수머리",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
+      "videoId": "ZM4apwYuyhI",
+      "watchUrl": "https://www.youtube.com/watch?v=ZM4apwYuyhI",
+      "embedUrl": "https://www.youtube.com/embed/ZM4apwYuyhI",
+      "originalUrl": "https://youtu.be/ZM4apwYuyhI?",
+      "origin": "detail",
+      "writeTimestamp": 1776065964997
+    },
+    {
+      "key": "989:-H8xvWkUeIY",
+      "articleId": "989",
+      "articleTitle": "EK - 특수머리",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
+      "videoId": "-H8xvWkUeIY",
+      "watchUrl": "https://www.youtube.com/watch?v=-H8xvWkUeIY",
+      "embedUrl": "https://www.youtube.com/embed/-H8xvWkUeIY",
+      "originalUrl": "https://youtu.be/-H8xvWkUeIY?",
+      "origin": "detail",
+      "writeTimestamp": 1776065964997
+    },
+    {
       "key": "984:iFnP6NPZbzM",
       "articleId": "984",
       "articleTitle": "날씨가 너무 화창합니다",
@@ -2580,48 +2664,6 @@
       "originalUrl": "https://youtu.be/rKmRLcO74YQ?",
       "origin": "detail",
       "writeTimestamp": 1775833762260
-    },
-    {
-      "key": "659:cba5xopcZ2Q",
-      "articleId": "659",
-      "articleTitle": "MF DOOM - Rapp Snitch Knishes",
-      "writer": "stsvnlol",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/659",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/659",
-      "videoId": "cba5xopcZ2Q",
-      "watchUrl": "https://www.youtube.com/watch?v=cba5xopcZ2Q",
-      "embedUrl": "https://www.youtube.com/embed/cba5xopcZ2Q",
-      "originalUrl": "https://youtu.be/cba5xopcZ2Q?",
-      "origin": "detail",
-      "writeTimestamp": 1775832658550
-    },
-    {
-      "key": "659:Y27e2yWnBEk",
-      "articleId": "659",
-      "articleTitle": "MF DOOM - Rapp Snitch Knishes",
-      "writer": "stsvnlol",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/659",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/659",
-      "videoId": "Y27e2yWnBEk",
-      "watchUrl": "https://www.youtube.com/watch?v=Y27e2yWnBEk",
-      "embedUrl": "https://www.youtube.com/embed/Y27e2yWnBEk",
-      "originalUrl": "https://youtu.be/Y27e2yWnBEk?",
-      "origin": "detail",
-      "writeTimestamp": 1775832658550
-    },
-    {
-      "key": "652:fmE7WfLh-k4",
-      "articleId": "652",
-      "articleTitle": "제네 더 질라&해쉬스완&노선 신곡 떴다",
-      "writer": "라유09",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/652",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/652",
-      "videoId": "fmE7WfLh-k4",
-      "watchUrl": "https://www.youtube.com/watch?v=fmE7WfLh-k4",
-      "embedUrl": "https://www.youtube.com/embed/fmE7WfLh-k4",
-      "originalUrl": "https://youtube.com/watch?v=fmE7WfLh-k4&",
-      "origin": "summary",
-      "writeTimestamp": 1775831658047
     }
   ]
 }
