@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-05-08T20:31:14.931Z",
+  "generatedAt": "2026-05-09T20:20:32.910Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 94,
-  "detailMatchCount": 96,
+  "detailMatchCount": 94,
   "items": [
+    {
+      "key": "2731:XkkEM40VwFo",
+      "articleId": "2731",
+      "articleTitle": "2.0 비와이/ BewhY (비와이) - SOUTHSIDE FREESTYLE",
+      "writer": "켄서펀트",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2731",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2731",
+      "videoId": "XkkEM40VwFo",
+      "watchUrl": "https://www.youtube.com/watch?v=XkkEM40VwFo",
+      "embedUrl": "https://www.youtube.com/embed/XkkEM40VwFo",
+      "originalUrl": "https://www.youtube.com/embed/XkkEM40VwFo?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1778306621917
+    },
     {
       "key": "2723:XxJDpyETDjE",
       "articleId": "2723",
@@ -2582,6 +2596,20 @@
       "writeTimestamp": 1775894003293
     },
     {
+      "key": "741:hCrtcVDgCGw",
+      "articleId": "741",
+      "articleTitle": "Kimmy gone - Softcore (feat.EK)",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/741",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/741",
+      "videoId": "hCrtcVDgCGw",
+      "watchUrl": "https://www.youtube.com/watch?v=hCrtcVDgCGw",
+      "embedUrl": "https://www.youtube.com/embed/hCrtcVDgCGw",
+      "originalUrl": "https://www.youtube.com/watch?v=hCrtcVDgCGw&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1775892703270
+    },
+    {
       "key": "737:f6P-po9ta_I",
       "articleId": "737",
       "articleTitle": "강혁 - Zzz드르렁",
@@ -2608,62 +2636,6 @@
       "originalUrl": "https://youtu.be/qHxyo-ygOdA",
       "origin": "detail",
       "writeTimestamp": 1775889490713
-    },
-    {
-      "key": "731:_fdE5CvacT0",
-      "articleId": "731",
-      "articleTitle": "몽글몽글한 맥밀러 명곡",
-      "writer": "lul",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/731",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/731",
-      "videoId": "_fdE5CvacT0",
-      "watchUrl": "https://www.youtube.com/watch?v=_fdE5CvacT0",
-      "embedUrl": "https://www.youtube.com/embed/_fdE5CvacT0",
-      "originalUrl": "https://www.youtube.com/embed/_fdE5CvacT0?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775887511153
-    },
-    {
-      "key": "731:9Gbl-IDp1qc",
-      "articleId": "731",
-      "articleTitle": "몽글몽글한 맥밀러 명곡",
-      "writer": "lul",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/731",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/731",
-      "videoId": "9Gbl-IDp1qc",
-      "watchUrl": "https://www.youtube.com/watch?v=9Gbl-IDp1qc",
-      "embedUrl": "https://www.youtube.com/embed/9Gbl-IDp1qc",
-      "originalUrl": "https://www.youtube.com/embed/9Gbl-IDp1qc?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775887511153
-    },
-    {
-      "key": "728:Qpx7CXIrz3o",
-      "articleId": "728",
-      "articleTitle": "분위기가 특이한 일본 힙합",
-      "writer": "켄서펀트",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/728",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/728",
-      "videoId": "Qpx7CXIrz3o",
-      "watchUrl": "https://www.youtube.com/watch?v=Qpx7CXIrz3o",
-      "embedUrl": "https://www.youtube.com/embed/Qpx7CXIrz3o",
-      "originalUrl": "https://www.youtube.com/embed/Qpx7CXIrz3o?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775884045427
-    },
-    {
-      "key": "728:pxcZCkkb4m8",
-      "articleId": "728",
-      "articleTitle": "분위기가 특이한 일본 힙합",
-      "writer": "켄서펀트",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/728",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/728",
-      "videoId": "pxcZCkkb4m8",
-      "watchUrl": "https://www.youtube.com/watch?v=pxcZCkkb4m8",
-      "embedUrl": "https://www.youtube.com/embed/pxcZCkkb4m8",
-      "originalUrl": "https://www.youtube.com/embed/pxcZCkkb4m8?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775884045427
     }
   ]
 }
