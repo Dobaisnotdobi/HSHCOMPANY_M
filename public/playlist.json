@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-05-10T20:14:40.338Z",
+  "generatedAt": "2026-05-11T20:50:10.312Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 95,
-  "detailMatchCount": 89,
+  "summaryMatchCount": 93,
+  "detailMatchCount": 92,
   "items": [
+    {
+      "key": "2878:OcZb3QbfXjw",
+      "articleId": "2878",
+      "articleTitle": "오늘 불러주신 새벽 두시 듣고 생각난 그_냥 추천곡",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2878",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2878",
+      "videoId": "OcZb3QbfXjw",
+      "watchUrl": "https://www.youtube.com/watch?v=OcZb3QbfXjw",
+      "embedUrl": "https://www.youtube.com/embed/OcZb3QbfXjw",
+      "originalUrl": "https://www.youtube.com/embed/OcZb3QbfXjw?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1778512505007
+    },
+    {
+      "key": "2834:yo6K5O8vbYc",
+      "articleId": "2834",
+      "articleTitle": "씨잼 마이크스웨거 벌스 음원",
+      "writer": "꿈불",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2834",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2834",
+      "videoId": "yo6K5O8vbYc",
+      "watchUrl": "https://www.youtube.com/watch?v=yo6K5O8vbYc",
+      "embedUrl": "https://www.youtube.com/embed/yo6K5O8vbYc",
+      "originalUrl": "https://www.youtube.com/embed/yo6K5O8vbYc?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1778494808257
+    },
+    {
+      "key": "2825:kOCkne-Bku4",
+      "articleId": "2825",
+      "articleTitle": "'너와 함께라면, 어디든 비 내리는 파리처럼 느껴지니까‘",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2825",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2825",
+      "videoId": "kOCkne-Bku4",
+      "watchUrl": "https://www.youtube.com/watch?v=kOCkne-Bku4",
+      "embedUrl": "https://www.youtube.com/embed/kOCkne-Bku4",
+      "originalUrl": "https://www.youtube.com/embed/kOCkne-Bku4?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1778481405513
+    },
     {
       "key": "2791:oBeUx0f7gZk",
       "articleId": "2791",
@@ -2552,34 +2594,6 @@
       "originalUrl": "https://youtu.be/pE0QO8Fi4i0?li",
       "origin": "summary",
       "writeTimestamp": 1775907158300
-    },
-    {
-      "key": "780:QjRXMkLbFrY",
-      "articleId": "780",
-      "articleTitle": "이한울 - 전화걸어 ( Feat . 조현영 )",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/780",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/780",
-      "videoId": "QjRXMkLbFrY",
-      "watchUrl": "https://www.youtube.com/watch?v=QjRXMkLbFrY",
-      "embedUrl": "https://www.youtube.com/embed/QjRXMkLbFrY",
-      "originalUrl": "https://youtu.be/QjRXMkLbFrY?li",
-      "origin": "summary",
-      "writeTimestamp": 1775906638743
-    },
-    {
-      "key": "779:baKW79ev0U4",
-      "articleId": "779",
-      "articleTitle": "이한울 - 영감이 돼",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/779",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/779",
-      "videoId": "baKW79ev0U4",
-      "watchUrl": "https://www.youtube.com/watch?v=baKW79ev0U4",
-      "embedUrl": "https://www.youtube.com/embed/baKW79ev0U4",
-      "originalUrl": "https://youtu.be/baKW79ev0U4?li",
-      "origin": "summary",
-      "writeTimestamp": 1775906432737
     }
   ]
 }
