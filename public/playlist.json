@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-05-12T20:55:49.479Z",
+  "generatedAt": "2026-05-13T20:50:56.812Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 86,
   "detailMatchCount": 95,
   "items": [
+    {
+      "key": "2954:c_KFlGnh4R8",
+      "articleId": "2954",
+      "articleTitle": "오늘 카페에서 마주쳤던 찐-한 힙합",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2954",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2954",
+      "videoId": "c_KFlGnh4R8",
+      "watchUrl": "https://www.youtube.com/watch?v=c_KFlGnh4R8",
+      "embedUrl": "https://www.youtube.com/embed/c_KFlGnh4R8",
+      "originalUrl": "https://www.youtube.com/embed/c_KFlGnh4R8?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1778682407273
+    },
+    {
+      "key": "2952:RxrYVdbLvoM",
+      "articleId": "2952",
+      "articleTitle": "요즘 꽂힌 아티스트",
+      "writer": "도바",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2952",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2952",
+      "videoId": "RxrYVdbLvoM",
+      "watchUrl": "https://www.youtube.com/watch?v=RxrYVdbLvoM",
+      "embedUrl": "https://www.youtube.com/embed/RxrYVdbLvoM",
+      "originalUrl": "https://youtu.be/RxrYVdbLvoM?",
+      "origin": "summary",
+      "writeTimestamp": 1778679129753
+    },
+    {
+      "key": "2950:Ew65b9BMrjU",
+      "articleId": "2950",
+      "articleTitle": "5월 14일 ONYX 앨범 발매 사이먼 도미닉 - Simon Says",
+      "writer": "켄서펀트",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2950",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2950",
+      "videoId": "Ew65b9BMrjU",
+      "watchUrl": "https://www.youtube.com/watch?v=Ew65b9BMrjU",
+      "embedUrl": "https://www.youtube.com/embed/Ew65b9BMrjU",
+      "originalUrl": "https://www.youtube.com/embed/Ew65b9BMrjU?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1778677723423
+    },
     {
       "key": "2923:ZXa5zzPcRN4",
       "articleId": "2923",
@@ -2496,48 +2538,6 @@
       "originalUrl": "https://youtu.be/8AOzXuJVeZM?li",
       "origin": "summary",
       "writeTimestamp": 1775921811057
-    },
-    {
-      "key": "816:M9TJ43vz7Qg",
-      "articleId": "816",
-      "articleTitle": "kanye west,do or die- paid the price",
-      "writer": "인즈",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/816",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/816",
-      "videoId": "M9TJ43vz7Qg",
-      "watchUrl": "https://www.youtube.com/watch?v=M9TJ43vz7Qg",
-      "embedUrl": "https://www.youtube.com/embed/M9TJ43vz7Qg",
-      "originalUrl": "https://www.youtube.com/embed/M9TJ43vz7Qg?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775914869687
-    },
-    {
-      "key": "816:irb335ThCdo",
-      "articleId": "816",
-      "articleTitle": "kanye west,do or die- paid the price",
-      "writer": "인즈",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/816",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/816",
-      "videoId": "irb335ThCdo",
-      "watchUrl": "https://www.youtube.com/watch?v=irb335ThCdo",
-      "embedUrl": "https://www.youtube.com/embed/irb335ThCdo",
-      "originalUrl": "https://www.youtube.com/watch?v=irb335ThCdo&quot;, &quot;inputUrl&quot;: &quot;http",
-      "origin": "detail",
-      "writeTimestamp": 1775914869687
-    },
-    {
-      "key": "806:0kJytWqpIzE",
-      "articleId": "806",
-      "articleTitle": "4월9일 올티 언텔 이로한 프리스타일",
-      "writer": "a0107258",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/806",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/806",
-      "videoId": "0kJytWqpIzE",
-      "watchUrl": "https://www.youtube.com/watch?v=0kJytWqpIzE",
-      "embedUrl": "https://www.youtube.com/embed/0kJytWqpIzE",
-      "originalUrl": "https://youtu.be/0kJytWqpIzE?",
-      "origin": "summary",
-      "writeTimestamp": 1775910538747
     }
   ]
 }
