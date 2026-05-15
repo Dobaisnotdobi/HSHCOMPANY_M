@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-05-14T20:49:12.662Z",
+  "generatedAt": "2026-05-15T20:39:32.774Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 90,
-  "detailMatchCount": 98,
+  "summaryMatchCount": 89,
+  "detailMatchCount": 99,
   "items": [
+    {
+      "key": "3025:2QaBnAp5fdg",
+      "articleId": "3025",
+      "articleTitle": "yo Pierre, you wanna come out here?",
+      "writer": "인즈",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3025",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3025",
+      "videoId": "2QaBnAp5fdg",
+      "watchUrl": "https://www.youtube.com/watch?v=2QaBnAp5fdg",
+      "embedUrl": "https://www.youtube.com/embed/2QaBnAp5fdg",
+      "originalUrl": "https://www.youtube.com/embed/2QaBnAp5fdg?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1778833065767
+    },
+    {
+      "key": "3021:VLV8fDTLolw",
+      "articleId": "3021",
+      "articleTitle": "꽂힌 오카시 노래",
+      "writer": "오베르도",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3021",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3021",
+      "videoId": "VLV8fDTLolw",
+      "watchUrl": "https://www.youtube.com/watch?v=VLV8fDTLolw",
+      "embedUrl": "https://www.youtube.com/embed/VLV8fDTLolw",
+      "originalUrl": "https://www.youtube.com/embed/VLV8fDTLolw?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1778830085603
+    },
     {
       "key": "3000:YGlYPPO40XY",
       "articleId": "3000",
@@ -155,8 +183,8 @@
       "videoId": "RxrYVdbLvoM",
       "watchUrl": "https://www.youtube.com/watch?v=RxrYVdbLvoM",
       "embedUrl": "https://www.youtube.com/embed/RxrYVdbLvoM",
-      "originalUrl": "https://youtu.be/RxrYVdbLvoM?",
-      "origin": "summary",
+      "originalUrl": "https://www.youtube.com/watch?v=RxrYVdbLvoM",
+      "origin": "detail",
       "writeTimestamp": 1778679129753
     },
     {
@@ -762,20 +790,6 @@
       "writeTimestamp": 1777700520883
     },
     {
-      "key": "2177:Ew65b9BMrjU",
-      "articleId": "2177",
-      "articleTitle": "탑 앨범에서 유일하게 계속 듣는 곡",
-      "writer": "JUSTHIS",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2177",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2177",
-      "videoId": "Ew65b9BMrjU",
-      "watchUrl": "https://www.youtube.com/watch?v=Ew65b9BMrjU",
-      "embedUrl": "https://www.youtube.com/embed/Ew65b9BMrjU",
-      "originalUrl": "https://youtu.be/Ew65b9BMrjU?",
-      "origin": "detail",
-      "writeTimestamp": 1777561883103
-    },
-    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -1110,20 +1124,6 @@
       "originalUrl": "https://youtu.be/bwVNydbMTO0?",
       "origin": "summary",
       "writeTimestamp": 1777118887560
-    },
-    {
-      "key": "1794:Ew65b9BMrjU",
-      "articleId": "1794",
-      "articleTitle": "김감전 EP나옴!!!!!!!!!!!!!!!!!! NOISVAN!",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1794",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1794",
-      "videoId": "Ew65b9BMrjU",
-      "watchUrl": "https://www.youtube.com/watch?v=Ew65b9BMrjU",
-      "embedUrl": "https://www.youtube.com/embed/Ew65b9BMrjU",
-      "originalUrl": "https://youtu.be/Ew65b9BMrjU?",
-      "origin": "detail",
-      "writeTimestamp": 1777094474980
     },
     {
       "key": "1793:-LmfocAM9rI",
@@ -2372,6 +2372,20 @@
       "writeTimestamp": 1776069220350
     },
     {
+      "key": "989:8HZ2Tnn0iRU",
+      "articleId": "989",
+      "articleTitle": "EK - 특수머리",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
+      "videoId": "8HZ2Tnn0iRU",
+      "watchUrl": "https://www.youtube.com/watch?v=8HZ2Tnn0iRU",
+      "embedUrl": "https://www.youtube.com/embed/8HZ2Tnn0iRU",
+      "originalUrl": "https://youtube.com/shorts/8HZ2Tnn0iRU?",
+      "origin": "detail",
+      "writeTimestamp": 1776065964997
+    },
+    {
       "key": "984:iFnP6NPZbzM",
       "articleId": "984",
       "articleTitle": "날씨가 너무 화창합니다",
@@ -2622,20 +2636,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM&li",
       "origin": "summary",
       "writeTimestamp": 1775971679680
-    },
-    {
-      "key": "881:9PukqhfMxfc",
-      "articleId": "881",
-      "articleTitle": "예로부터 레게는 힙합의 가족이었다, 데미안 말리 - Medication(Feat. 스티븐 말리)",
-      "writer": "켄서펀트",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/881",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/881",
-      "videoId": "9PukqhfMxfc",
-      "watchUrl": "https://www.youtube.com/watch?v=9PukqhfMxfc",
-      "embedUrl": "https://www.youtube.com/embed/9PukqhfMxfc",
-      "originalUrl": "https://www.youtube.com/embed/9PukqhfMxfc?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775969663933
     }
   ]
 }
