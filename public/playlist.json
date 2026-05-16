@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-05-15T20:39:32.774Z",
+  "generatedAt": "2026-05-16T20:21:44.116Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 89,
+  "summaryMatchCount": 88,
   "detailMatchCount": 99,
   "items": [
+    {
+      "key": "3066:hd0qdmZkdHQ",
+      "articleId": "3066",
+      "articleTitle": "Skinny Brown - Stupid Dumb Lovin ( Feat. Cloudybay )",
+      "writer": "공백",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3066",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3066",
+      "videoId": "hd0qdmZkdHQ",
+      "watchUrl": "https://www.youtube.com/watch?v=hd0qdmZkdHQ",
+      "embedUrl": "https://www.youtube.com/embed/hd0qdmZkdHQ",
+      "originalUrl": "https://www.youtube.com/watch?v=hd0qdmZkdHQ&li",
+      "origin": "summary",
+      "writeTimestamp": 1778926185627
+    },
+    {
+      "key": "3065:6Q5xqNkCk7w",
+      "articleId": "3065",
+      "articleTitle": "‘당신과 함께라면, 어떻게 나의 하루가 나쁠 수 있겠어?’",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3065",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3065",
+      "videoId": "6Q5xqNkCk7w",
+      "watchUrl": "https://www.youtube.com/watch?v=6Q5xqNkCk7w",
+      "embedUrl": "https://www.youtube.com/embed/6Q5xqNkCk7w",
+      "originalUrl": "https://www.youtube.com/embed/6Q5xqNkCk7w?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1778919231230
+    },
     {
       "key": "3025:2QaBnAp5fdg",
       "articleId": "3025",
@@ -2372,20 +2400,6 @@
       "writeTimestamp": 1776069220350
     },
     {
-      "key": "989:8HZ2Tnn0iRU",
-      "articleId": "989",
-      "articleTitle": "EK - 특수머리",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
-      "videoId": "8HZ2Tnn0iRU",
-      "watchUrl": "https://www.youtube.com/watch?v=8HZ2Tnn0iRU",
-      "embedUrl": "https://www.youtube.com/embed/8HZ2Tnn0iRU",
-      "originalUrl": "https://youtube.com/shorts/8HZ2Tnn0iRU?",
-      "origin": "detail",
-      "writeTimestamp": 1776065964997
-    },
-    {
       "key": "984:iFnP6NPZbzM",
       "articleId": "984",
       "articleTitle": "날씨가 너무 화창합니다",
@@ -2608,34 +2622,6 @@
       "originalUrl": "https://www.youtube.com/embed/tX7RDvVkxzU?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775979110820
-    },
-    {
-      "key": "890:Zpg_lbCuQEo",
-      "articleId": "890",
-      "articleTitle": "(신곡) 크루셜스타-radish 야차에서 했던벌스",
-      "writer": "a0107258",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/890",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/890",
-      "videoId": "Zpg_lbCuQEo",
-      "watchUrl": "https://www.youtube.com/watch?v=Zpg_lbCuQEo",
-      "embedUrl": "https://www.youtube.com/embed/Zpg_lbCuQEo",
-      "originalUrl": "https://youtu.be/Zpg_lbCuQEo?",
-      "origin": "summary",
-      "writeTimestamp": 1775974485050
-    },
-    {
-      "key": "885:TUVXiINIwQM",
-      "articleId": "885",
-      "articleTitle": "창모 - One More Rollie (Feat. 김효은, 해쉬스완)",
-      "writer": "단감씨",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/885",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/885",
-      "videoId": "TUVXiINIwQM",
-      "watchUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM",
-      "embedUrl": "https://www.youtube.com/embed/TUVXiINIwQM",
-      "originalUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM&li",
-      "origin": "summary",
-      "writeTimestamp": 1775971679680
     }
   ]
 }
