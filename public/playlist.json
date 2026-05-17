@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-05-16T20:21:44.116Z",
+  "generatedAt": "2026-05-17T20:26:19.060Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 88,
+  "summaryMatchCount": 89,
   "detailMatchCount": 99,
   "items": [
+    {
+      "key": "3089:-3pdPfog64o",
+      "articleId": "3089",
+      "articleTitle": "오랜만에 들으니 좋아서 추천",
+      "writer": "Orlip",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3089",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3089",
+      "videoId": "-3pdPfog64o",
+      "watchUrl": "https://www.youtube.com/watch?v=-3pdPfog64o",
+      "embedUrl": "https://www.youtube.com/embed/-3pdPfog64o",
+      "originalUrl": "https://youtube.com/watch?v=-3pdPfog64o&",
+      "origin": "summary",
+      "writeTimestamp": 1779000352093
+    },
     {
       "key": "3066:hd0qdmZkdHQ",
       "articleId": "3066",
@@ -662,6 +676,20 @@
       "originalUrl": "https://youtu.be/MG3Y77vLZNM?",
       "origin": "summary",
       "writeTimestamp": 1777915257667
+    },
+    {
+      "key": "2516:-3pdPfog64o",
+      "articleId": "2516",
+      "articleTitle": "릴러말즈 앨범 추천",
+      "writer": "R3dstorys",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2516",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2516",
+      "videoId": "-3pdPfog64o",
+      "watchUrl": "https://www.youtube.com/watch?v=-3pdPfog64o",
+      "embedUrl": "https://www.youtube.com/embed/-3pdPfog64o",
+      "originalUrl": "https://youtube.com/watch?v=-3pdPfog64o&amp;",
+      "origin": "detail",
+      "writeTimestamp": 1777907117883
     },
     {
       "key": "2514:IU371ATtL_I",
@@ -2608,20 +2636,6 @@
       "originalUrl": "https://www.youtube.com/embed/7fBYwNQgbT8?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775980471533
-    },
-    {
-      "key": "898:tX7RDvVkxzU",
-      "articleId": "898",
-      "articleTitle": "그냥 개찐한 붐뱁을 26년도에 보여주는 개미친 미국 영포티들",
-      "writer": "Tyler the Creator",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/898",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/898",
-      "videoId": "tX7RDvVkxzU",
-      "watchUrl": "https://www.youtube.com/watch?v=tX7RDvVkxzU",
-      "embedUrl": "https://www.youtube.com/embed/tX7RDvVkxzU",
-      "originalUrl": "https://www.youtube.com/embed/tX7RDvVkxzU?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775979110820
     }
   ]
 }
