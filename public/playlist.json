@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-05-17T20:26:19.060Z",
+  "generatedAt": "2026-05-18T20:50:49.540Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 89,
-  "detailMatchCount": 99,
+  "detailMatchCount": 98,
   "items": [
+    {
+      "key": "3117:EJbNjqNzHb4",
+      "articleId": "3117",
+      "articleTitle": "오늘의 오닉스를 듣고 생각난 정기석의 매운맛 한 곡",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3117",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3117",
+      "videoId": "EJbNjqNzHb4",
+      "watchUrl": "https://www.youtube.com/watch?v=EJbNjqNzHb4",
+      "embedUrl": "https://www.youtube.com/embed/EJbNjqNzHb4",
+      "originalUrl": "https://www.youtube.com/embed/EJbNjqNzHb4?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1779111266563
+    },
     {
       "key": "3089:-3pdPfog64o",
       "articleId": "3089",
@@ -676,20 +690,6 @@
       "originalUrl": "https://youtu.be/MG3Y77vLZNM?",
       "origin": "summary",
       "writeTimestamp": 1777915257667
-    },
-    {
-      "key": "2516:-3pdPfog64o",
-      "articleId": "2516",
-      "articleTitle": "릴러말즈 앨범 추천",
-      "writer": "R3dstorys",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2516",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2516",
-      "videoId": "-3pdPfog64o",
-      "watchUrl": "https://www.youtube.com/watch?v=-3pdPfog64o",
-      "embedUrl": "https://www.youtube.com/embed/-3pdPfog64o",
-      "originalUrl": "https://youtube.com/watch?v=-3pdPfog64o&amp;",
-      "origin": "detail",
-      "writeTimestamp": 1777907117883
     },
     {
       "key": "2514:IU371ATtL_I",
@@ -2622,20 +2622,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=lgB2wOepRtM",
       "origin": "detail",
       "writeTimestamp": 1775986155610
-    },
-    {
-      "key": "902:7fBYwNQgbT8",
-      "articleId": "902",
-      "articleTitle": "Aimer - Ref:rain",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/902",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/902",
-      "videoId": "7fBYwNQgbT8",
-      "watchUrl": "https://www.youtube.com/watch?v=7fBYwNQgbT8",
-      "embedUrl": "https://www.youtube.com/embed/7fBYwNQgbT8",
-      "originalUrl": "https://www.youtube.com/embed/7fBYwNQgbT8?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775980471533
     }
   ]
 }
