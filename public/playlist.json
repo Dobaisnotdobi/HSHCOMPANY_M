@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-05-18T20:50:49.540Z",
+  "generatedAt": "2026-05-19T20:47:50.905Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 89,
-  "detailMatchCount": 98,
+  "summaryMatchCount": 90,
+  "detailMatchCount": 96,
   "items": [
+    {
+      "key": "3130:mOpQlPWr594",
+      "articleId": "3130",
+      "articleTitle": "언텔 로한 YEAHWEARE 풀앨범 (못참고들었는데 몇일간 계속 들을거같네요)",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3130",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3130",
+      "videoId": "mOpQlPWr594",
+      "watchUrl": "https://www.youtube.com/watch?v=mOpQlPWr594",
+      "embedUrl": "https://www.youtube.com/embed/mOpQlPWr594",
+      "originalUrl": "https://youtu.be/mOpQlPWr594?",
+      "origin": "summary",
+      "writeTimestamp": 1779167722907
+    },
     {
       "key": "3117:EJbNjqNzHb4",
       "articleId": "3117",
@@ -2594,34 +2608,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=lqm35nwZzi8&quot;, &quot;inputUrl&quot;: &quot;http",
       "origin": "detail",
       "writeTimestamp": 1775996141707
-    },
-    {
-      "key": "923:lCv_XBTRVC0",
-      "articleId": "923",
-      "articleTitle": "힙합 goat 켄황에 빠졌던 이유",
-      "writer": "Tyler the Creator",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/923",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/923",
-      "videoId": "lCv_XBTRVC0",
-      "watchUrl": "https://www.youtube.com/watch?v=lCv_XBTRVC0",
-      "embedUrl": "https://www.youtube.com/embed/lCv_XBTRVC0",
-      "originalUrl": "https://www.youtube.com/embed/lCv_XBTRVC0?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775991619640
-    },
-    {
-      "key": "906:lgB2wOepRtM",
-      "articleId": "906",
-      "articleTitle": "내 가사는 내가사는 삶에서 나오는 시",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/906",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/906",
-      "videoId": "lgB2wOepRtM",
-      "watchUrl": "https://www.youtube.com/watch?v=lgB2wOepRtM",
-      "embedUrl": "https://www.youtube.com/embed/lgB2wOepRtM",
-      "originalUrl": "https://www.youtube.com/watch?v=lgB2wOepRtM",
-      "origin": "detail",
-      "writeTimestamp": 1775986155610
     }
   ]
 }
