@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-05-20T21:27:04.622Z",
+  "generatedAt": "2026-05-21T21:13:26.935Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 91,
-  "detailMatchCount": 99,
+  "detailMatchCount": 100,
   "items": [
+    {
+      "key": "3197:2bBUYJblpx4",
+      "articleId": "3197",
+      "articleTitle": "HABIBTI 감상 중 주관적 최애곡",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3197",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3197",
+      "videoId": "2bBUYJblpx4",
+      "watchUrl": "https://www.youtube.com/watch?v=2bBUYJblpx4",
+      "embedUrl": "https://www.youtube.com/embed/2bBUYJblpx4",
+      "originalUrl": "https://www.youtube.com/embed/2bBUYJblpx4?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1779350561830
+    },
     {
       "key": "3156:IzMZCCddyf0",
       "articleId": "3156",
