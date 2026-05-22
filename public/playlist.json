@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-05-21T21:13:26.935Z",
+  "generatedAt": "2026-05-22T20:55:39.655Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 91,
-  "detailMatchCount": 100,
+  "detailMatchCount": 101,
   "items": [
+    {
+      "key": "3226:Xmg3a_XCRxI",
+      "articleId": "3226",
+      "articleTitle": "\"시간아 그건 실수야\"",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3226",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3226",
+      "videoId": "Xmg3a_XCRxI",
+      "watchUrl": "https://www.youtube.com/watch?v=Xmg3a_XCRxI",
+      "embedUrl": "https://www.youtube.com/embed/Xmg3a_XCRxI",
+      "originalUrl": "https://www.youtube.com/embed/Xmg3a_XCRxI?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1779470169723
+    },
     {
       "key": "3197:2bBUYJblpx4",
       "articleId": "3197",
@@ -2554,6 +2568,20 @@
       "writeTimestamp": 1776069220350
     },
     {
+      "key": "989:XzrDoBdD2rM",
+      "articleId": "989",
+      "articleTitle": "EK - 특수머리",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
+      "videoId": "XzrDoBdD2rM",
+      "watchUrl": "https://www.youtube.com/watch?v=XzrDoBdD2rM",
+      "embedUrl": "https://www.youtube.com/embed/XzrDoBdD2rM",
+      "originalUrl": "https://www.youtube.com/shorts/XzrDoBdD2rM?feature=",
+      "origin": "detail",
+      "writeTimestamp": 1776065964997
+    },
+    {
       "key": "984:iFnP6NPZbzM",
       "articleId": "984",
       "articleTitle": "날씨가 너무 화창합니다",
@@ -2664,20 +2692,6 @@
       "originalUrl": "https://www.youtube.com/embed/pa4e5C_dLJA?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776011360560
-    },
-    {
-      "key": "954:3kgti2PIIK0",
-      "articleId": "954",
-      "articleTitle": "칸예 bully highs and lows 오리지날 돌려내라!!",
-      "writer": "인즈",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/954",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/954",
-      "videoId": "3kgti2PIIK0",
-      "watchUrl": "https://www.youtube.com/watch?v=3kgti2PIIK0",
-      "embedUrl": "https://www.youtube.com/embed/3kgti2PIIK0",
-      "originalUrl": "https://www.youtube.com/embed/3kgti2PIIK0?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1776010893590
     }
   ]
 }
