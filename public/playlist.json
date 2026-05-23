@@ -1,10 +1,80 @@
 {
-  "generatedAt": "2026-05-22T20:55:39.655Z",
+  "generatedAt": "2026-05-23T20:30:30.456Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 91,
-  "detailMatchCount": 101,
+  "summaryMatchCount": 90,
+  "detailMatchCount": 103,
   "items": [
+    {
+      "key": "3251:9Rt9hkooRPY",
+      "articleId": "3251",
+      "articleTitle": "류성민의 거친 생각과 그걸 지켜보는 이병윤",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3251",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3251",
+      "videoId": "9Rt9hkooRPY",
+      "watchUrl": "https://www.youtube.com/watch?v=9Rt9hkooRPY",
+      "embedUrl": "https://www.youtube.com/embed/9Rt9hkooRPY",
+      "originalUrl": "https://www.youtube.com/embed/9Rt9hkooRPY?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1779559901993
+    },
+    {
+      "key": "3247:_rZ8wtVzMBA",
+      "articleId": "3247",
+      "articleTitle": "개인적으로 자주 찾아 듣는 킁 라이브 영상",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3247",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3247",
+      "videoId": "_rZ8wtVzMBA",
+      "watchUrl": "https://www.youtube.com/watch?v=_rZ8wtVzMBA",
+      "embedUrl": "https://www.youtube.com/embed/_rZ8wtVzMBA",
+      "originalUrl": "https://www.youtube.com/embed/_rZ8wtVzMBA?",
+      "origin": "detail",
+      "writeTimestamp": 1779545640790
+    },
+    {
+      "key": "3245:u2o0PoDpXwE",
+      "articleId": "3245",
+      "articleTitle": "1999년인것처럼 놀아",
+      "writer": "Orlip",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3245",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3245",
+      "videoId": "u2o0PoDpXwE",
+      "watchUrl": "https://www.youtube.com/watch?v=u2o0PoDpXwE",
+      "embedUrl": "https://www.youtube.com/embed/u2o0PoDpXwE",
+      "originalUrl": "https://www.youtube.com/watch?v=u2o0PoDpXwE",
+      "origin": "summary",
+      "writeTimestamp": 1779542986780
+    },
+    {
+      "key": "3237:J2dlu8zigp0",
+      "articleId": "3237",
+      "articleTitle": "J-멘헤라 곡들 추천",
+      "writer": "블루맨",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3237",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3237",
+      "videoId": "J2dlu8zigp0",
+      "watchUrl": "https://www.youtube.com/watch?v=J2dlu8zigp0",
+      "embedUrl": "https://www.youtube.com/embed/J2dlu8zigp0",
+      "originalUrl": "https://www.youtube.com/embed/J2dlu8zigp0?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1779511343490
+    },
+    {
+      "key": "3237:12mwzwUL7Vk",
+      "articleId": "3237",
+      "articleTitle": "J-멘헤라 곡들 추천",
+      "writer": "블루맨",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3237",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3237",
+      "videoId": "12mwzwUL7Vk",
+      "watchUrl": "https://www.youtube.com/watch?v=12mwzwUL7Vk",
+      "embedUrl": "https://www.youtube.com/embed/12mwzwUL7Vk",
+      "originalUrl": "https://www.youtube.com/embed/12mwzwUL7Vk?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1779511343490
+    },
     {
       "key": "3226:Xmg3a_XCRxI",
       "articleId": "3226",
@@ -2568,20 +2638,6 @@
       "writeTimestamp": 1776069220350
     },
     {
-      "key": "989:XzrDoBdD2rM",
-      "articleId": "989",
-      "articleTitle": "EK - 특수머리",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
-      "videoId": "XzrDoBdD2rM",
-      "watchUrl": "https://www.youtube.com/watch?v=XzrDoBdD2rM",
-      "embedUrl": "https://www.youtube.com/embed/XzrDoBdD2rM",
-      "originalUrl": "https://www.youtube.com/shorts/XzrDoBdD2rM?feature=",
-      "origin": "detail",
-      "writeTimestamp": 1776065964997
-    },
-    {
       "key": "984:iFnP6NPZbzM",
       "articleId": "984",
       "articleTitle": "날씨가 너무 화창합니다",
@@ -2650,48 +2706,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=8ZZ-Wa97Gd0",
       "origin": "detail",
       "writeTimestamp": 1776015032930
-    },
-    {
-      "key": "961:w3333Fo6ufY",
-      "articleId": "961",
-      "articleTitle": "제이콜이 노잼이라고? 이거 들어봐2",
-      "writer": "Tyler the Creator",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/961",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/961",
-      "videoId": "w3333Fo6ufY",
-      "watchUrl": "https://www.youtube.com/watch?v=w3333Fo6ufY",
-      "embedUrl": "https://www.youtube.com/embed/w3333Fo6ufY",
-      "originalUrl": "https://youtu.be/w3333Fo6ufY?",
-      "origin": "summary",
-      "writeTimestamp": 1776012762330
-    },
-    {
-      "key": "960:ciya_AQu25o",
-      "articleId": "960",
-      "articleTitle": "제이콜이 노잼이라고? 이거 들어봐1",
-      "writer": "Tyler the Creator",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/960",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/960",
-      "videoId": "ciya_AQu25o",
-      "watchUrl": "https://www.youtube.com/watch?v=ciya_AQu25o",
-      "embedUrl": "https://www.youtube.com/embed/ciya_AQu25o",
-      "originalUrl": "https://youtu.be/ciya_AQu25o?",
-      "origin": "summary",
-      "writeTimestamp": 1776012525673
-    },
-    {
-      "key": "955:pa4e5C_dLJA",
-      "articleId": "955",
-      "articleTitle": "kanye west-white lines",
-      "writer": "인즈",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/955",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/955",
-      "videoId": "pa4e5C_dLJA",
-      "watchUrl": "https://www.youtube.com/watch?v=pa4e5C_dLJA",
-      "embedUrl": "https://www.youtube.com/embed/pa4e5C_dLJA",
-      "originalUrl": "https://www.youtube.com/embed/pa4e5C_dLJA?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1776011360560
     }
   ]
 }
