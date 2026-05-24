@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T20:30:30.456Z",
+  "generatedAt": "2026-05-24T20:23:21.077Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 90,
@@ -200,6 +200,20 @@
       "originalUrl": "https://www.youtube.com/embed/L0WVIjf8INA?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1779276548017
+    },
+    {
+      "key": "3131:Ew65b9BMrjU",
+      "articleId": "3131",
+      "articleTitle": "쌈디의 ONYX",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3131",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3131",
+      "videoId": "Ew65b9BMrjU",
+      "watchUrl": "https://www.youtube.com/watch?v=Ew65b9BMrjU",
+      "embedUrl": "https://www.youtube.com/embed/Ew65b9BMrjU",
+      "originalUrl": "https://youtu.be/Ew65b9BMrjU?",
+      "origin": "detail",
+      "writeTimestamp": 1779169879310
     },
     {
       "key": "3130:mOpQlPWr594",
@@ -2692,20 +2706,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=_zBmzqA8nc8&li",
       "origin": "summary",
       "writeTimestamp": 1776017217897
-    },
-    {
-      "key": "965:8ZZ-Wa97Gd0",
-      "articleId": "965",
-      "articleTitle": "너무 좋아서 11012번 들은 딩고 킬링벌스..",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/965",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/965",
-      "videoId": "8ZZ-Wa97Gd0",
-      "watchUrl": "https://www.youtube.com/watch?v=8ZZ-Wa97Gd0",
-      "embedUrl": "https://www.youtube.com/embed/8ZZ-Wa97Gd0",
-      "originalUrl": "https://www.youtube.com/watch?v=8ZZ-Wa97Gd0",
-      "origin": "detail",
-      "writeTimestamp": 1776015032930
     }
   ]
 }
