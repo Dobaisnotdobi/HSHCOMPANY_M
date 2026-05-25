@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-05-24T20:23:21.077Z",
+  "generatedAt": "2026-05-25T20:43:20.660Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 90,
-  "detailMatchCount": 103,
+  "detailMatchCount": 102,
   "items": [
+    {
+      "key": "3279:DqTP_mPaAM4",
+      "articleId": "3279",
+      "articleTitle": "우리 동현이가 노래를 냈어요!!!",
+      "writer": "라유09",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3279",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3279",
+      "videoId": "DqTP_mPaAM4",
+      "watchUrl": "https://www.youtube.com/watch?v=DqTP_mPaAM4",
+      "embedUrl": "https://www.youtube.com/embed/DqTP_mPaAM4",
+      "originalUrl": "https://youtube.com/watch?v=DqTP_mPaAM4&",
+      "origin": "summary",
+      "writeTimestamp": 1779709253493
+    },
+    {
+      "key": "3277:xbyz5DylxkQ",
+      "articleId": "3277",
+      "articleTitle": "이젠 헉피형도 스윙스를 악기로 쓰는구나",
+      "writer": "아아아123",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3277",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3277",
+      "videoId": "xbyz5DylxkQ",
+      "watchUrl": "https://www.youtube.com/watch?v=xbyz5DylxkQ",
+      "embedUrl": "https://www.youtube.com/embed/xbyz5DylxkQ",
+      "originalUrl": "https://youtu.be/xbyz5DylxkQ?",
+      "origin": "summary",
+      "writeTimestamp": 1779708429520
+    },
     {
       "key": "3251:9Rt9hkooRPY",
       "articleId": "3251",
@@ -200,20 +228,6 @@
       "originalUrl": "https://www.youtube.com/embed/L0WVIjf8INA?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1779276548017
-    },
-    {
-      "key": "3131:Ew65b9BMrjU",
-      "articleId": "3131",
-      "articleTitle": "쌈디의 ONYX",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3131",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3131",
-      "videoId": "Ew65b9BMrjU",
-      "watchUrl": "https://www.youtube.com/watch?v=Ew65b9BMrjU",
-      "embedUrl": "https://www.youtube.com/embed/Ew65b9BMrjU",
-      "originalUrl": "https://youtu.be/Ew65b9BMrjU?",
-      "origin": "detail",
-      "writeTimestamp": 1779169879310
     },
     {
       "key": "3130:mOpQlPWr594",
@@ -2678,34 +2692,6 @@
       "originalUrl": "https://www.youtube.com/embed/h9eqGcij9W0?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776050380903
-    },
-    {
-      "key": "970:WXDagpyphlo",
-      "articleId": "970",
-      "articleTitle": "009 - 집 ( home )",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/970",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/970",
-      "videoId": "WXDagpyphlo",
-      "watchUrl": "https://www.youtube.com/watch?v=WXDagpyphlo",
-      "embedUrl": "https://www.youtube.com/embed/WXDagpyphlo",
-      "originalUrl": "https://youtu.be/WXDagpyphlo?li",
-      "origin": "summary",
-      "writeTimestamp": 1776017388037
-    },
-    {
-      "key": "969:_zBmzqA8nc8",
-      "articleId": "969",
-      "articleTitle": "009 - 정릉",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/969",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/969",
-      "videoId": "_zBmzqA8nc8",
-      "watchUrl": "https://www.youtube.com/watch?v=_zBmzqA8nc8",
-      "embedUrl": "https://www.youtube.com/embed/_zBmzqA8nc8",
-      "originalUrl": "https://www.youtube.com/watch?v=_zBmzqA8nc8&li",
-      "origin": "summary",
-      "writeTimestamp": 1776017217897
     }
   ]
 }
