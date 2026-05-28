@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-05-27T21:24:39.347Z",
+  "generatedAt": "2026-05-28T21:27:32.543Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 92,
-  "detailMatchCount": 106,
+  "detailMatchCount": 105,
   "items": [
+    {
+      "key": "3358:cQC96MaNF90",
+      "articleId": "3358",
+      "articleTitle": "\"아무 의미 없어진 나의 산책\"",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3358",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3358",
+      "videoId": "cQC96MaNF90",
+      "watchUrl": "https://www.youtube.com/watch?v=cQC96MaNF90",
+      "embedUrl": "https://www.youtube.com/embed/cQC96MaNF90",
+      "originalUrl": "https://www.youtube.com/embed/cQC96MaNF90?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1779979033060
+    },
     {
       "key": "3331:p8oynhm5O08",
       "articleId": "3331",
@@ -2748,34 +2762,6 @@
       "originalUrl": "https://www.youtube.com/embed/19Cr0wFE_T8?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776069220350
-    },
-    {
-      "key": "984:iFnP6NPZbzM",
-      "articleId": "984",
-      "articleTitle": "날씨가 너무 화창합니다",
-      "writer": "KYVNG",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/984",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/984",
-      "videoId": "iFnP6NPZbzM",
-      "watchUrl": "https://www.youtube.com/watch?v=iFnP6NPZbzM",
-      "embedUrl": "https://www.youtube.com/embed/iFnP6NPZbzM",
-      "originalUrl": "https://www.youtube.com/embed/iFnP6NPZbzM?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1776057674733
-    },
-    {
-      "key": "982:h9eqGcij9W0",
-      "articleId": "982",
-      "articleTitle": "익페힙합에 흥미가 있다면?",
-      "writer": "오베르도",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/982",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/982",
-      "videoId": "h9eqGcij9W0",
-      "watchUrl": "https://www.youtube.com/watch?v=h9eqGcij9W0",
-      "embedUrl": "https://www.youtube.com/embed/h9eqGcij9W0",
-      "originalUrl": "https://www.youtube.com/embed/h9eqGcij9W0?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1776050380903
     }
   ]
 }
