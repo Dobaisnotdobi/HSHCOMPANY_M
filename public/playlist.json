@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-05-28T21:27:32.543Z",
+  "generatedAt": "2026-05-29T21:34:50.529Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 92,
-  "detailMatchCount": 105,
+  "summaryMatchCount": 93,
+  "detailMatchCount": 106,
   "items": [
+    {
+      "key": "3385:1nIXqixnX0I",
+      "articleId": "3385",
+      "articleTitle": "알레프 - 난 너와 가족이 되고 싶었던 거야",
+      "writer": "유구얼",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3385",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3385",
+      "videoId": "1nIXqixnX0I",
+      "watchUrl": "https://www.youtube.com/watch?v=1nIXqixnX0I",
+      "embedUrl": "https://www.youtube.com/embed/1nIXqixnX0I",
+      "originalUrl": "https://youtu.be/1nIXqixnX0I?",
+      "origin": "summary",
+      "writeTimestamp": 1780088222577
+    },
+    {
+      "key": "3363:y_303FKlzoI",
+      "articleId": "3363",
+      "articleTitle": "독보적 캐릭터 [huka - 학원폭력]",
+      "writer": "야누야누",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3363",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3363",
+      "videoId": "y_303FKlzoI",
+      "watchUrl": "https://www.youtube.com/watch?v=y_303FKlzoI",
+      "embedUrl": "https://www.youtube.com/embed/y_303FKlzoI",
+      "originalUrl": "https://www.youtube.com/embed/y_303FKlzoI?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1780021537603
+    },
     {
       "key": "3358:cQC96MaNF90",
       "articleId": "3358",
@@ -1028,6 +1056,20 @@
       "writeTimestamp": 1777915257667
     },
     {
+      "key": "2516:wqkAQFaeT-I",
+      "articleId": "2516",
+      "articleTitle": "릴러말즈 앨범 추천",
+      "writer": "R3dstorys",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2516",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2516",
+      "videoId": "wqkAQFaeT-I",
+      "watchUrl": "https://www.youtube.com/watch?v=wqkAQFaeT-I",
+      "embedUrl": "https://www.youtube.com/embed/wqkAQFaeT-I",
+      "originalUrl": "https://youtu.be/wqkAQFaeT-I?",
+      "origin": "detail",
+      "writeTimestamp": 1777907117883
+    },
+    {
       "key": "2514:IU371ATtL_I",
       "articleId": "2514",
       "articleTitle": "칸예 3집에 들어가지 못한 비운의 명곡",
@@ -1656,6 +1698,20 @@
       "originalUrl": "https://youtu.be/Qn8F_u0vBNI?",
       "origin": "summary",
       "writeTimestamp": 1776943078603
+    },
+    {
+      "key": "1701:80_mgTuXvr4",
+      "articleId": "1701",
+      "articleTitle": "빅나띠 일반 음원 공개",
+      "writer": "미꾸라지",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1701",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1701",
+      "videoId": "80_mgTuXvr4",
+      "watchUrl": "https://www.youtube.com/watch?v=80_mgTuXvr4",
+      "embedUrl": "https://www.youtube.com/embed/80_mgTuXvr4",
+      "originalUrl": "https://youtu.be/80_mgTuXvr4?li",
+      "origin": "detail",
+      "writeTimestamp": 1776926291740
     },
     {
       "key": "1691:ttPkPfQzEIg",
@@ -2734,34 +2790,6 @@
       "originalUrl": "https://www.youtube.com/embed/Y9--MV-w7DA?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776069972460
-    },
-    {
-      "key": "993:AzrhmIlYJg8",
-      "articleId": "993",
-      "articleTitle": "\"아까 이빨 X나 까던 니 친구 어딨어\" Dolphin 4 - Foggyatthebottom (feat. Jin Dogg)",
-      "writer": "켄서펀트",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/993",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/993",
-      "videoId": "AzrhmIlYJg8",
-      "watchUrl": "https://www.youtube.com/watch?v=AzrhmIlYJg8",
-      "embedUrl": "https://www.youtube.com/embed/AzrhmIlYJg8",
-      "originalUrl": "https://www.youtube.com/embed/AzrhmIlYJg8?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1776069858610
-    },
-    {
-      "key": "991:19Cr0wFE_T8",
-      "articleId": "991",
-      "articleTitle": "\"할아버지 출신은 제주도\" Haraboji & Aboji - PM Kenobi (feat. Moment Joon)",
-      "writer": "켄서펀트",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/991",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/991",
-      "videoId": "19Cr0wFE_T8",
-      "watchUrl": "https://www.youtube.com/watch?v=19Cr0wFE_T8",
-      "embedUrl": "https://www.youtube.com/embed/19Cr0wFE_T8",
-      "originalUrl": "https://www.youtube.com/embed/19Cr0wFE_T8?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1776069220350
     }
   ]
 }
