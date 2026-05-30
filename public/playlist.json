@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-05-29T21:34:50.529Z",
+  "generatedAt": "2026-05-30T20:29:17.507Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 93,
-  "detailMatchCount": 106,
+  "detailMatchCount": 104,
   "items": [
+    {
+      "key": "3427:40AAQZaJPBY",
+      "articleId": "3427",
+      "articleTitle": "지투 (g2), UGP - Human Tree Session Live | [DF LIVE]",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3427",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3427",
+      "videoId": "40AAQZaJPBY",
+      "watchUrl": "https://www.youtube.com/watch?v=40AAQZaJPBY",
+      "embedUrl": "https://www.youtube.com/embed/40AAQZaJPBY",
+      "originalUrl": "https://youtu.be/40AAQZaJPBY?",
+      "origin": "summary",
+      "writeTimestamp": 1780163744570
+    },
+    {
+      "key": "3426:cjGNu9qlLGY",
+      "articleId": "3426",
+      "articleTitle": "소중히 듣는 잔나비 두 최애곡 라이브",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3426",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3426",
+      "videoId": "cjGNu9qlLGY",
+      "watchUrl": "https://www.youtube.com/watch?v=cjGNu9qlLGY",
+      "embedUrl": "https://www.youtube.com/embed/cjGNu9qlLGY",
+      "originalUrl": "https://www.youtube.com/embed/cjGNu9qlLGY?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1780161633567
+    },
+    {
+      "key": "3424:dLZFBygRZCg",
+      "articleId": "3424",
+      "articleTitle": "백예린- TO 백예린- put it back on",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3424",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3424",
+      "videoId": "dLZFBygRZCg",
+      "watchUrl": "https://www.youtube.com/watch?v=dLZFBygRZCg",
+      "embedUrl": "https://www.youtube.com/embed/dLZFBygRZCg",
+      "originalUrl": "https://youtu.be/dLZFBygRZCg?",
+      "origin": "summary",
+      "writeTimestamp": 1780160013270
+    },
+    {
+      "key": "3386:dAV5u-GOHJ4",
+      "articleId": "3386",
+      "articleTitle": "뉴진스 작곡가 250 앨범 뽕 추천",
+      "writer": "이불맨",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3386",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3386",
+      "videoId": "dAV5u-GOHJ4",
+      "watchUrl": "https://www.youtube.com/watch?v=dAV5u-GOHJ4",
+      "embedUrl": "https://www.youtube.com/embed/dAV5u-GOHJ4",
+      "originalUrl": "https://www.youtube.com/embed/dAV5u-GOHJ4?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1780101382183
+    },
     {
       "key": "3385:1nIXqixnX0I",
       "articleId": "3385",
@@ -1056,20 +1112,6 @@
       "writeTimestamp": 1777915257667
     },
     {
-      "key": "2516:wqkAQFaeT-I",
-      "articleId": "2516",
-      "articleTitle": "릴러말즈 앨범 추천",
-      "writer": "R3dstorys",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2516",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2516",
-      "videoId": "wqkAQFaeT-I",
-      "watchUrl": "https://www.youtube.com/watch?v=wqkAQFaeT-I",
-      "embedUrl": "https://www.youtube.com/embed/wqkAQFaeT-I",
-      "originalUrl": "https://youtu.be/wqkAQFaeT-I?",
-      "origin": "detail",
-      "writeTimestamp": 1777907117883
-    },
-    {
       "key": "2514:IU371ATtL_I",
       "articleId": "2514",
       "articleTitle": "칸예 3집에 들어가지 못한 비운의 명곡",
@@ -1698,20 +1740,6 @@
       "originalUrl": "https://youtu.be/Qn8F_u0vBNI?",
       "origin": "summary",
       "writeTimestamp": 1776943078603
-    },
-    {
-      "key": "1701:80_mgTuXvr4",
-      "articleId": "1701",
-      "articleTitle": "빅나띠 일반 음원 공개",
-      "writer": "미꾸라지",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1701",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1701",
-      "videoId": "80_mgTuXvr4",
-      "watchUrl": "https://www.youtube.com/watch?v=80_mgTuXvr4",
-      "embedUrl": "https://www.youtube.com/embed/80_mgTuXvr4",
-      "originalUrl": "https://youtu.be/80_mgTuXvr4?li",
-      "origin": "detail",
-      "writeTimestamp": 1776926291740
     },
     {
       "key": "1691:ttPkPfQzEIg",
@@ -2734,62 +2762,6 @@
       "originalUrl": "https://youtu.be/rb6JYwYwZUM?t=180",
       "origin": "summary",
       "writeTimestamp": 1776095396583
-    },
-    {
-      "key": "1029:u304mBmRFok",
-      "articleId": "1029",
-      "articleTitle": "데카당 - 일당백",
-      "writer": "츠키",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1029",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1029",
-      "videoId": "u304mBmRFok",
-      "watchUrl": "https://www.youtube.com/watch?v=u304mBmRFok",
-      "embedUrl": "https://www.youtube.com/embed/u304mBmRFok",
-      "originalUrl": "https://youtu.be/u304mBmRFok?",
-      "origin": "summary",
-      "writeTimestamp": 1776091850677
-    },
-    {
-      "key": "999:pTMiaUgHyGw",
-      "articleId": "999",
-      "articleTitle": "스윙스 - Keep Going 2",
-      "writer": "단감씨",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/999",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/999",
-      "videoId": "pTMiaUgHyGw",
-      "watchUrl": "https://www.youtube.com/watch?v=pTMiaUgHyGw",
-      "embedUrl": "https://www.youtube.com/embed/pTMiaUgHyGw",
-      "originalUrl": "https://www.youtube.com/watch?v=pTMiaUgHyGw&li",
-      "origin": "summary",
-      "writeTimestamp": 1776072616987
-    },
-    {
-      "key": "995:8wKz7rN2pAk",
-      "articleId": "995",
-      "articleTitle": "\"날 싫어해 한국이 직업은 차무식\" BILL STAX - 차무식 (Ft. Leellamarz)",
-      "writer": "켄서펀트",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/995",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/995",
-      "videoId": "8wKz7rN2pAk",
-      "watchUrl": "https://www.youtube.com/watch?v=8wKz7rN2pAk",
-      "embedUrl": "https://www.youtube.com/embed/8wKz7rN2pAk",
-      "originalUrl": "https://www.youtube.com/embed/8wKz7rN2pAk?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1776070511057
-    },
-    {
-      "key": "994:Y9--MV-w7DA",
-      "articleId": "994",
-      "articleTitle": "\"여긴 오사카 이쿠노구 조선인 부락\" 마치카제(街風) - Jin Dogg (feat. REAL-T)",
-      "writer": "켄서펀트",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/994",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/994",
-      "videoId": "Y9--MV-w7DA",
-      "watchUrl": "https://www.youtube.com/watch?v=Y9--MV-w7DA",
-      "embedUrl": "https://www.youtube.com/embed/Y9--MV-w7DA",
-      "originalUrl": "https://www.youtube.com/embed/Y9--MV-w7DA?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1776069972460
     }
   ]
 }
