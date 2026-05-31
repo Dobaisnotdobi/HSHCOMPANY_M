@@ -1,10 +1,80 @@
 {
-  "generatedAt": "2026-05-30T20:29:17.507Z",
+  "generatedAt": "2026-05-31T20:29:38.949Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
   "summaryMatchCount": 93,
-  "detailMatchCount": 104,
+  "detailMatchCount": 110,
   "items": [
+    {
+      "key": "3438:9K9kWp8ZQAQ",
+      "articleId": "3438",
+      "articleTitle": "Tray B - LLLM (feat. Gaeko, ZICO)",
+      "writer": "Kanye West",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3438",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3438",
+      "videoId": "9K9kWp8ZQAQ",
+      "watchUrl": "https://www.youtube.com/watch?v=9K9kWp8ZQAQ",
+      "embedUrl": "https://www.youtube.com/embed/9K9kWp8ZQAQ",
+      "originalUrl": "https://youtu.be/9K9kWp8ZQAQ?",
+      "origin": "summary",
+      "writeTimestamp": 1780211098177
+    },
+    {
+      "key": "3433:eRzA1i-LhRg",
+      "articleId": "3433",
+      "articleTitle": "탕아처럼 살고싶을 때 듣기 좋은 노래들",
+      "writer": "도바",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3433",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3433",
+      "videoId": "eRzA1i-LhRg",
+      "watchUrl": "https://www.youtube.com/watch?v=eRzA1i-LhRg",
+      "embedUrl": "https://www.youtube.com/embed/eRzA1i-LhRg",
+      "originalUrl": "https://www.youtube.com/watch?v=eRzA1i-LhRg&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1780205596487
+    },
+    {
+      "key": "3433:5DNZ5lj4TIY",
+      "articleId": "3433",
+      "articleTitle": "탕아처럼 살고싶을 때 듣기 좋은 노래들",
+      "writer": "도바",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3433",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3433",
+      "videoId": "5DNZ5lj4TIY",
+      "watchUrl": "https://www.youtube.com/watch?v=5DNZ5lj4TIY",
+      "embedUrl": "https://www.youtube.com/embed/5DNZ5lj4TIY",
+      "originalUrl": "https://www.youtube.com/watch?v=5DNZ5lj4TIY&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1780205596487
+    },
+    {
+      "key": "3433:CVB7cl7cNYA",
+      "articleId": "3433",
+      "articleTitle": "탕아처럼 살고싶을 때 듣기 좋은 노래들",
+      "writer": "도바",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3433",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3433",
+      "videoId": "CVB7cl7cNYA",
+      "watchUrl": "https://www.youtube.com/watch?v=CVB7cl7cNYA",
+      "embedUrl": "https://www.youtube.com/embed/CVB7cl7cNYA",
+      "originalUrl": "https://www.youtube.com/watch?v=CVB7cl7cNYA&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1780205596487
+    },
+    {
+      "key": "3431:mgujmtgWEcY",
+      "articleId": "3431",
+      "articleTitle": "2026.05.30 HW music- TYPTM(feat.CAMO)",
+      "writer": "미꾸라지",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3431",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3431",
+      "videoId": "mgujmtgWEcY",
+      "watchUrl": "https://www.youtube.com/watch?v=mgujmtgWEcY",
+      "embedUrl": "https://www.youtube.com/embed/mgujmtgWEcY",
+      "originalUrl": "https://youtu.be/mgujmtgWEcY?",
+      "origin": "summary",
+      "writeTimestamp": 1780174943543
+    },
     {
       "key": "3427:40AAQZaJPBY",
       "articleId": "3427",
@@ -410,6 +480,20 @@
       "originalUrl": "https://www.youtube.com/embed/L0WVIjf8INA?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1779276548017
+    },
+    {
+      "key": "3131:Ew65b9BMrjU",
+      "articleId": "3131",
+      "articleTitle": "쌈디의 ONYX",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3131",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3131",
+      "videoId": "Ew65b9BMrjU",
+      "watchUrl": "https://www.youtube.com/watch?v=Ew65b9BMrjU",
+      "embedUrl": "https://www.youtube.com/embed/Ew65b9BMrjU",
+      "originalUrl": "https://youtu.be/Ew65b9BMrjU?",
+      "origin": "detail",
+      "writeTimestamp": 1779169879310
     },
     {
       "key": "3130:mOpQlPWr594",
@@ -886,6 +970,34 @@
       "originalUrl": "https://www.youtube.com/embed/XxJDpyETDjE?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1778253960517
+    },
+    {
+      "key": "2721:cOYOc0YwDCk",
+      "articleId": "2721",
+      "articleTitle": "요즘 킫밀 오카시 지리는거 같음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2721",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2721",
+      "videoId": "cOYOc0YwDCk",
+      "watchUrl": "https://www.youtube.com/watch?v=cOYOc0YwDCk",
+      "embedUrl": "https://www.youtube.com/embed/cOYOc0YwDCk",
+      "originalUrl": "https://youtu.be/cOYOc0YwDCk?",
+      "origin": "detail",
+      "writeTimestamp": 1778252621780
+    },
+    {
+      "key": "2721:0vaxuAqhXgo",
+      "articleId": "2721",
+      "articleTitle": "요즘 킫밀 오카시 지리는거 같음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2721",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2721",
+      "videoId": "0vaxuAqhXgo",
+      "watchUrl": "https://www.youtube.com/watch?v=0vaxuAqhXgo",
+      "embedUrl": "https://www.youtube.com/embed/0vaxuAqhXgo",
+      "originalUrl": "https://youtube.com/shorts/0vaxuAqhXgo?",
+      "origin": "detail",
+      "writeTimestamp": 1778252621780
     },
     {
       "key": "2715:reDvXLJBAtA",
@@ -2734,34 +2846,6 @@
       "originalUrl": "https://www.youtube.com/embed/lJbyww7r9qw?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776106825560
-    },
-    {
-      "key": "1055:8_GyMJb2i7E",
-      "articleId": "1055",
-      "articleTitle": "(신종자수방법)이슬림탄탄-서울대입구",
-      "writer": "독꼬붕",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1055",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1055",
-      "videoId": "8_GyMJb2i7E",
-      "watchUrl": "https://www.youtube.com/watch?v=8_GyMJb2i7E",
-      "embedUrl": "https://www.youtube.com/embed/8_GyMJb2i7E",
-      "originalUrl": "https://youtu.be/8_GyMJb2i7E?",
-      "origin": "summary",
-      "writeTimestamp": 1776096874643
-    },
-    {
-      "key": "1049:rb6JYwYwZUM",
-      "articleId": "1049",
-      "articleTitle": "SSPOP 3 미리듣기?",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1049",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1049",
-      "videoId": "rb6JYwYwZUM",
-      "watchUrl": "https://www.youtube.com/watch?v=rb6JYwYwZUM",
-      "embedUrl": "https://www.youtube.com/embed/rb6JYwYwZUM",
-      "originalUrl": "https://youtu.be/rb6JYwYwZUM?t=180",
-      "origin": "summary",
-      "writeTimestamp": 1776095396583
     }
   ]
 }
