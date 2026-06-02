@@ -1,10 +1,80 @@
 {
-  "generatedAt": "2026-06-01T22:20:59.311Z",
+  "generatedAt": "2026-06-02T22:03:16.017Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 93,
-  "detailMatchCount": 107,
+  "summaryMatchCount": 98,
+  "detailMatchCount": 105,
   "items": [
+    {
+      "key": "3486:RcD-aY0E5EA",
+      "articleId": "3486",
+      "articleTitle": "밤에 술들으면서 마시기 좋은 노래",
+      "writer": "도바",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3486",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3486",
+      "videoId": "RcD-aY0E5EA",
+      "watchUrl": "https://www.youtube.com/watch?v=RcD-aY0E5EA",
+      "embedUrl": "https://www.youtube.com/embed/RcD-aY0E5EA",
+      "originalUrl": "https://www.youtube.com/watch?v=RcD-aY0E5EA&li",
+      "origin": "summary",
+      "writeTimestamp": 1780422051873
+    },
+    {
+      "key": "3486:Wwn4uZ1kUPM",
+      "articleId": "3486",
+      "articleTitle": "밤에 술들으면서 마시기 좋은 노래",
+      "writer": "도바",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3486",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3486",
+      "videoId": "Wwn4uZ1kUPM",
+      "watchUrl": "https://www.youtube.com/watch?v=Wwn4uZ1kUPM",
+      "embedUrl": "https://www.youtube.com/embed/Wwn4uZ1kUPM",
+      "originalUrl": "https://www.youtube.com/watch?v=Wwn4uZ1kUPM&li",
+      "origin": "summary",
+      "writeTimestamp": 1780422051873
+    },
+    {
+      "key": "3486:Jno8yCWcBk8",
+      "articleId": "3486",
+      "articleTitle": "밤에 술들으면서 마시기 좋은 노래",
+      "writer": "도바",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3486",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3486",
+      "videoId": "Jno8yCWcBk8",
+      "watchUrl": "https://www.youtube.com/watch?v=Jno8yCWcBk8",
+      "embedUrl": "https://www.youtube.com/embed/Jno8yCWcBk8",
+      "originalUrl": "https://www.youtube.com/watch?v=Jno8yCWcBk8&li",
+      "origin": "summary",
+      "writeTimestamp": 1780422051873
+    },
+    {
+      "key": "3478:wBIK815AqKw",
+      "articleId": "3478",
+      "articleTitle": "김상민그는감히전설이라고할수있다 중3 때 작업물",
+      "writer": "아아아123",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3478",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3478",
+      "videoId": "wBIK815AqKw",
+      "watchUrl": "https://www.youtube.com/watch?v=wBIK815AqKw",
+      "embedUrl": "https://www.youtube.com/embed/wBIK815AqKw",
+      "originalUrl": "https://youtu.be/wBIK815AqKw?",
+      "origin": "summary",
+      "writeTimestamp": 1780405155553
+    },
+    {
+      "key": "3478:z-wqrk4IlUE",
+      "articleId": "3478",
+      "articleTitle": "김상민그는감히전설이라고할수있다 중3 때 작업물",
+      "writer": "아아아123",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3478",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3478",
+      "videoId": "z-wqrk4IlUE",
+      "watchUrl": "https://www.youtube.com/watch?v=z-wqrk4IlUE",
+      "embedUrl": "https://www.youtube.com/embed/z-wqrk4IlUE",
+      "originalUrl": "https://youtube.com/shorts/z-wqrk4IlUE?",
+      "origin": "summary",
+      "writeTimestamp": 1780405155553
+    },
     {
       "key": "3458:cO2LQvgMA_k",
       "articleId": "3458",
@@ -2776,34 +2846,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=Ax2odXqjIx0",
       "origin": "detail",
       "writeTimestamp": 1776121629060
-    },
-    {
-      "key": "1064:PZ5ZA2QxLpU",
-      "articleId": "1064",
-      "articleTitle": "여자들한테 전화오는놈과 엄마한테 전화오는놈",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1064",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1064",
-      "videoId": "PZ5ZA2QxLpU",
-      "watchUrl": "https://www.youtube.com/watch?v=PZ5ZA2QxLpU",
-      "embedUrl": "https://www.youtube.com/embed/PZ5ZA2QxLpU",
-      "originalUrl": "https://www.youtube.com/watch?v=PZ5ZA2QxLpU",
-      "origin": "detail",
-      "writeTimestamp": 1776117562017
-    },
-    {
-      "key": "1063:MwUhwy-TQpM",
-      "articleId": "1063",
-      "articleTitle": "누가 우리 용준이 건드려이씨",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1063",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1063",
-      "videoId": "MwUhwy-TQpM",
-      "watchUrl": "https://www.youtube.com/watch?v=MwUhwy-TQpM",
-      "embedUrl": "https://www.youtube.com/embed/MwUhwy-TQpM",
-      "originalUrl": "https://www.youtube.com/watch?v=MwUhwy-TQpM",
-      "origin": "detail",
-      "writeTimestamp": 1776117072943
     }
   ]
 }
