@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-06-02T22:03:16.017Z",
+  "generatedAt": "2026-06-03T22:11:45.609Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 98,
+  "summaryMatchCount": 99,
   "detailMatchCount": 105,
   "items": [
+    {
+      "key": "3516:3oenwbFEwrA",
+      "articleId": "3516",
+      "articleTitle": "비와이 앨범 듣다가 생각난 노래",
+      "writer": "CJKerio",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3516",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3516",
+      "videoId": "3oenwbFEwrA",
+      "watchUrl": "https://www.youtube.com/watch?v=3oenwbFEwrA",
+      "embedUrl": "https://www.youtube.com/embed/3oenwbFEwrA",
+      "originalUrl": "https://www.youtube.com/embed/3oenwbFEwrA?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1780491584267
+    },
+    {
+      "key": "3509:3VtgeqwYle0",
+      "articleId": "3509",
+      "articleTitle": "어떻게 힙합 노래 제목이 쌰갈?",
+      "writer": "라유09",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3509",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3509",
+      "videoId": "3VtgeqwYle0",
+      "watchUrl": "https://www.youtube.com/watch?v=3VtgeqwYle0",
+      "embedUrl": "https://www.youtube.com/embed/3VtgeqwYle0",
+      "originalUrl": "https://youtube.com/watch?v=3VtgeqwYle0&",
+      "origin": "summary",
+      "writeTimestamp": 1780488829210
+    },
+    {
+      "key": "3493:ypXaJqmJ34U",
+      "articleId": "3493",
+      "articleTitle": "무기력에서 텐션 끌어올려주는 뱅어 모음",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3493",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3493",
+      "videoId": "ypXaJqmJ34U",
+      "watchUrl": "https://www.youtube.com/watch?v=ypXaJqmJ34U",
+      "embedUrl": "https://www.youtube.com/embed/ypXaJqmJ34U",
+      "originalUrl": "https://www.youtube.com/embed/ypXaJqmJ34U?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1780470897940
+    },
+    {
+      "key": "3493:LtaVzhVZFC8",
+      "articleId": "3493",
+      "articleTitle": "무기력에서 텐션 끌어올려주는 뱅어 모음",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3493",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3493",
+      "videoId": "LtaVzhVZFC8",
+      "watchUrl": "https://www.youtube.com/watch?v=LtaVzhVZFC8",
+      "embedUrl": "https://www.youtube.com/embed/LtaVzhVZFC8",
+      "originalUrl": "https://www.youtube.com/embed/LtaVzhVZFC8?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1780470897940
+    },
     {
       "key": "3486:RcD-aY0E5EA",
       "articleId": "3486",
@@ -2804,48 +2860,6 @@
       "originalUrl": "https://www.youtube.com/embed/BrwvOA0q0GA?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776164945017
-    },
-    {
-      "key": "1097:nNR74qU3VXA",
-      "articleId": "1097",
-      "articleTitle": "우원재 (Woo) - '싸가지 (Feat. 비비 (BIBI))'",
-      "writer": "켄서펀트",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1097",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1097",
-      "videoId": "nNR74qU3VXA",
-      "watchUrl": "https://www.youtube.com/watch?v=nNR74qU3VXA",
-      "embedUrl": "https://www.youtube.com/embed/nNR74qU3VXA",
-      "originalUrl": "https://www.youtube.com/embed/nNR74qU3VXA?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1776162076570
-    },
-    {
-      "key": "1071:CLdzzVFq33c",
-      "articleId": "1071",
-      "articleTitle": "빡빡이는 모두 천재다",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1071",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1071",
-      "videoId": "CLdzzVFq33c",
-      "watchUrl": "https://www.youtube.com/watch?v=CLdzzVFq33c",
-      "embedUrl": "https://www.youtube.com/embed/CLdzzVFq33c",
-      "originalUrl": "https://www.youtube.com/watch?v=CLdzzVFq33c",
-      "origin": "detail",
-      "writeTimestamp": 1776121629060
-    },
-    {
-      "key": "1071:Ax2odXqjIx0",
-      "articleId": "1071",
-      "articleTitle": "빡빡이는 모두 천재다",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1071",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1071",
-      "videoId": "Ax2odXqjIx0",
-      "watchUrl": "https://www.youtube.com/watch?v=Ax2odXqjIx0",
-      "embedUrl": "https://www.youtube.com/embed/Ax2odXqjIx0",
-      "originalUrl": "https://www.youtube.com/watch?v=Ax2odXqjIx0",
-      "origin": "detail",
-      "writeTimestamp": 1776121629060
     }
   ]
 }
