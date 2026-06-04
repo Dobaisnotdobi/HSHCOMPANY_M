@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-06-03T22:11:45.609Z",
+  "generatedAt": "2026-06-04T21:20:20.863Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 99,
-  "detailMatchCount": 105,
+  "summaryMatchCount": 101,
+  "detailMatchCount": 102,
   "items": [
+    {
+      "key": "3545:zwf5MpcuKDM",
+      "articleId": "3545",
+      "articleTitle": "Masego - Tadow",
+      "writer": "JHOUKF",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3545",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3545",
+      "videoId": "zwf5MpcuKDM",
+      "watchUrl": "https://www.youtube.com/watch?v=zwf5MpcuKDM",
+      "embedUrl": "https://www.youtube.com/embed/zwf5MpcuKDM",
+      "originalUrl": "https://youtu.be/zwf5MpcuKDM?",
+      "origin": "summary",
+      "writeTimestamp": 1780574488943
+    },
+    {
+      "key": "3534:ZxvPthCebW8",
+      "articleId": "3534",
+      "articleTitle": "힙합은아니지만 새빛-지고피다",
+      "writer": "독꼬붕",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3534",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3534",
+      "videoId": "ZxvPthCebW8",
+      "watchUrl": "https://www.youtube.com/watch?v=ZxvPthCebW8",
+      "embedUrl": "https://www.youtube.com/embed/ZxvPthCebW8",
+      "originalUrl": "https://youtu.be/ZxvPthCebW8?",
+      "origin": "summary",
+      "writeTimestamp": 1780553699027
+    },
+    {
+      "key": "3533:3VtgeqwYle0",
+      "articleId": "3533",
+      "articleTitle": "ZENE THE ZILLA - 쌰갈 (Feat. 김하온 (HAON))",
+      "writer": "자주놀자",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3533",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3533",
+      "videoId": "3VtgeqwYle0",
+      "watchUrl": "https://www.youtube.com/watch?v=3VtgeqwYle0",
+      "embedUrl": "https://www.youtube.com/embed/3VtgeqwYle0",
+      "originalUrl": "https://youtu.be/3VtgeqwYle0?",
+      "origin": "summary",
+      "writeTimestamp": 1780551586160
+    },
     {
       "key": "3516:3oenwbFEwrA",
       "articleId": "3516",
@@ -1476,20 +1518,6 @@
       "writeTimestamp": 1777700520883
     },
     {
-      "key": "2177:T5Ft4_NDj4E",
-      "articleId": "2177",
-      "articleTitle": "탑 앨범에서 유일하게 계속 듣는 곡",
-      "writer": "JUSTHIS",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2177",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2177",
-      "videoId": "T5Ft4_NDj4E",
-      "watchUrl": "https://www.youtube.com/watch?v=T5Ft4_NDj4E",
-      "embedUrl": "https://www.youtube.com/embed/T5Ft4_NDj4E",
-      "originalUrl": "https://youtu.be/T5Ft4_NDj4E?",
-      "origin": "detail",
-      "writeTimestamp": 1777561883103
-    },
-    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -2818,48 +2846,6 @@
       "originalUrl": "https://youtu.be/EmGV8AyBvYU?",
       "origin": "summary",
       "writeTimestamp": 1776210644363
-    },
-    {
-      "key": "1149:MgI76bh6yyg",
-      "articleId": "1149",
-      "articleTitle": "ALEPH - 영혼의 단짝",
-      "writer": "유구얼",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1149",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1149",
-      "videoId": "MgI76bh6yyg",
-      "watchUrl": "https://www.youtube.com/watch?v=MgI76bh6yyg",
-      "embedUrl": "https://www.youtube.com/embed/MgI76bh6yyg",
-      "originalUrl": "https://youtu.be/MgI76bh6yyg?",
-      "origin": "summary",
-      "writeTimestamp": 1776201726740
-    },
-    {
-      "key": "1132:XjBxF66665I",
-      "articleId": "1132",
-      "articleTitle": "칸예 tlop 리스닝파티 다시보는 레전드(쇼츠)",
-      "writer": "인즈",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1132",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1132",
-      "videoId": "XjBxF66665I",
-      "watchUrl": "https://www.youtube.com/watch?v=XjBxF66665I",
-      "embedUrl": "https://www.youtube.com/embed/XjBxF66665I",
-      "originalUrl": "https://www.youtube.com/embed/XjBxF66665I?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1776183843667
-    },
-    {
-      "key": "1099:BrwvOA0q0GA",
-      "articleId": "1099",
-      "articleTitle": "홍다빈-shower song",
-      "writer": "납엄진",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1099",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1099",
-      "videoId": "BrwvOA0q0GA",
-      "watchUrl": "https://www.youtube.com/watch?v=BrwvOA0q0GA",
-      "embedUrl": "https://www.youtube.com/embed/BrwvOA0q0GA",
-      "originalUrl": "https://www.youtube.com/embed/BrwvOA0q0GA?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1776164945017
     }
   ]
 }
