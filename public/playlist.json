@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-05T21:13:52.316Z",
+  "generatedAt": "2026-06-06T20:27:59.340Z",
   "pageCount": 20,
   "sourceArticleCount": 300,
-  "summaryMatchCount": 101,
-  "detailMatchCount": 102,
+  "summaryMatchCount": 100,
+  "detailMatchCount": 103,
   "items": [
     {
       "key": "3545:zwf5MpcuKDM",
@@ -1362,6 +1362,20 @@
       "originalUrl": "https://youtu.be/MG3Y77vLZNM?",
       "origin": "summary",
       "writeTimestamp": 1777915257667
+    },
+    {
+      "key": "2516:Y21VecIIdBI",
+      "articleId": "2516",
+      "articleTitle": "릴러말즈 앨범 추천",
+      "writer": "R3dstorys",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2516",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2516",
+      "videoId": "Y21VecIIdBI",
+      "watchUrl": "https://www.youtube.com/watch?v=Y21VecIIdBI",
+      "embedUrl": "https://www.youtube.com/embed/Y21VecIIdBI",
+      "originalUrl": "https://youtu.be/Y21VecIIdBI?",
+      "origin": "detail",
+      "writeTimestamp": 1777907117883
     },
     {
       "key": "2514:IU371ATtL_I",
@@ -2832,20 +2846,6 @@
       "originalUrl": "https://www.youtube.com/embed/lFAB6EHrQzQ?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776235735720
-    },
-    {
-      "key": "1154:EmGV8AyBvYU",
-      "articleId": "1154",
-      "articleTitle": "제 앨범입니다) GLARE",
-      "writer": "사애",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1154",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1154",
-      "videoId": "EmGV8AyBvYU",
-      "watchUrl": "https://www.youtube.com/watch?v=EmGV8AyBvYU",
-      "embedUrl": "https://www.youtube.com/embed/EmGV8AyBvYU",
-      "originalUrl": "https://youtu.be/EmGV8AyBvYU?",
-      "origin": "summary",
-      "writeTimestamp": 1776210644363
     }
   ]
 }
