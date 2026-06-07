@@ -1,0 +1,8 @@
+{"timestamp":"2026-06-07T20:00:00+09:00","stream_url":"https://play.sooplive.com/example_bj","title":"저녁 소통: 오늘 뭐 먹지","category":"talk","viewer_count":118,"event_type":"snapshot"}
+{"timestamp":"2026-06-07T20:03:12+09:00","stream_url":"https://play.sooplive.com/example_bj","title":"저녁 소통: 오늘 뭐 먹지","category":"talk","viewer_count":126,"event_type":"chat","user_id":"user-001","nickname":"민트","message":"안녕하세요"}
+{"timestamp":"2026-06-07T20:04:01+09:00","stream_url":"https://play.sooplive.com/example_bj","title":"저녁 소통: 오늘 뭐 먹지","category":"talk","viewer_count":129,"event_type":"chat","user_id":"user-002","nickname":"라임","message":"치킨 가죠"}
+{"timestamp":"2026-06-07T20:12:45+09:00","stream_url":"https://play.sooplive.com/example_bj","title":"저녁 소통: 오늘 뭐 먹지","category":"talk","viewer_count":142,"event_type":"chat","user_id":"user-001","nickname":"민트","message":"오늘 텐션 좋다"}
+{"timestamp":"2026-06-07T21:00:00+09:00","stream_url":"https://play.sooplive.com/example_bj","title":"공포게임 켠왕","category":"game","viewer_count":205,"event_type":"snapshot"}
+{"timestamp":"2026-06-07T21:06:20+09:00","stream_url":"https://play.sooplive.com/example_bj","title":"공포게임 켠왕","category":"game","viewer_count":221,"event_type":"chat","user_id":"user-003","nickname":"새벽반","message":"불 꺼주세요"}
+{"timestamp":"2026-06-07T21:07:10+09:00","stream_url":"https://play.sooplive.com/example_bj","title":"공포게임 켠왕","category":"game","viewer_count":226,"event_type":"chat","user_id":"user-002","nickname":"라임","message":"이 제목이면 못 참지"}
+{"timestamp":"2026-06-07T21:31:03+09:00","stream_url":"https://play.sooplive.com/example_bj","title":"공포게임 켠왕","category":"game","viewer_count":248,"event_type":"chat","user_id":"user-001","nickname":"민트","message":"방금 진짜 놀람"}

@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SOOP 참여 분석</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">SOOP PARTICIPATION TRACKER</p>
+          <h1>SOOP 참여 분석</h1>
+        </div>
+        <div class="topbar-actions">
+          <button id="sampleButton" class="icon-button" type="button" title="샘플 불러오기" aria-label="샘플 불러오기">
+            <span aria-hidden="true">↺</span>
+          </button>
+          <button id="exportButton" class="icon-button" type="button" title="CSV 내보내기" aria-label="CSV 내보내기">
+            <span aria-hidden="true">↓</span>
+          </button>
+          <button id="clearButton" class="icon-button danger" type="button" title="데이터 삭제" aria-label="데이터 삭제">
+            <span aria-hidden="true">×</span>
+          </button>
+        </div>
+      </header>
+
+      <section class="control-band">
+        <label class="field wide">
+          <span>방송 링크</span>
+          <input id="streamUrlInput" type="url" placeholder="https://play.sooplive.com/example_bj" />
+        </label>
+        <label class="file-picker">
+          <input id="fileInput" type="file" accept=".jsonl,.json,.csv,text/plain,application/json" />
+          <span>파일 선택</span>
+        </label>
+      </section>
+
+      <section class="metrics-grid" aria-label="요약 지표">
+        <article class="metric">
+          <span>채팅 이벤트</span>
+          <strong id="chatCount">0</strong>
+        </article>
+        <article class="metric">
+          <span>참여 유저</span>
+          <strong id="userCount">0</strong>
+        </article>
+        <article class="metric">
+          <span>방송 제목</span>
+          <strong id="titleCount">0</strong>
+        </article>
+        <article class="metric">
+          <span>최대 시청자</span>
+          <strong id="maxViewers">0</strong>
+        </article>
+      </section>
+
+      <section class="workspace">
+        <section class="panel chart-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="panel-kicker">시간대</p>
+              <h2>채팅 활동</h2>
+            </div>
+            <select id="chartMode" aria-label="차트 기준">
+              <option value="hour">시간별</option>
+              <option value="title">제목별</option>
+            </select>
+          </div>
+          <canvas id="activityChart" width="960" height="420"></canvas>
+        </section>
+
+        <aside class="panel ingest-panel">
+          <div class="panel-heading compact">
+            <div>
+              <p class="panel-kicker">수집 범위</p>
+              <h2>운영 기준</h2>
+            </div>
+          </div>
+          <ul class="policy-list">
+            <li>채팅 유저 중심으로 분석</li>
+            <li>침묵 시청자는 전체 수 변화만 저장</li>
+            <li>비공식 로그인 요청 복제 금지</li>
+            <li>닉네임과 메시지는 최소 보관</li>
+          </ul>
+          <form id="manualForm" class="manual-form">
+            <label class="field">
+              <span>제목</span>
+              <input name="title" autocomplete="off" />
+            </label>
+            <label class="field">
+              <span>닉네임</span>
+              <input name="nickname" autocomplete="off" />
+            </label>
+            <label class="field">
+              <span>메시지</span>
+              <input name="message" autocomplete="off" />
+            </label>
+            <label class="field">
+              <span>시청자 수</span>
+              <input name="viewer_count" type="number" min="0" step="1" />
+            </label>
+            <button class="primary-button" type="submit">이벤트 추가</button>
+          </form>
+        </aside>
+      </section>
+
+      <section class="tables-grid">
+        <section class="panel">
+          <div class="panel-heading compact">
+            <div>
+              <p class="panel-kicker">유저</p>
+              <h2>활동 순위</h2>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>유저</th>
+                  <th>채팅</th>
+                  <th>첫 등장</th>
+                  <th>마지막</th>
+                </tr>
+              </thead>
+              <tbody id="userTable"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading compact">
+            <div>
+              <p class="panel-kicker">제목</p>
+              <h2>반응 유저</h2>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>방송 제목</th>
+                  <th>유저</th>
+                  <th>채팅</th>
+                </tr>
+              </thead>
+              <tbody id="titleTable"></tbody>
+            </table>
+          </div>
+        </section>
+      </section>
+
+      <footer class="status-line">
+        <span id="statusText">JSONL 또는 CSV 파일을 선택하면 브라우저에서만 분석합니다.</span>
+      </footer>
+    </main>
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
