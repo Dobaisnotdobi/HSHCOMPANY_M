@@ -1,12 +1,13 @@
 # Naver Cafe Random Player
 
-공개 네이버 카페 게시판 20페이지에서 유튜브 링크를 수집해 랜덤 재생하는 정적 웹앱입니다.
+공개 네이버 카페 게시판 40페이지에서 유튜브 링크를 수집해 랜덤 재생하는 정적 웹앱입니다.
 
 ## 특징
 
 - 링크만 열면 바로 사용할 수 있는 공개 웹앱
 - YouTube 임베드 플레이어와 원글 링크 박스 제공
 - 좋아요 / 싫어요를 각 사용자 브라우저 `localStorage` 에만 저장
+- 설정 패널에서 테마 컬러와 개인 배경 이미지를 브라우저별로 저장
 - 자동 갱신 실행 중에는 `[목록 갱신중>.O]` 팝업 표시
 - GitHub Pages + GitHub Actions 기반의 무서버 배포 구조
 
@@ -44,7 +45,7 @@ https://<github-user>.github.io/<repository-name>/
 ## 배포 방식
 
 - `Deploy GitHub Pages` 워크플로는 저장소에 커밋된 `public/` 폴더를 일반 변경 배포에 사용합니다.
-- `Refresh Playlist` 워크플로는 한국 시간 기준 매일 새벽 4시에 네이버 카페를 다시 수집해 `public/playlist.json` 을 갱신합니다.
+- `Refresh Playlist` 워크플로는 한국 시간 기준 매일 새벽 2시 27분에 네이버 카페를 다시 수집해 `public/playlist.json` 을 갱신합니다.
 - 수집 워크플로는 변경이 있을 때 `playlist.json` 을 커밋한 뒤, 같은 실행 안에서 GitHub Pages까지 다시 배포합니다.
 - 사이트는 가장 최근에 배포된 공개 `playlist.json` 을 기준으로 동작하며, 페이지가 열려 있는 동안 갱신 완료가 감지되면 최신 목록을 다시 불러옵니다.
 - 수집 실패가 나도 기존 공개 사이트는 그대로 유지되고, 성공했을 때만 최신 목록으로 교체됩니다.

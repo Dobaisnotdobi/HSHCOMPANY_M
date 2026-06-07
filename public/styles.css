@@ -10,6 +10,15 @@
   --accent-strong: #a63b14;
   --chip: #ece1cf;
   --shadow: 0 20px 60px rgba(72, 47, 14, 0.12);
+  --glow-one: rgba(202, 79, 33, 0.18);
+  --glow-two: rgba(65, 138, 102, 0.17);
+  --surface-start: #fbf8ef;
+  --surface-end: #f1ecdf;
+  --player-start: rgba(44, 31, 18, 0.92);
+  --player-end: rgba(83, 49, 19, 0.96);
+  --player-base: #2f2013;
+  --user-bg-image: none;
+  --user-bg-opacity: 0;
 }
 
 * {
@@ -17,17 +26,33 @@
 }
 
 body {
+  position: relative;
   margin: 0;
   min-height: 100vh;
   color: var(--text);
   font-family: "Segoe UI", "Noto Sans KR", sans-serif;
   background:
-    radial-gradient(circle at top left, rgba(202, 79, 33, 0.18), transparent 28%),
-    radial-gradient(circle at top right, rgba(65, 138, 102, 0.17), transparent 24%),
-    linear-gradient(180deg, #fbf8ef 0%, #f1ecdf 100%);
+    radial-gradient(circle at top left, var(--glow-one), transparent 28%),
+    radial-gradient(circle at top right, var(--glow-two), transparent 24%),
+    linear-gradient(180deg, var(--surface-start) 0%, var(--surface-end) 100%);
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background-image: var(--user-bg-image);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: var(--user-bg-opacity);
+  pointer-events: none;
 }
 
 .app-shell {
+  position: relative;
+  z-index: 1;
   max-width: 1180px;
   margin: 0 auto;
   padding: 32px 20px 60px;
@@ -85,24 +110,28 @@ body {
   line-height: 1.65;
 }
 
-.admin-editor[hidden] {
+.admin-editor[hidden],
+.settings-editor[hidden] {
   display: none;
 }
 
-.admin-editor {
+.admin-editor,
+.settings-editor {
   position: fixed;
   inset: 0;
   z-index: 20;
 }
 
-.admin-editor-backdrop {
+.admin-editor-backdrop,
+.settings-editor-backdrop {
   position: absolute;
   inset: 0;
   background: rgba(45, 33, 20, 0.48);
   backdrop-filter: blur(8px);
 }
 
-.admin-editor-panel {
+.admin-editor-panel,
+.settings-editor-panel {
   position: relative;
   width: min(760px, calc(100vw - 32px));
   margin: 48px auto;
@@ -113,14 +142,16 @@ body {
   box-shadow: var(--shadow);
 }
 
-.admin-editor-header {
+.admin-editor-header,
+.settings-editor-header {
   display: flex;
   gap: 16px;
   align-items: flex-start;
   justify-content: space-between;
 }
 
-.admin-editor-header h2 {
+.admin-editor-header h2,
+.settings-editor-header h2 {
   margin: 0;
   font-size: 28px;
   line-height: 1.15;
@@ -162,6 +193,104 @@ body {
   margin: 16px 0 0;
   color: var(--muted);
   line-height: 1.6;
+}
+
+.settings-section {
+  display: grid;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.settings-section-title {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.theme-options {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.theme-option {
+  appearance: none;
+  display: grid;
+  gap: 9px;
+  justify-items: center;
+  min-height: 86px;
+  padding: 12px 10px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  color: var(--text);
+  font-weight: 800;
+  background: rgba(255, 255, 255, 0.68);
+  cursor: pointer;
+}
+
+.theme-option.is-active {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(202, 79, 33, 0.14);
+}
+
+.theme-swatch {
+  width: 38px;
+  height: 38px;
+  border: 1px solid rgba(45, 33, 20, 0.16);
+  border-radius: 999px;
+}
+
+.theme-swatch.ember {
+  background: linear-gradient(135deg, #ca4f21 0%, #3e8f5d 100%);
+}
+
+.theme-swatch.forest {
+  background: linear-gradient(135deg, #246b49 0%, #d18f34 100%);
+}
+
+.theme-swatch.marine {
+  background: linear-gradient(135deg, #226f8f 0%, #d45b5b 100%);
+}
+
+.theme-swatch.mono {
+  background: linear-gradient(135deg, #2d3748 0%, #b7791f 100%);
+}
+
+.background-controls {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.upload-button {
+  display: inline-flex;
+  align-items: center;
+}
+
+.upload-button input {
+  display: none;
+}
+
+.background-preview {
+  min-height: 96px;
+  border: 1px dashed var(--line);
+  border-radius: 18px;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.54), rgba(255, 255, 255, 0.16)),
+    var(--user-bg-image);
+  background-position: center;
+  background-size: cover;
+}
+
+.opacity-control {
+  grid-template-columns: minmax(0, 1fr) minmax(150px, 2fr) auto;
+  align-items: center;
+}
+
+.opacity-control input {
+  width: 100%;
+  accent-color: var(--accent);
 }
 
 .hero-actions {
@@ -225,8 +354,8 @@ button:hover,
   min-height: 420px;
   border-radius: 24px;
   background:
-    linear-gradient(145deg, rgba(44, 31, 18, 0.92), rgba(83, 49, 19, 0.96)),
-    #2f2013;
+    linear-gradient(145deg, var(--player-start), var(--player-end)),
+    var(--player-base);
 }
 
 #playerMount,
@@ -556,10 +685,20 @@ button:hover,
     min-height: 280px;
   }
 
-  .admin-editor-panel {
+  .admin-editor-panel,
+  .settings-editor-panel {
     margin: 18px auto;
     padding: 18px;
     border-radius: 20px;
+  }
+
+  .theme-options,
+  .opacity-control {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .opacity-control strong {
+    justify-self: end;
   }
 
   .refresh-toast {

@@ -20,6 +20,7 @@
           <p id="heroNote" class="publish-note">좋아요/싫어요 체크 여부는 본인에게만 표기됩니다.</p>
         </div>
         <div class="hero-actions">
+          <button id="settingsButton" class="secondary-button" type="button">설정</button>
           <button id="randomButton" class="secondary-button" type="button">다음 랜덤</button>
         </div>
       </section>
@@ -126,6 +127,58 @@
           <button id="adminSaveButton" class="primary-button" type="button">전체 반영 저장</button>
         </div>
         <p class="admin-editor-tip">관리자모드에서 입력칸 밖을 선택한 뒤 스페이스를 누르면 갱신중 팝업 미리보기를 켜고 끌 수 있습니다.</p>
+      </section>
+    </div>
+    <div id="settingsEditor" class="settings-editor" hidden>
+      <div id="settingsBackdrop" class="settings-editor-backdrop"></div>
+      <section class="settings-editor-panel" aria-labelledby="settingsEditorTitle">
+        <div class="settings-editor-header">
+          <div>
+            <p class="meta-label">개인 설정</p>
+            <h2 id="settingsEditorTitle">화면 설정</h2>
+          </div>
+          <button id="settingsCloseButton" class="mini-button" type="button">닫기</button>
+        </div>
+
+        <section class="settings-section">
+          <p class="settings-section-title">테마 컬러</p>
+          <div id="themeOptions" class="theme-options" aria-label="테마 컬러 선택">
+            <button class="theme-option" type="button" data-theme="ember">
+              <span class="theme-swatch ember"></span>
+              <span>오렌지</span>
+            </button>
+            <button class="theme-option" type="button" data-theme="forest">
+              <span class="theme-swatch forest"></span>
+              <span>포레스트</span>
+            </button>
+            <button class="theme-option" type="button" data-theme="marine">
+              <span class="theme-swatch marine"></span>
+              <span>마린</span>
+            </button>
+            <button class="theme-option" type="button" data-theme="mono">
+              <span class="theme-swatch mono"></span>
+              <span>모노</span>
+            </button>
+          </div>
+        </section>
+
+        <section class="settings-section">
+          <p class="settings-section-title">배경 이미지</p>
+          <div class="background-controls">
+            <label class="mini-button upload-button">
+              이미지 첨부
+              <input id="backgroundImageInput" type="file" accept="image/*" />
+            </label>
+            <button id="clearBackgroundButton" class="mini-button" type="button">이미지 제거</button>
+          </div>
+          <div id="backgroundPreview" class="background-preview"></div>
+        </section>
+
+        <label class="settings-section opacity-control">
+          <span class="settings-section-title">이미지 투명도</span>
+          <input id="backgroundOpacityInput" type="range" min="0" max="0.75" step="0.05" value="0.25" />
+          <strong id="backgroundOpacityValue">25%</strong>
+        </label>
       </section>
     </div>
     <div id="refreshToast" class="refresh-toast" hidden aria-live="polite">[목록 갱신중&gt;.O]</div>

@@ -1,6 +1,9 @@
 const STORAGE_KEYS = {
   liked: "naver-cafe-random-player-liked",
   disliked: "naver-cafe-random-player-disliked",
+  theme: "naver-cafe-random-player-theme",
+  backgroundImage: "naver-cafe-random-player-background-image",
+  backgroundOpacity: "naver-cafe-random-player-background-opacity",
 };
 
 const ADMIN_PASSWORD = "4856";
@@ -25,7 +28,83 @@ const DEFAULT_REPO_INFO = {
   branch: "master",
 };
 
+const COLOR_THEMES = {
+  ember: {
+    "--panel": "rgba(255, 252, 245, 0.94)",
+    "--panel-strong": "#fffdf7",
+    "--line": "rgba(64, 45, 18, 0.14)",
+    "--text": "#2d2114",
+    "--muted": "#7d6a54",
+    "--accent": "#ca4f21",
+    "--accent-strong": "#a63b14",
+    "--chip": "#ece1cf",
+    "--shadow": "0 20px 60px rgba(72, 47, 14, 0.12)",
+    "--glow-one": "rgba(202, 79, 33, 0.18)",
+    "--glow-two": "rgba(65, 138, 102, 0.17)",
+    "--surface-start": "#fbf8ef",
+    "--surface-end": "#f1ecdf",
+    "--player-start": "rgba(44, 31, 18, 0.92)",
+    "--player-end": "rgba(83, 49, 19, 0.96)",
+    "--player-base": "#2f2013",
+  },
+  forest: {
+    "--panel": "rgba(248, 252, 246, 0.94)",
+    "--panel-strong": "#fbfff7",
+    "--line": "rgba(29, 71, 49, 0.16)",
+    "--text": "#18291e",
+    "--muted": "#64715f",
+    "--accent": "#2f7d56",
+    "--accent-strong": "#1f593d",
+    "--chip": "#dfecd8",
+    "--shadow": "0 20px 60px rgba(28, 76, 43, 0.12)",
+    "--glow-one": "rgba(47, 125, 86, 0.16)",
+    "--glow-two": "rgba(209, 143, 52, 0.18)",
+    "--surface-start": "#f7fbf1",
+    "--surface-end": "#e9f1df",
+    "--player-start": "rgba(18, 42, 30, 0.92)",
+    "--player-end": "rgba(38, 78, 47, 0.96)",
+    "--player-base": "#122a1e",
+  },
+  marine: {
+    "--panel": "rgba(246, 251, 253, 0.94)",
+    "--panel-strong": "#fbfeff",
+    "--line": "rgba(30, 90, 116, 0.16)",
+    "--text": "#172935",
+    "--muted": "#60717b",
+    "--accent": "#24769a",
+    "--accent-strong": "#185774",
+    "--chip": "#dcecf2",
+    "--shadow": "0 20px 60px rgba(26, 82, 112, 0.13)",
+    "--glow-one": "rgba(36, 118, 154, 0.16)",
+    "--glow-two": "rgba(212, 91, 91, 0.16)",
+    "--surface-start": "#f3fbfd",
+    "--surface-end": "#e3eef3",
+    "--player-start": "rgba(16, 38, 52, 0.92)",
+    "--player-end": "rgba(25, 76, 99, 0.96)",
+    "--player-base": "#102634",
+  },
+  mono: {
+    "--panel": "rgba(250, 250, 248, 0.94)",
+    "--panel-strong": "#ffffff",
+    "--line": "rgba(45, 55, 72, 0.14)",
+    "--text": "#202633",
+    "--muted": "#6b7280",
+    "--accent": "#4a5568",
+    "--accent-strong": "#2d3748",
+    "--chip": "#e7e9ed",
+    "--shadow": "0 20px 60px rgba(31, 41, 55, 0.12)",
+    "--glow-one": "rgba(74, 85, 104, 0.13)",
+    "--glow-two": "rgba(183, 121, 31, 0.15)",
+    "--surface-start": "#fafafa",
+    "--surface-end": "#eceff3",
+    "--player-start": "rgba(26, 32, 44, 0.92)",
+    "--player-end": "rgba(74, 85, 104, 0.96)",
+    "--player-base": "#1a202c",
+  },
+};
+
 const dom = {
+  settingsButton: document.getElementById("settingsButton"),
   randomButton: document.getElementById("randomButton"),
   likeButton: document.getElementById("likeButton"),
   dislikeButton: document.getElementById("dislikeButton"),
@@ -55,6 +134,15 @@ const dom = {
   editorHeroTitle: document.getElementById("editorHeroTitle"),
   editorHeroSubtitle: document.getElementById("editorHeroSubtitle"),
   editorHeroNote: document.getElementById("editorHeroNote"),
+  settingsEditor: document.getElementById("settingsEditor"),
+  settingsBackdrop: document.getElementById("settingsBackdrop"),
+  settingsCloseButton: document.getElementById("settingsCloseButton"),
+  themeOptions: document.getElementById("themeOptions"),
+  backgroundImageInput: document.getElementById("backgroundImageInput"),
+  clearBackgroundButton: document.getElementById("clearBackgroundButton"),
+  backgroundPreview: document.getElementById("backgroundPreview"),
+  backgroundOpacityInput: document.getElementById("backgroundOpacityInput"),
+  backgroundOpacityValue: document.getElementById("backgroundOpacityValue"),
   refreshToast: document.getElementById("refreshToast"),
 };
 
@@ -68,6 +156,11 @@ const state = {
   heroCopy: { ...DEFAULT_HERO_COPY },
   refreshPreviewVisible: false,
   workflowRefreshing: false,
+  settings: {
+    theme: "ember",
+    backgroundImage: "",
+    backgroundOpacity: 0.25,
+  },
 };
 
 let player = null;
@@ -86,6 +179,133 @@ function loadSet(key) {
 
 function saveSet(key, values) {
   localStorage.setItem(key, JSON.stringify([...values]));
+}
+
+function clampNumber(value, min, max) {
+  const number = Number(value);
+  if (!Number.isFinite(number)) {
+    return min;
+  }
+
+  return Math.min(max, Math.max(min, number));
+}
+
+function loadUserSettings() {
+  const theme = localStorage.getItem(STORAGE_KEYS.theme) || "ember";
+  const backgroundImage = localStorage.getItem(STORAGE_KEYS.backgroundImage) || "";
+  const backgroundOpacity = clampNumber(localStorage.getItem(STORAGE_KEYS.backgroundOpacity) || 0.25, 0, 0.75);
+
+  state.settings = {
+    theme: COLOR_THEMES[theme] ? theme : "ember",
+    backgroundImage,
+    backgroundOpacity,
+  };
+}
+
+function saveUserSettings() {
+  localStorage.setItem(STORAGE_KEYS.theme, state.settings.theme);
+  localStorage.setItem(STORAGE_KEYS.backgroundOpacity, String(state.settings.backgroundOpacity));
+
+  if (state.settings.backgroundImage) {
+    localStorage.setItem(STORAGE_KEYS.backgroundImage, state.settings.backgroundImage);
+  } else {
+    localStorage.removeItem(STORAGE_KEYS.backgroundImage);
+  }
+}
+
+function cssUrl(value) {
+  if (!value) {
+    return "none";
+  }
+
+  return `url("${String(value).replaceAll("\\", "\\\\").replaceAll('"', '\\"')}")`;
+}
+
+function applyUserSettings() {
+  const theme = COLOR_THEMES[state.settings.theme] || COLOR_THEMES.ember;
+  for (const [key, value] of Object.entries(theme)) {
+    document.documentElement.style.setProperty(key, value);
+  }
+
+  document.documentElement.style.setProperty("--user-bg-image", cssUrl(state.settings.backgroundImage));
+  document.documentElement.style.setProperty("--user-bg-opacity", String(state.settings.backgroundOpacity));
+  renderSettingsControls();
+}
+
+function renderSettingsControls() {
+  if (!dom.themeOptions) {
+    return;
+  }
+
+  dom.themeOptions.querySelectorAll("[data-theme]").forEach((button) => {
+    button.classList.toggle("is-active", button.dataset.theme === state.settings.theme);
+  });
+
+  dom.backgroundOpacityInput.value = String(state.settings.backgroundOpacity);
+  dom.backgroundOpacityValue.textContent = `${Math.round(state.settings.backgroundOpacity * 100)}%`;
+  dom.backgroundPreview.classList.toggle("has-image", Boolean(state.settings.backgroundImage));
+}
+
+function persistAndApplySettings() {
+  try {
+    saveUserSettings();
+    applyUserSettings();
+  } catch {
+    setStatus("설정을 저장하지 못했습니다. 이미지 용량을 줄여 다시 시도해 주세요.");
+  }
+}
+
+function openSettingsEditor() {
+  renderSettingsControls();
+  dom.settingsEditor.hidden = false;
+}
+
+function closeSettingsEditor() {
+  dom.settingsEditor.hidden = true;
+}
+
+function readFileAsDataUrl(file) {
+  return new Promise((resolve, reject) => {
+    const reader = new FileReader();
+    reader.addEventListener("load", () => resolve(String(reader.result || "")));
+    reader.addEventListener("error", () => reject(reader.error || new Error("이미지를 읽지 못했습니다.")));
+    reader.readAsDataURL(file);
+  });
+}
+
+function loadImage(src) {
+  return new Promise((resolve, reject) => {
+    const image = new Image();
+    image.addEventListener("load", () => resolve(image));
+    image.addEventListener("error", () => reject(new Error("이미지를 불러오지 못했습니다.")));
+    image.src = src;
+  });
+}
+
+async function prepareBackgroundImage(file) {
+  if (!file || !file.type.startsWith("image/")) {
+    throw new Error("이미지 파일만 첨부할 수 있습니다.");
+  }
+
+  const original = await readFileAsDataUrl(file);
+  if (original.length < 1_800_000) {
+    return original;
+  }
+
+  const image = await loadImage(original);
+  const maxSide = 1600;
+  const scale = Math.min(1, maxSide / Math.max(image.naturalWidth, image.naturalHeight));
+  const canvas = document.createElement("canvas");
+  canvas.width = Math.max(1, Math.round(image.naturalWidth * scale));
+  canvas.height = Math.max(1, Math.round(image.naturalHeight * scale));
+
+  const context = canvas.getContext("2d");
+  if (!context) {
+    throw new Error("이미지를 처리하지 못했습니다.");
+  }
+
+  context.drawImage(image, 0, 0, canvas.width, canvas.height);
+  return canvas.toDataURL("image/jpeg", 0.82);
 }
 
 const likedSet = loadSet(STORAGE_KEYS.liked);
@@ -894,6 +1114,43 @@ dom.adminCloseButton.addEventListener("click", closeAdminEditor);
 dom.adminBackdrop.addEventListener("click", closeAdminEditor);
 dom.adminSaveButton.addEventListener("click", saveAdminEditor);
 dom.adminResetButton.addEventListener("click", fillDefaultAdminEditor);
+dom.settingsButton.addEventListener("click", openSettingsEditor);
+dom.settingsCloseButton.addEventListener("click", closeSettingsEditor);
+dom.settingsBackdrop.addEventListener("click", closeSettingsEditor);
+dom.themeOptions.addEventListener("click", (event) => {
+  const target = event.target.closest("[data-theme]");
+  if (!target || !COLOR_THEMES[target.dataset.theme]) {
+    return;
+  }
+
+  state.settings.theme = target.dataset.theme;
+  persistAndApplySettings();
+});
+dom.backgroundImageInput.addEventListener("change", async () => {
+  const file = dom.backgroundImageInput.files?.[0];
+  if (!file) {
+    return;
+  }
+
+  try {
+    setStatus("배경 이미지를 적용하는 중입니다.");
+    state.settings.backgroundImage = await prepareBackgroundImage(file);
+    persistAndApplySettings();
+    setStatus("배경 이미지를 적용했습니다.");
+  } catch (error) {
+    setStatus(error instanceof Error ? error.message : String(error));
+  } finally {
+    dom.backgroundImageInput.value = "";
+  }
+});
+dom.clearBackgroundButton.addEventListener("click", () => {
+  state.settings.backgroundImage = "";
+  persistAndApplySettings();
+});
+dom.backgroundOpacityInput.addEventListener("input", () => {
+  state.settings.backgroundOpacity = clampNumber(dom.backgroundOpacityInput.value, 0, 0.75);
+  persistAndApplySettings();
+});
 document.addEventListener("visibilitychange", () => {
   if (document.hidden) {
     return;
@@ -904,6 +1161,8 @@ document.addEventListener("visibilitychange", () => {
 });
 
 async function boot() {
+  loadUserSettings();
+  applyUserSettings();
   await fetchSiteCopy();
   showPlayerPlaceholder("유튜브 플레이어를 준비하는 중입니다.");
   updateRefreshToast();

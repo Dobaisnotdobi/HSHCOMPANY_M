@@ -13,7 +13,7 @@ const OUTPUT_FILE = path.join(ROOT_DIR, "public", "playlist.json");
 
 const CAFE_ID = "31702916";
 const MENU_ID = "25";
-const PAGE_COUNT = 20;
+const PAGE_COUNT = 40;
 const PER_PAGE = 15;
 const DETAIL_CONCURRENCY = 2;
 
