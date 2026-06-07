@@ -1,14 +1,22 @@
 :root {
-  color-scheme: light;
+  color-scheme: var(--color-scheme);
+  --color-scheme: light;
   --bg: #f2efe7;
   --panel: rgba(255, 252, 245, 0.94);
   --panel-strong: #fffdf7;
   --line: rgba(64, 45, 18, 0.14);
   --text: #2d2114;
   --muted: #7d6a54;
+  --note: #5f4d39;
   --accent: #ca4f21;
   --accent-strong: #a63b14;
   --chip: #ece1cf;
+  --control-bg: rgba(255, 255, 255, 0.64);
+  --field-bg: rgba(255, 255, 255, 0.92);
+  --source-bg: rgba(202, 79, 33, 0.06);
+  --source-border: rgba(202, 79, 33, 0.35);
+  --toast-bg: rgba(255, 253, 247, 0.94);
+  --empty-bg: rgba(255, 255, 255, 0.52);
   --shadow: 0 20px 60px rgba(72, 47, 14, 0.12);
   --glow-one: rgba(202, 79, 33, 0.18);
   --glow-two: rgba(65, 138, 102, 0.17);
@@ -106,7 +114,7 @@ body::before {
 .publish-note {
   margin: 16px 0 0;
   max-width: 760px;
-  color: #5f4d39;
+  color: var(--note);
   line-height: 1.65;
 }
 
@@ -275,20 +283,20 @@ body::before {
   background: linear-gradient(135deg, #2d3748 0%, #b7791f 100%);
 }
 
-.theme-swatch.ember-dark {
-  background: linear-gradient(135deg, #e36a35 0%, #281b14 100%);
+.theme-swatch.midnight {
+  background: linear-gradient(135deg, #6ea8ff 0%, #070b15 100%);
 }
 
-.theme-swatch.forest-dark {
-  background: linear-gradient(135deg, #4da36f 0%, #12231a 100%);
+.theme-swatch.neon {
+  background: linear-gradient(135deg, #2de2c5 0%, #ff47a0 100%);
 }
 
-.theme-swatch.marine-dark {
-  background: linear-gradient(135deg, #49a5c8 0%, #112631 100%);
+.theme-swatch.abyss {
+  background: linear-gradient(135deg, #38bdf8 0%, #04101a 100%);
 }
 
-.theme-swatch.mono-dark {
-  background: linear-gradient(135deg, #8a96a8 0%, #171c26 100%);
+.theme-swatch.amethyst {
+  background: linear-gradient(135deg, #c084fc 0%, #130a1f 100%);
 }
 
 .background-controls {
@@ -487,12 +495,12 @@ button:hover,
   display: inline-flex;
   width: 100%;
   padding: 14px 16px;
-  border: 1px dashed rgba(202, 79, 33, 0.35);
+  border: 1px dashed var(--source-border);
   border-radius: 16px;
   color: var(--accent-strong);
   text-decoration: none;
   line-height: 1.55;
-  background: rgba(202, 79, 33, 0.06);
+  background: var(--source-bg);
 }
 
 .status-text {
@@ -513,7 +521,7 @@ button:hover,
   font-size: 14px;
   font-weight: 800;
   letter-spacing: 0.08em;
-  background: rgba(255, 253, 247, 0.94);
+  background: var(--toast-bg);
   box-shadow: 0 18px 40px rgba(72, 47, 14, 0.16);
   backdrop-filter: blur(12px);
   pointer-events: none;
@@ -672,7 +680,7 @@ button:hover,
   border-radius: 20px;
   color: var(--muted);
   text-align: center;
-  background: rgba(255, 255, 255, 0.52);
+  background: var(--empty-bg);
 }
 
 @media (max-width: 980px) {
