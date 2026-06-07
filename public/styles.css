@@ -178,7 +178,7 @@ body::before {
   border-radius: 16px;
   font: inherit;
   color: var(--text);
-  background: rgba(255, 255, 255, 0.92);
+  background: var(--field-bg);
 }
 
 .admin-editor-actions {
@@ -210,6 +210,24 @@ body::before {
 
 .theme-options {
   display: grid;
+  gap: 14px;
+}
+
+.theme-group {
+  display: grid;
+  gap: 8px;
+}
+
+.theme-group-label {
+  margin: 0;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 0.14em;
+}
+
+.theme-grid {
+  display: grid;
   gap: 10px;
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
@@ -225,7 +243,7 @@ body::before {
   border-radius: 18px;
   color: var(--text);
   font-weight: 800;
-  background: rgba(255, 255, 255, 0.68);
+  background: var(--control-bg);
   cursor: pointer;
 }
 
@@ -257,6 +275,22 @@ body::before {
   background: linear-gradient(135deg, #2d3748 0%, #b7791f 100%);
 }
 
+.theme-swatch.ember-dark {
+  background: linear-gradient(135deg, #e36a35 0%, #281b14 100%);
+}
+
+.theme-swatch.forest-dark {
+  background: linear-gradient(135deg, #4da36f 0%, #12231a 100%);
+}
+
+.theme-swatch.marine-dark {
+  background: linear-gradient(135deg, #49a5c8 0%, #112631 100%);
+}
+
+.theme-swatch.mono-dark {
+  background: linear-gradient(135deg, #8a96a8 0%, #171c26 100%);
+}
+
 .background-controls {
   display: flex;
   gap: 10px;
@@ -277,7 +311,7 @@ body::before {
   border: 1px dashed var(--line);
   border-radius: 18px;
   background:
-    linear-gradient(135deg, rgba(255, 255, 255, 0.54), rgba(255, 255, 255, 0.16)),
+    linear-gradient(135deg, var(--control-bg), rgba(255, 255, 255, 0.04)),
     var(--user-bg-image);
   background-position: center;
   background-size: cover;
@@ -337,7 +371,7 @@ button:hover,
   border: 1px solid var(--line);
   padding: 14px 18px;
   color: var(--text);
-  background: rgba(255, 255, 255, 0.64);
+  background: var(--control-bg);
 }
 
 .player-panel {
@@ -612,7 +646,7 @@ button:hover,
   padding: 10px 14px;
   font-weight: 700;
   color: var(--text);
-  background: white;
+  background: var(--control-bg);
 }
 
 .mini-button.is-selected-like {
@@ -692,7 +726,7 @@ button:hover,
     border-radius: 20px;
   }
 
-  .theme-options,
+  .theme-grid,
   .opacity-control {
     grid-template-columns: 1fr 1fr;
   }
