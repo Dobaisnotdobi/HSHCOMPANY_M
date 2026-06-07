@@ -107,6 +107,22 @@
           <button id="adminCloseButton" class="mini-button" type="button">닫기</button>
         </div>
 
+        <section class="admin-analytics" aria-label="방문자 통계">
+          <div class="admin-analytics-card">
+            <span>실시간 이용자</span>
+            <strong id="activeVisitorCount">-</strong>
+          </div>
+          <div class="admin-analytics-card">
+            <span>누적 방문자</span>
+            <strong id="totalVisitorCount">-</strong>
+          </div>
+          <div class="admin-analytics-card">
+            <span>통계 상태</span>
+            <strong id="visitorStatsStatus">연결 전</strong>
+            <small id="visitorStatsSyncedAt">-</small>
+          </div>
+        </section>
+
         <label class="editor-field">
           <span>메인 제목</span>
           <textarea id="editorHeroTitle" rows="2"></textarea>

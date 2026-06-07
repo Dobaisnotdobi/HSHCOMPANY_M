@@ -165,6 +165,37 @@ body::before {
   line-height: 1.15;
 }
 
+.admin-analytics {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 20px;
+}
+
+.admin-analytics-card {
+  display: grid;
+  gap: 6px;
+  min-height: 104px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--control-bg);
+}
+
+.admin-analytics-card span,
+.admin-analytics-card small {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+  line-height: 1.45;
+}
+
+.admin-analytics-card strong {
+  color: var(--text);
+  font-size: 28px;
+  line-height: 1.15;
+}
+
 .editor-field {
   display: grid;
   gap: 8px;
@@ -732,6 +763,10 @@ button:hover,
     margin: 18px auto;
     padding: 18px;
     border-radius: 20px;
+  }
+
+  .admin-analytics {
+    grid-template-columns: 1fr;
   }
 
   .theme-grid,

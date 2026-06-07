@@ -14,6 +14,20 @@ const REFRESH_WORKFLOW_PATH = "refresh-playlist.yml";
 const REFRESH_TOAST_TEXT = "[목록 갱신중>.O]";
 const REFRESH_STATUS_IDLE_POLL_MS = 5 * 60 * 1000;
 const REFRESH_STATUS_ACTIVE_POLL_MS = 20 * 1000;
+const VISITOR_ID_KEY = "hshcompany-visitor-id";
+const VISITOR_HEARTBEAT_MS = 30 * 1000;
+const VISITOR_ACTIVE_WINDOW_MS = 90 * 1000;
+const FIREBASE_SDK_VERSION = "10.12.5";
+
+const FIREBASE_CONFIG = {
+  apiKey: "AIzaSyAcNezYijmT0eFxQYZXqnmkReUsQsVWitU",
+  authDomain: "hshcompany.firebaseapp.com",
+  projectId: "hshcompany",
+  storageBucket: "hshcompany.firebasestorage.app",
+  messagingSenderId: "251711506542",
+  appId: "1:251711506542:web:0ef0c0285a7b3f01a43e7f",
+  measurementId: "G-QW43HR4E9H",
+};
 
 const DEFAULT_HERO_COPY = {
   title: "한냉오풍 랜덤 플레이리스트",
@@ -270,6 +284,10 @@ const dom = {
   editorHeroTitle: document.getElementById("editorHeroTitle"),
   editorHeroSubtitle: document.getElementById("editorHeroSubtitle"),
   editorHeroNote: document.getElementById("editorHeroNote"),
+  activeVisitorCount: document.getElementById("activeVisitorCount"),
+  totalVisitorCount: document.getElementById("totalVisitorCount"),
+  visitorStatsStatus: document.getElementById("visitorStatsStatus"),
+  visitorStatsSyncedAt: document.getElementById("visitorStatsSyncedAt"),
   settingsEditor: document.getElementById("settingsEditor"),
   settingsBackdrop: document.getElementById("settingsBackdrop"),
   settingsCloseButton: document.getElementById("settingsCloseButton"),
@@ -292,6 +310,12 @@ const state = {
   heroCopy: { ...DEFAULT_HERO_COPY },
   refreshPreviewVisible: false,
   workflowRefreshing: false,
+  visitorStats: {
+    activeVisitors: null,
+    totalVisitors: null,
+    status: "연결 전",
+    syncedAt: null,
+  },
   settings: {
     theme: "ember",
     backgroundImage: "",
@@ -302,6 +326,8 @@ const state = {
 let player = null;
 let playerApiPromise = null;
 let refreshStatusTimer = 0;
+let visitorStatsTimer = 0;
+let visitorStatsRuntime = null;
 
 function loadSet(key) {
   try {
@@ -449,6 +475,233 @@ const dislikedSet = loadSet(STORAGE_KEYS.disliked);
 
 function setStatus(message) {
   dom.statusText.textContent = message;
+}
+
+function formatVisitorSyncedAt(value) {
+  if (!value) {
+    return "-";
+  }
+
+  return new Intl.DateTimeFormat("ko-KR", {
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit",
+  }).format(value);
+}
+
+function renderVisitorStats() {
+  if (!dom.activeVisitorCount || !dom.totalVisitorCount || !dom.visitorStatsStatus || !dom.visitorStatsSyncedAt) {
+    return;
+  }
+
+  const { activeVisitors, totalVisitors, status, syncedAt } = state.visitorStats;
+  dom.activeVisitorCount.textContent = Number.isFinite(activeVisitors) ? String(activeVisitors) : "-";
+  dom.totalVisitorCount.textContent = Number.isFinite(totalVisitors) ? String(totalVisitors) : "-";
+  dom.visitorStatsStatus.textContent = status;
+  dom.visitorStatsSyncedAt.textContent = formatVisitorSyncedAt(syncedAt);
+}
+
+function setVisitorStatsStatus(status) {
+  state.visitorStats.status = status;
+  state.visitorStats.syncedAt = new Date();
+  renderVisitorStats();
+}
+
+function describeVisitorStatsError(error) {
+  const code = error?.code || "";
+  const message = error?.message || "";
+
+  if (code === "permission-denied") {
+    return "통계 권한 확인 필요";
+  }
+
+  if (code === "failed-precondition" || code === "not-found") {
+    return "Firestore 설정 필요";
+  }
+
+  if (code === "unavailable") {
+    return "통계 연결 지연";
+  }
+
+  if (message.includes("dynamically imported module")) {
+    return "Firebase SDK 연결 실패";
+  }
+
+  return "Firebase 설정 필요";
+}
+
+function createVisitorId() {
+  if (window.crypto?.randomUUID) {
+    return window.crypto.randomUUID();
+  }
+
+  return `visitor-${Date.now()}-${Math.random().toString(36).slice(2)}`;
+}
+
+function getVisitorId() {
+  const existing = localStorage.getItem(VISITOR_ID_KEY);
+  if (existing) {
+    return existing;
+  }
+
+  const nextVisitorId = createVisitorId();
+  localStorage.setItem(VISITOR_ID_KEY, nextVisitorId);
+  return nextVisitorId;
+}
+
+async function loadFirebaseModules() {
+  const baseUrl = `https://www.gstatic.com/firebasejs/${FIREBASE_SDK_VERSION}`;
+  const [appModule, analyticsModule, firestoreModule] = await Promise.all([
+    import(`${baseUrl}/firebase-app.js`),
+    import(`${baseUrl}/firebase-analytics.js`),
+    import(`${baseUrl}/firebase-firestore.js`),
+  ]);
+
+  return {
+    initializeApp: appModule.initializeApp,
+    getAnalytics: analyticsModule.getAnalytics,
+    isAnalyticsSupported: analyticsModule.isSupported,
+    getFirestore: firestoreModule.getFirestore,
+    collection: firestoreModule.collection,
+    doc: firestoreModule.doc,
+    getDoc: firestoreModule.getDoc,
+    setDoc: firestoreModule.setDoc,
+    serverTimestamp: firestoreModule.serverTimestamp,
+    increment: firestoreModule.increment,
+    query: firestoreModule.query,
+    where: firestoreModule.where,
+    onSnapshot: firestoreModule.onSnapshot,
+  };
+}
+
+async function initFirebaseAnalytics(app, firebase) {
+  try {
+    if (await firebase.isAnalyticsSupported()) {
+      firebase.getAnalytics(app);
+    }
+  } catch {
+    // Analytics is optional; visitor counters use Firestore below.
+  }
+}
+
+function subscribeTotalVisitorCount(firebase, db) {
+  const statsRef = firebase.doc(db, "siteStats", "global");
+  return firebase.onSnapshot(
+    statsRef,
+    (snapshot) => {
+      const value = snapshot.data()?.totalVisitors;
+      state.visitorStats.totalVisitors = Number.isFinite(value) ? value : 0;
+      state.visitorStats.status = "연결됨";
+      state.visitorStats.syncedAt = new Date();
+      renderVisitorStats();
+    },
+    (error) => {
+      setVisitorStatsStatus(describeVisitorStatsError(error));
+    },
+  );
+}
+
+function subscribeActiveVisitorCount(firebase, db) {
+  if (visitorStatsRuntime?.activeUnsubscribe) {
+    visitorStatsRuntime.activeUnsubscribe();
+  }
+
+  const activeSince = Date.now() - VISITOR_ACTIVE_WINDOW_MS;
+  const visitorsQuery = firebase.query(
+    firebase.collection(db, "visitorPresence"),
+    firebase.where("lastSeenMs", ">=", activeSince),
+  );
+
+  visitorStatsRuntime.activeUnsubscribe = firebase.onSnapshot(
+    visitorsQuery,
+    (snapshot) => {
+      state.visitorStats.activeVisitors = snapshot.size;
+      state.visitorStats.status = "연결됨";
+      state.visitorStats.syncedAt = new Date();
+      renderVisitorStats();
+    },
+    (error) => {
+      setVisitorStatsStatus(describeVisitorStatsError(error));
+    },
+  );
+}
+
+async function writeVisitorHeartbeat(firebase, db, visitorRef) {
+  const now = Date.now();
+  await firebase.setDoc(
+    visitorRef,
+    {
+      lastSeen: firebase.serverTimestamp(),
+      lastSeenMs: now,
+      path: window.location.pathname,
+    },
+    { merge: true },
+  );
+}
+
+async function initVisitorStats() {
+  renderVisitorStats();
+
+  try {
+    const firebase = await loadFirebaseModules();
+    const app = firebase.initializeApp(FIREBASE_CONFIG);
+    initFirebaseAnalytics(app, firebase);
+
+    const db = firebase.getFirestore(app);
+    const visitorId = getVisitorId();
+    const visitorRef = firebase.doc(db, "visitorPresence", visitorId);
+    const statsRef = firebase.doc(db, "siteStats", "global");
+    const visitorSnapshot = await firebase.getDoc(visitorRef);
+
+    await firebase.setDoc(
+      visitorRef,
+      {
+        createdAt: visitorSnapshot.exists()
+          ? visitorSnapshot.data()?.createdAt || firebase.serverTimestamp()
+          : firebase.serverTimestamp(),
+        firstPath: visitorSnapshot.exists()
+          ? visitorSnapshot.data()?.firstPath || window.location.pathname
+          : window.location.pathname,
+        lastSeen: firebase.serverTimestamp(),
+        lastSeenMs: Date.now(),
+        path: window.location.pathname,
+      },
+      { merge: true },
+    );
+
+    if (!visitorSnapshot.exists()) {
+      await firebase.setDoc(
+        statsRef,
+        {
+          totalVisitors: firebase.increment(1),
+          updatedAt: firebase.serverTimestamp(),
+        },
+        { merge: true },
+      );
+    }
+
+    visitorStatsRuntime = {
+      firebase,
+      db,
+      visitorRef,
+      activeUnsubscribe: null,
+      totalUnsubscribe: subscribeTotalVisitorCount(firebase, db),
+    };
+
+    subscribeActiveVisitorCount(firebase, db);
+    setVisitorStatsStatus("연결됨");
+
+    visitorStatsTimer = window.setInterval(async () => {
+      try {
+        await writeVisitorHeartbeat(firebase, db, visitorRef);
+        subscribeActiveVisitorCount(firebase, db);
+      } catch {
+        setVisitorStatsStatus("통계 갱신 지연");
+      }
+    }, VISITOR_HEARTBEAT_MS);
+  } catch (error) {
+    setVisitorStatsStatus(describeVisitorStatsError(error));
+  }
 }
 
 function updateRefreshToast() {
@@ -927,6 +1180,7 @@ function openAdminEditor() {
   dom.editorHeroTitle.value = state.heroCopy.title;
   dom.editorHeroSubtitle.value = state.heroCopy.subtitle;
   dom.editorHeroNote.value = state.heroCopy.note;
+  renderVisitorStats();
   dom.adminEditor.hidden = false;
 }
 
@@ -1299,6 +1553,7 @@ document.addEventListener("visibilitychange", () => {
 async function boot() {
   loadUserSettings();
   applyUserSettings();
+  initVisitorStats();
   await fetchSiteCopy();
   showPlayerPlaceholder("유튜브 플레이어를 준비하는 중입니다.");
   updateRefreshToast();
