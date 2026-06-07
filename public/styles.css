@@ -76,6 +76,22 @@ body::before {
   backdrop-filter: blur(12px);
 }
 
+:root.is-theme-switching *,
+:root.is-theme-switching *::before,
+:root.is-theme-switching *::after {
+  transition: none !important;
+}
+
+:root.is-theme-switching .hero,
+:root.is-theme-switching .player-panel,
+:root.is-theme-switching .list-panel,
+:root.is-theme-switching .admin-editor-panel,
+:root.is-theme-switching .settings-editor-panel,
+:root.is-theme-switching .refresh-toast {
+  box-shadow: none;
+  backdrop-filter: none;
+}
+
 .hero {
   display: grid;
   gap: 24px;

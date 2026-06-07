@@ -18,6 +18,8 @@ const VISITOR_ID_KEY = "hshcompany-visitor-id";
 const VISITOR_HEARTBEAT_MS = 30 * 1000;
 const VISITOR_ACTIVE_WINDOW_MS = 90 * 1000;
 const FIREBASE_SDK_VERSION = "10.12.5";
+const THEME_SWITCH_CLASS = "is-theme-switching";
+const THEME_SWITCH_SETTLE_MS = 180;
 
 const FIREBASE_CONFIG = {
   apiKey: "AIzaSyAcNezYijmT0eFxQYZXqnmkReUsQsVWitU",
@@ -328,6 +330,7 @@ let playerApiPromise = null;
 let refreshStatusTimer = 0;
 let visitorStatsTimer = 0;
 let visitorStatsRuntime = null;
+let themeSwitchTimer = 0;
 
 function loadSet(key) {
   try {
@@ -383,7 +386,19 @@ function cssUrl(value) {
   return `url("${String(value).replaceAll("\\", "\\\\").replaceAll('"', '\\"')}")`;
 }
 
-function applyUserSettings() {
+function startThemeSwitchOptimization() {
+  window.clearTimeout(themeSwitchTimer);
+  document.documentElement.classList.add(THEME_SWITCH_CLASS);
+  themeSwitchTimer = window.setTimeout(() => {
+    document.documentElement.classList.remove(THEME_SWITCH_CLASS);
+  }, THEME_SWITCH_SETTLE_MS);
+}
+
+function applyUserSettings({ optimizeThemeSwitch = false } = {}) {
+  if (optimizeThemeSwitch) {
+    startThemeSwitchOptimization();
+  }
+
   const theme = COLOR_THEMES[state.settings.theme] || COLOR_THEMES.ember;
   for (const [key, value] of Object.entries(theme)) {
     document.documentElement.style.setProperty(key, value);
@@ -408,10 +423,10 @@ function renderSettingsControls() {
   dom.backgroundPreview.classList.toggle("has-image", Boolean(state.settings.backgroundImage));
 }
 
-function persistAndApplySettings() {
+function persistAndApplySettings(options = {}) {
   try {
     saveUserSettings();
-    applyUserSettings();
+    applyUserSettings(options);
   } catch {
     setStatus("설정을 저장하지 못했습니다. 이미지 용량을 줄여 다시 시도해 주세요.");
   }
@@ -1513,8 +1528,12 @@ dom.themeOptions.addEventListener("click", (event) => {
     return;
   }
 
+  if (state.settings.theme === target.dataset.theme) {
+    return;
+  }
+
   state.settings.theme = target.dataset.theme;
-  persistAndApplySettings();
+  persistAndApplySettings({ optimizeThemeSwitch: true });
 });
 dom.backgroundImageInput.addEventListener("change", async () => {
   const file = dom.backgroundImageInput.files?.[0];
