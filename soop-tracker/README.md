@@ -61,6 +61,8 @@ https://Dobaisnotdobi.github.io/HSHCOMPANY_M/soop-tracker/
 
 웹앱은 JSONL/JSON/CSV 파일을 브라우저에서만 읽고 `localStorage`에 저장합니다. 서버 DB가 없기 때문에 개인별 장기 수집은 로컬 파일 또는 별도 백엔드 연동이 필요합니다.
 
+방송 링크 입력칸은 SOOP에서 데이터를 실시간으로 가져오는 기능이 아니라, 가져온 이벤트 중 어떤 채널 데이터를 볼지 고르는 필터입니다. 예를 들어 `https://www.sooplive.com/station/kangturtle`를 입력하면 `stream_url`이 같은 링크이거나 채널 ID가 `kangturtle`인 이벤트만 집계합니다.
+
 ## 입력 JSONL 형식
 
 한 줄에 하나의 JSON 객체를 넣습니다.

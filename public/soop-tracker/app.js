@@ -1,4 +1,5 @@
 const STORAGE_KEY = "soop-participation-events-v1";
+const STREAM_INPUT_KEY = "soop-participation-active-stream-v1";
 
 const sampleEvents = [
   {
@@ -79,9 +80,19 @@ const elements = {
 };
 
 elements.fileInput.addEventListener("change", handleFileChange);
+elements.streamUrlInput.value = loadStreamInput();
+elements.streamUrlInput.addEventListener("input", () => {
+  localStorage.setItem(STREAM_INPUT_KEY, elements.streamUrlInput.value.trim());
+  render();
+});
 elements.sampleButton.addEventListener("click", () => {
   mergeEvents(sampleEvents);
-  setStatus("샘플 이벤트를 불러왔습니다.");
+  const activeStream = elements.streamUrlInput.value.trim();
+  setStatus(
+    activeStream
+      ? "샘플은 example_bj 데이터라 현재 링크와 다릅니다. 입력칸을 비우면 샘플이 보입니다."
+      : "샘플 이벤트를 불러왔습니다.",
+  );
 });
 elements.exportButton.addEventListener("click", exportCsv);
 elements.clearButton.addEventListener("click", clearEvents);
@@ -100,6 +111,11 @@ function loadEvents() {
   } catch {
     return [];
   }
+}
+
+function loadStreamInput() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get("stream") || localStorage.getItem(STREAM_INPUT_KEY) || "";
 }
 
 function persistEvents() {
@@ -214,15 +230,16 @@ function handleManualSubmit(event) {
 }
 
 function buildSummary() {
-  const chatEvents = state.events.filter((event) => event.event_type !== "snapshot" && event.user_id);
-  const titles = new Set(state.events.map((event) => event.title).filter(Boolean));
+  const visibleEvents = getVisibleEvents();
+  const chatEvents = visibleEvents.filter((event) => event.event_type !== "snapshot" && event.user_id);
+  const titles = new Set(visibleEvents.map((event) => event.title).filter(Boolean));
   const users = new Map();
   const titleUsers = new Map();
   const hourly = new Map();
   const titleCounts = new Map();
   let maxViewers = 0;
 
-  for (const event of state.events) {
+  for (const event of visibleEvents) {
     if (Number.isFinite(event.viewer_count)) maxViewers = Math.max(maxViewers, event.viewer_count);
     if (event.event_type !== "snapshot" && event.user_id) {
       const date = new Date(event.timestamp);
@@ -260,7 +277,43 @@ function buildSummary() {
     hourly: [...hourly.entries()].sort(([a], [b]) => a.localeCompare(b)),
     titleCounts: [...titleCounts.entries()].sort((a, b) => b[1] - a[1]),
     maxViewers,
+    visibleEvents,
   };
+}
+
+function getVisibleEvents() {
+  const activeStream = elements.streamUrlInput.value.trim();
+  if (!activeStream) return state.events;
+  const activeKey = extractChannelKey(activeStream);
+  return state.events.filter((event) => streamMatches(event.stream_url, activeStream, activeKey));
+}
+
+function streamMatches(eventUrl, activeStream, activeKey) {
+  const eventStream = String(eventUrl || "").trim();
+  if (!eventStream) return false;
+  if (normalizeStreamUrl(eventStream) === normalizeStreamUrl(activeStream)) return true;
+  const eventKey = extractChannelKey(eventStream);
+  return Boolean(activeKey && eventKey && activeKey === eventKey);
+}
+
+function normalizeStreamUrl(value) {
+  return String(value || "")
+    .trim()
+    .replace(/^http:\/\//, "https://")
+    .replace(/\/+$/, "")
+    .toLowerCase();
+}
+
+function extractChannelKey(value) {
+  try {
+    const parsed = new URL(value);
+    const parts = parsed.pathname.split("/").filter(Boolean);
+    if (!parts.length) return "";
+    if (parts[0].toLowerCase() === "station" && parts[1]) return parts[1].toLowerCase();
+    return parts[0].toLowerCase();
+  } catch {
+    return String(value || "").trim().toLowerCase();
+  }
 }
 
 function render() {
@@ -281,6 +334,20 @@ function render() {
     row.messages,
   ]);
   drawChart(summary);
+  updateViewStatus(summary);
+}
+
+function updateViewStatus(summary) {
+  const activeStream = elements.streamUrlInput.value.trim();
+  if (!activeStream) {
+    setStatus("JSONL 또는 CSV 파일을 선택하면 브라우저에서만 분석합니다.");
+    return;
+  }
+  if (!summary.visibleEvents.length) {
+    setStatus("이 링크에 가져온 이벤트가 없습니다. SOOP URL 입력만으로 실시간 조회되지는 않습니다.");
+    return;
+  }
+  setStatus(`${extractChannelKey(activeStream)} 링크와 일치하는 이벤트만 표시 중입니다.`);
 }
 
 function renderTable(target, rows, mapRow) {
