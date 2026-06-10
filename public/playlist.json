@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-09T20:13:37.457Z",
+  "generatedAt": "2026-06-10T20:28:13.782Z",
   "pageCount": 40,
-  "sourceArticleCount": 535,
+  "sourceArticleCount": 536,
   "summaryMatchCount": 187,
-  "detailMatchCount": 191,
+  "detailMatchCount": 186,
   "items": [
     {
       "key": "3646:b-8vyymBx7w",
@@ -816,6 +816,20 @@
       "originalUrl": "https://www.youtube.com/embed/L0WVIjf8INA?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1779276548017
+    },
+    {
+      "key": "3131:Ew65b9BMrjU",
+      "articleId": "3131",
+      "articleTitle": "쌈디의 ONYX",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3131",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3131",
+      "videoId": "Ew65b9BMrjU",
+      "watchUrl": "https://www.youtube.com/watch?v=Ew65b9BMrjU",
+      "embedUrl": "https://www.youtube.com/embed/Ew65b9BMrjU",
+      "originalUrl": "https://youtu.be/Ew65b9BMrjU?",
+      "origin": "detail",
+      "writeTimestamp": 1779169879310
     },
     {
       "key": "3130:mOpQlPWr594",
@@ -1672,18 +1686,46 @@
       "writeTimestamp": 1777700520883
     },
     {
-      "key": "2177:FwH33GGp__w",
-      "articleId": "2177",
-      "articleTitle": "탑 앨범에서 유일하게 계속 듣는 곡",
-      "writer": "JUSTHIS",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2177",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2177",
-      "videoId": "FwH33GGp__w",
-      "watchUrl": "https://www.youtube.com/watch?v=FwH33GGp__w",
-      "embedUrl": "https://www.youtube.com/embed/FwH33GGp__w",
-      "originalUrl": "https://youtu.be/FwH33GGp__w?",
+      "key": "2176:aj5DccgBYeM",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "aj5DccgBYeM",
+      "watchUrl": "https://www.youtube.com/watch?v=aj5DccgBYeM",
+      "embedUrl": "https://www.youtube.com/embed/aj5DccgBYeM",
+      "originalUrl": "https://youtu.be/aj5DccgBYeM?",
       "origin": "detail",
-      "writeTimestamp": 1777561883103
+      "writeTimestamp": 1777559801880
+    },
+    {
+      "key": "2176:hp1hWJaQXV8",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "hp1hWJaQXV8",
+      "watchUrl": "https://www.youtube.com/watch?v=hp1hWJaQXV8",
+      "embedUrl": "https://www.youtube.com/embed/hp1hWJaQXV8",
+      "originalUrl": "https://youtu.be/hp1hWJaQXV8?",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
+    },
+    {
+      "key": "2176:p_6B-_NIHpc",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "p_6B-_NIHpc",
+      "watchUrl": "https://www.youtube.com/watch?v=p_6B-_NIHpc",
+      "embedUrl": "https://www.youtube.com/embed/p_6B-_NIHpc",
+      "originalUrl": "https://youtu.be/p_6B-_NIHpc?li",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
     },
     {
       "key": "2148:Z2neajn3mCI",
@@ -2022,20 +2064,6 @@
       "writeTimestamp": 1777118887560
     },
     {
-      "key": "1794:FwH33GGp__w",
-      "articleId": "1794",
-      "articleTitle": "김감전 EP나옴!!!!!!!!!!!!!!!!!! NOISVAN!",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1794",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1794",
-      "videoId": "FwH33GGp__w",
-      "watchUrl": "https://www.youtube.com/watch?v=FwH33GGp__w",
-      "embedUrl": "https://www.youtube.com/embed/FwH33GGp__w",
-      "originalUrl": "https://youtu.be/FwH33GGp__w?",
-      "origin": "detail",
-      "writeTimestamp": 1777094474980
-    },
-    {
       "key": "1793:-LmfocAM9rI",
       "articleId": "1793",
       "articleTitle": "애초부터 돈 따위완 상관 없었어, Movement 4 (꺼지지 않는 초심) (Feat. Movement)",
@@ -2160,20 +2188,6 @@
       "originalUrl": "https://youtu.be/kZUPLToG788?",
       "origin": "summary",
       "writeTimestamp": 1776969144897
-    },
-    {
-      "key": "1722:vC6jqWVb0Vk",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "vC6jqWVb0Vk",
-      "watchUrl": "https://www.youtube.com/watch?v=vC6jqWVb0Vk",
-      "embedUrl": "https://www.youtube.com/embed/vC6jqWVb0Vk",
-      "originalUrl": "https://youtube.com/shorts/vC6jqWVb0Vk?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
     },
     {
       "key": "1718:Qn8F_u0vBNI",
@@ -3590,20 +3604,6 @@
       "writeTimestamp": 1775969663933
     },
     {
-      "key": "870:FwH33GGp__w",
-      "articleId": "870",
-      "articleTitle": "onlywoke - ex",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/870",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/870",
-      "videoId": "FwH33GGp__w",
-      "watchUrl": "https://www.youtube.com/watch?v=FwH33GGp__w",
-      "embedUrl": "https://www.youtube.com/embed/FwH33GGp__w",
-      "originalUrl": "https://youtu.be/FwH33GGp__w?",
-      "origin": "detail",
-      "writeTimestamp": 1775954192990
-    },
-    {
       "key": "852:XlgwZqJbIdg",
       "articleId": "852",
       "articleTitle": "HAON - NOAH",
@@ -4024,20 +4024,6 @@
       "writeTimestamp": 1775884045427
     },
     {
-      "key": "719:jDf07wV5gMU",
-      "articleId": "719",
-      "articleTitle": "Yung fazo - GOIN IN",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/719",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/719",
-      "videoId": "jDf07wV5gMU",
-      "watchUrl": "https://www.youtube.com/watch?v=jDf07wV5gMU",
-      "embedUrl": "https://www.youtube.com/embed/jDf07wV5gMU",
-      "originalUrl": "https://youtu.be/jDf07wV5gMU?",
-      "origin": "detail",
-      "writeTimestamp": 1775879848103
-    },
-    {
       "key": "700:OQB5A6Ay0_I",
       "articleId": "700",
       "articleTitle": "우리 같이 내 인생을 비웃자",
@@ -4232,34 +4218,6 @@
       "originalUrl": "https://youtu.be/75jq_EQxht8?",
       "origin": "summary",
       "writeTimestamp": 1775828889540
-    },
-    {
-      "key": "608:GhzdY0ZAFcM",
-      "articleId": "608",
-      "articleTitle": "힙린이분들을 위한 앨범 추천",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/608",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/608",
-      "videoId": "GhzdY0ZAFcM",
-      "watchUrl": "https://www.youtube.com/watch?v=GhzdY0ZAFcM",
-      "embedUrl": "https://www.youtube.com/embed/GhzdY0ZAFcM",
-      "originalUrl": "https://youtu.be/GhzdY0ZAFcM?",
-      "origin": "detail",
-      "writeTimestamp": 1775820106040
-    },
-    {
-      "key": "608:keKluVOD_WE",
-      "articleId": "608",
-      "articleTitle": "힙린이분들을 위한 앨범 추천",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/608",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/608",
-      "videoId": "keKluVOD_WE",
-      "watchUrl": "https://www.youtube.com/watch?v=keKluVOD_WE",
-      "embedUrl": "https://www.youtube.com/embed/keKluVOD_WE",
-      "originalUrl": "https://youtu.be/keKluVOD_WE?",
-      "origin": "detail",
-      "writeTimestamp": 1775820106040
     },
     {
       "key": "595:cba5xopcZ2Q",
@@ -4568,20 +4526,6 @@
       "originalUrl": "https://youtu.be/BMJnGgX_N0A?",
       "origin": "detail",
       "writeTimestamp": 1775776625637
-    },
-    {
-      "key": "508:FwH33GGp__w",
-      "articleId": "508",
-      "articleTitle": "창모 앨범 들으셨으면",
-      "writer": "별명",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/508",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/508",
-      "videoId": "FwH33GGp__w",
-      "watchUrl": "https://www.youtube.com/watch?v=FwH33GGp__w",
-      "embedUrl": "https://www.youtube.com/embed/FwH33GGp__w",
-      "originalUrl": "https://youtu.be/FwH33GGp__w?",
-      "origin": "detail",
-      "writeTimestamp": 1775774950693
     },
     {
       "key": "485:GV57LLqeAmA",
@@ -5016,20 +4960,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=2t_inrWZDMY&li",
       "origin": "summary",
       "writeTimestamp": 1775557521103
-    },
-    {
-      "key": "214:QzoMIHxQWJU",
-      "articleId": "214",
-      "articleTitle": "올해 국내 하이퍼팝은 이거임",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/214",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/214",
-      "videoId": "QzoMIHxQWJU",
-      "watchUrl": "https://www.youtube.com/watch?v=QzoMIHxQWJU",
-      "embedUrl": "https://www.youtube.com/embed/QzoMIHxQWJU",
-      "originalUrl": "https://youtube.com/shorts/QzoMIHxQWJU?",
-      "origin": "detail",
-      "writeTimestamp": 1775545985203
     },
     {
       "key": "186:cgW05HJjQtA",
