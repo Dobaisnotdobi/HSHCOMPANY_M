@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-06-14T19:36:50.977Z",
+  "generatedAt": "2026-06-15T21:22:29.120Z",
   "pageCount": 40,
-  "sourceArticleCount": 544,
-  "summaryMatchCount": 190,
-  "detailMatchCount": 189,
+  "sourceArticleCount": 547,
+  "summaryMatchCount": 192,
+  "detailMatchCount": 194,
   "items": [
+    {
+      "key": "3772:Gw573n7B63A",
+      "articleId": "3772",
+      "articleTitle": "아 오늘은 이거다",
+      "writer": "깝치지말것",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3772",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3772",
+      "videoId": "Gw573n7B63A",
+      "watchUrl": "https://www.youtube.com/watch?v=Gw573n7B63A",
+      "embedUrl": "https://www.youtube.com/embed/Gw573n7B63A",
+      "originalUrl": "https://youtu.be/Gw573n7B63A?",
+      "origin": "summary",
+      "writeTimestamp": 1781527045813
+    },
+    {
+      "key": "3767:iJ6nV_mLDDI",
+      "articleId": "3767",
+      "articleTitle": "저녁에 잔잔하게 몇곡",
+      "writer": "Orlip",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3767",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3767",
+      "videoId": "iJ6nV_mLDDI",
+      "watchUrl": "https://www.youtube.com/watch?v=iJ6nV_mLDDI",
+      "embedUrl": "https://www.youtube.com/embed/iJ6nV_mLDDI",
+      "originalUrl": "https://www.youtube.com/watch?v=iJ6nV_mLDDI",
+      "origin": "detail",
+      "writeTimestamp": 1781521976623
+    },
+    {
+      "key": "3767:lXVZyRV_bOg",
+      "articleId": "3767",
+      "articleTitle": "저녁에 잔잔하게 몇곡",
+      "writer": "Orlip",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3767",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3767",
+      "videoId": "lXVZyRV_bOg",
+      "watchUrl": "https://www.youtube.com/watch?v=lXVZyRV_bOg",
+      "embedUrl": "https://www.youtube.com/embed/lXVZyRV_bOg",
+      "originalUrl": "https://www.youtube.com/watch?v=lXVZyRV_bOg",
+      "origin": "detail",
+      "writeTimestamp": 1781521976623
+    },
+    {
+      "key": "3763:M5WXz5OtbUM",
+      "articleId": "3763",
+      "articleTitle": "안희수 - 이해할 수 없는 것들을 이해해야 하는 이 세상에서",
+      "writer": "츠키",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3763",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3763",
+      "videoId": "M5WXz5OtbUM",
+      "watchUrl": "https://www.youtube.com/watch?v=M5WXz5OtbUM",
+      "embedUrl": "https://www.youtube.com/embed/M5WXz5OtbUM",
+      "originalUrl": "https://youtu.be/M5WXz5OtbUM?",
+      "origin": "summary",
+      "writeTimestamp": 1781494757497
+    },
     {
       "key": "3761:YBMVdtDeK18",
       "articleId": "3761",
@@ -1812,30 +1868,16 @@
       "writeTimestamp": 1777700520883
     },
     {
-      "key": "2176:htfC3Vrg8ZU",
+      "key": "2176:p_6B-_NIHpc",
       "articleId": "2176",
       "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
       "writer": "2400시간",
       "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
       "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "htfC3Vrg8ZU",
-      "watchUrl": "https://www.youtube.com/watch?v=htfC3Vrg8ZU",
-      "embedUrl": "https://www.youtube.com/embed/htfC3Vrg8ZU",
-      "originalUrl": "https://youtu.be/htfC3Vrg8ZU?",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
-    },
-    {
-      "key": "2176:aj5DccgBYeM",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "aj5DccgBYeM",
-      "watchUrl": "https://www.youtube.com/watch?v=aj5DccgBYeM",
-      "embedUrl": "https://www.youtube.com/embed/aj5DccgBYeM",
-      "originalUrl": "https://youtu.be/aj5DccgBYeM?",
+      "videoId": "p_6B-_NIHpc",
+      "watchUrl": "https://www.youtube.com/watch?v=p_6B-_NIHpc",
+      "embedUrl": "https://www.youtube.com/embed/p_6B-_NIHpc",
+      "originalUrl": "https://youtu.be/p_6B-_NIHpc?li",
       "origin": "detail",
       "writeTimestamp": 1777559801880
     },
@@ -2302,6 +2344,20 @@
       "writeTimestamp": 1776969144897
     },
     {
+      "key": "1722:vC6jqWVb0Vk",
+      "articleId": "1722",
+      "articleTitle": "이거 진짜 나만아는듯",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
+      "videoId": "vC6jqWVb0Vk",
+      "watchUrl": "https://www.youtube.com/watch?v=vC6jqWVb0Vk",
+      "embedUrl": "https://www.youtube.com/embed/vC6jqWVb0Vk",
+      "originalUrl": "https://youtube.com/shorts/vC6jqWVb0Vk?",
+      "origin": "detail",
+      "writeTimestamp": 1776945731630
+    },
+    {
       "key": "1718:Qn8F_u0vBNI",
       "articleId": "1718",
       "articleTitle": "디깅하다 찾은 몽글몽글 r&b",
@@ -2314,6 +2370,20 @@
       "originalUrl": "https://youtu.be/Qn8F_u0vBNI?",
       "origin": "summary",
       "writeTimestamp": 1776943078603
+    },
+    {
+      "key": "1701:RZP807Do0ko",
+      "articleId": "1701",
+      "articleTitle": "빅나띠 일반 음원 공개",
+      "writer": "미꾸라지",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1701",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1701",
+      "videoId": "RZP807Do0ko",
+      "watchUrl": "https://www.youtube.com/watch?v=RZP807Do0ko",
+      "embedUrl": "https://www.youtube.com/embed/RZP807Do0ko",
+      "originalUrl": "https://youtu.be/RZP807Do0ko?",
+      "origin": "detail",
+      "writeTimestamp": 1776926291740
     },
     {
       "key": "1691:ttPkPfQzEIg",
@@ -3056,6 +3126,20 @@
       "originalUrl": "https://youtu.be/NROJzTGWip8?",
       "origin": "summary",
       "writeTimestamp": 1776356073577
+    },
+    {
+      "key": "1260:BAMaFfqbCTo",
+      "articleId": "1260",
+      "articleTitle": "패닉 2집 - 밑",
+      "writer": "시분펍",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1260",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1260",
+      "videoId": "BAMaFfqbCTo",
+      "watchUrl": "https://www.youtube.com/watch?v=BAMaFfqbCTo",
+      "embedUrl": "https://www.youtube.com/embed/BAMaFfqbCTo",
+      "originalUrl": "https://youtube.com/shorts/BAMaFfqbCTo?",
+      "origin": "detail",
+      "writeTimestamp": 1776347256960
     },
     {
       "key": "1257:qN4ooNx77u0",
@@ -4400,6 +4484,20 @@
       "originalUrl": "https://www.youtube.com/watch?v=Ara-baLw5bk",
       "origin": "detail",
       "writeTimestamp": 1775809753610
+    },
+    {
+      "key": "568:MmWodrtghDM",
+      "articleId": "568",
+      "articleTitle": "앨범 추천 : 버나보이 1집",
+      "writer": "haneul57",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/568",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/568",
+      "videoId": "MmWodrtghDM",
+      "watchUrl": "https://www.youtube.com/watch?v=MmWodrtghDM",
+      "embedUrl": "https://www.youtube.com/embed/MmWodrtghDM",
+      "originalUrl": "https://youtube.com/watch?v=MmWodrtghDM&amp;",
+      "origin": "detail",
+      "writeTimestamp": 1775809260033
     },
     {
       "key": "559:nZqwQCLYgjk",
