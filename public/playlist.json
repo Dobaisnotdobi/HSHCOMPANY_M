@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-06-17T20:16:31.259Z",
+  "generatedAt": "2026-06-18T20:25:52.137Z",
   "pageCount": 40,
-  "sourceArticleCount": 553,
+  "sourceArticleCount": 554,
   "summaryMatchCount": 193,
-  "detailMatchCount": 211,
+  "detailMatchCount": 210,
   "items": [
+    {
+      "key": "3855:0I9i8jLbDv0",
+      "articleId": "3855",
+      "articleTitle": "Molly Yam - I.O.U",
+      "writer": "단감씨",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3855",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3855",
+      "videoId": "0I9i8jLbDv0",
+      "watchUrl": "https://www.youtube.com/watch?v=0I9i8jLbDv0",
+      "embedUrl": "https://www.youtube.com/embed/0I9i8jLbDv0",
+      "originalUrl": "https://www.youtube.com/watch?v=0I9i8jLbDv0",
+      "origin": "detail",
+      "writeTimestamp": 1781762358930
+    },
     {
       "key": "3841:DvOIz9tV2J8",
       "articleId": "3841",
@@ -2106,20 +2120,6 @@
       "writeTimestamp": 1777700520883
     },
     {
-      "key": "2176:ELIjroQ_xBM",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "ELIjroQ_xBM",
-      "watchUrl": "https://www.youtube.com/watch?v=ELIjroQ_xBM",
-      "embedUrl": "https://www.youtube.com/embed/ELIjroQ_xBM",
-      "originalUrl": "https://youtu.be/ELIjroQ_xBM?",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
-    },
-    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -2580,6 +2580,20 @@
       "originalUrl": "https://youtu.be/kZUPLToG788?",
       "origin": "summary",
       "writeTimestamp": 1776969144897
+    },
+    {
+      "key": "1722:vC6jqWVb0Vk",
+      "articleId": "1722",
+      "articleTitle": "이거 진짜 나만아는듯",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
+      "videoId": "vC6jqWVb0Vk",
+      "watchUrl": "https://www.youtube.com/watch?v=vC6jqWVb0Vk",
+      "embedUrl": "https://www.youtube.com/embed/vC6jqWVb0Vk",
+      "originalUrl": "https://youtube.com/shorts/vC6jqWVb0Vk?",
+      "origin": "detail",
+      "writeTimestamp": 1776945731630
     },
     {
       "key": "1718:Qn8F_u0vBNI",
@@ -3464,34 +3478,6 @@
       "writeTimestamp": 1776235735720
     },
     {
-      "key": "1170:DCp0CMpY6nI",
-      "articleId": "1170",
-      "articleTitle": "어제 추천하려 했던 곡",
-      "writer": "한세현",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1170",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1170",
-      "videoId": "DCp0CMpY6nI",
-      "watchUrl": "https://www.youtube.com/watch?v=DCp0CMpY6nI",
-      "embedUrl": "https://www.youtube.com/embed/DCp0CMpY6nI",
-      "originalUrl": "https://www.youtube.com/watch?v=DCp0CMpY6nI&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1776227786750
-    },
-    {
-      "key": "1170:qA2KG0BKrmo",
-      "articleId": "1170",
-      "articleTitle": "어제 추천하려 했던 곡",
-      "writer": "한세현",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1170",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1170",
-      "videoId": "qA2KG0BKrmo",
-      "watchUrl": "https://www.youtube.com/watch?v=qA2KG0BKrmo",
-      "embedUrl": "https://www.youtube.com/embed/qA2KG0BKrmo",
-      "originalUrl": "https://youtu.be/qA2KG0BKrmo?",
-      "origin": "detail",
-      "writeTimestamp": 1776227786750
-    },
-    {
       "key": "1154:EmGV8AyBvYU",
       "articleId": "1154",
       "articleTitle": "제 앨범입니다) GLARE",
@@ -3672,20 +3658,6 @@
       "originalUrl": "https://youtu.be/rb6JYwYwZUM?t=180",
       "origin": "summary",
       "writeTimestamp": 1776095396583
-    },
-    {
-      "key": "1037:krRZezl_LDI",
-      "articleId": "1037",
-      "articleTitle": "B-Free - MacGyver",
-      "writer": "감자회오리",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1037",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1037",
-      "videoId": "krRZezl_LDI",
-      "watchUrl": "https://www.youtube.com/watch?v=krRZezl_LDI",
-      "embedUrl": "https://www.youtube.com/embed/krRZezl_LDI",
-      "originalUrl": "https://youtu.be/krRZezl_LDI?",
-      "origin": "detail",
-      "writeTimestamp": 1776093531943
     },
     {
       "key": "1029:u304mBmRFok",
@@ -4456,6 +4428,20 @@
       "originalUrl": "https://www.youtube.com/embed/pxcZCkkb4m8?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775884045427
+    },
+    {
+      "key": "705:tbKQnl8X2YQ",
+      "articleId": "705",
+      "articleTitle": "스월비 - Undercover Angel",
+      "writer": "완벽한 가라는 진짜다",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/705",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/705",
+      "videoId": "tbKQnl8X2YQ",
+      "watchUrl": "https://www.youtube.com/watch?v=tbKQnl8X2YQ",
+      "embedUrl": "https://www.youtube.com/embed/tbKQnl8X2YQ",
+      "originalUrl": "https://youtu.be/tbKQnl8X2YQ?",
+      "origin": "detail",
+      "writeTimestamp": 1775848588817
     },
     {
       "key": "700:OQB5A6Ay0_I",
