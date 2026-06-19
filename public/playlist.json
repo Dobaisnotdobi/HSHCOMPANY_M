@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-06-18T20:25:52.137Z",
+  "generatedAt": "2026-06-19T19:59:00.364Z",
   "pageCount": 40,
-  "sourceArticleCount": 554,
-  "summaryMatchCount": 193,
-  "detailMatchCount": 210,
+  "sourceArticleCount": 559,
+  "summaryMatchCount": 195,
+  "detailMatchCount": 217,
   "items": [
+    {
+      "key": "3878:9dExJtm1h6w",
+      "articleId": "3878",
+      "articleTitle": "놀랍게도 오늘의 더 박스 프리스타일 샘플링의 원곡..일거에요",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3878",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3878",
+      "videoId": "9dExJtm1h6w",
+      "watchUrl": "https://www.youtube.com/watch?v=9dExJtm1h6w",
+      "embedUrl": "https://www.youtube.com/embed/9dExJtm1h6w",
+      "originalUrl": "https://www.youtube.com/embed/9dExJtm1h6w?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1781872296590
+    },
+    {
+      "key": "3876:Yw8iZkxbtF4",
+      "articleId": "3876",
+      "articleTitle": "밥먹은거 정리하다가 갓 나온 따끈따끈한 제네더질라 130메트로놈 리믹스",
+      "writer": "창식이",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3876",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3876",
+      "videoId": "Yw8iZkxbtF4",
+      "watchUrl": "https://www.youtube.com/watch?v=Yw8iZkxbtF4",
+      "embedUrl": "https://www.youtube.com/embed/Yw8iZkxbtF4",
+      "originalUrl": "https://www.youtube.com/watch?v=Yw8iZkxbtF4&li",
+      "origin": "summary",
+      "writeTimestamp": 1781865812490
+    },
+    {
+      "key": "3873:8IY44RZHyw8",
+      "articleId": "3873",
+      "articleTitle": "대 세 돌 , Drop the 신곡 [ Smile For You ]",
+      "writer": "김준찌",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3873",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3873",
+      "videoId": "8IY44RZHyw8",
+      "watchUrl": "https://www.youtube.com/watch?v=8IY44RZHyw8",
+      "embedUrl": "https://www.youtube.com/embed/8IY44RZHyw8",
+      "originalUrl": "https://youtu.be/8IY44RZHyw8?",
+      "origin": "summary",
+      "writeTimestamp": 1781862957250
+    },
     {
       "key": "3855:0I9i8jLbDv0",
       "articleId": "3855",
@@ -3380,6 +3422,20 @@
       "writeTimestamp": 1776356073577
     },
     {
+      "key": "1260:BAMaFfqbCTo",
+      "articleId": "1260",
+      "articleTitle": "패닉 2집 - 밑",
+      "writer": "시분펍",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1260",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1260",
+      "videoId": "BAMaFfqbCTo",
+      "watchUrl": "https://www.youtube.com/watch?v=BAMaFfqbCTo",
+      "embedUrl": "https://www.youtube.com/embed/BAMaFfqbCTo",
+      "originalUrl": "https://youtube.com/shorts/BAMaFfqbCTo?",
+      "origin": "detail",
+      "writeTimestamp": 1776347256960
+    },
+    {
       "key": "1257:qN4ooNx77u0",
       "articleId": "1257",
       "articleTitle": "평화와 사랑을 외치며 잠시 쉬어가는 시간으로",
@@ -3476,6 +3532,48 @@
       "originalUrl": "https://www.youtube.com/embed/lFAB6EHrQzQ?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776235735720
+    },
+    {
+      "key": "1170:qA2KG0BKrmo",
+      "articleId": "1170",
+      "articleTitle": "어제 추천하려 했던 곡",
+      "writer": "한세현",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1170",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1170",
+      "videoId": "qA2KG0BKrmo",
+      "watchUrl": "https://www.youtube.com/watch?v=qA2KG0BKrmo",
+      "embedUrl": "https://www.youtube.com/embed/qA2KG0BKrmo",
+      "originalUrl": "https://youtu.be/qA2KG0BKrmo?",
+      "origin": "detail",
+      "writeTimestamp": 1776227786750
+    },
+    {
+      "key": "1170:gH_lxnFRiFg",
+      "articleId": "1170",
+      "articleTitle": "어제 추천하려 했던 곡",
+      "writer": "한세현",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1170",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1170",
+      "videoId": "gH_lxnFRiFg",
+      "watchUrl": "https://www.youtube.com/watch?v=gH_lxnFRiFg",
+      "embedUrl": "https://www.youtube.com/embed/gH_lxnFRiFg",
+      "originalUrl": "https://youtu.be/gH_lxnFRiFg?",
+      "origin": "detail",
+      "writeTimestamp": 1776227786750
+    },
+    {
+      "key": "1170:79WCmnBvPbk",
+      "articleId": "1170",
+      "articleTitle": "어제 추천하려 했던 곡",
+      "writer": "한세현",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1170",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1170",
+      "videoId": "79WCmnBvPbk",
+      "watchUrl": "https://www.youtube.com/watch?v=79WCmnBvPbk",
+      "embedUrl": "https://www.youtube.com/embed/79WCmnBvPbk",
+      "originalUrl": "https://youtu.be/79WCmnBvPbk?",
+      "origin": "detail",
+      "writeTimestamp": 1776227786750
     },
     {
       "key": "1154:EmGV8AyBvYU",
@@ -3868,6 +3966,20 @@
       "originalUrl": "https://www.youtube.com/embed/3kgti2PIIK0?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776010893590
+    },
+    {
+      "key": "951:g4fCc_MpPlE",
+      "articleId": "951",
+      "articleTitle": "ycs - 黎崍阿",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
+      "videoId": "g4fCc_MpPlE",
+      "watchUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE",
+      "embedUrl": "https://www.youtube.com/embed/g4fCc_MpPlE",
+      "originalUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1776006657800
     },
     {
       "key": "936:BMJnGgX_N0A",
@@ -4430,18 +4542,18 @@
       "writeTimestamp": 1775884045427
     },
     {
-      "key": "705:tbKQnl8X2YQ",
-      "articleId": "705",
-      "articleTitle": "스월비 - Undercover Angel",
-      "writer": "완벽한 가라는 진짜다",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/705",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/705",
-      "videoId": "tbKQnl8X2YQ",
-      "watchUrl": "https://www.youtube.com/watch?v=tbKQnl8X2YQ",
-      "embedUrl": "https://www.youtube.com/embed/tbKQnl8X2YQ",
-      "originalUrl": "https://youtu.be/tbKQnl8X2YQ?",
+      "key": "719:jDf07wV5gMU",
+      "articleId": "719",
+      "articleTitle": "Yung fazo - GOIN IN",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/719",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/719",
+      "videoId": "jDf07wV5gMU",
+      "watchUrl": "https://www.youtube.com/watch?v=jDf07wV5gMU",
+      "embedUrl": "https://www.youtube.com/embed/jDf07wV5gMU",
+      "originalUrl": "https://youtu.be/jDf07wV5gMU?",
       "origin": "detail",
-      "writeTimestamp": 1775848588817
+      "writeTimestamp": 1775879848103
     },
     {
       "key": "700:OQB5A6Ay0_I",
@@ -4944,6 +5056,20 @@
       "watchUrl": "https://www.youtube.com/watch?v=BMJnGgX_N0A",
       "embedUrl": "https://www.youtube.com/embed/BMJnGgX_N0A",
       "originalUrl": "https://youtu.be/BMJnGgX_N0A?",
+      "origin": "detail",
+      "writeTimestamp": 1775776625637
+    },
+    {
+      "key": "510:CiPrliAtWTY",
+      "articleId": "510",
+      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
+      "writer": "바보",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
+      "videoId": "CiPrliAtWTY",
+      "watchUrl": "https://www.youtube.com/watch?v=CiPrliAtWTY",
+      "embedUrl": "https://www.youtube.com/embed/CiPrliAtWTY",
+      "originalUrl": "https://youtu.be/CiPrliAtWTY?",
       "origin": "detail",
       "writeTimestamp": 1775776625637
     },
