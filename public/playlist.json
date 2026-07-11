@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-07-10T19:51:53.816Z",
+  "generatedAt": "2026-07-11T19:01:28.075Z",
   "pageCount": 40,
-  "sourceArticleCount": 591,
+  "sourceArticleCount": 593,
   "summaryMatchCount": 200,
-  "detailMatchCount": 230,
+  "detailMatchCount": 229,
   "items": [
+    {
+      "key": "4160:k8XM8k9uwkA",
+      "articleId": "4160",
+      "articleTitle": "오카시의 두 번째 움직임 | PURITY - Matthew & wnsday",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4160",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4160",
+      "videoId": "k8XM8k9uwkA",
+      "watchUrl": "https://www.youtube.com/watch?v=k8XM8k9uwkA",
+      "embedUrl": "https://www.youtube.com/embed/k8XM8k9uwkA",
+      "originalUrl": "https://www.youtube.com/embed/k8XM8k9uwkA?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1783785322730
+    },
+    {
+      "key": "4160:WJxtBaLfpDc",
+      "articleId": "4160",
+      "articleTitle": "오카시의 두 번째 움직임 | PURITY - Matthew & wnsday",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4160",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4160",
+      "videoId": "WJxtBaLfpDc",
+      "watchUrl": "https://www.youtube.com/watch?v=WJxtBaLfpDc",
+      "embedUrl": "https://www.youtube.com/embed/WJxtBaLfpDc",
+      "originalUrl": "https://www.youtube.com/embed/WJxtBaLfpDc?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1783785322730
+    },
     {
       "key": "4154:k-_iiTUImkA",
       "articleId": "4154",
@@ -802,6 +830,20 @@
       "originalUrl": "https://youtu.be/zwf5MpcuKDM?",
       "origin": "summary",
       "writeTimestamp": 1780574488943
+    },
+    {
+      "key": "3535:Y_fH8pRniu0",
+      "articleId": "3535",
+      "articleTitle": "언텔 - AMBITIUN",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3535",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3535",
+      "videoId": "Y_fH8pRniu0",
+      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
+      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
+      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
+      "origin": "detail",
+      "writeTimestamp": 1780557991880
     },
     {
       "key": "3534:ZxvPthCebW8",
@@ -2736,20 +2778,6 @@
       "writeTimestamp": 1777118887560
     },
     {
-      "key": "1794:Y_fH8pRniu0",
-      "articleId": "1794",
-      "articleTitle": "김감전 EP나옴!!!!!!!!!!!!!!!!!! NOISVAN!",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1794",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1794",
-      "videoId": "Y_fH8pRniu0",
-      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
-      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
-      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
-      "origin": "detail",
-      "writeTimestamp": 1777094474980
-    },
-    {
       "key": "1793:-LmfocAM9rI",
       "articleId": "1793",
       "articleTitle": "애초부터 돈 따위완 상관 없었어, Movement 4 (꺼지지 않는 초심) (Feat. Movement)",
@@ -2874,34 +2902,6 @@
       "originalUrl": "https://youtu.be/kZUPLToG788?",
       "origin": "summary",
       "writeTimestamp": 1776969144897
-    },
-    {
-      "key": "1722:vC6jqWVb0Vk",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "vC6jqWVb0Vk",
-      "watchUrl": "https://www.youtube.com/watch?v=vC6jqWVb0Vk",
-      "embedUrl": "https://www.youtube.com/embed/vC6jqWVb0Vk",
-      "originalUrl": "https://youtube.com/shorts/vC6jqWVb0Vk?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
-    },
-    {
-      "key": "1722:elPY91kBLyY",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "elPY91kBLyY",
-      "watchUrl": "https://www.youtube.com/watch?v=elPY91kBLyY",
-      "embedUrl": "https://www.youtube.com/embed/elPY91kBLyY",
-      "originalUrl": "https://youtube.com/shorts/elPY91kBLyY?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
     },
     {
       "key": "1718:Qn8F_u0vBNI",
@@ -3334,20 +3334,6 @@
       "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
       "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
       "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
-      "origin": "detail",
-      "writeTimestamp": 1776597797990
-    },
-    {
-      "key": "1438:qh-T_tjuno4",
-      "articleId": "1438",
-      "articleTitle": "오앨추",
-      "writer": "Orlip",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1438",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1438",
-      "videoId": "qh-T_tjuno4",
-      "watchUrl": "https://www.youtube.com/watch?v=qh-T_tjuno4",
-      "embedUrl": "https://www.youtube.com/embed/qh-T_tjuno4",
-      "originalUrl": "https://www.youtube.com/watch?v=qh-T_tjuno4&amp;pp=ygUW7I",
       "origin": "detail",
       "writeTimestamp": 1776597797990
     },
@@ -4346,6 +4332,20 @@
       "writeTimestamp": 1775969663933
     },
     {
+      "key": "866:Y_fH8pRniu0",
+      "articleId": "866",
+      "articleTitle": "damon r. - blush",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/866",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/866",
+      "videoId": "Y_fH8pRniu0",
+      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
+      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
+      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
+      "origin": "detail",
+      "writeTimestamp": 1775929061927
+    },
+    {
       "key": "852:XlgwZqJbIdg",
       "articleId": "852",
       "articleTitle": "HAON - NOAH",
@@ -4640,6 +4640,34 @@
       "writeTimestamp": 1775906432737
     },
     {
+      "key": "749:Y_fH8pRniu0",
+      "articleId": "749",
+      "articleTitle": "ilypvc - die with you",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/749",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/749",
+      "videoId": "Y_fH8pRniu0",
+      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
+      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
+      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
+      "origin": "detail",
+      "writeTimestamp": 1775896832390
+    },
+    {
+      "key": "749:ocoDclgWG9w",
+      "articleId": "749",
+      "articleTitle": "ilypvc - die with you",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/749",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/749",
+      "videoId": "ocoDclgWG9w",
+      "watchUrl": "https://www.youtube.com/watch?v=ocoDclgWG9w",
+      "embedUrl": "https://www.youtube.com/embed/ocoDclgWG9w",
+      "originalUrl": "https://youtu.be/ocoDclgWG9w?",
+      "origin": "detail",
+      "writeTimestamp": 1775896832390
+    },
+    {
       "key": "746:uZhy8pE_aG0",
       "articleId": "746",
       "articleTitle": "창모 [I n c o m p l e t]에서 가장 좋았던 곡",
@@ -4766,18 +4794,18 @@
       "writeTimestamp": 1775884045427
     },
     {
-      "key": "705:tbKQnl8X2YQ",
-      "articleId": "705",
-      "articleTitle": "스월비 - Undercover Angel",
-      "writer": "완벽한 가라는 진짜다",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/705",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/705",
-      "videoId": "tbKQnl8X2YQ",
-      "watchUrl": "https://www.youtube.com/watch?v=tbKQnl8X2YQ",
-      "embedUrl": "https://www.youtube.com/embed/tbKQnl8X2YQ",
-      "originalUrl": "https://youtu.be/tbKQnl8X2YQ?",
+      "key": "719:Y_fH8pRniu0",
+      "articleId": "719",
+      "articleTitle": "Yung fazo - GOIN IN",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/719",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/719",
+      "videoId": "Y_fH8pRniu0",
+      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
+      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
+      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
       "origin": "detail",
-      "writeTimestamp": 1775848588817
+      "writeTimestamp": 1775879848103
     },
     {
       "key": "700:OQB5A6Ay0_I",
@@ -4990,20 +5018,6 @@
       "writeTimestamp": 1775816958720
     },
     {
-      "key": "599:qh-T_tjuno4",
-      "articleId": "599",
-      "articleTitle": "2mh41k",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
-      "videoId": "qh-T_tjuno4",
-      "watchUrl": "https://www.youtube.com/watch?v=qh-T_tjuno4",
-      "embedUrl": "https://www.youtube.com/embed/qh-T_tjuno4",
-      "originalUrl": "https://www.youtube.com/watch?v=qh-T_tjuno4&amp;pp=ygUW7I",
-      "origin": "detail",
-      "writeTimestamp": 1775816958720
-    },
-    {
       "key": "595:cba5xopcZ2Q",
       "articleId": "595",
       "articleTitle": "MF DOOM-Rapp Snitch Knishes",
@@ -5098,34 +5112,6 @@
       "watchUrl": "https://www.youtube.com/watch?v=Ara-baLw5bk",
       "embedUrl": "https://www.youtube.com/embed/Ara-baLw5bk",
       "originalUrl": "https://www.youtube.com/watch?v=Ara-baLw5bk",
-      "origin": "detail",
-      "writeTimestamp": 1775809753610
-    },
-    {
-      "key": "571:Y_fH8pRniu0",
-      "articleId": "571",
-      "articleTitle": "isobel - limn",
-      "writer": "haneul57",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/571",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/571",
-      "videoId": "Y_fH8pRniu0",
-      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
-      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
-      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
-      "origin": "detail",
-      "writeTimestamp": 1775809753610
-    },
-    {
-      "key": "571:qh-T_tjuno4",
-      "articleId": "571",
-      "articleTitle": "isobel - limn",
-      "writer": "haneul57",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/571",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/571",
-      "videoId": "qh-T_tjuno4",
-      "watchUrl": "https://www.youtube.com/watch?v=qh-T_tjuno4",
-      "embedUrl": "https://www.youtube.com/embed/qh-T_tjuno4",
-      "originalUrl": "https://www.youtube.com/watch?v=qh-T_tjuno4&amp;pp=ygUW7I",
       "origin": "detail",
       "writeTimestamp": 1775809753610
     },
@@ -5298,16 +5284,16 @@
       "writeTimestamp": 1775788899090
     },
     {
-      "key": "510:Y_fH8pRniu0",
+      "key": "510:BMJnGgX_N0A",
       "articleId": "510",
       "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
       "writer": "바보",
       "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
       "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
-      "videoId": "Y_fH8pRniu0",
-      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
-      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
-      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
+      "videoId": "BMJnGgX_N0A",
+      "watchUrl": "https://www.youtube.com/watch?v=BMJnGgX_N0A",
+      "embedUrl": "https://www.youtube.com/embed/BMJnGgX_N0A",
+      "originalUrl": "https://youtu.be/BMJnGgX_N0A?",
       "origin": "detail",
       "writeTimestamp": 1775776625637
     },
