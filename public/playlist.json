@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-12T18:59:14.429Z",
+  "generatedAt": "2026-07-13T19:40:20.342Z",
   "pageCount": 40,
   "sourceArticleCount": 594,
   "summaryMatchCount": 200,
-  "detailMatchCount": 231,
+  "detailMatchCount": 226,
   "items": [
     {
       "key": "4164:INBhi8KuYCk",
@@ -2470,6 +2470,34 @@
       "writeTimestamp": 1777700520883
     },
     {
+      "key": "2176:4VcMkQrAJ2w",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "4VcMkQrAJ2w",
+      "watchUrl": "https://www.youtube.com/watch?v=4VcMkQrAJ2w",
+      "embedUrl": "https://www.youtube.com/embed/4VcMkQrAJ2w",
+      "originalUrl": "https://youtu.be/4VcMkQrAJ2w?li",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
+    },
+    {
+      "key": "2176:d8E8db1u-b8",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "d8E8db1u-b8",
+      "watchUrl": "https://www.youtube.com/watch?v=d8E8db1u-b8",
+      "embedUrl": "https://www.youtube.com/embed/d8E8db1u-b8",
+      "originalUrl": "https://youtu.be/d8E8db1u-b8?li",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
+    },
+    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -2958,34 +2986,6 @@
       "originalUrl": "https://youtu.be/Qn8F_u0vBNI?",
       "origin": "summary",
       "writeTimestamp": 1776943078603
-    },
-    {
-      "key": "1701:2-_MFg4kgBg",
-      "articleId": "1701",
-      "articleTitle": "빅나띠 일반 음원 공개",
-      "writer": "미꾸라지",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1701",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1701",
-      "videoId": "2-_MFg4kgBg",
-      "watchUrl": "https://www.youtube.com/watch?v=2-_MFg4kgBg",
-      "embedUrl": "https://www.youtube.com/embed/2-_MFg4kgBg",
-      "originalUrl": "https://youtu.be/2-_MFg4kgBg?",
-      "origin": "detail",
-      "writeTimestamp": 1776926291740
-    },
-    {
-      "key": "1701:jcloZCGh0nY",
-      "articleId": "1701",
-      "articleTitle": "빅나띠 일반 음원 공개",
-      "writer": "미꾸라지",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1701",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1701",
-      "videoId": "jcloZCGh0nY",
-      "watchUrl": "https://www.youtube.com/watch?v=jcloZCGh0nY",
-      "embedUrl": "https://www.youtube.com/embed/jcloZCGh0nY",
-      "originalUrl": "https://youtu.be/jcloZCGh0nY?",
-      "origin": "detail",
-      "writeTimestamp": 1776926291740
     },
     {
       "key": "1691:ttPkPfQzEIg",
@@ -4220,34 +4220,6 @@
       "writeTimestamp": 1776010893590
     },
     {
-      "key": "951:Y_fH8pRniu0",
-      "articleId": "951",
-      "articleTitle": "ycs - 黎崍阿",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
-      "videoId": "Y_fH8pRniu0",
-      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
-      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
-      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
-      "origin": "detail",
-      "writeTimestamp": 1776006657800
-    },
-    {
-      "key": "951:g4fCc_MpPlE",
-      "articleId": "951",
-      "articleTitle": "ycs - 黎崍阿",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
-      "videoId": "g4fCc_MpPlE",
-      "watchUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE",
-      "embedUrl": "https://www.youtube.com/embed/g4fCc_MpPlE",
-      "originalUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1776006657800
-    },
-    {
       "key": "936:BMJnGgX_N0A",
       "articleId": "936",
       "articleTitle": "‘나는 또 다시 너랑 가라앉고 있네’",
@@ -4372,34 +4344,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM&li",
       "origin": "summary",
       "writeTimestamp": 1775971679680
-    },
-    {
-      "key": "882:Y_fH8pRniu0",
-      "articleId": "882",
-      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
-      "videoId": "Y_fH8pRniu0",
-      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
-      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
-      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
-      "origin": "detail",
-      "writeTimestamp": 1775970684243
-    },
-    {
-      "key": "882:52a9LrbBQUk",
-      "articleId": "882",
-      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
-      "videoId": "52a9LrbBQUk",
-      "watchUrl": "https://www.youtube.com/watch?v=52a9LrbBQUk",
-      "embedUrl": "https://www.youtube.com/embed/52a9LrbBQUk",
-      "originalUrl": "https://youtu.be/52a9LrbBQUk?",
-      "origin": "detail",
-      "writeTimestamp": 1775970684243
     },
     {
       "key": "881:9PukqhfMxfc",
@@ -5310,20 +5254,6 @@
       "originalUrl": "https://www.youtube.com/embed/xbKma3CtBCE?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775788899090
-    },
-    {
-      "key": "510:BMJnGgX_N0A",
-      "articleId": "510",
-      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
-      "writer": "바보",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
-      "videoId": "BMJnGgX_N0A",
-      "watchUrl": "https://www.youtube.com/watch?v=BMJnGgX_N0A",
-      "embedUrl": "https://www.youtube.com/embed/BMJnGgX_N0A",
-      "originalUrl": "https://youtu.be/BMJnGgX_N0A?",
-      "origin": "detail",
-      "writeTimestamp": 1775776625637
     },
     {
       "key": "510:CiPrliAtWTY",
