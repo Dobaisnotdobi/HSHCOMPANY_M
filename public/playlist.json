@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-07-13T19:40:20.342Z",
+  "generatedAt": "2026-07-14T19:21:35.257Z",
   "pageCount": 40,
-  "sourceArticleCount": 594,
+  "sourceArticleCount": 595,
   "summaryMatchCount": 200,
   "detailMatchCount": 226,
   "items": [
+    {
+      "key": "4180:qCw-wpO2fng",
+      "articleId": "4180",
+      "articleTitle": "2000 TAPE OTW | HAON, NOWIMYOUNG, JMIN - HIGH TOP",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4180",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4180",
+      "videoId": "qCw-wpO2fng",
+      "watchUrl": "https://www.youtube.com/watch?v=qCw-wpO2fng",
+      "embedUrl": "https://www.youtube.com/embed/qCw-wpO2fng",
+      "originalUrl": "https://www.youtube.com/embed/qCw-wpO2fng?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1784023141817
+    },
     {
       "key": "4164:INBhi8KuYCk",
       "articleId": "4164",
@@ -690,20 +704,6 @@
       "originalUrl": "https://www.youtube.com/embed/8lVu1lCjLyM?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1781189758913
-    },
-    {
-      "key": "3671:Y_fH8pRniu0",
-      "articleId": "3671",
-      "articleTitle": "AMBITION 6/10 -언텔, 해쉬스완, 던말릭",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3671",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3671",
-      "videoId": "Y_fH8pRniu0",
-      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
-      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
-      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
-      "origin": "detail",
-      "writeTimestamp": 1781139092390
     },
     {
       "key": "3646:b-8vyymBx7w",
@@ -2470,30 +2470,16 @@
       "writeTimestamp": 1777700520883
     },
     {
-      "key": "2176:4VcMkQrAJ2w",
+      "key": "2176:ELIjroQ_xBM",
       "articleId": "2176",
       "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
       "writer": "2400시간",
       "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
       "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "4VcMkQrAJ2w",
-      "watchUrl": "https://www.youtube.com/watch?v=4VcMkQrAJ2w",
-      "embedUrl": "https://www.youtube.com/embed/4VcMkQrAJ2w",
-      "originalUrl": "https://youtu.be/4VcMkQrAJ2w?li",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
-    },
-    {
-      "key": "2176:d8E8db1u-b8",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "d8E8db1u-b8",
-      "watchUrl": "https://www.youtube.com/watch?v=d8E8db1u-b8",
-      "embedUrl": "https://www.youtube.com/embed/d8E8db1u-b8",
-      "originalUrl": "https://youtu.be/d8E8db1u-b8?li",
+      "videoId": "ELIjroQ_xBM",
+      "watchUrl": "https://www.youtube.com/watch?v=ELIjroQ_xBM",
+      "embedUrl": "https://www.youtube.com/embed/ELIjroQ_xBM",
+      "originalUrl": "https://youtu.be/ELIjroQ_xBM?",
       "origin": "detail",
       "writeTimestamp": 1777559801880
     },
@@ -2834,20 +2820,6 @@
       "writeTimestamp": 1777118887560
     },
     {
-      "key": "1794:Y_fH8pRniu0",
-      "articleId": "1794",
-      "articleTitle": "김감전 EP나옴!!!!!!!!!!!!!!!!!! NOISVAN!",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1794",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1794",
-      "videoId": "Y_fH8pRniu0",
-      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
-      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
-      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
-      "origin": "detail",
-      "writeTimestamp": 1777094474980
-    },
-    {
       "key": "1793:-LmfocAM9rI",
       "articleId": "1793",
       "articleTitle": "애초부터 돈 따위완 상관 없었어, Movement 4 (꺼지지 않는 초심) (Feat. Movement)",
@@ -2972,6 +2944,20 @@
       "originalUrl": "https://youtu.be/kZUPLToG788?",
       "origin": "summary",
       "writeTimestamp": 1776969144897
+    },
+    {
+      "key": "1722:vC6jqWVb0Vk",
+      "articleId": "1722",
+      "articleTitle": "이거 진짜 나만아는듯",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
+      "videoId": "vC6jqWVb0Vk",
+      "watchUrl": "https://www.youtube.com/watch?v=vC6jqWVb0Vk",
+      "embedUrl": "https://www.youtube.com/embed/vC6jqWVb0Vk",
+      "originalUrl": "https://youtube.com/shorts/vC6jqWVb0Vk?",
+      "origin": "detail",
+      "writeTimestamp": 1776945731630
     },
     {
       "key": "1718:Qn8F_u0vBNI",
@@ -4220,6 +4206,20 @@
       "writeTimestamp": 1776010893590
     },
     {
+      "key": "951:g4fCc_MpPlE",
+      "articleId": "951",
+      "articleTitle": "ycs - 黎崍阿",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
+      "videoId": "g4fCc_MpPlE",
+      "watchUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE",
+      "embedUrl": "https://www.youtube.com/embed/g4fCc_MpPlE",
+      "originalUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1776006657800
+    },
+    {
       "key": "936:BMJnGgX_N0A",
       "articleId": "936",
       "articleTitle": "‘나는 또 다시 너랑 가라앉고 있네’",
@@ -4976,20 +4976,6 @@
       "writeTimestamp": 1775828889540
     },
     {
-      "key": "599:Y_fH8pRniu0",
-      "articleId": "599",
-      "articleTitle": "2mh41k",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
-      "videoId": "Y_fH8pRniu0",
-      "watchUrl": "https://www.youtube.com/watch?v=Y_fH8pRniu0",
-      "embedUrl": "https://www.youtube.com/embed/Y_fH8pRniu0",
-      "originalUrl": "https://youtu.be/Y_fH8pRniu0?",
-      "origin": "detail",
-      "writeTimestamp": 1775816958720
-    },
-    {
       "key": "595:cba5xopcZ2Q",
       "articleId": "595",
       "articleTitle": "MF DOOM-Rapp Snitch Knishes",
@@ -5254,6 +5240,20 @@
       "originalUrl": "https://www.youtube.com/embed/xbKma3CtBCE?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775788899090
+    },
+    {
+      "key": "510:BMJnGgX_N0A",
+      "articleId": "510",
+      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
+      "writer": "바보",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
+      "videoId": "BMJnGgX_N0A",
+      "watchUrl": "https://www.youtube.com/watch?v=BMJnGgX_N0A",
+      "embedUrl": "https://www.youtube.com/embed/BMJnGgX_N0A",
+      "originalUrl": "https://youtu.be/BMJnGgX_N0A?",
+      "origin": "detail",
+      "writeTimestamp": 1775776625637
     },
     {
       "key": "510:CiPrliAtWTY",
