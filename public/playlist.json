@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T19:21:35.257Z",
+  "generatedAt": "2026-07-15T19:23:38.603Z",
   "pageCount": 40,
-  "sourceArticleCount": 595,
+  "sourceArticleCount": 596,
   "summaryMatchCount": 200,
-  "detailMatchCount": 226,
+  "detailMatchCount": 225,
   "items": [
     {
       "key": "4180:qCw-wpO2fng",
@@ -2470,20 +2470,6 @@
       "writeTimestamp": 1777700520883
     },
     {
-      "key": "2176:ELIjroQ_xBM",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "ELIjroQ_xBM",
-      "watchUrl": "https://www.youtube.com/watch?v=ELIjroQ_xBM",
-      "embedUrl": "https://www.youtube.com/embed/ELIjroQ_xBM",
-      "originalUrl": "https://youtu.be/ELIjroQ_xBM?",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
-    },
-    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -2944,20 +2930,6 @@
       "originalUrl": "https://youtu.be/kZUPLToG788?",
       "origin": "summary",
       "writeTimestamp": 1776969144897
-    },
-    {
-      "key": "1722:vC6jqWVb0Vk",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "vC6jqWVb0Vk",
-      "watchUrl": "https://www.youtube.com/watch?v=vC6jqWVb0Vk",
-      "embedUrl": "https://www.youtube.com/embed/vC6jqWVb0Vk",
-      "originalUrl": "https://youtube.com/shorts/vC6jqWVb0Vk?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
     },
     {
       "key": "1718:Qn8F_u0vBNI",
@@ -4206,20 +4178,6 @@
       "writeTimestamp": 1776010893590
     },
     {
-      "key": "951:g4fCc_MpPlE",
-      "articleId": "951",
-      "articleTitle": "ycs - 黎崍阿",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
-      "videoId": "g4fCc_MpPlE",
-      "watchUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE",
-      "embedUrl": "https://www.youtube.com/embed/g4fCc_MpPlE",
-      "originalUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1776006657800
-    },
-    {
       "key": "936:BMJnGgX_N0A",
       "articleId": "936",
       "articleTitle": "‘나는 또 다시 너랑 가라앉고 있네’",
@@ -4344,6 +4302,20 @@
       "originalUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM&li",
       "origin": "summary",
       "writeTimestamp": 1775971679680
+    },
+    {
+      "key": "882:52a9LrbBQUk",
+      "articleId": "882",
+      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
+      "videoId": "52a9LrbBQUk",
+      "watchUrl": "https://www.youtube.com/watch?v=52a9LrbBQUk",
+      "embedUrl": "https://www.youtube.com/embed/52a9LrbBQUk",
+      "originalUrl": "https://youtu.be/52a9LrbBQUk?",
+      "origin": "detail",
+      "writeTimestamp": 1775970684243
     },
     {
       "key": "881:9PukqhfMxfc",
@@ -4652,6 +4624,20 @@
       "originalUrl": "https://youtu.be/baKW79ev0U4?li",
       "origin": "summary",
       "writeTimestamp": 1775906432737
+    },
+    {
+      "key": "749:ocoDclgWG9w",
+      "articleId": "749",
+      "articleTitle": "ilypvc - die with you",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/749",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/749",
+      "videoId": "ocoDclgWG9w",
+      "watchUrl": "https://www.youtube.com/watch?v=ocoDclgWG9w",
+      "embedUrl": "https://www.youtube.com/embed/ocoDclgWG9w",
+      "originalUrl": "https://youtu.be/ocoDclgWG9w?",
+      "origin": "detail",
+      "writeTimestamp": 1775896832390
     },
     {
       "key": "746:uZhy8pE_aG0",
