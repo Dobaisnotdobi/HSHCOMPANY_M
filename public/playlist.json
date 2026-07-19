@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-18T18:59:27.312Z",
+  "generatedAt": "2026-07-19T18:57:23.062Z",
   "pageCount": 40,
-  "sourceArticleCount": 599,
+  "sourceArticleCount": 600,
   "summaryMatchCount": 201,
-  "detailMatchCount": 227,
+  "detailMatchCount": 230,
   "items": [
     {
       "key": "4200:l2jvIuTp534",
@@ -2512,6 +2512,20 @@
       "writeTimestamp": 1777700520883
     },
     {
+      "key": "2176:_ql8Cbjx8WE",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "_ql8Cbjx8WE",
+      "watchUrl": "https://www.youtube.com/watch?v=_ql8Cbjx8WE",
+      "embedUrl": "https://www.youtube.com/embed/_ql8Cbjx8WE",
+      "originalUrl": "https://youtu.be/_ql8Cbjx8WE?",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
+    },
+    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -4234,6 +4248,20 @@
       "writeTimestamp": 1776010893590
     },
     {
+      "key": "951:g4fCc_MpPlE",
+      "articleId": "951",
+      "articleTitle": "ycs - 黎崍阿",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
+      "videoId": "g4fCc_MpPlE",
+      "watchUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE",
+      "embedUrl": "https://www.youtube.com/embed/g4fCc_MpPlE",
+      "originalUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1776006657800
+    },
+    {
       "key": "936:BMJnGgX_N0A",
       "articleId": "936",
       "articleTitle": "‘나는 또 다시 너랑 가라앉고 있네’",
@@ -5270,20 +5298,6 @@
       "writeTimestamp": 1775788899090
     },
     {
-      "key": "510:BMJnGgX_N0A",
-      "articleId": "510",
-      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
-      "writer": "바보",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
-      "videoId": "BMJnGgX_N0A",
-      "watchUrl": "https://www.youtube.com/watch?v=BMJnGgX_N0A",
-      "embedUrl": "https://www.youtube.com/embed/BMJnGgX_N0A",
-      "originalUrl": "https://youtu.be/BMJnGgX_N0A?",
-      "origin": "detail",
-      "writeTimestamp": 1775776625637
-    },
-    {
       "key": "510:CiPrliAtWTY",
       "articleId": "510",
       "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
@@ -5730,6 +5744,34 @@
       "originalUrl": "https://www.youtube.com/watch?v=2t_inrWZDMY&li",
       "origin": "summary",
       "writeTimestamp": 1775557521103
+    },
+    {
+      "key": "214:kX3r0iFWCaM",
+      "articleId": "214",
+      "articleTitle": "올해 국내 하이퍼팝은 이거임",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/214",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/214",
+      "videoId": "kX3r0iFWCaM",
+      "watchUrl": "https://www.youtube.com/watch?v=kX3r0iFWCaM",
+      "embedUrl": "https://www.youtube.com/embed/kX3r0iFWCaM",
+      "originalUrl": "https://www.youtube.com/watch?v=kX3r0iFWCaM&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1775545985203
+    },
+    {
+      "key": "214:pQvdhK9kEGc",
+      "articleId": "214",
+      "articleTitle": "올해 국내 하이퍼팝은 이거임",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/214",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/214",
+      "videoId": "pQvdhK9kEGc",
+      "watchUrl": "https://www.youtube.com/watch?v=pQvdhK9kEGc",
+      "embedUrl": "https://www.youtube.com/embed/pQvdhK9kEGc",
+      "originalUrl": "https://www.youtube.com/watch?v=pQvdhK9kEGc&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1775545985203
     },
     {
       "key": "186:cgW05HJjQtA",
