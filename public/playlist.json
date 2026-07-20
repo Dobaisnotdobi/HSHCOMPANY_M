@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T18:57:23.062Z",
+  "generatedAt": "2026-07-20T19:55:19.875Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 201,
-  "detailMatchCount": 230,
+  "detailMatchCount": 231,
   "items": [
     {
       "key": "4200:l2jvIuTp534",
@@ -2358,6 +2358,20 @@
       "writeTimestamp": 1777915257667
     },
     {
+      "key": "2516:qbBdh0PppoE",
+      "articleId": "2516",
+      "articleTitle": "릴러말즈 앨범 추천",
+      "writer": "R3dstorys",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2516",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2516",
+      "videoId": "qbBdh0PppoE",
+      "watchUrl": "https://www.youtube.com/watch?v=qbBdh0PppoE",
+      "embedUrl": "https://www.youtube.com/embed/qbBdh0PppoE",
+      "originalUrl": "https://youtube.com/shorts/qbBdh0PppoE?",
+      "origin": "detail",
+      "writeTimestamp": 1777907117883
+    },
+    {
       "key": "2514:IU371ATtL_I",
       "articleId": "2514",
       "articleTitle": "칸예 3집에 들어가지 못한 비운의 명곡",
@@ -2736,6 +2750,20 @@
       "writeTimestamp": 1777433840017
     },
     {
+      "key": "2017:qbBdh0PppoE",
+      "articleId": "2017",
+      "articleTitle": "5월 1일에 발매되는 제 싱글을 한번 드셔보실렵니까",
+      "writer": "사애",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2017",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2017",
+      "videoId": "qbBdh0PppoE",
+      "watchUrl": "https://www.youtube.com/watch?v=qbBdh0PppoE",
+      "embedUrl": "https://www.youtube.com/embed/qbBdh0PppoE",
+      "originalUrl": "https://youtube.com/shorts/qbBdh0PppoE?",
+      "origin": "detail",
+      "writeTimestamp": 1777398239353
+    },
+    {
       "key": "2016:R-fB7jypYGo",
       "articleId": "2016",
       "articleTitle": "Creepy Nuts - Fright",
@@ -2986,20 +3014,6 @@
       "originalUrl": "https://youtu.be/kZUPLToG788?",
       "origin": "summary",
       "writeTimestamp": 1776969144897
-    },
-    {
-      "key": "1722:vC6jqWVb0Vk",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "vC6jqWVb0Vk",
-      "watchUrl": "https://www.youtube.com/watch?v=vC6jqWVb0Vk",
-      "embedUrl": "https://www.youtube.com/embed/vC6jqWVb0Vk",
-      "originalUrl": "https://youtube.com/shorts/vC6jqWVb0Vk?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
     },
     {
       "key": "1718:Qn8F_u0vBNI",
@@ -3758,6 +3772,20 @@
       "writeTimestamp": 1776356073577
     },
     {
+      "key": "1260:iFZWZUtWeKQ",
+      "articleId": "1260",
+      "articleTitle": "패닉 2집 - 밑",
+      "writer": "시분펍",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1260",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1260",
+      "videoId": "iFZWZUtWeKQ",
+      "watchUrl": "https://www.youtube.com/watch?v=iFZWZUtWeKQ",
+      "embedUrl": "https://www.youtube.com/embed/iFZWZUtWeKQ",
+      "originalUrl": "https://youtu.be/iFZWZUtWeKQ?",
+      "origin": "detail",
+      "writeTimestamp": 1776347256960
+    },
+    {
       "key": "1257:qN4ooNx77u0",
       "articleId": "1257",
       "articleTitle": "평화와 사랑을 외치며 잠시 쉬어가는 시간으로",
@@ -3854,6 +3882,20 @@
       "originalUrl": "https://www.youtube.com/embed/lFAB6EHrQzQ?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776235735720
+    },
+    {
+      "key": "1170:D0l1HdemykU",
+      "articleId": "1170",
+      "articleTitle": "어제 추천하려 했던 곡",
+      "writer": "한세현",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1170",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1170",
+      "videoId": "D0l1HdemykU",
+      "watchUrl": "https://www.youtube.com/watch?v=D0l1HdemykU",
+      "embedUrl": "https://www.youtube.com/embed/D0l1HdemykU",
+      "originalUrl": "https://youtu.be/D0l1HdemykU?",
+      "origin": "detail",
+      "writeTimestamp": 1776227786750
     },
     {
       "key": "1154:EmGV8AyBvYU",
@@ -5744,34 +5786,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=2t_inrWZDMY&li",
       "origin": "summary",
       "writeTimestamp": 1775557521103
-    },
-    {
-      "key": "214:kX3r0iFWCaM",
-      "articleId": "214",
-      "articleTitle": "올해 국내 하이퍼팝은 이거임",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/214",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/214",
-      "videoId": "kX3r0iFWCaM",
-      "watchUrl": "https://www.youtube.com/watch?v=kX3r0iFWCaM",
-      "embedUrl": "https://www.youtube.com/embed/kX3r0iFWCaM",
-      "originalUrl": "https://www.youtube.com/watch?v=kX3r0iFWCaM&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1775545985203
-    },
-    {
-      "key": "214:pQvdhK9kEGc",
-      "articleId": "214",
-      "articleTitle": "올해 국내 하이퍼팝은 이거임",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/214",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/214",
-      "videoId": "pQvdhK9kEGc",
-      "watchUrl": "https://www.youtube.com/watch?v=pQvdhK9kEGc",
-      "embedUrl": "https://www.youtube.com/embed/pQvdhK9kEGc",
-      "originalUrl": "https://www.youtube.com/watch?v=pQvdhK9kEGc&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1775545985203
     },
     {
       "key": "186:cgW05HJjQtA",
