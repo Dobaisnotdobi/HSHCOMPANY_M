@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-28T19:38:16.756Z",
+  "generatedAt": "2026-07-29T19:20:34.102Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
-  "summaryMatchCount": 198,
-  "detailMatchCount": 230,
+  "summaryMatchCount": 197,
+  "detailMatchCount": 228,
   "items": [
     {
       "key": "4298:-EIZCnpFRb4",
@@ -2498,6 +2498,20 @@
       "writeTimestamp": 1777915257667
     },
     {
+      "key": "2516:oYrj-ehcc4Q",
+      "articleId": "2516",
+      "articleTitle": "릴러말즈 앨범 추천",
+      "writer": "R3dstorys",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2516",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2516",
+      "videoId": "oYrj-ehcc4Q",
+      "watchUrl": "https://www.youtube.com/watch?v=oYrj-ehcc4Q",
+      "embedUrl": "https://www.youtube.com/embed/oYrj-ehcc4Q",
+      "originalUrl": "https://youtu.be/oYrj-ehcc4Q?",
+      "origin": "detail",
+      "writeTimestamp": 1777907117883
+    },
+    {
       "key": "2514:IU371ATtL_I",
       "articleId": "2514",
       "articleTitle": "칸예 3집에 들어가지 못한 비운의 명곡",
@@ -2650,34 +2664,6 @@
       "originalUrl": "https://youtu.be/81kzxCNBKM4?",
       "origin": "summary",
       "writeTimestamp": 1777700520883
-    },
-    {
-      "key": "2176:aj5DccgBYeM",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "aj5DccgBYeM",
-      "watchUrl": "https://www.youtube.com/watch?v=aj5DccgBYeM",
-      "embedUrl": "https://www.youtube.com/embed/aj5DccgBYeM",
-      "originalUrl": "https://youtu.be/aj5DccgBYeM?",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
-    },
-    {
-      "key": "2176:ZF49-rKzTLk",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "ZF49-rKzTLk",
-      "watchUrl": "https://www.youtube.com/watch?v=ZF49-rKzTLk",
-      "embedUrl": "https://www.youtube.com/embed/ZF49-rKzTLk",
-      "originalUrl": "https://youtube.com/watch?v=ZF49-rKzTLk&amp;",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
     },
     {
       "key": "2148:Z2neajn3mCI",
@@ -3898,20 +3884,6 @@
       "writeTimestamp": 1776356073577
     },
     {
-      "key": "1260:BAMaFfqbCTo",
-      "articleId": "1260",
-      "articleTitle": "패닉 2집 - 밑",
-      "writer": "시분펍",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1260",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1260",
-      "videoId": "BAMaFfqbCTo",
-      "watchUrl": "https://www.youtube.com/watch?v=BAMaFfqbCTo",
-      "embedUrl": "https://www.youtube.com/embed/BAMaFfqbCTo",
-      "originalUrl": "https://youtube.com/shorts/BAMaFfqbCTo?",
-      "origin": "detail",
-      "writeTimestamp": 1776347256960
-    },
-    {
       "key": "1257:qN4ooNx77u0",
       "articleId": "1257",
       "articleTitle": "평화와 사랑을 외치며 잠시 쉬어가는 시간으로",
@@ -4402,20 +4374,6 @@
       "writeTimestamp": 1776010893590
     },
     {
-      "key": "951:g4fCc_MpPlE",
-      "articleId": "951",
-      "articleTitle": "ycs - 黎崍阿",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
-      "videoId": "g4fCc_MpPlE",
-      "watchUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE",
-      "embedUrl": "https://www.youtube.com/embed/g4fCc_MpPlE",
-      "originalUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1776006657800
-    },
-    {
       "key": "936:BMJnGgX_N0A",
       "articleId": "936",
       "articleTitle": "‘나는 또 다시 너랑 가라앉고 있네’",
@@ -4850,6 +4808,34 @@
       "writeTimestamp": 1775906432737
     },
     {
+      "key": "749:k4xMw-pzM0g",
+      "articleId": "749",
+      "articleTitle": "ilypvc - die with you",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/749",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/749",
+      "videoId": "k4xMw-pzM0g",
+      "watchUrl": "https://www.youtube.com/watch?v=k4xMw-pzM0g",
+      "embedUrl": "https://www.youtube.com/embed/k4xMw-pzM0g",
+      "originalUrl": "https://youtu.be/k4xMw-pzM0g?",
+      "origin": "detail",
+      "writeTimestamp": 1775896832390
+    },
+    {
+      "key": "749:ocoDclgWG9w",
+      "articleId": "749",
+      "articleTitle": "ilypvc - die with you",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/749",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/749",
+      "videoId": "ocoDclgWG9w",
+      "watchUrl": "https://www.youtube.com/watch?v=ocoDclgWG9w",
+      "embedUrl": "https://www.youtube.com/embed/ocoDclgWG9w",
+      "originalUrl": "https://youtu.be/ocoDclgWG9w?",
+      "origin": "detail",
+      "writeTimestamp": 1775896832390
+    },
+    {
       "key": "746:uZhy8pE_aG0",
       "articleId": "746",
       "articleTitle": "창모 [I n c o m p l e t]에서 가장 좋았던 곡",
@@ -5172,16 +5158,16 @@
       "writeTimestamp": 1775828889540
     },
     {
-      "key": "599:tb6VMWWibC8",
+      "key": "599:k4xMw-pzM0g",
       "articleId": "599",
       "articleTitle": "2mh41k",
       "writer": "park123hon",
       "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
       "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
-      "videoId": "tb6VMWWibC8",
-      "watchUrl": "https://www.youtube.com/watch?v=tb6VMWWibC8",
-      "embedUrl": "https://www.youtube.com/embed/tb6VMWWibC8",
-      "originalUrl": "https://youtube.com/watch?v=tb6VMWWibC8&amp;",
+      "videoId": "k4xMw-pzM0g",
+      "watchUrl": "https://www.youtube.com/watch?v=k4xMw-pzM0g",
+      "embedUrl": "https://www.youtube.com/embed/k4xMw-pzM0g",
+      "originalUrl": "https://youtu.be/k4xMw-pzM0g?",
       "origin": "detail",
       "writeTimestamp": 1775816958720
     },
@@ -5280,20 +5266,6 @@
       "watchUrl": "https://www.youtube.com/watch?v=Ara-baLw5bk",
       "embedUrl": "https://www.youtube.com/embed/Ara-baLw5bk",
       "originalUrl": "https://www.youtube.com/watch?v=Ara-baLw5bk",
-      "origin": "detail",
-      "writeTimestamp": 1775809753610
-    },
-    {
-      "key": "571:tb6VMWWibC8",
-      "articleId": "571",
-      "articleTitle": "isobel - limn",
-      "writer": "haneul57",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/571",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/571",
-      "videoId": "tb6VMWWibC8",
-      "watchUrl": "https://www.youtube.com/watch?v=tb6VMWWibC8",
-      "embedUrl": "https://www.youtube.com/embed/tb6VMWWibC8",
-      "originalUrl": "https://youtube.com/watch?v=tb6VMWWibC8&amp;",
       "origin": "detail",
       "writeTimestamp": 1775809753610
     },
@@ -5476,6 +5448,20 @@
       "watchUrl": "https://www.youtube.com/watch?v=BMJnGgX_N0A",
       "embedUrl": "https://www.youtube.com/embed/BMJnGgX_N0A",
       "originalUrl": "https://youtu.be/BMJnGgX_N0A?",
+      "origin": "detail",
+      "writeTimestamp": 1775776625637
+    },
+    {
+      "key": "510:x9upuovB5Yk",
+      "articleId": "510",
+      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
+      "writer": "바보",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
+      "videoId": "x9upuovB5Yk",
+      "watchUrl": "https://www.youtube.com/watch?v=x9upuovB5Yk",
+      "embedUrl": "https://www.youtube.com/embed/x9upuovB5Yk",
+      "originalUrl": "https://youtu.be/x9upuovB5Yk?",
       "origin": "detail",
       "writeTimestamp": 1775776625637
     },
@@ -5968,34 +5954,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=dTwgOn9kGow",
       "origin": "detail",
       "writeTimestamp": 1775481567263
-    },
-    {
-      "key": "156:jb-3JjruxAw",
-      "articleId": "156",
-      "articleTitle": "PUBLIC ENEMIES (Feat. OSUN (권오선), Iyaan, Jeffrey White, Raf Sandou)[쇼미12 스페셜 무대로 하고 드디어 오늘 나온 앨범]",
-      "writer": "라유09",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/156",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/156",
-      "videoId": "jb-3JjruxAw",
-      "watchUrl": "https://www.youtube.com/watch?v=jb-3JjruxAw",
-      "embedUrl": "https://www.youtube.com/embed/jb-3JjruxAw",
-      "originalUrl": "https://youtu.be/jb-3JjruxAw?",
-      "origin": "summary",
-      "writeTimestamp": 1775468634660
-    },
-    {
-      "key": "154:C1cfxLAOmHc",
-      "articleId": "154",
-      "articleTitle": "드디어 나온 PUBLIC ENEMIES 음원",
-      "writer": "일비임",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/154",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/154",
-      "videoId": "C1cfxLAOmHc",
-      "watchUrl": "https://www.youtube.com/watch?v=C1cfxLAOmHc",
-      "embedUrl": "https://www.youtube.com/embed/C1cfxLAOmHc",
-      "originalUrl": "https://www.youtube.com/embed/C1cfxLAOmHc?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775467708480
     }
   ]
 }
