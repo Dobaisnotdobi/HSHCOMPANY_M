@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-03T19:46:25.042Z",
+  "generatedAt": "2026-08-04T19:53:38.482Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
-  "summaryMatchCount": 191,
-  "detailMatchCount": 245,
+  "summaryMatchCount": 189,
+  "detailMatchCount": 237,
   "items": [
     {
       "key": "4440:UYg5zn_JQFc",
@@ -200,34 +200,6 @@
       "originalUrl": "https://www.youtube.com/embed/cvGtjTA_pcU?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1785427038230
-    },
-    {
-      "key": "4299:xHfqMKYnURM",
-      "articleId": "4299",
-      "articleTitle": "JUSTHIS - Money Vs. Love: Dream",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4299",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4299",
-      "videoId": "xHfqMKYnURM",
-      "watchUrl": "https://www.youtube.com/watch?v=xHfqMKYnURM",
-      "embedUrl": "https://www.youtube.com/embed/xHfqMKYnURM",
-      "originalUrl": "https://youtu.be/xHfqMKYnURM?",
-      "origin": "detail",
-      "writeTimestamp": 1784987003813
-    },
-    {
-      "key": "4299:Wd4M_r4cDYQ",
-      "articleId": "4299",
-      "articleTitle": "JUSTHIS - Money Vs. Love: Dream",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4299",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4299",
-      "videoId": "Wd4M_r4cDYQ",
-      "watchUrl": "https://www.youtube.com/watch?v=Wd4M_r4cDYQ",
-      "embedUrl": "https://www.youtube.com/embed/Wd4M_r4cDYQ",
-      "originalUrl": "https://youtu.be/Wd4M_r4cDYQ?",
-      "origin": "detail",
-      "writeTimestamp": 1784987003813
     },
     {
       "key": "4298:-EIZCnpFRb4",
@@ -1278,20 +1250,6 @@
       "originalUrl": "https://youtu.be/zwf5MpcuKDM?",
       "origin": "summary",
       "writeTimestamp": 1780574488943
-    },
-    {
-      "key": "3535:QW2ueiXg94Q",
-      "articleId": "3535",
-      "articleTitle": "언텔 - AMBITIUN",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3535",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3535",
-      "videoId": "QW2ueiXg94Q",
-      "watchUrl": "https://www.youtube.com/watch?v=QW2ueiXg94Q",
-      "embedUrl": "https://www.youtube.com/embed/QW2ueiXg94Q",
-      "originalUrl": "https://youtu.be/QW2ueiXg94Q?",
-      "origin": "detail",
-      "writeTimestamp": 1780557991880
     },
     {
       "key": "3534:ZxvPthCebW8",
@@ -3380,34 +3338,6 @@
       "writeTimestamp": 1776969144897
     },
     {
-      "key": "1722:elPY91kBLyY",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "elPY91kBLyY",
-      "watchUrl": "https://www.youtube.com/watch?v=elPY91kBLyY",
-      "embedUrl": "https://www.youtube.com/embed/elPY91kBLyY",
-      "originalUrl": "https://youtube.com/shorts/elPY91kBLyY?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
-    },
-    {
-      "key": "1722:e6HcArFcgCo",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "e6HcArFcgCo",
-      "watchUrl": "https://www.youtube.com/watch?v=e6HcArFcgCo",
-      "embedUrl": "https://www.youtube.com/embed/e6HcArFcgCo",
-      "originalUrl": "https://youtube.com/shorts/e6HcArFcgCo?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
-    },
-    {
       "key": "1718:Qn8F_u0vBNI",
       "articleId": "1718",
       "articleTitle": "디깅하다 찾은 몽글몽글 r&b",
@@ -3826,20 +3756,6 @@
       "originalUrl": "https://www.youtube.com/embed/6VH5t3L1xI4?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776599403090
-    },
-    {
-      "key": "1438:XnVDAqPvxXY",
-      "articleId": "1438",
-      "articleTitle": "오앨추",
-      "writer": "Orlip",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1438",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1438",
-      "videoId": "XnVDAqPvxXY",
-      "watchUrl": "https://www.youtube.com/watch?v=XnVDAqPvxXY",
-      "embedUrl": "https://www.youtube.com/embed/XnVDAqPvxXY",
-      "originalUrl": "https://youtube.com/shorts/XnVDAqPvxXY?",
-      "origin": "detail",
-      "writeTimestamp": 1776597797990
     },
     {
       "key": "1436:lh1JjR0YJIE",
@@ -4274,20 +4190,6 @@
       "originalUrl": "https://www.youtube.com/embed/lFAB6EHrQzQ?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776235735720
-    },
-    {
-      "key": "1170:acZxukjH_v8",
-      "articleId": "1170",
-      "articleTitle": "어제 추천하려 했던 곡",
-      "writer": "한세현",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1170",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1170",
-      "videoId": "acZxukjH_v8",
-      "watchUrl": "https://www.youtube.com/watch?v=acZxukjH_v8",
-      "embedUrl": "https://www.youtube.com/embed/acZxukjH_v8",
-      "originalUrl": "https://youtu.be/acZxukjH_v8?",
-      "origin": "detail",
-      "writeTimestamp": 1776227786750
     },
     {
       "key": "1154:EmGV8AyBvYU",
@@ -4806,20 +4708,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM&li",
       "origin": "summary",
       "writeTimestamp": 1775971679680
-    },
-    {
-      "key": "882:52a9LrbBQUk",
-      "articleId": "882",
-      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
-      "videoId": "52a9LrbBQUk",
-      "watchUrl": "https://www.youtube.com/watch?v=52a9LrbBQUk",
-      "embedUrl": "https://www.youtube.com/embed/52a9LrbBQUk",
-      "originalUrl": "https://youtu.be/52a9LrbBQUk?",
-      "origin": "detail",
-      "writeTimestamp": 1775970684243
     },
     {
       "key": "881:9PukqhfMxfc",
@@ -5354,6 +5242,20 @@
       "writeTimestamp": 1775832658550
     },
     {
+      "key": "653:38ZvMEVtJ_Q",
+      "articleId": "653",
+      "articleTitle": "최성 - 전설",
+      "writer": "새모",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/653",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/653",
+      "videoId": "38ZvMEVtJ_Q",
+      "watchUrl": "https://www.youtube.com/watch?v=38ZvMEVtJ_Q",
+      "embedUrl": "https://www.youtube.com/embed/38ZvMEVtJ_Q",
+      "originalUrl": "https://youtube.com/shorts/38ZvMEVtJ_Q?",
+      "origin": "detail",
+      "writeTimestamp": 1775831732930
+    },
+    {
       "key": "652:fmE7WfLh-k4",
       "articleId": "652",
       "articleTitle": "제네 더 질라&해쉬스완&노선 신곡 떴다",
@@ -5450,20 +5352,6 @@
       "originalUrl": "https://youtu.be/75jq_EQxht8?",
       "origin": "summary",
       "writeTimestamp": 1775828889540
-    },
-    {
-      "key": "599:XnVDAqPvxXY",
-      "articleId": "599",
-      "articleTitle": "2mh41k",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
-      "videoId": "XnVDAqPvxXY",
-      "watchUrl": "https://www.youtube.com/watch?v=XnVDAqPvxXY",
-      "embedUrl": "https://www.youtube.com/embed/XnVDAqPvxXY",
-      "originalUrl": "https://youtube.com/shorts/XnVDAqPvxXY?",
-      "origin": "detail",
-      "writeTimestamp": 1775816958720
     },
     {
       "key": "595:cba5xopcZ2Q",
@@ -6080,34 +5968,6 @@
       "originalUrl": "https://youtu.be/u92MKx8qzFI?",
       "origin": "summary",
       "writeTimestamp": 1775687782720
-    },
-    {
-      "key": "272:wbJ9L1xpQcY",
-      "articleId": "272",
-      "articleTitle": "김하온 - Shook Ones, Pt II (Prod. Mobb Deep) [NOWIMYOUNG VS 김하온 디스전] | 지코X크러쉬팀 - 거북선",
-      "writer": "라유09",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/272",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/272",
-      "videoId": "wbJ9L1xpQcY",
-      "watchUrl": "https://www.youtube.com/watch?v=wbJ9L1xpQcY",
-      "embedUrl": "https://www.youtube.com/embed/wbJ9L1xpQcY",
-      "originalUrl": "https://youtu.be/wbJ9L1xpQcY?",
-      "origin": "summary",
-      "writeTimestamp": 1775632195490
-    },
-    {
-      "key": "272:lGAR7eZf52M",
-      "articleId": "272",
-      "articleTitle": "김하온 - Shook Ones, Pt II (Prod. Mobb Deep) [NOWIMYOUNG VS 김하온 디스전] | 지코X크러쉬팀 - 거북선",
-      "writer": "라유09",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/272",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/272",
-      "videoId": "lGAR7eZf52M",
-      "watchUrl": "https://www.youtube.com/watch?v=lGAR7eZf52M",
-      "embedUrl": "https://www.youtube.com/embed/lGAR7eZf52M",
-      "originalUrl": "https://youtu.be/lGAR7eZf52M?",
-      "origin": "summary",
-      "writeTimestamp": 1775632195490
     }
   ]
 }
