@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-08-11T19:00:15.044Z",
+  "generatedAt": "2026-08-12T18:58:28.946Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 184,
-  "detailMatchCount": 242,
+  "detailMatchCount": 244,
   "items": [
+    {
+      "key": "4546:VuDByNga4dM",
+      "articleId": "4546",
+      "articleTitle": "두목 제네 더 질라 신곡 나왔는데 조회수 좋음",
+      "writer": "라유09",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4546",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4546",
+      "videoId": "VuDByNga4dM",
+      "watchUrl": "https://www.youtube.com/watch?v=VuDByNga4dM",
+      "embedUrl": "https://www.youtube.com/embed/VuDByNga4dM",
+      "originalUrl": "https://youtube.com/watch?v=VuDByNga4dM&",
+      "origin": "summary",
+      "writeTimestamp": 1786541434727
+    },
+    {
+      "key": "4543:XDNOn4WCbWY",
+      "articleId": "4543",
+      "articleTitle": "16살 권기백의 Gfunk (인간쓰레기매립지 신림)",
+      "writer": "DoceLee",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4543",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4543",
+      "videoId": "XDNOn4WCbWY",
+      "watchUrl": "https://www.youtube.com/watch?v=XDNOn4WCbWY",
+      "embedUrl": "https://www.youtube.com/embed/XDNOn4WCbWY",
+      "originalUrl": "https://www.youtube.com/embed/XDNOn4WCbWY?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1786518528517
+    },
+    {
+      "key": "4533:Ut1ttRyLkAo",
+      "articleId": "4533",
+      "articleTitle": "hawks - Bloody Mary Valentine",
+      "writer": "공백",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4533",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4533",
+      "videoId": "Ut1ttRyLkAo",
+      "watchUrl": "https://www.youtube.com/watch?v=Ut1ttRyLkAo",
+      "embedUrl": "https://www.youtube.com/embed/Ut1ttRyLkAo",
+      "originalUrl": "https://youtu.be/Ut1ttRyLkAo",
+      "origin": "detail",
+      "writeTimestamp": 1786472253823
+    },
     {
       "key": "4517:flOGwgEm4jk",
       "articleId": "4517",
@@ -130,20 +172,6 @@
       "originalUrl": "https://www.youtube.com/embed/uNv-gQxzTow?li",
       "origin": "detail",
       "writeTimestamp": 1785602377273
-    },
-    {
-      "key": "4414:tX3IvpH6loc",
-      "articleId": "4414",
-      "articleTitle": "Kanye West - The college dropout",
-      "writer": "TiMeWiNe",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4414",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4414",
-      "videoId": "tX3IvpH6loc",
-      "watchUrl": "https://www.youtube.com/watch?v=tX3IvpH6loc",
-      "embedUrl": "https://www.youtube.com/embed/tX3IvpH6loc",
-      "originalUrl": "https://www.youtube.com/watch?v=tX3IvpH6loc&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1785551099393
     },
     {
       "key": "4412:a2ildxtGTrI",
@@ -2932,6 +2960,20 @@
       "writeTimestamp": 1777700520883
     },
     {
+      "key": "2176:Axaj2-V9uLA",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "Axaj2-V9uLA",
+      "watchUrl": "https://www.youtube.com/watch?v=Axaj2-V9uLA",
+      "embedUrl": "https://www.youtube.com/embed/Axaj2-V9uLA",
+      "originalUrl": "https://youtu.be/Axaj2-V9uLA?",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
+    },
+    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -5228,6 +5270,20 @@
       "writeTimestamp": 1775841331817
     },
     {
+      "key": "673:nuCzHmEgcQQ",
+      "articleId": "673",
+      "articleTitle": "기리보이-내가너를사랑하지않는다는것은너의망할친구들의아이디어같아",
+      "writer": "Kdkwp",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/673",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/673",
+      "videoId": "nuCzHmEgcQQ",
+      "watchUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ",
+      "embedUrl": "https://www.youtube.com/embed/nuCzHmEgcQQ",
+      "originalUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1775834781943
+    },
+    {
       "key": "666:HH6BZ5M6jVA",
       "articleId": "666",
       "articleTitle": "오왼과 릴 보이의 롤 모델이였던 남자 아시나요?",
@@ -5940,34 +5996,6 @@
       "originalUrl": "https://youtu.be/8mGHm2Et7Ao?",
       "origin": "summary",
       "writeTimestamp": 1775748769840
-    },
-    {
-      "key": "392:vWl_pd19RRU",
-      "articleId": "392",
-      "articleTitle": "Tabber, DEAN, 김심야 - 3AM Freestyle",
-      "writer": "피이리리리",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/392",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/392",
-      "videoId": "vWl_pd19RRU",
-      "watchUrl": "https://www.youtube.com/watch?v=vWl_pd19RRU",
-      "embedUrl": "https://www.youtube.com/embed/vWl_pd19RRU",
-      "originalUrl": "https://www.youtube.com/embed/vWl_pd19RRU?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775748454840
-    },
-    {
-      "key": "387:1CwbEC9T42Y",
-      "articleId": "387",
-      "articleTitle": "X같은 바라클라바 좀 벗어",
-      "writer": "아아아123",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/387",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/387",
-      "videoId": "1CwbEC9T42Y",
-      "watchUrl": "https://www.youtube.com/watch?v=1CwbEC9T42Y",
-      "embedUrl": "https://www.youtube.com/embed/1CwbEC9T42Y",
-      "originalUrl": "https://youtu.be/1CwbEC9T42Y?",
-      "origin": "summary",
-      "writeTimestamp": 1775748354360
     }
   ]
 }
