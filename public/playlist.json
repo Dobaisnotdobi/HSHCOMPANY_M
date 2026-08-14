@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T19:16:12.866Z",
+  "generatedAt": "2026-08-14T19:07:09.030Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 184,
-  "detailMatchCount": 244,
+  "detailMatchCount": 245,
   "items": [
     {
       "key": "4546:VuDByNga4dM",
@@ -270,34 +270,6 @@
       "originalUrl": "https://www.youtube.com/embed/cvGtjTA_pcU?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1785427038230
-    },
-    {
-      "key": "4299:Kvmo17lrZQM",
-      "articleId": "4299",
-      "articleTitle": "JUSTHIS - Money Vs. Love: Dream",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4299",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4299",
-      "videoId": "Kvmo17lrZQM",
-      "watchUrl": "https://www.youtube.com/watch?v=Kvmo17lrZQM",
-      "embedUrl": "https://www.youtube.com/embed/Kvmo17lrZQM",
-      "originalUrl": "https://youtu.be/Kvmo17lrZQM?",
-      "origin": "detail",
-      "writeTimestamp": 1784987003813
-    },
-    {
-      "key": "4299:D52qnC7dJcQ",
-      "articleId": "4299",
-      "articleTitle": "JUSTHIS - Money Vs. Love: Dream",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4299",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4299",
-      "videoId": "D52qnC7dJcQ",
-      "watchUrl": "https://www.youtube.com/watch?v=D52qnC7dJcQ",
-      "embedUrl": "https://www.youtube.com/embed/D52qnC7dJcQ",
-      "originalUrl": "https://youtu.be/D52qnC7dJcQ?",
-      "origin": "detail",
-      "writeTimestamp": 1784987003813
     },
     {
       "key": "4298:-EIZCnpFRb4",
@@ -2946,6 +2918,20 @@
       "writeTimestamp": 1777700520883
     },
     {
+      "key": "2177:t1x9_V4cb8U",
+      "articleId": "2177",
+      "articleTitle": "탑 앨범에서 유일하게 계속 듣는 곡",
+      "writer": "JUSTHIS",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2177",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2177",
+      "videoId": "t1x9_V4cb8U",
+      "watchUrl": "https://www.youtube.com/watch?v=t1x9_V4cb8U",
+      "embedUrl": "https://www.youtube.com/embed/t1x9_V4cb8U",
+      "originalUrl": "https://youtu.be/t1x9_V4cb8U?",
+      "origin": "detail",
+      "writeTimestamp": 1777561883103
+    },
+    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -3408,30 +3394,16 @@
       "writeTimestamp": 1776969144897
     },
     {
-      "key": "1722:vC6jqWVb0Vk",
+      "key": "1722:e6HcArFcgCo",
       "articleId": "1722",
       "articleTitle": "이거 진짜 나만아는듯",
       "writer": "Gangbool",
       "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
       "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "vC6jqWVb0Vk",
-      "watchUrl": "https://www.youtube.com/watch?v=vC6jqWVb0Vk",
-      "embedUrl": "https://www.youtube.com/embed/vC6jqWVb0Vk",
-      "originalUrl": "https://youtube.com/shorts/vC6jqWVb0Vk?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
-    },
-    {
-      "key": "1722:elPY91kBLyY",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "elPY91kBLyY",
-      "watchUrl": "https://www.youtube.com/watch?v=elPY91kBLyY",
-      "embedUrl": "https://www.youtube.com/embed/elPY91kBLyY",
-      "originalUrl": "https://youtube.com/shorts/elPY91kBLyY?",
+      "videoId": "e6HcArFcgCo",
+      "watchUrl": "https://www.youtube.com/watch?v=e6HcArFcgCo",
+      "embedUrl": "https://www.youtube.com/embed/e6HcArFcgCo",
+      "originalUrl": "https://youtube.com/shorts/e6HcArFcgCo?",
       "origin": "detail",
       "writeTimestamp": 1776945731630
     },
@@ -4654,6 +4626,34 @@
       "writeTimestamp": 1776012525673
     },
     {
+      "key": "957:07p8LOFToKA",
+      "articleId": "957",
+      "articleTitle": "ericodoa - deep end",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/957",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/957",
+      "videoId": "07p8LOFToKA",
+      "watchUrl": "https://www.youtube.com/watch?v=07p8LOFToKA",
+      "embedUrl": "https://www.youtube.com/embed/07p8LOFToKA",
+      "originalUrl": "https://youtu.be/07p8LOFToKA?",
+      "origin": "detail",
+      "writeTimestamp": 1776012027543
+    },
+    {
+      "key": "957:G7KGRMlIxyE",
+      "articleId": "957",
+      "articleTitle": "ericodoa - deep end",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/957",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/957",
+      "videoId": "G7KGRMlIxyE",
+      "watchUrl": "https://www.youtube.com/watch?v=G7KGRMlIxyE",
+      "embedUrl": "https://www.youtube.com/embed/G7KGRMlIxyE",
+      "originalUrl": "https://youtu.be/G7KGRMlIxyE?",
+      "origin": "detail",
+      "writeTimestamp": 1776012027543
+    },
+    {
       "key": "955:pa4e5C_dLJA",
       "articleId": "955",
       "articleTitle": "kanye west-white lines",
@@ -4680,6 +4680,20 @@
       "originalUrl": "https://www.youtube.com/embed/3kgti2PIIK0?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776010893590
+    },
+    {
+      "key": "951:g4fCc_MpPlE",
+      "articleId": "951",
+      "articleTitle": "ycs - 黎崍阿",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
+      "videoId": "g4fCc_MpPlE",
+      "watchUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE",
+      "embedUrl": "https://www.youtube.com/embed/g4fCc_MpPlE",
+      "originalUrl": "https://www.youtube.com/watch?v=g4fCc_MpPlE&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1776006657800
     },
     {
       "key": "936:BMJnGgX_N0A",
@@ -4806,6 +4820,20 @@
       "originalUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM&li",
       "origin": "summary",
       "writeTimestamp": 1775971679680
+    },
+    {
+      "key": "882:52a9LrbBQUk",
+      "articleId": "882",
+      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
+      "videoId": "52a9LrbBQUk",
+      "watchUrl": "https://www.youtube.com/watch?v=52a9LrbBQUk",
+      "embedUrl": "https://www.youtube.com/embed/52a9LrbBQUk",
+      "originalUrl": "https://youtu.be/52a9LrbBQUk?",
+      "origin": "detail",
+      "writeTimestamp": 1775970684243
     },
     {
       "key": "881:9PukqhfMxfc",
@@ -5436,20 +5464,6 @@
       "originalUrl": "https://youtu.be/75jq_EQxht8?",
       "origin": "summary",
       "writeTimestamp": 1775828889540
-    },
-    {
-      "key": "618:bf8YVBUx808",
-      "articleId": "618",
-      "articleTitle": "EK - 디지털부대, 경연대회",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/618",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/618",
-      "videoId": "bf8YVBUx808",
-      "watchUrl": "https://www.youtube.com/watch?v=bf8YVBUx808",
-      "embedUrl": "https://www.youtube.com/embed/bf8YVBUx808",
-      "originalUrl": "https://youtube.com/shorts/bf8YVBUx808?",
-      "origin": "detail",
-      "writeTimestamp": 1775824647327
     },
     {
       "key": "595:cba5xopcZ2Q",
