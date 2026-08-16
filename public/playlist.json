@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T19:07:09.030Z",
+  "generatedAt": "2026-08-16T18:34:35.697Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 184,
-  "detailMatchCount": 245,
+  "detailMatchCount": 240,
   "items": [
     {
       "key": "4546:VuDByNga4dM",
@@ -172,6 +172,20 @@
       "originalUrl": "https://www.youtube.com/embed/uNv-gQxzTow?li",
       "origin": "detail",
       "writeTimestamp": 1785602377273
+    },
+    {
+      "key": "4414:tX3IvpH6loc",
+      "articleId": "4414",
+      "articleTitle": "Kanye West - The college dropout",
+      "writer": "TiMeWiNe",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4414",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4414",
+      "videoId": "tX3IvpH6loc",
+      "watchUrl": "https://www.youtube.com/watch?v=tX3IvpH6loc",
+      "embedUrl": "https://www.youtube.com/embed/tX3IvpH6loc",
+      "originalUrl": "https://www.youtube.com/watch?v=tX3IvpH6loc&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1785551099393
     },
     {
       "key": "4412:a2ildxtGTrI",
@@ -2918,20 +2932,6 @@
       "writeTimestamp": 1777700520883
     },
     {
-      "key": "2177:t1x9_V4cb8U",
-      "articleId": "2177",
-      "articleTitle": "탑 앨범에서 유일하게 계속 듣는 곡",
-      "writer": "JUSTHIS",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2177",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2177",
-      "videoId": "t1x9_V4cb8U",
-      "watchUrl": "https://www.youtube.com/watch?v=t1x9_V4cb8U",
-      "embedUrl": "https://www.youtube.com/embed/t1x9_V4cb8U",
-      "originalUrl": "https://youtu.be/t1x9_V4cb8U?",
-      "origin": "detail",
-      "writeTimestamp": 1777561883103
-    },
-    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -3392,20 +3392,6 @@
       "originalUrl": "https://youtu.be/kZUPLToG788?",
       "origin": "summary",
       "writeTimestamp": 1776969144897
-    },
-    {
-      "key": "1722:e6HcArFcgCo",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "e6HcArFcgCo",
-      "watchUrl": "https://www.youtube.com/watch?v=e6HcArFcgCo",
-      "embedUrl": "https://www.youtube.com/embed/e6HcArFcgCo",
-      "originalUrl": "https://youtube.com/shorts/e6HcArFcgCo?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
     },
     {
       "key": "1718:Qn8F_u0vBNI",
@@ -4626,34 +4612,6 @@
       "writeTimestamp": 1776012525673
     },
     {
-      "key": "957:07p8LOFToKA",
-      "articleId": "957",
-      "articleTitle": "ericodoa - deep end",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/957",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/957",
-      "videoId": "07p8LOFToKA",
-      "watchUrl": "https://www.youtube.com/watch?v=07p8LOFToKA",
-      "embedUrl": "https://www.youtube.com/embed/07p8LOFToKA",
-      "originalUrl": "https://youtu.be/07p8LOFToKA?",
-      "origin": "detail",
-      "writeTimestamp": 1776012027543
-    },
-    {
-      "key": "957:G7KGRMlIxyE",
-      "articleId": "957",
-      "articleTitle": "ericodoa - deep end",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/957",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/957",
-      "videoId": "G7KGRMlIxyE",
-      "watchUrl": "https://www.youtube.com/watch?v=G7KGRMlIxyE",
-      "embedUrl": "https://www.youtube.com/embed/G7KGRMlIxyE",
-      "originalUrl": "https://youtu.be/G7KGRMlIxyE?",
-      "origin": "detail",
-      "writeTimestamp": 1776012027543
-    },
-    {
       "key": "955:pa4e5C_dLJA",
       "articleId": "955",
       "articleTitle": "kanye west-white lines",
@@ -4820,20 +4778,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM&li",
       "origin": "summary",
       "writeTimestamp": 1775971679680
-    },
-    {
-      "key": "882:52a9LrbBQUk",
-      "articleId": "882",
-      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
-      "videoId": "52a9LrbBQUk",
-      "watchUrl": "https://www.youtube.com/watch?v=52a9LrbBQUk",
-      "embedUrl": "https://www.youtube.com/embed/52a9LrbBQUk",
-      "originalUrl": "https://youtu.be/52a9LrbBQUk?",
-      "origin": "detail",
-      "writeTimestamp": 1775970684243
     },
     {
       "key": "881:9PukqhfMxfc",
@@ -5742,20 +5686,6 @@
       "watchUrl": "https://www.youtube.com/watch?v=BMJnGgX_N0A",
       "embedUrl": "https://www.youtube.com/embed/BMJnGgX_N0A",
       "originalUrl": "https://youtu.be/BMJnGgX_N0A?",
-      "origin": "detail",
-      "writeTimestamp": 1775776625637
-    },
-    {
-      "key": "510:x9upuovB5Yk",
-      "articleId": "510",
-      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
-      "writer": "바보",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
-      "videoId": "x9upuovB5Yk",
-      "watchUrl": "https://www.youtube.com/watch?v=x9upuovB5Yk",
-      "embedUrl": "https://www.youtube.com/embed/x9upuovB5Yk",
-      "originalUrl": "https://youtu.be/x9upuovB5Yk?",
       "origin": "detail",
       "writeTimestamp": 1775776625637
     },
