@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T18:34:35.697Z",
+  "generatedAt": "2026-08-17T18:56:41.728Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 184,
-  "detailMatchCount": 240,
+  "detailMatchCount": 243,
   "items": [
     {
       "key": "4546:VuDByNga4dM",
@@ -3394,6 +3394,34 @@
       "writeTimestamp": 1776969144897
     },
     {
+      "key": "1722:elPY91kBLyY",
+      "articleId": "1722",
+      "articleTitle": "이거 진짜 나만아는듯",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
+      "videoId": "elPY91kBLyY",
+      "watchUrl": "https://www.youtube.com/watch?v=elPY91kBLyY",
+      "embedUrl": "https://www.youtube.com/embed/elPY91kBLyY",
+      "originalUrl": "https://youtube.com/shorts/elPY91kBLyY?",
+      "origin": "detail",
+      "writeTimestamp": 1776945731630
+    },
+    {
+      "key": "1722:e6HcArFcgCo",
+      "articleId": "1722",
+      "articleTitle": "이거 진짜 나만아는듯",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
+      "videoId": "e6HcArFcgCo",
+      "watchUrl": "https://www.youtube.com/watch?v=e6HcArFcgCo",
+      "embedUrl": "https://www.youtube.com/embed/e6HcArFcgCo",
+      "originalUrl": "https://youtube.com/shorts/e6HcArFcgCo?",
+      "origin": "detail",
+      "writeTimestamp": 1776945731630
+    },
+    {
       "key": "1718:Qn8F_u0vBNI",
       "articleId": "1718",
       "articleTitle": "디깅하다 찾은 몽글몽글 r&b",
@@ -5240,6 +5268,20 @@
       "originalUrl": "https://youtu.be/QgYa3gBpQME?",
       "origin": "summary",
       "writeTimestamp": 1775841331817
+    },
+    {
+      "key": "673:nuCzHmEgcQQ",
+      "articleId": "673",
+      "articleTitle": "기리보이-내가너를사랑하지않는다는것은너의망할친구들의아이디어같아",
+      "writer": "Kdkwp",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/673",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/673",
+      "videoId": "nuCzHmEgcQQ",
+      "watchUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ",
+      "embedUrl": "https://www.youtube.com/embed/nuCzHmEgcQQ",
+      "originalUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1775834781943
     },
     {
       "key": "666:HH6BZ5M6jVA",
