@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T18:46:19.384Z",
+  "generatedAt": "2026-08-21T19:03:44.732Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
-  "summaryMatchCount": 183,
-  "detailMatchCount": 242,
+  "summaryMatchCount": 182,
+  "detailMatchCount": 252,
   "items": [
     {
       "key": "4546:VuDByNga4dM",
@@ -174,6 +174,34 @@
       "writeTimestamp": 1785602377273
     },
     {
+      "key": "4414:0fhd1zi96PM",
+      "articleId": "4414",
+      "articleTitle": "Kanye West - The college dropout",
+      "writer": "TiMeWiNe",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4414",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4414",
+      "videoId": "0fhd1zi96PM",
+      "watchUrl": "https://www.youtube.com/watch?v=0fhd1zi96PM",
+      "embedUrl": "https://www.youtube.com/embed/0fhd1zi96PM",
+      "originalUrl": "https://youtu.be/0fhd1zi96PM?",
+      "origin": "detail",
+      "writeTimestamp": 1785551099393
+    },
+    {
+      "key": "4414:tX3IvpH6loc",
+      "articleId": "4414",
+      "articleTitle": "Kanye West - The college dropout",
+      "writer": "TiMeWiNe",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4414",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4414",
+      "videoId": "tX3IvpH6loc",
+      "watchUrl": "https://www.youtube.com/watch?v=tX3IvpH6loc",
+      "embedUrl": "https://www.youtube.com/embed/tX3IvpH6loc",
+      "originalUrl": "https://www.youtube.com/watch?v=tX3IvpH6loc&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1785551099393
+    },
+    {
       "key": "4412:a2ildxtGTrI",
       "articleId": "4412",
       "articleTitle": "hawks , sn7 - step on(e)",
@@ -270,6 +298,20 @@
       "originalUrl": "https://www.youtube.com/embed/cvGtjTA_pcU?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1785427038230
+    },
+    {
+      "key": "4299:nBZ6URBYPEU",
+      "articleId": "4299",
+      "articleTitle": "JUSTHIS - Money Vs. Love: Dream",
+      "writer": "park123hon",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4299",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4299",
+      "videoId": "nBZ6URBYPEU",
+      "watchUrl": "https://www.youtube.com/watch?v=nBZ6URBYPEU",
+      "embedUrl": "https://www.youtube.com/embed/nBZ6URBYPEU",
+      "originalUrl": "https://youtu.be/nBZ6URBYPEU?",
+      "origin": "detail",
+      "writeTimestamp": 1784987003813
     },
     {
       "key": "4298:-EIZCnpFRb4",
@@ -3394,34 +3436,6 @@
       "writeTimestamp": 1776969144897
     },
     {
-      "key": "1722:vC6jqWVb0Vk",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "vC6jqWVb0Vk",
-      "watchUrl": "https://www.youtube.com/watch?v=vC6jqWVb0Vk",
-      "embedUrl": "https://www.youtube.com/embed/vC6jqWVb0Vk",
-      "originalUrl": "https://youtube.com/shorts/vC6jqWVb0Vk?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
-    },
-    {
-      "key": "1722:e6HcArFcgCo",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "e6HcArFcgCo",
-      "watchUrl": "https://www.youtube.com/watch?v=e6HcArFcgCo",
-      "embedUrl": "https://www.youtube.com/embed/e6HcArFcgCo",
-      "originalUrl": "https://youtube.com/shorts/e6HcArFcgCo?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
-    },
-    {
       "key": "1718:Qn8F_u0vBNI",
       "articleId": "1718",
       "articleTitle": "디깅하다 찾은 몽글몽글 r&b",
@@ -4276,6 +4290,20 @@
       "writeTimestamp": 1776235735720
     },
     {
+      "key": "1170:UTjWdDGbeeE",
+      "articleId": "1170",
+      "articleTitle": "어제 추천하려 했던 곡",
+      "writer": "한세현",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1170",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1170",
+      "videoId": "UTjWdDGbeeE",
+      "watchUrl": "https://www.youtube.com/watch?v=UTjWdDGbeeE",
+      "embedUrl": "https://www.youtube.com/embed/UTjWdDGbeeE",
+      "originalUrl": "https://youtu.be/UTjWdDGbeeE?",
+      "origin": "detail",
+      "writeTimestamp": 1776227786750
+    },
+    {
       "key": "1154:EmGV8AyBvYU",
       "articleId": "1154",
       "articleTitle": "제 앨범입니다) GLARE",
@@ -4542,6 +4570,34 @@
       "writeTimestamp": 1776069220350
     },
     {
+      "key": "989:h7VEWLXGcco",
+      "articleId": "989",
+      "articleTitle": "EK - 특수머리",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
+      "videoId": "h7VEWLXGcco",
+      "watchUrl": "https://www.youtube.com/watch?v=h7VEWLXGcco",
+      "embedUrl": "https://www.youtube.com/embed/h7VEWLXGcco",
+      "originalUrl": "https://youtube.com/shorts/h7VEWLXGcco?",
+      "origin": "detail",
+      "writeTimestamp": 1776065964997
+    },
+    {
+      "key": "989:K-dtLiPtM5M",
+      "articleId": "989",
+      "articleTitle": "EK - 특수머리",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/989",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/989",
+      "videoId": "K-dtLiPtM5M",
+      "watchUrl": "https://www.youtube.com/watch?v=K-dtLiPtM5M",
+      "embedUrl": "https://www.youtube.com/embed/K-dtLiPtM5M",
+      "originalUrl": "https://youtube.com/shorts/K-dtLiPtM5M?",
+      "origin": "detail",
+      "writeTimestamp": 1776065964997
+    },
+    {
       "key": "984:iFnP6NPZbzM",
       "articleId": "984",
       "articleTitle": "날씨가 너무 화창합니다",
@@ -4640,6 +4696,20 @@
       "writeTimestamp": 1776012525673
     },
     {
+      "key": "957:07p8LOFToKA",
+      "articleId": "957",
+      "articleTitle": "ericodoa - deep end",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/957",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/957",
+      "videoId": "07p8LOFToKA",
+      "watchUrl": "https://www.youtube.com/watch?v=07p8LOFToKA",
+      "embedUrl": "https://www.youtube.com/embed/07p8LOFToKA",
+      "originalUrl": "https://youtu.be/07p8LOFToKA?",
+      "origin": "detail",
+      "writeTimestamp": 1776012027543
+    },
+    {
       "key": "955:pa4e5C_dLJA",
       "articleId": "955",
       "articleTitle": "kanye west-white lines",
@@ -4666,6 +4736,20 @@
       "originalUrl": "https://www.youtube.com/embed/3kgti2PIIK0?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776010893590
+    },
+    {
+      "key": "951:0fhd1zi96PM",
+      "articleId": "951",
+      "articleTitle": "ycs - 黎崍阿",
+      "writer": "파인애플피자억까ㄴㄴ",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
+      "videoId": "0fhd1zi96PM",
+      "watchUrl": "https://www.youtube.com/watch?v=0fhd1zi96PM",
+      "embedUrl": "https://www.youtube.com/embed/0fhd1zi96PM",
+      "originalUrl": "https://youtu.be/0fhd1zi96PM?",
+      "origin": "detail",
+      "writeTimestamp": 1776006657800
     },
     {
       "key": "951:g4fCc_MpPlE",
@@ -5116,6 +5200,20 @@
       "writeTimestamp": 1775906432737
     },
     {
+      "key": "749:0fhd1zi96PM",
+      "articleId": "749",
+      "articleTitle": "ilypvc - die with you",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/749",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/749",
+      "videoId": "0fhd1zi96PM",
+      "watchUrl": "https://www.youtube.com/watch?v=0fhd1zi96PM",
+      "embedUrl": "https://www.youtube.com/embed/0fhd1zi96PM",
+      "originalUrl": "https://youtu.be/0fhd1zi96PM?",
+      "origin": "detail",
+      "writeTimestamp": 1775896832390
+    },
+    {
       "key": "746:uZhy8pE_aG0",
       "articleId": "746",
       "articleTitle": "창모 [I n c o m p l e t]에서 가장 좋았던 곡",
@@ -5268,6 +5366,20 @@
       "originalUrl": "https://youtu.be/QgYa3gBpQME?",
       "origin": "summary",
       "writeTimestamp": 1775841331817
+    },
+    {
+      "key": "673:nuCzHmEgcQQ",
+      "articleId": "673",
+      "articleTitle": "기리보이-내가너를사랑하지않는다는것은너의망할친구들의아이디어같아",
+      "writer": "Kdkwp",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/673",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/673",
+      "videoId": "nuCzHmEgcQQ",
+      "watchUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ",
+      "embedUrl": "https://www.youtube.com/embed/nuCzHmEgcQQ",
+      "originalUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1775834781943
     },
     {
       "key": "666:HH6BZ5M6jVA",
@@ -5436,6 +5548,20 @@
       "originalUrl": "https://youtu.be/75jq_EQxht8?",
       "origin": "summary",
       "writeTimestamp": 1775828889540
+    },
+    {
+      "key": "599:0fhd1zi96PM",
+      "articleId": "599",
+      "articleTitle": "2mh41k",
+      "writer": "park123hon",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/599",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/599",
+      "videoId": "0fhd1zi96PM",
+      "watchUrl": "https://www.youtube.com/watch?v=0fhd1zi96PM",
+      "embedUrl": "https://www.youtube.com/embed/0fhd1zi96PM",
+      "originalUrl": "https://youtu.be/0fhd1zi96PM?",
+      "origin": "detail",
+      "writeTimestamp": 1775816958720
     },
     {
       "key": "595:cba5xopcZ2Q",
@@ -5718,6 +5844,20 @@
       "writeTimestamp": 1775776625637
     },
     {
+      "key": "510:x9upuovB5Yk",
+      "articleId": "510",
+      "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
+      "writer": "바보",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/510",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/510",
+      "videoId": "x9upuovB5Yk",
+      "watchUrl": "https://www.youtube.com/watch?v=x9upuovB5Yk",
+      "embedUrl": "https://www.youtube.com/embed/x9upuovB5Yk",
+      "originalUrl": "https://youtu.be/x9upuovB5Yk?",
+      "origin": "detail",
+      "writeTimestamp": 1775776625637
+    },
+    {
       "key": "510:CiPrliAtWTY",
       "articleId": "510",
       "articleTitle": "빈첸 - MANTA BIPOLAR PT.3",
@@ -5940,20 +6080,6 @@
       "originalUrl": "https://youtu.be/OmmZrtPVkok?",
       "origin": "summary",
       "writeTimestamp": 1775749116240
-    },
-    {
-      "key": "405:u92MKx8qzFI",
-      "articleId": "405",
-      "articleTitle": "WILLA , viceversa, CHIO CHICANO , Foggyattebottom - BUSINESS",
-      "writer": "아아아123",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/405",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/405",
-      "videoId": "u92MKx8qzFI",
-      "watchUrl": "https://www.youtube.com/watch?v=u92MKx8qzFI",
-      "embedUrl": "https://www.youtube.com/embed/u92MKx8qzFI",
-      "originalUrl": "https://youtu.be/u92MKx8qzFI?",
-      "origin": "summary",
-      "writeTimestamp": 1775748940067
     }
   ]
 }
