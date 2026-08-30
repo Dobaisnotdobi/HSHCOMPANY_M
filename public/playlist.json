@@ -1,10 +1,80 @@
 {
-  "generatedAt": "2026-08-29T20:41:42.377Z",
+  "generatedAt": "2026-08-30T20:50:55.910Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
-  "summaryMatchCount": 189,
-  "detailMatchCount": 235,
+  "summaryMatchCount": 190,
+  "detailMatchCount": 242,
   "items": [
+    {
+      "key": "4865:q4GnRXM3y3Q",
+      "articleId": "4865",
+      "articleTitle": "그냥 올리는 내 플리 속 랜덤곡 여섯번째",
+      "writer": "ISITREAL",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4865",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4865",
+      "videoId": "q4GnRXM3y3Q",
+      "watchUrl": "https://www.youtube.com/watch?v=q4GnRXM3y3Q",
+      "embedUrl": "https://www.youtube.com/embed/q4GnRXM3y3Q",
+      "originalUrl": "https://youtu.be/q4GnRXM3y3Q?",
+      "origin": "summary",
+      "writeTimestamp": 1788086250313
+    },
+    {
+      "key": "4861:KmW5BmVdjio",
+      "articleId": "4861",
+      "articleTitle": "커리더프리먼 - EP [FREEMAN] 리릭비디오",
+      "writer": "커리 더 프리먼",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4861",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4861",
+      "videoId": "KmW5BmVdjio",
+      "watchUrl": "https://www.youtube.com/watch?v=KmW5BmVdjio",
+      "embedUrl": "https://www.youtube.com/embed/KmW5BmVdjio",
+      "originalUrl": "https://www.youtube.com/embed/KmW5BmVdjio?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1788066147143
+    },
+    {
+      "key": "4861:LX09hZ7ZBKA",
+      "articleId": "4861",
+      "articleTitle": "커리더프리먼 - EP [FREEMAN] 리릭비디오",
+      "writer": "커리 더 프리먼",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4861",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4861",
+      "videoId": "LX09hZ7ZBKA",
+      "watchUrl": "https://www.youtube.com/watch?v=LX09hZ7ZBKA",
+      "embedUrl": "https://www.youtube.com/embed/LX09hZ7ZBKA",
+      "originalUrl": "https://www.youtube.com/embed/LX09hZ7ZBKA?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1788066147143
+    },
+    {
+      "key": "4861:lE29RLd-pak",
+      "articleId": "4861",
+      "articleTitle": "커리더프리먼 - EP [FREEMAN] 리릭비디오",
+      "writer": "커리 더 프리먼",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4861",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4861",
+      "videoId": "lE29RLd-pak",
+      "watchUrl": "https://www.youtube.com/watch?v=lE29RLd-pak",
+      "embedUrl": "https://www.youtube.com/embed/lE29RLd-pak",
+      "originalUrl": "https://www.youtube.com/embed/lE29RLd-pak?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1788066147143
+    },
+    {
+      "key": "4861:vw-49FqcYpI",
+      "articleId": "4861",
+      "articleTitle": "커리더프리먼 - EP [FREEMAN] 리릭비디오",
+      "writer": "커리 더 프리먼",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4861",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4861",
+      "videoId": "vw-49FqcYpI",
+      "watchUrl": "https://www.youtube.com/watch?v=vw-49FqcYpI",
+      "embedUrl": "https://www.youtube.com/embed/vw-49FqcYpI",
+      "originalUrl": "https://www.youtube.com/embed/vw-49FqcYpI?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1788066147143
+    },
     {
       "key": "4830:Ay4M6fAI45M",
       "articleId": "4830",
@@ -522,6 +592,34 @@
       "originalUrl": "https://www.youtube.com/embed/DuBgP5G1yrI?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1784986332563
+    },
+    {
+      "key": "4296:eHKoKmM-IgQ",
+      "articleId": "4296",
+      "articleTitle": "slayr - having anxiety is annoying",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4296",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4296",
+      "videoId": "eHKoKmM-IgQ",
+      "watchUrl": "https://www.youtube.com/watch?v=eHKoKmM-IgQ",
+      "embedUrl": "https://www.youtube.com/embed/eHKoKmM-IgQ",
+      "originalUrl": "https://youtu.be/eHKoKmM-IgQ?",
+      "origin": "detail",
+      "writeTimestamp": 1784943247003
+    },
+    {
+      "key": "4296:NU4uudLN4QY",
+      "articleId": "4296",
+      "articleTitle": "slayr - having anxiety is annoying",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4296",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4296",
+      "videoId": "NU4uudLN4QY",
+      "watchUrl": "https://www.youtube.com/watch?v=NU4uudLN4QY",
+      "embedUrl": "https://www.youtube.com/embed/NU4uudLN4QY",
+      "originalUrl": "https://youtu.be/NU4uudLN4QY?",
+      "origin": "detail",
+      "writeTimestamp": 1784943247003
     },
     {
       "key": "4283:59JTmJo2jLM",
@@ -3604,6 +3702,20 @@
       "writeTimestamp": 1776969144897
     },
     {
+      "key": "1722:e6HcArFcgCo",
+      "articleId": "1722",
+      "articleTitle": "이거 진짜 나만아는듯",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
+      "videoId": "e6HcArFcgCo",
+      "watchUrl": "https://www.youtube.com/watch?v=e6HcArFcgCo",
+      "embedUrl": "https://www.youtube.com/embed/e6HcArFcgCo",
+      "originalUrl": "https://youtube.com/shorts/e6HcArFcgCo?",
+      "origin": "detail",
+      "writeTimestamp": 1776945731630
+    },
+    {
       "key": "1718:Qn8F_u0vBNI",
       "articleId": "1718",
       "articleTitle": "디깅하다 찾은 몽글몽글 r&b",
@@ -4048,6 +4160,20 @@
       "watchUrl": "https://www.youtube.com/watch?v=Akl6UTC9E9c",
       "embedUrl": "https://www.youtube.com/embed/Akl6UTC9E9c",
       "originalUrl": "https://www.youtube.com/watch?v=Akl6UTC9E9c",
+      "origin": "detail",
+      "writeTimestamp": 1776585321990
+    },
+    {
+      "key": "1426:ZTRRD2KtjDA",
+      "articleId": "1426",
+      "articleTitle": "역시 내 친구들이야",
+      "writer": "Orlip",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1426",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1426",
+      "videoId": "ZTRRD2KtjDA",
+      "watchUrl": "https://www.youtube.com/watch?v=ZTRRD2KtjDA",
+      "embedUrl": "https://www.youtube.com/embed/ZTRRD2KtjDA",
+      "originalUrl": "https://youtube.com/watch?v=ZTRRD2KtjDA&amp;i",
       "origin": "detail",
       "writeTimestamp": 1776585321990
     },
@@ -5926,20 +6052,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=Mer7NWULAAA",
       "origin": "detail",
       "writeTimestamp": 1775754760663
-    },
-    {
-      "key": "463:8MXI9Ag3PE4",
-      "articleId": "463",
-      "articleTitle": "그게 존야의 역설",
-      "writer": "우탄오랑",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/463",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/463",
-      "videoId": "8MXI9Ag3PE4",
-      "watchUrl": "https://www.youtube.com/watch?v=8MXI9Ag3PE4",
-      "embedUrl": "https://www.youtube.com/embed/8MXI9Ag3PE4",
-      "originalUrl": "https://www.youtube.com/watch?v=8MXI9Ag3PE4",
-      "origin": "detail",
-      "writeTimestamp": 1775753961720
     }
   ]
 }
