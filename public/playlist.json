@@ -1,10 +1,52 @@
 {
-  "generatedAt": "2026-08-31T22:41:39.635Z",
+  "generatedAt": "2026-09-01T20:54:24.724Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
-  "summaryMatchCount": 190,
-  "detailMatchCount": 239,
+  "summaryMatchCount": 191,
+  "detailMatchCount": 242,
   "items": [
+    {
+      "key": "4916:09DKG22Gqgc",
+      "articleId": "4916",
+      "articleTitle": "듣는 라틴, 외힙 + 개띵곡",
+      "writer": "tail",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4916",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4916",
+      "videoId": "09DKG22Gqgc",
+      "watchUrl": "https://www.youtube.com/watch?v=09DKG22Gqgc",
+      "embedUrl": "https://www.youtube.com/embed/09DKG22Gqgc",
+      "originalUrl": "https://www.youtube.com/embed/09DKG22Gqgc?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1788270791470
+    },
+    {
+      "key": "4911:Nq6Q69LhzMw",
+      "articleId": "4911",
+      "articleTitle": "그냥 올리는 내 플리 속 랜덤곡 여덟번째",
+      "writer": "ISITREAL",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4911",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4911",
+      "videoId": "Nq6Q69LhzMw",
+      "watchUrl": "https://www.youtube.com/watch?v=Nq6Q69LhzMw",
+      "embedUrl": "https://www.youtube.com/embed/Nq6Q69LhzMw",
+      "originalUrl": "https://youtu.be/Nq6Q69LhzMw?",
+      "origin": "summary",
+      "writeTimestamp": 1788249895727
+    },
+    {
+      "key": "4909:ENlLUljbX3k",
+      "articleId": "4909",
+      "articleTitle": "Eight'O - Whenever",
+      "writer": "Bluedayz1489",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4909",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4909",
+      "videoId": "ENlLUljbX3k",
+      "watchUrl": "https://www.youtube.com/watch?v=ENlLUljbX3k",
+      "embedUrl": "https://www.youtube.com/embed/ENlLUljbX3k",
+      "originalUrl": "https://www.youtube.com/embed/ENlLUljbX3k?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1788232585603
+    },
     {
       "key": "4895:BzIxRC2bX1o",
       "articleId": "4895",
@@ -648,6 +690,34 @@
       "originalUrl": "https://www.youtube.com/embed/DuBgP5G1yrI?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1784986332563
+    },
+    {
+      "key": "4296:eHKoKmM-IgQ",
+      "articleId": "4296",
+      "articleTitle": "slayr - having anxiety is annoying",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4296",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4296",
+      "videoId": "eHKoKmM-IgQ",
+      "watchUrl": "https://www.youtube.com/watch?v=eHKoKmM-IgQ",
+      "embedUrl": "https://www.youtube.com/embed/eHKoKmM-IgQ",
+      "originalUrl": "https://youtu.be/eHKoKmM-IgQ?",
+      "origin": "detail",
+      "writeTimestamp": 1784943247003
+    },
+    {
+      "key": "4296:NU4uudLN4QY",
+      "articleId": "4296",
+      "articleTitle": "slayr - having anxiety is annoying",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4296",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4296",
+      "videoId": "NU4uudLN4QY",
+      "watchUrl": "https://www.youtube.com/watch?v=NU4uudLN4QY",
+      "embedUrl": "https://www.youtube.com/embed/NU4uudLN4QY",
+      "originalUrl": "https://youtu.be/NU4uudLN4QY?",
+      "origin": "detail",
+      "writeTimestamp": 1784943247003
     },
     {
       "key": "4283:59JTmJo2jLM",
@@ -5996,20 +6066,6 @@
       "originalUrl": "https://www.youtube.com/embed/xbKma3CtBCE?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775788899090
-    },
-    {
-      "key": "485:GV57LLqeAmA",
-      "articleId": "485",
-      "articleTitle": "나한테는 이게 LOV3이야",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/485",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/485",
-      "videoId": "GV57LLqeAmA",
-      "watchUrl": "https://www.youtube.com/watch?v=GV57LLqeAmA",
-      "embedUrl": "https://www.youtube.com/embed/GV57LLqeAmA",
-      "originalUrl": "https://www.youtube.com/watch?v=GV57LLqeAmA",
-      "origin": "detail",
-      "writeTimestamp": 1775756878000
     }
   ]
 }
