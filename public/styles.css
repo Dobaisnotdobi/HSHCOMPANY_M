@@ -686,6 +686,11 @@ button:hover,
   color: #175c7d;
 }
 
+.pill.source-liked {
+  background: rgba(192, 132, 252, 0.14);
+  color: #7a3fb5;
+}
+
 .playlist-item-actions {
   display: flex;
   gap: 10px;

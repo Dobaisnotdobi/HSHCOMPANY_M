@@ -1,5 +1,6 @@
 const STORAGE_KEYS = {
   liked: "naver-cafe-random-player-liked",
+  likedItems: "naver-cafe-random-player-liked-items",
   disliked: "naver-cafe-random-player-disliked",
   theme: "naver-cafe-random-player-theme",
   backgroundImage: "naver-cafe-random-player-background-image",
@@ -20,6 +21,8 @@ const VISITOR_ACTIVE_WINDOW_MS = 90 * 1000;
 const FIREBASE_SDK_VERSION = "10.12.5";
 const THEME_SWITCH_CLASS = "is-theme-switching";
 const THEME_SWITCH_SETTLE_MS = 180;
+const LIKED_RANDOM_UNLOCK_PLAY_NUMBER = 5;
+const RECENT_VIDEO_HISTORY_LIMIT = 10;
 
 const FIREBASE_CONFIG = {
   apiKey: "AIzaSyAcNezYijmT0eFxQYZXqnmkReUsQsVWitU",
@@ -312,6 +315,8 @@ const state = {
   heroCopy: { ...DEFAULT_HERO_COPY },
   refreshPreviewVisible: false,
   workflowRefreshing: false,
+  randomPlayCount: 0,
+  recentVideoIds: [],
   visitorStats: {
     activeVisitors: null,
     totalVisitors: null,
@@ -344,6 +349,95 @@ function loadSet(key) {
 
 function saveSet(key, values) {
   localStorage.setItem(key, JSON.stringify([...values]));
+}
+
+function normalizeStoredLikedItem(item) {
+  if (!item?.key || !item?.videoId) {
+    return null;
+  }
+
+  const watchUrl = item.watchUrl || `https://www.youtube.com/watch?v=${item.videoId}`;
+  return {
+    key: String(item.key),
+    articleId: String(item.articleId || ""),
+    articleTitle: String(item.articleTitle || "좋아요 보관 영상"),
+    writer: String(item.writer || "작성자 정보 없음"),
+    sourceUrl: String(item.sourceUrl || watchUrl),
+    mobileSourceUrl: String(item.mobileSourceUrl || item.sourceUrl || watchUrl),
+    videoId: String(item.videoId),
+    watchUrl: String(watchUrl),
+    embedUrl: String(item.embedUrl || `https://www.youtube.com/embed/${item.videoId}`),
+    originalUrl: String(item.originalUrl || watchUrl),
+    origin: String(item.origin || "liked"),
+    writeTimestamp: Number(item.writeTimestamp || 0),
+    preservedByLike: Boolean(item.preservedByLike),
+  };
+}
+
+function loadStoredLikedItems() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEYS.likedItems);
+    const parsed = raw ? JSON.parse(raw) : [];
+    const entries = Array.isArray(parsed) ? parsed : Object.values(parsed || {});
+    return new Map(
+      entries
+        .map(normalizeStoredLikedItem)
+        .filter(Boolean)
+        .map((item) => [item.key, item]),
+    );
+  } catch {
+    return new Map();
+  }
+}
+
+function saveStoredLikedItems() {
+  localStorage.setItem(STORAGE_KEYS.likedItems, JSON.stringify([...likedItemsByKey.values()]));
+}
+
+function rememberLikedItem(item) {
+  const normalized = normalizeStoredLikedItem(item);
+  if (!normalized) {
+    return;
+  }
+
+  likedItemsByKey.set(normalized.key, normalized);
+  saveStoredLikedItems();
+}
+
+function forgetLikedItem(key) {
+  likedItemsByKey.delete(key);
+  saveStoredLikedItems();
+}
+
+function mergeStoredLikedItems(items) {
+  const byKey = new Map(items.map((item) => [item.key, item]));
+
+  for (const item of items) {
+    if (likedSet.has(item.key)) {
+      const normalized = normalizeStoredLikedItem(item);
+      if (normalized) {
+        likedItemsByKey.set(item.key, normalized);
+      }
+    }
+  }
+
+  for (const [key, item] of likedItemsByKey.entries()) {
+    if (!likedSet.has(key) || dislikedSet.has(key)) {
+      likedItemsByKey.delete(key);
+      continue;
+    }
+
+    if (!byKey.has(key)) {
+      byKey.set(key, {
+        ...item,
+        origin: item.origin || "liked",
+        preservedByLike: true,
+      });
+    }
+  }
+
+  saveStoredLikedItems();
+  return [...byKey.values()];
 }
 
 function clampNumber(value, min, max) {
@@ -487,6 +581,7 @@ async function prepareBackgroundImage(file) {
 
 const likedSet = loadSet(STORAGE_KEYS.liked);
 const dislikedSet = loadSet(STORAGE_KEYS.disliked);
+const likedItemsByKey = loadStoredLikedItems();
 
 function setStatus(message) {
   dom.statusText.textContent = message;
@@ -1034,11 +1129,15 @@ function renderPlaylist() {
       if (dislikedSet.has(item.key)) {
         pills.push('<span class="pill dislike">싫어요</span>');
       }
-      pills.push(
-        `<span class="pill ${item.origin === "detail" ? "source-detail" : "source-summary"}">${
-          item.origin === "detail" ? "본문 보강" : "요약 추출"
-        }</span>`,
-      );
+      if (item.preservedByLike) {
+        pills.push('<span class="pill source-liked">좋아요 보관</span>');
+      } else {
+        pills.push(
+          `<span class="pill ${item.origin === "detail" ? "source-detail" : "source-summary"}">${
+            item.origin === "detail" ? "본문 보강" : "요약 추출"
+          }</span>`,
+        );
+      }
 
       return `
         <li class="playlist-item ${state.currentKey === item.key ? "is-current" : ""} ${
@@ -1078,15 +1177,81 @@ function renderPlaylist() {
     .join("");
 }
 
+function isLikedVideo(videoId) {
+  return state.items.some((item) => item.videoId === videoId && likedSet.has(item.key));
+}
+
+function getUniqueVideoBuckets(items) {
+  const buckets = new Map();
+  for (const item of items) {
+    if (!item.videoId) {
+      continue;
+    }
+
+    if (!buckets.has(item.videoId)) {
+      buckets.set(item.videoId, []);
+    }
+    buckets.get(item.videoId).push(item);
+  }
+
+  return [...buckets.values()];
+}
+
+function pickRandomEntry(items) {
+  return items[Math.floor(Math.random() * items.length)];
+}
+
+function pickRandomItemFromBuckets(buckets) {
+  if (buckets.length === 0) {
+    return null;
+  }
+
+  return pickRandomEntry(pickRandomEntry(buckets));
+}
+
+function rememberRecentVideo(item) {
+  if (!item?.videoId) {
+    return;
+  }
+
+  state.recentVideoIds = [item.videoId, ...state.recentVideoIds.filter((videoId) => videoId !== item.videoId)].slice(
+    0,
+    RECENT_VIDEO_HISTORY_LIMIT,
+  );
+}
+
 function chooseRandomItem() {
   const eligible = state.items.filter((item) => !dislikedSet.has(item.key));
   if (eligible.length === 0) {
     return null;
   }
 
-  const pool = eligible.length > 1 ? eligible.filter((item) => item.key !== state.currentKey) : eligible;
-  const source = pool.length > 0 ? pool : eligible;
-  return source[Math.floor(Math.random() * source.length)];
+  const allowLiked = state.randomPlayCount + 1 >= LIKED_RANDOM_UNLOCK_PLAY_NUMBER;
+  const currentVideoId = currentItem()?.videoId || null;
+  const bucketPassesDiscoveryGate = (bucket) => allowLiked || !bucket.some((item) => isLikedVideo(item.videoId));
+  const bucketIsNotCurrent = (bucket) => !currentVideoId || !bucket.some((item) => item.videoId === currentVideoId);
+  const bucketIsNotRecent = (bucket) => !bucket.some((item) => state.recentVideoIds.includes(item.videoId));
+
+  const uniqueBuckets = getUniqueVideoBuckets(eligible);
+  const freshDiscoveryBuckets = uniqueBuckets.filter(
+    (bucket) => bucketPassesDiscoveryGate(bucket) && bucketIsNotCurrent(bucket) && bucketIsNotRecent(bucket),
+  );
+  const discoveryBuckets = uniqueBuckets.filter(
+    (bucket) => bucketPassesDiscoveryGate(bucket) && bucketIsNotCurrent(bucket),
+  );
+  const freshBuckets = uniqueBuckets.filter((bucket) => bucketIsNotCurrent(bucket) && bucketIsNotRecent(bucket));
+  const nonCurrentBuckets = uniqueBuckets.filter(bucketIsNotCurrent);
+  const sourceBuckets = freshDiscoveryBuckets.length
+    ? freshDiscoveryBuckets
+    : discoveryBuckets.length
+      ? discoveryBuckets
+      : freshBuckets.length
+        ? freshBuckets
+        : nonCurrentBuckets.length
+          ? nonCurrentBuckets
+          : uniqueBuckets;
+
+  return pickRandomItemFromBuckets(sourceBuckets);
 }
 
 function playItem(item) {
@@ -1096,6 +1261,7 @@ function playItem(item) {
   }
 
   state.currentKey = item.key;
+  rememberRecentVideo(item);
   updateCurrentMeta();
   renderPlaylist();
   state.pendingVideoId = item.videoId;
@@ -1122,7 +1288,11 @@ function playItem(item) {
 }
 
 function playRandom() {
-  playItem(chooseRandomItem());
+  const item = chooseRandomItem();
+  if (item) {
+    state.randomPlayCount += 1;
+  }
+  playItem(item);
 }
 
 function toggleLikeForItem(item) {
@@ -1132,9 +1302,11 @@ function toggleLikeForItem(item) {
 
   if (likedSet.has(item.key)) {
     likedSet.delete(item.key);
+    forgetLikedItem(item.key);
   } else {
     likedSet.add(item.key);
     dislikedSet.delete(item.key);
+    rememberLikedItem(item);
   }
 
   saveSet(STORAGE_KEYS.liked, likedSet);
@@ -1153,6 +1325,7 @@ function toggleDislikeForItem(item) {
   if (willDislike) {
     dislikedSet.add(item.key);
     likedSet.delete(item.key);
+    forgetLikedItem(item.key);
   } else {
     dislikedSet.delete(item.key);
   }
@@ -1415,7 +1588,9 @@ function summarizePayload(payload) {
 }
 
 function applyPlaylistPayload(payload) {
-  state.items = Array.isArray(payload.items) ? payload.items : [];
+  state.items = mergeStoredLikedItems(Array.isArray(payload.items) ? payload.items : []);
+  const availableVideoIds = new Set(state.items.map((item) => item.videoId).filter(Boolean));
+  state.recentVideoIds = state.recentVideoIds.filter((videoId) => availableVideoIds.has(videoId));
   updateCounts();
   renderPlaylist();
 
@@ -1425,8 +1600,7 @@ function applyPlaylistPayload(payload) {
   }
 
   if (!state.currentKey && state.items.length > 0) {
-    const likedItem = state.items.find((item) => likedSet.has(item.key) && !dislikedSet.has(item.key));
-    playItem(likedItem || chooseRandomItem());
+    playRandom();
   } else {
     updateCurrentMeta();
   }
