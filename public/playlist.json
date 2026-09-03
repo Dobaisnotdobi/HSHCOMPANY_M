@@ -1,10 +1,38 @@
 {
-  "generatedAt": "2026-09-02T20:44:52.605Z",
+  "generatedAt": "2026-09-03T20:47:50.202Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
-  "summaryMatchCount": 192,
-  "detailMatchCount": 244,
+  "summaryMatchCount": 193,
+  "detailMatchCount": 246,
   "items": [
+    {
+      "key": "4950:1V25oxmI7b4",
+      "articleId": "4950",
+      "articleTitle": "[K-FLIP 2] 곧 오나..? | Sik-K x Lil Moshpit - U",
+      "writer": "KYVNG",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4950",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4950",
+      "videoId": "1V25oxmI7b4",
+      "watchUrl": "https://www.youtube.com/watch?v=1V25oxmI7b4",
+      "embedUrl": "https://www.youtube.com/embed/1V25oxmI7b4",
+      "originalUrl": "https://www.youtube.com/embed/1V25oxmI7b4?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1788444350417
+    },
+    {
+      "key": "4944:En-R78cwJGc",
+      "articleId": "4944",
+      "articleTitle": "그냥 올리는 내 플리 속 랜덤곡 열번째",
+      "writer": "ISITREAL",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4944",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4944",
+      "videoId": "En-R78cwJGc",
+      "watchUrl": "https://www.youtube.com/watch?v=En-R78cwJGc",
+      "embedUrl": "https://www.youtube.com/embed/En-R78cwJGc",
+      "originalUrl": "https://youtu.be/En-R78cwJGc?",
+      "origin": "summary",
+      "writeTimestamp": 1788419577673
+    },
     {
       "key": "4923:kqiKGdz0kFc",
       "articleId": "4923",
@@ -3380,6 +3408,34 @@
       "writeTimestamp": 1777700520883
     },
     {
+      "key": "2176:yoT9WdGI1-8",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "yoT9WdGI1-8",
+      "watchUrl": "https://www.youtube.com/watch?v=yoT9WdGI1-8",
+      "embedUrl": "https://www.youtube.com/embed/yoT9WdGI1-8",
+      "originalUrl": "https://youtu.be/yoT9WdGI1-8?",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
+    },
+    {
+      "key": "2176:C5o-1JKPM8E",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "C5o-1JKPM8E",
+      "watchUrl": "https://www.youtube.com/watch?v=C5o-1JKPM8E",
+      "embedUrl": "https://www.youtube.com/embed/C5o-1JKPM8E",
+      "originalUrl": "https://youtu.be/C5o-1JKPM8E?",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
+    },
+    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -6094,20 +6150,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=H_zbGdypI4A&li",
       "origin": "summary",
       "writeTimestamp": 1775793931917
-    },
-    {
-      "key": "517:xbKma3CtBCE",
-      "articleId": "517",
-      "articleTitle": "어제 리뷰때 빌었어를 인상 깊게 들으셨다면,",
-      "writer": "KYVNG",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/517",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/517",
-      "videoId": "xbKma3CtBCE",
-      "watchUrl": "https://www.youtube.com/watch?v=xbKma3CtBCE",
-      "embedUrl": "https://www.youtube.com/embed/xbKma3CtBCE",
-      "originalUrl": "https://www.youtube.com/embed/xbKma3CtBCE?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775788899090
     }
   ]
 }
