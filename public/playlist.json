@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T21:07:16.170Z",
+  "generatedAt": "2026-09-17T21:18:52.168Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 190,
-  "detailMatchCount": 242,
+  "detailMatchCount": 245,
   "items": [
     {
       "key": "5198:qBU-OplbIrU",
@@ -3380,6 +3380,20 @@
       "writeTimestamp": 1777915257667
     },
     {
+      "key": "2516:my310YolZAk",
+      "articleId": "2516",
+      "articleTitle": "릴러말즈 앨범 추천",
+      "writer": "R3dstorys",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2516",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2516",
+      "videoId": "my310YolZAk",
+      "watchUrl": "https://www.youtube.com/watch?v=my310YolZAk",
+      "embedUrl": "https://www.youtube.com/embed/my310YolZAk",
+      "originalUrl": "https://youtu.be/my310YolZAk?",
+      "origin": "detail",
+      "writeTimestamp": 1777907117883
+    },
+    {
       "key": "2514:IU371ATtL_I",
       "articleId": "2514",
       "articleTitle": "칸예 3집에 들어가지 못한 비운의 명곡",
@@ -5900,6 +5914,20 @@
       "writeTimestamp": 1775832658550
     },
     {
+      "key": "653:rfk6BUxK9yY",
+      "articleId": "653",
+      "articleTitle": "최성 - 전설",
+      "writer": "새모",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/653",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/653",
+      "videoId": "rfk6BUxK9yY",
+      "watchUrl": "https://www.youtube.com/watch?v=rfk6BUxK9yY",
+      "embedUrl": "https://www.youtube.com/embed/rfk6BUxK9yY",
+      "originalUrl": "https://youtu.be/rfk6BUxK9yY?",
+      "origin": "detail",
+      "writeTimestamp": 1775831732930
+    },
+    {
       "key": "652:fmE7WfLh-k4",
       "articleId": "652",
       "articleTitle": "제네 더 질라&해쉬스완&노선 신곡 떴다",
@@ -6010,6 +6038,20 @@
       "originalUrl": "https://youtu.be/Rkj7nzyeJyQ?",
       "origin": "detail",
       "writeTimestamp": 1775824647327
+    },
+    {
+      "key": "608:my310YolZAk",
+      "articleId": "608",
+      "articleTitle": "힙린이분들을 위한 앨범 추천",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/608",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/608",
+      "videoId": "my310YolZAk",
+      "watchUrl": "https://www.youtube.com/watch?v=my310YolZAk",
+      "embedUrl": "https://www.youtube.com/embed/my310YolZAk",
+      "originalUrl": "https://youtu.be/my310YolZAk?",
+      "origin": "detail",
+      "writeTimestamp": 1775820106040
     },
     {
       "key": "595:cba5xopcZ2Q",
