@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-09-17T21:18:52.168Z",
+  "generatedAt": "2026-09-18T20:45:54.964Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 190,
-  "detailMatchCount": 245,
+  "detailMatchCount": 244,
   "items": [
+    {
+      "key": "5222:mF8P9gUjdCA",
+      "articleId": "5222",
+      "articleTitle": "Brown Eyed Soul 정규3집 Outro",
+      "writer": "Bluedayz1489",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5222",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5222",
+      "videoId": "mF8P9gUjdCA",
+      "watchUrl": "https://www.youtube.com/watch?v=mF8P9gUjdCA",
+      "embedUrl": "https://www.youtube.com/embed/mF8P9gUjdCA",
+      "originalUrl": "https://www.youtube.com/embed/mF8P9gUjdCA?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1789700996243
+    },
     {
       "key": "5198:qBU-OplbIrU",
       "articleId": "5198",
@@ -3366,6 +3380,20 @@
       "writeTimestamp": 1777963808750
     },
     {
+      "key": "2546:BUpej9qOyK0",
+      "articleId": "2546",
+      "articleTitle": "제발제발제발",
+      "writer": "김준찌",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2546",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2546",
+      "videoId": "BUpej9qOyK0",
+      "watchUrl": "https://www.youtube.com/watch?v=BUpej9qOyK0",
+      "embedUrl": "https://www.youtube.com/embed/BUpej9qOyK0",
+      "originalUrl": "https://youtube.com/shorts/BUpej9qOyK0?",
+      "origin": "detail",
+      "writeTimestamp": 1777929671350
+    },
+    {
       "key": "2537:MG3Y77vLZNM",
       "articleId": "2537",
       "articleTitle": "허성현 - stormy",
@@ -3378,20 +3406,6 @@
       "originalUrl": "https://youtu.be/MG3Y77vLZNM?",
       "origin": "summary",
       "writeTimestamp": 1777915257667
-    },
-    {
-      "key": "2516:my310YolZAk",
-      "articleId": "2516",
-      "articleTitle": "릴러말즈 앨범 추천",
-      "writer": "R3dstorys",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2516",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2516",
-      "videoId": "my310YolZAk",
-      "watchUrl": "https://www.youtube.com/watch?v=my310YolZAk",
-      "embedUrl": "https://www.youtube.com/embed/my310YolZAk",
-      "originalUrl": "https://youtu.be/my310YolZAk?",
-      "origin": "detail",
-      "writeTimestamp": 1777907117883
     },
     {
       "key": "2514:IU371ATtL_I",
@@ -6026,6 +6040,20 @@
       "writeTimestamp": 1775828889540
     },
     {
+      "key": "618:jPD1D4E5C_4",
+      "articleId": "618",
+      "articleTitle": "EK - 디지털부대, 경연대회",
+      "writer": "벌레",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/618",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/618",
+      "videoId": "jPD1D4E5C_4",
+      "watchUrl": "https://www.youtube.com/watch?v=jPD1D4E5C_4",
+      "embedUrl": "https://www.youtube.com/embed/jPD1D4E5C_4",
+      "originalUrl": "https://youtube.com/watch?v=jPD1D4E5C_4&amp;",
+      "origin": "detail",
+      "writeTimestamp": 1775824647327
+    },
+    {
       "key": "618:Rkj7nzyeJyQ",
       "articleId": "618",
       "articleTitle": "EK - 디지털부대, 경연대회",
@@ -6040,20 +6068,6 @@
       "writeTimestamp": 1775824647327
     },
     {
-      "key": "608:my310YolZAk",
-      "articleId": "608",
-      "articleTitle": "힙린이분들을 위한 앨범 추천",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/608",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/608",
-      "videoId": "my310YolZAk",
-      "watchUrl": "https://www.youtube.com/watch?v=my310YolZAk",
-      "embedUrl": "https://www.youtube.com/embed/my310YolZAk",
-      "originalUrl": "https://youtu.be/my310YolZAk?",
-      "origin": "detail",
-      "writeTimestamp": 1775820106040
-    },
-    {
       "key": "595:cba5xopcZ2Q",
       "articleId": "595",
       "articleTitle": "MF DOOM-Rapp Snitch Knishes",
@@ -6066,34 +6080,6 @@
       "originalUrl": "https://youtu.be/cba5xopcZ2Q?",
       "origin": "summary",
       "writeTimestamp": 1775815921363
-    },
-    {
-      "key": "589:Uw_hZfH5Ukc",
-      "articleId": "589",
-      "articleTitle": "멤피스 조지는 시구레우이",
-      "writer": "이승",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/589",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/589",
-      "videoId": "Uw_hZfH5Ukc",
-      "watchUrl": "https://www.youtube.com/watch?v=Uw_hZfH5Ukc",
-      "embedUrl": "https://www.youtube.com/embed/Uw_hZfH5Ukc",
-      "originalUrl": "https://www.youtube.com/embed/Uw_hZfH5Ukc?feature=oembed",
-      "origin": "detail",
-      "writeTimestamp": 1775814848227
-    },
-    {
-      "key": "589:01BgkNdHCDQ",
-      "articleId": "589",
-      "articleTitle": "멤피스 조지는 시구레우이",
-      "writer": "이승",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/589",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/589",
-      "videoId": "01BgkNdHCDQ",
-      "watchUrl": "https://www.youtube.com/watch?v=01BgkNdHCDQ",
-      "embedUrl": "https://www.youtube.com/embed/01BgkNdHCDQ",
-      "originalUrl": "https://youtu.be/01BgkNdHCDQ",
-      "origin": "detail",
-      "writeTimestamp": 1775814848227
     }
   ]
 }
