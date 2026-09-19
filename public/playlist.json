@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T20:45:54.964Z",
+  "generatedAt": "2026-09-19T20:19:55.714Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
-  "summaryMatchCount": 190,
-  "detailMatchCount": 244,
+  "summaryMatchCount": 189,
+  "detailMatchCount": 242,
   "items": [
     {
       "key": "5222:mF8P9gUjdCA",
@@ -3380,20 +3380,6 @@
       "writeTimestamp": 1777963808750
     },
     {
-      "key": "2546:BUpej9qOyK0",
-      "articleId": "2546",
-      "articleTitle": "제발제발제발",
-      "writer": "김준찌",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2546",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2546",
-      "videoId": "BUpej9qOyK0",
-      "watchUrl": "https://www.youtube.com/watch?v=BUpej9qOyK0",
-      "embedUrl": "https://www.youtube.com/embed/BUpej9qOyK0",
-      "originalUrl": "https://youtube.com/shorts/BUpej9qOyK0?",
-      "origin": "detail",
-      "writeTimestamp": 1777929671350
-    },
-    {
       "key": "2537:MG3Y77vLZNM",
       "articleId": "2537",
       "articleTitle": "허성현 - stormy",
@@ -5326,6 +5312,20 @@
       "writeTimestamp": 1775991619640
     },
     {
+      "key": "907:0d1u5nUv7Mk",
+      "articleId": "907",
+      "articleTitle": "SYSTEM SEOUL - 위잉위잉",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/907",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/907",
+      "videoId": "0d1u5nUv7Mk",
+      "watchUrl": "https://www.youtube.com/watch?v=0d1u5nUv7Mk",
+      "embedUrl": "https://www.youtube.com/embed/0d1u5nUv7Mk",
+      "originalUrl": "https://youtu.be/0d1u5nUv7Mk?",
+      "origin": "detail",
+      "writeTimestamp": 1775987107057
+    },
+    {
       "key": "906:lgB2wOepRtM",
       "articleId": "906",
       "articleTitle": "내 가사는 내가사는 삶에서 나오는 시",
@@ -5746,6 +5746,20 @@
       "writeTimestamp": 1775894003293
     },
     {
+      "key": "741:0d1u5nUv7Mk",
+      "articleId": "741",
+      "articleTitle": "Kimmy gone - Softcore (feat.EK)",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/741",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/741",
+      "videoId": "0d1u5nUv7Mk",
+      "watchUrl": "https://www.youtube.com/watch?v=0d1u5nUv7Mk",
+      "embedUrl": "https://www.youtube.com/embed/0d1u5nUv7Mk",
+      "originalUrl": "https://youtu.be/0d1u5nUv7Mk?",
+      "origin": "detail",
+      "writeTimestamp": 1775892703270
+    },
+    {
       "key": "737:f6P-po9ta_I",
       "articleId": "737",
       "articleTitle": "강혁 - Zzz드르렁",
@@ -5928,20 +5942,6 @@
       "writeTimestamp": 1775832658550
     },
     {
-      "key": "653:rfk6BUxK9yY",
-      "articleId": "653",
-      "articleTitle": "최성 - 전설",
-      "writer": "새모",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/653",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/653",
-      "videoId": "rfk6BUxK9yY",
-      "watchUrl": "https://www.youtube.com/watch?v=rfk6BUxK9yY",
-      "embedUrl": "https://www.youtube.com/embed/rfk6BUxK9yY",
-      "originalUrl": "https://youtu.be/rfk6BUxK9yY?",
-      "origin": "detail",
-      "writeTimestamp": 1775831732930
-    },
-    {
       "key": "652:fmE7WfLh-k4",
       "articleId": "652",
       "articleTitle": "제네 더 질라&해쉬스완&노선 신곡 떴다",
@@ -6038,48 +6038,6 @@
       "originalUrl": "https://youtu.be/75jq_EQxht8?",
       "origin": "summary",
       "writeTimestamp": 1775828889540
-    },
-    {
-      "key": "618:jPD1D4E5C_4",
-      "articleId": "618",
-      "articleTitle": "EK - 디지털부대, 경연대회",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/618",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/618",
-      "videoId": "jPD1D4E5C_4",
-      "watchUrl": "https://www.youtube.com/watch?v=jPD1D4E5C_4",
-      "embedUrl": "https://www.youtube.com/embed/jPD1D4E5C_4",
-      "originalUrl": "https://youtube.com/watch?v=jPD1D4E5C_4&amp;",
-      "origin": "detail",
-      "writeTimestamp": 1775824647327
-    },
-    {
-      "key": "618:Rkj7nzyeJyQ",
-      "articleId": "618",
-      "articleTitle": "EK - 디지털부대, 경연대회",
-      "writer": "벌레",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/618",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/618",
-      "videoId": "Rkj7nzyeJyQ",
-      "watchUrl": "https://www.youtube.com/watch?v=Rkj7nzyeJyQ",
-      "embedUrl": "https://www.youtube.com/embed/Rkj7nzyeJyQ",
-      "originalUrl": "https://youtu.be/Rkj7nzyeJyQ?",
-      "origin": "detail",
-      "writeTimestamp": 1775824647327
-    },
-    {
-      "key": "595:cba5xopcZ2Q",
-      "articleId": "595",
-      "articleTitle": "MF DOOM-Rapp Snitch Knishes",
-      "writer": "힙합호날두",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/595",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/595",
-      "videoId": "cba5xopcZ2Q",
-      "watchUrl": "https://www.youtube.com/watch?v=cba5xopcZ2Q",
-      "embedUrl": "https://www.youtube.com/embed/cba5xopcZ2Q",
-      "originalUrl": "https://youtu.be/cba5xopcZ2Q?",
-      "origin": "summary",
-      "writeTimestamp": 1775815921363
     }
   ]
 }
