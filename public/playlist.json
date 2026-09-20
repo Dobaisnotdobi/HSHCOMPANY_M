@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-19T20:19:55.714Z",
+  "generatedAt": "2026-09-20T20:34:03.579Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
-  "summaryMatchCount": 189,
+  "summaryMatchCount": 188,
   "detailMatchCount": 242,
   "items": [
     {
@@ -928,6 +928,20 @@
       "originalUrl": "https://www.youtube.com/embed/DuBgP5G1yrI?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1784986332563
+    },
+    {
+      "key": "4296:NU4uudLN4QY",
+      "articleId": "4296",
+      "articleTitle": "slayr - having anxiety is annoying",
+      "writer": "ch1tkeyCHITWORLD",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4296",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4296",
+      "videoId": "NU4uudLN4QY",
+      "watchUrl": "https://www.youtube.com/watch?v=NU4uudLN4QY",
+      "embedUrl": "https://www.youtube.com/embed/NU4uudLN4QY",
+      "originalUrl": "https://youtu.be/NU4uudLN4QY?",
+      "origin": "detail",
+      "writeTimestamp": 1784943247003
     },
     {
       "key": "4283:59JTmJo2jLM",
@@ -2118,20 +2132,6 @@
       "originalUrl": "https://www.youtube.com/embed/cO2LQvgMA_k?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1780331845027
-    },
-    {
-      "key": "3438:9K9kWp8ZQAQ",
-      "articleId": "3438",
-      "articleTitle": "Tray B - LLLM (feat. Gaeko, ZICO)",
-      "writer": "Kanye West",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3438",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3438",
-      "videoId": "9K9kWp8ZQAQ",
-      "watchUrl": "https://www.youtube.com/watch?v=9K9kWp8ZQAQ",
-      "embedUrl": "https://www.youtube.com/embed/9K9kWp8ZQAQ",
-      "originalUrl": "https://youtu.be/9K9kWp8ZQAQ?",
-      "origin": "summary",
-      "writeTimestamp": 1780211098177
     },
     {
       "key": "3433:eRzA1i-LhRg",
@@ -3546,6 +3546,20 @@
       "originalUrl": "https://youtu.be/81kzxCNBKM4?",
       "origin": "summary",
       "writeTimestamp": 1777700520883
+    },
+    {
+      "key": "2176:hplOuFLHaOE",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "hplOuFLHaOE",
+      "watchUrl": "https://www.youtube.com/watch?v=hplOuFLHaOE",
+      "embedUrl": "https://www.youtube.com/embed/hplOuFLHaOE",
+      "originalUrl": "https://www.youtube.com/watch?v=hplOuFLHaOE&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
     },
     {
       "key": "2148:Z2neajn3mCI",
@@ -5312,20 +5326,6 @@
       "writeTimestamp": 1775991619640
     },
     {
-      "key": "907:0d1u5nUv7Mk",
-      "articleId": "907",
-      "articleTitle": "SYSTEM SEOUL - 위잉위잉",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/907",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/907",
-      "videoId": "0d1u5nUv7Mk",
-      "watchUrl": "https://www.youtube.com/watch?v=0d1u5nUv7Mk",
-      "embedUrl": "https://www.youtube.com/embed/0d1u5nUv7Mk",
-      "originalUrl": "https://youtu.be/0d1u5nUv7Mk?",
-      "origin": "detail",
-      "writeTimestamp": 1775987107057
-    },
-    {
       "key": "906:lgB2wOepRtM",
       "articleId": "906",
       "articleTitle": "내 가사는 내가사는 삶에서 나오는 시",
@@ -5744,20 +5744,6 @@
       "originalUrl": "https://www.youtube.com/embed/IydHPao0OIg?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1775894003293
-    },
-    {
-      "key": "741:0d1u5nUv7Mk",
-      "articleId": "741",
-      "articleTitle": "Kimmy gone - Softcore (feat.EK)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/741",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/741",
-      "videoId": "0d1u5nUv7Mk",
-      "watchUrl": "https://www.youtube.com/watch?v=0d1u5nUv7Mk",
-      "embedUrl": "https://www.youtube.com/embed/0d1u5nUv7Mk",
-      "originalUrl": "https://youtu.be/0d1u5nUv7Mk?",
-      "origin": "detail",
-      "writeTimestamp": 1775892703270
     },
     {
       "key": "737:f6P-po9ta_I",
