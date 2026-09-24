@@ -1,24 +1,10 @@
 {
-  "generatedAt": "2026-09-23T21:40:01.558Z",
+  "generatedAt": "2026-09-24T21:33:48.873Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 188,
-  "detailMatchCount": 252,
+  "detailMatchCount": 251,
   "items": [
-    {
-      "key": "5291:7kaV7jRyEe4",
-      "articleId": "5291",
-      "articleTitle": "빈첸 비폴라3 추천이요😭",
-      "writer": "Yuuuuer",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5291",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5291",
-      "videoId": "7kaV7jRyEe4",
-      "watchUrl": "https://www.youtube.com/watch?v=7kaV7jRyEe4",
-      "embedUrl": "https://www.youtube.com/embed/7kaV7jRyEe4",
-      "originalUrl": "https://youtu.be/7kaV7jRyEe4?",
-      "origin": "detail",
-      "writeTimestamp": 1790063563193
-    },
     {
       "key": "5283:XPwnhxc3eu8",
       "articleId": "5283",
@@ -1054,20 +1040,6 @@
       "originalUrl": "https://www.youtube.com/embed/DuBgP5G1yrI?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1784986332563
-    },
-    {
-      "key": "4296:NU4uudLN4QY",
-      "articleId": "4296",
-      "articleTitle": "slayr - having anxiety is annoying",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4296",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4296",
-      "videoId": "NU4uudLN4QY",
-      "watchUrl": "https://www.youtube.com/watch?v=NU4uudLN4QY",
-      "embedUrl": "https://www.youtube.com/embed/NU4uudLN4QY",
-      "originalUrl": "https://youtu.be/NU4uudLN4QY?",
-      "origin": "detail",
-      "writeTimestamp": 1784943247003
     },
     {
       "key": "4283:59JTmJo2jLM",
@@ -3674,6 +3646,20 @@
       "writeTimestamp": 1777700520883
     },
     {
+      "key": "2176:hplOuFLHaOE",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "hplOuFLHaOE",
+      "watchUrl": "https://www.youtube.com/watch?v=hplOuFLHaOE",
+      "embedUrl": "https://www.youtube.com/embed/hplOuFLHaOE",
+      "originalUrl": "https://www.youtube.com/watch?v=hplOuFLHaOE&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
+    },
+    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -4134,6 +4120,20 @@
       "originalUrl": "https://youtu.be/kZUPLToG788?",
       "origin": "summary",
       "writeTimestamp": 1776969144897
+    },
+    {
+      "key": "1722:elPY91kBLyY",
+      "articleId": "1722",
+      "articleTitle": "이거 진짜 나만아는듯",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
+      "videoId": "elPY91kBLyY",
+      "watchUrl": "https://www.youtube.com/watch?v=elPY91kBLyY",
+      "embedUrl": "https://www.youtube.com/embed/elPY91kBLyY",
+      "originalUrl": "https://youtube.com/shorts/elPY91kBLyY?",
+      "origin": "detail",
+      "writeTimestamp": 1776945731630
     },
     {
       "key": "1718:Qn8F_u0vBNI",
@@ -6052,20 +6052,6 @@
       "originalUrl": "https://youtu.be/Y27e2yWnBEk?",
       "origin": "detail",
       "writeTimestamp": 1775832658550
-    },
-    {
-      "key": "653:rfk6BUxK9yY",
-      "articleId": "653",
-      "articleTitle": "최성 - 전설",
-      "writer": "새모",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/653",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/653",
-      "videoId": "rfk6BUxK9yY",
-      "watchUrl": "https://www.youtube.com/watch?v=rfk6BUxK9yY",
-      "embedUrl": "https://www.youtube.com/embed/rfk6BUxK9yY",
-      "originalUrl": "https://youtu.be/rfk6BUxK9yY?",
-      "origin": "detail",
-      "writeTimestamp": 1775831732930
     },
     {
       "key": "652:fmE7WfLh-k4",
