@@ -1,10 +1,66 @@
 {
-  "generatedAt": "2026-09-24T21:33:48.873Z",
+  "generatedAt": "2026-09-25T21:29:47.160Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
-  "summaryMatchCount": 188,
-  "detailMatchCount": 251,
+  "summaryMatchCount": 187,
+  "detailMatchCount": 250,
   "items": [
+    {
+      "key": "5336:EQXuHjRHX00",
+      "articleId": "5336",
+      "articleTitle": "래원 싱글 앨범 노래 몇몇 개 추천해 드립니다.",
+      "writer": "라면사리",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5336",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5336",
+      "videoId": "EQXuHjRHX00",
+      "watchUrl": "https://www.youtube.com/watch?v=EQXuHjRHX00",
+      "embedUrl": "https://www.youtube.com/embed/EQXuHjRHX00",
+      "originalUrl": "https://www.youtube.com/watch?v=EQXuHjRHX00",
+      "origin": "detail",
+      "writeTimestamp": 1790361372663
+    },
+    {
+      "key": "5336:B9_QAROAtlQ",
+      "articleId": "5336",
+      "articleTitle": "래원 싱글 앨범 노래 몇몇 개 추천해 드립니다.",
+      "writer": "라면사리",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5336",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5336",
+      "videoId": "B9_QAROAtlQ",
+      "watchUrl": "https://www.youtube.com/watch?v=B9_QAROAtlQ",
+      "embedUrl": "https://www.youtube.com/embed/B9_QAROAtlQ",
+      "originalUrl": "https://www.youtube.com/watch?v=B9_QAROAtlQ",
+      "origin": "detail",
+      "writeTimestamp": 1790361372663
+    },
+    {
+      "key": "5328:TJQV-lBdYIM",
+      "articleId": "5328",
+      "articleTitle": "취미생활이 국힙 신보 디깅인 사람",
+      "writer": "도바",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5328",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5328",
+      "videoId": "TJQV-lBdYIM",
+      "watchUrl": "https://www.youtube.com/watch?v=TJQV-lBdYIM",
+      "embedUrl": "https://www.youtube.com/embed/TJQV-lBdYIM",
+      "originalUrl": "https://www.youtube.com/watch?v=TJQV-lBdYIM&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1790314847230
+    },
+    {
+      "key": "5328:m2BvjIN38Ik",
+      "articleId": "5328",
+      "articleTitle": "취미생활이 국힙 신보 디깅인 사람",
+      "writer": "도바",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5328",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5328",
+      "videoId": "m2BvjIN38Ik",
+      "watchUrl": "https://www.youtube.com/watch?v=m2BvjIN38Ik",
+      "embedUrl": "https://www.youtube.com/embed/m2BvjIN38Ik",
+      "originalUrl": "https://www.youtube.com/watch?v=m2BvjIN38Ik&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1790314847230
+    },
     {
       "key": "5283:XPwnhxc3eu8",
       "articleId": "5283",
@@ -32,90 +88,6 @@
       "originalUrl": "https://www.youtube.com/embed/CQ7fz_1eu38?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1790001639467
-    },
-    {
-      "key": "5271:OtkyvWMHxhU",
-      "articleId": "5271",
-      "articleTitle": "최근 플리에 넣은 곡들 추천",
-      "writer": "김김북극곰",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5271",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5271",
-      "videoId": "OtkyvWMHxhU",
-      "watchUrl": "https://www.youtube.com/watch?v=OtkyvWMHxhU",
-      "embedUrl": "https://www.youtube.com/embed/OtkyvWMHxhU",
-      "originalUrl": "https://youtu.be/OtkyvWMHxhU",
-      "origin": "detail",
-      "writeTimestamp": 1789954634217
-    },
-    {
-      "key": "5271:Ty4U5DaVlqQ",
-      "articleId": "5271",
-      "articleTitle": "최근 플리에 넣은 곡들 추천",
-      "writer": "김김북극곰",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5271",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5271",
-      "videoId": "Ty4U5DaVlqQ",
-      "watchUrl": "https://www.youtube.com/watch?v=Ty4U5DaVlqQ",
-      "embedUrl": "https://www.youtube.com/embed/Ty4U5DaVlqQ",
-      "originalUrl": "https://youtu.be/Ty4U5DaVlqQ",
-      "origin": "detail",
-      "writeTimestamp": 1789954634217
-    },
-    {
-      "key": "5271:FY6kRg9ovHE",
-      "articleId": "5271",
-      "articleTitle": "최근 플리에 넣은 곡들 추천",
-      "writer": "김김북극곰",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5271",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5271",
-      "videoId": "FY6kRg9ovHE",
-      "watchUrl": "https://www.youtube.com/watch?v=FY6kRg9ovHE",
-      "embedUrl": "https://www.youtube.com/embed/FY6kRg9ovHE",
-      "originalUrl": "https://youtu.be/FY6kRg9ovHE",
-      "origin": "detail",
-      "writeTimestamp": 1789954634217
-    },
-    {
-      "key": "5271:6Ai-2kQr0KY",
-      "articleId": "5271",
-      "articleTitle": "최근 플리에 넣은 곡들 추천",
-      "writer": "김김북극곰",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5271",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5271",
-      "videoId": "6Ai-2kQr0KY",
-      "watchUrl": "https://www.youtube.com/watch?v=6Ai-2kQr0KY",
-      "embedUrl": "https://www.youtube.com/embed/6Ai-2kQr0KY",
-      "originalUrl": "https://youtu.be/6Ai-2kQr0KY",
-      "origin": "detail",
-      "writeTimestamp": 1789954634217
-    },
-    {
-      "key": "5271:mDozwZG9YaU",
-      "articleId": "5271",
-      "articleTitle": "최근 플리에 넣은 곡들 추천",
-      "writer": "김김북극곰",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5271",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5271",
-      "videoId": "mDozwZG9YaU",
-      "watchUrl": "https://www.youtube.com/watch?v=mDozwZG9YaU",
-      "embedUrl": "https://www.youtube.com/embed/mDozwZG9YaU",
-      "originalUrl": "https://youtu.be/mDozwZG9YaU",
-      "origin": "detail",
-      "writeTimestamp": 1789954634217
-    },
-    {
-      "key": "5271:wW9MPhEv5RM",
-      "articleId": "5271",
-      "articleTitle": "최근 플리에 넣은 곡들 추천",
-      "writer": "김김북극곰",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5271",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5271",
-      "videoId": "wW9MPhEv5RM",
-      "watchUrl": "https://www.youtube.com/watch?v=wW9MPhEv5RM",
-      "embedUrl": "https://www.youtube.com/embed/wW9MPhEv5RM",
-      "originalUrl": "https://youtu.be/wW9MPhEv5RM",
-      "origin": "detail",
-      "writeTimestamp": 1789954634217
     },
     {
       "key": "5222:mF8P9gUjdCA",
@@ -4584,6 +4556,20 @@
       "writeTimestamp": 1776585321990
     },
     {
+      "key": "1426:6hyhJq-rMOQ",
+      "articleId": "1426",
+      "articleTitle": "역시 내 친구들이야",
+      "writer": "Orlip",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1426",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1426",
+      "videoId": "6hyhJq-rMOQ",
+      "watchUrl": "https://www.youtube.com/watch?v=6hyhJq-rMOQ",
+      "embedUrl": "https://www.youtube.com/embed/6hyhJq-rMOQ",
+      "originalUrl": "https://youtube.com/shorts/6hyhJq-rMOQ?",
+      "origin": "detail",
+      "writeTimestamp": 1776585321990
+    },
+    {
       "key": "1424:blhOYQ_D-N0",
       "articleId": "1424",
       "articleTitle": "빌스택스 앨범 전곡 맛보기",
@@ -5970,20 +5956,6 @@
       "writeTimestamp": 1775841331817
     },
     {
-      "key": "673:nuCzHmEgcQQ",
-      "articleId": "673",
-      "articleTitle": "기리보이-내가너를사랑하지않는다는것은너의망할친구들의아이디어같아",
-      "writer": "Kdkwp",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/673",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/673",
-      "videoId": "nuCzHmEgcQQ",
-      "watchUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ",
-      "embedUrl": "https://www.youtube.com/embed/nuCzHmEgcQQ",
-      "originalUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1775834781943
-    },
-    {
       "key": "666:HH6BZ5M6jVA",
       "articleId": "666",
       "articleTitle": "오왼과 릴 보이의 롤 모델이였던 남자 아시나요?",
@@ -6052,6 +6024,20 @@
       "originalUrl": "https://youtu.be/Y27e2yWnBEk?",
       "origin": "detail",
       "writeTimestamp": 1775832658550
+    },
+    {
+      "key": "653:noUYKq6m16A",
+      "articleId": "653",
+      "articleTitle": "최성 - 전설",
+      "writer": "새모",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/653",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/653",
+      "videoId": "noUYKq6m16A",
+      "watchUrl": "https://www.youtube.com/watch?v=noUYKq6m16A",
+      "embedUrl": "https://www.youtube.com/embed/noUYKq6m16A",
+      "originalUrl": "https://youtube.com/shorts/noUYKq6m16A?",
+      "origin": "detail",
+      "writeTimestamp": 1775831732930
     },
     {
       "key": "652:fmE7WfLh-k4",
@@ -6136,20 +6122,6 @@
       "originalUrl": "https://youtube.com/watch?v=zhVw-7MtGco&",
       "origin": "summary",
       "writeTimestamp": 1775831203143
-    },
-    {
-      "key": "629:75jq_EQxht8",
-      "articleId": "629",
-      "articleTitle": "OYSTERS - 그때가 좋았어",
-      "writer": "츠키",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/629",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/629",
-      "videoId": "75jq_EQxht8",
-      "watchUrl": "https://www.youtube.com/watch?v=75jq_EQxht8",
-      "embedUrl": "https://www.youtube.com/embed/75jq_EQxht8",
-      "originalUrl": "https://youtu.be/75jq_EQxht8?",
-      "origin": "summary",
-      "writeTimestamp": 1775828889540
     }
   ]
 }
