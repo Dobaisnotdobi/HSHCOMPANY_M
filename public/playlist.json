@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T21:29:47.160Z",
+  "generatedAt": "2026-09-26T20:44:05.726Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 187,
-  "detailMatchCount": 250,
+  "detailMatchCount": 248,
   "items": [
     {
       "key": "5336:EQXuHjRHX00",
@@ -3240,6 +3240,20 @@
       "writeTimestamp": 1778253960517
     },
     {
+      "key": "2721:By1veWBwKxI",
+      "articleId": "2721",
+      "articleTitle": "요즘 킫밀 오카시 지리는거 같음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2721",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2721",
+      "videoId": "By1veWBwKxI",
+      "watchUrl": "https://www.youtube.com/watch?v=By1veWBwKxI",
+      "embedUrl": "https://www.youtube.com/embed/By1veWBwKxI",
+      "originalUrl": "https://youtube.com/watch?v=By1veWBwKxI&amp;",
+      "origin": "detail",
+      "writeTimestamp": 1778252621780
+    },
+    {
       "key": "2715:reDvXLJBAtA",
       "articleId": "2715",
       "articleTitle": "어버이날 기념 노래추천!",
@@ -3616,20 +3630,6 @@
       "originalUrl": "https://youtu.be/81kzxCNBKM4?",
       "origin": "summary",
       "writeTimestamp": 1777700520883
-    },
-    {
-      "key": "2176:hplOuFLHaOE",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "hplOuFLHaOE",
-      "watchUrl": "https://www.youtube.com/watch?v=hplOuFLHaOE",
-      "embedUrl": "https://www.youtube.com/embed/hplOuFLHaOE",
-      "originalUrl": "https://www.youtube.com/watch?v=hplOuFLHaOE&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
     },
     {
       "key": "2148:Z2neajn3mCI",
@@ -4094,20 +4094,6 @@
       "writeTimestamp": 1776969144897
     },
     {
-      "key": "1722:elPY91kBLyY",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "elPY91kBLyY",
-      "watchUrl": "https://www.youtube.com/watch?v=elPY91kBLyY",
-      "embedUrl": "https://www.youtube.com/embed/elPY91kBLyY",
-      "originalUrl": "https://youtube.com/shorts/elPY91kBLyY?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
-    },
-    {
       "key": "1718:Qn8F_u0vBNI",
       "articleId": "1718",
       "articleTitle": "디깅하다 찾은 몽글몽글 r&b",
@@ -4552,20 +4538,6 @@
       "watchUrl": "https://www.youtube.com/watch?v=Akl6UTC9E9c",
       "embedUrl": "https://www.youtube.com/embed/Akl6UTC9E9c",
       "originalUrl": "https://www.youtube.com/watch?v=Akl6UTC9E9c",
-      "origin": "detail",
-      "writeTimestamp": 1776585321990
-    },
-    {
-      "key": "1426:6hyhJq-rMOQ",
-      "articleId": "1426",
-      "articleTitle": "역시 내 친구들이야",
-      "writer": "Orlip",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1426",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1426",
-      "videoId": "6hyhJq-rMOQ",
-      "watchUrl": "https://www.youtube.com/watch?v=6hyhJq-rMOQ",
-      "embedUrl": "https://www.youtube.com/embed/6hyhJq-rMOQ",
-      "originalUrl": "https://youtube.com/shorts/6hyhJq-rMOQ?",
       "origin": "detail",
       "writeTimestamp": 1776585321990
     },
@@ -5956,6 +5928,20 @@
       "writeTimestamp": 1775841331817
     },
     {
+      "key": "673:nuCzHmEgcQQ",
+      "articleId": "673",
+      "articleTitle": "기리보이-내가너를사랑하지않는다는것은너의망할친구들의아이디어같아",
+      "writer": "Kdkwp",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/673",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/673",
+      "videoId": "nuCzHmEgcQQ",
+      "watchUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ",
+      "embedUrl": "https://www.youtube.com/embed/nuCzHmEgcQQ",
+      "originalUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1775834781943
+    },
+    {
       "key": "666:HH6BZ5M6jVA",
       "articleId": "666",
       "articleTitle": "오왼과 릴 보이의 롤 모델이였던 남자 아시나요?",
@@ -6024,20 +6010,6 @@
       "originalUrl": "https://youtu.be/Y27e2yWnBEk?",
       "origin": "detail",
       "writeTimestamp": 1775832658550
-    },
-    {
-      "key": "653:noUYKq6m16A",
-      "articleId": "653",
-      "articleTitle": "최성 - 전설",
-      "writer": "새모",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/653",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/653",
-      "videoId": "noUYKq6m16A",
-      "watchUrl": "https://www.youtube.com/watch?v=noUYKq6m16A",
-      "embedUrl": "https://www.youtube.com/embed/noUYKq6m16A",
-      "originalUrl": "https://youtube.com/shorts/noUYKq6m16A?",
-      "origin": "detail",
-      "writeTimestamp": 1775831732930
     },
     {
       "key": "652:fmE7WfLh-k4",
