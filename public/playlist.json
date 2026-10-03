@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T22:08:41.558Z",
+  "generatedAt": "2026-10-03T20:55:26.150Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 184,
-  "detailMatchCount": 258,
+  "detailMatchCount": 253,
   "items": [
     {
       "key": "5388:0FgGmQDWETE",
@@ -1084,18 +1084,18 @@
       "writeTimestamp": 1785427038230
     },
     {
-      "key": "4299:mIhjiM7HAlk",
-      "articleId": "4299",
-      "articleTitle": "JUSTHIS - Money Vs. Love: Dream",
-      "writer": "park123hon",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4299",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4299",
-      "videoId": "mIhjiM7HAlk",
-      "watchUrl": "https://www.youtube.com/watch?v=mIhjiM7HAlk",
-      "embedUrl": "https://www.youtube.com/embed/mIhjiM7HAlk",
-      "originalUrl": "https://youtu.be/mIhjiM7HAlk?",
+      "key": "4345:PfRp5Me0zIo",
+      "articleId": "4345",
+      "articleTitle": "한요한-shining star",
+      "writer": "doh",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4345",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4345",
+      "videoId": "PfRp5Me0zIo",
+      "watchUrl": "https://www.youtube.com/watch?v=PfRp5Me0zIo",
+      "embedUrl": "https://www.youtube.com/embed/PfRp5Me0zIo",
+      "originalUrl": "https://youtu.be/PfRp5Me0zIo?",
       "origin": "detail",
-      "writeTimestamp": 1784987003813
+      "writeTimestamp": 1785349038677
     },
     {
       "key": "4298:-EIZCnpFRb4",
@@ -1124,20 +1124,6 @@
       "originalUrl": "https://www.youtube.com/embed/DuBgP5G1yrI?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1784986332563
-    },
-    {
-      "key": "4296:NU4uudLN4QY",
-      "articleId": "4296",
-      "articleTitle": "slayr - having anxiety is annoying",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4296",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4296",
-      "videoId": "NU4uudLN4QY",
-      "watchUrl": "https://www.youtube.com/watch?v=NU4uudLN4QY",
-      "embedUrl": "https://www.youtube.com/embed/NU4uudLN4QY",
-      "originalUrl": "https://youtu.be/NU4uudLN4QY?",
-      "origin": "detail",
-      "writeTimestamp": 1784943247003
     },
     {
       "key": "4283:59JTmJo2jLM",
@@ -4654,20 +4640,6 @@
       "writeTimestamp": 1776585321990
     },
     {
-      "key": "1426:ZTRRD2KtjDA",
-      "articleId": "1426",
-      "articleTitle": "역시 내 친구들이야",
-      "writer": "Orlip",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1426",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1426",
-      "videoId": "ZTRRD2KtjDA",
-      "watchUrl": "https://www.youtube.com/watch?v=ZTRRD2KtjDA",
-      "embedUrl": "https://www.youtube.com/embed/ZTRRD2KtjDA",
-      "originalUrl": "https://youtube.com/watch?v=ZTRRD2KtjDA&amp;i",
-      "origin": "detail",
-      "writeTimestamp": 1776585321990
-    },
-    {
       "key": "1424:blhOYQ_D-N0",
       "articleId": "1424",
       "articleTitle": "빌스택스 앨범 전곡 맛보기",
@@ -5072,20 +5044,6 @@
       "originalUrl": "https://www.youtube.com/embed/lFAB6EHrQzQ?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776235735720
-    },
-    {
-      "key": "1170:z2w2vzEpWRI",
-      "articleId": "1170",
-      "articleTitle": "어제 추천하려 했던 곡",
-      "writer": "한세현",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1170",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1170",
-      "videoId": "z2w2vzEpWRI",
-      "watchUrl": "https://www.youtube.com/watch?v=z2w2vzEpWRI",
-      "embedUrl": "https://www.youtube.com/embed/z2w2vzEpWRI",
-      "originalUrl": "https://youtu.be/z2w2vzEpWRI?",
-      "origin": "detail",
-      "writeTimestamp": 1776227786750
     },
     {
       "key": "1154:EmGV8AyBvYU",
@@ -6150,34 +6108,6 @@
       "originalUrl": "https://youtu.be/Y27e2yWnBEk?",
       "origin": "detail",
       "writeTimestamp": 1775832658550
-    },
-    {
-      "key": "653:iZeibXCryO8",
-      "articleId": "653",
-      "articleTitle": "최성 - 전설",
-      "writer": "새모",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/653",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/653",
-      "videoId": "iZeibXCryO8",
-      "watchUrl": "https://www.youtube.com/watch?v=iZeibXCryO8",
-      "embedUrl": "https://www.youtube.com/embed/iZeibXCryO8",
-      "originalUrl": "https://youtube.com/shorts/iZeibXCryO8?",
-      "origin": "detail",
-      "writeTimestamp": 1775831732930
-    },
-    {
-      "key": "653:7k5QFVN9tQU",
-      "articleId": "653",
-      "articleTitle": "최성 - 전설",
-      "writer": "새모",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/653",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/653",
-      "videoId": "7k5QFVN9tQU",
-      "watchUrl": "https://www.youtube.com/watch?v=7k5QFVN9tQU",
-      "embedUrl": "https://www.youtube.com/embed/7k5QFVN9tQU",
-      "originalUrl": "https://youtube.com/watch?v=7k5QFVN9tQU&amp;",
-      "origin": "detail",
-      "writeTimestamp": 1775831732930
     },
     {
       "key": "652:fmE7WfLh-k4",
