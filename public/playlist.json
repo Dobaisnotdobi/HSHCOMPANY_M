@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-10-05T23:58:44.808Z",
+  "generatedAt": "2026-10-06T23:01:58.501Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
-  "summaryMatchCount": 183,
-  "detailMatchCount": 262,
+  "summaryMatchCount": 184,
+  "detailMatchCount": 255,
   "items": [
+    {
+      "key": "5429:4gVTeMxJ32M",
+      "articleId": "5429",
+      "articleTitle": "빅걸포 지금 어디야?",
+      "writer": "탈악귀",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5429",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5429",
+      "videoId": "4gVTeMxJ32M",
+      "watchUrl": "https://www.youtube.com/watch?v=4gVTeMxJ32M",
+      "embedUrl": "https://www.youtube.com/embed/4gVTeMxJ32M",
+      "originalUrl": "https://youtu.be/4gVTeMxJ32M?",
+      "origin": "summary",
+      "writeTimestamp": 1791242739107
+    },
     {
       "key": "5425:UTHIa5HW8K4",
       "articleId": "5425",
@@ -1000,34 +1014,6 @@
       "writeTimestamp": 1785602377273
     },
     {
-      "key": "4414:o5JzyBt3f0Y",
-      "articleId": "4414",
-      "articleTitle": "Kanye West - The college dropout",
-      "writer": "TiMeWiNe",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4414",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4414",
-      "videoId": "o5JzyBt3f0Y",
-      "watchUrl": "https://www.youtube.com/watch?v=o5JzyBt3f0Y",
-      "embedUrl": "https://www.youtube.com/embed/o5JzyBt3f0Y",
-      "originalUrl": "https://youtu.be/o5JzyBt3f0Y?",
-      "origin": "detail",
-      "writeTimestamp": 1785551099393
-    },
-    {
-      "key": "4414:narDaXUfJiw",
-      "articleId": "4414",
-      "articleTitle": "Kanye West - The college dropout",
-      "writer": "TiMeWiNe",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4414",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4414",
-      "videoId": "narDaXUfJiw",
-      "watchUrl": "https://www.youtube.com/watch?v=narDaXUfJiw",
-      "embedUrl": "https://www.youtube.com/embed/narDaXUfJiw",
-      "originalUrl": "https://youtu.be/narDaXUfJiw?",
-      "origin": "detail",
-      "writeTimestamp": 1785551099393
-    },
-    {
       "key": "4412:a2ildxtGTrI",
       "articleId": "4412",
       "articleTitle": "hawks , sn7 - step on(e)",
@@ -1152,20 +1138,6 @@
       "originalUrl": "https://www.youtube.com/embed/DuBgP5G1yrI?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1784986332563
-    },
-    {
-      "key": "4296:NU4uudLN4QY",
-      "articleId": "4296",
-      "articleTitle": "slayr - having anxiety is annoying",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4296",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4296",
-      "videoId": "NU4uudLN4QY",
-      "watchUrl": "https://www.youtube.com/watch?v=NU4uudLN4QY",
-      "embedUrl": "https://www.youtube.com/embed/NU4uudLN4QY",
-      "originalUrl": "https://youtu.be/NU4uudLN4QY?",
-      "origin": "detail",
-      "writeTimestamp": 1784943247003
     },
     {
       "key": "4283:59JTmJo2jLM",
@@ -3772,20 +3744,6 @@
       "writeTimestamp": 1777700520883
     },
     {
-      "key": "2176:bHF_29Fh_XA",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "bHF_29Fh_XA",
-      "watchUrl": "https://www.youtube.com/watch?v=bHF_29Fh_XA",
-      "embedUrl": "https://www.youtube.com/embed/bHF_29Fh_XA",
-      "originalUrl": "https://youtube.com/shorts/bHF_29Fh_XA?",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
-    },
-    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -5494,20 +5452,6 @@
       "writeTimestamp": 1776012525673
     },
     {
-      "key": "957:nOo3a2tT1LQ",
-      "articleId": "957",
-      "articleTitle": "ericodoa - deep end",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/957",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/957",
-      "videoId": "nOo3a2tT1LQ",
-      "watchUrl": "https://www.youtube.com/watch?v=nOo3a2tT1LQ",
-      "embedUrl": "https://www.youtube.com/embed/nOo3a2tT1LQ",
-      "originalUrl": "https://youtu.be/nOo3a2tT1LQ?",
-      "origin": "detail",
-      "writeTimestamp": 1776012027543
-    },
-    {
       "key": "955:pa4e5C_dLJA",
       "articleId": "955",
       "articleTitle": "kanye west-white lines",
@@ -6134,34 +6078,6 @@
       "watchUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ",
       "embedUrl": "https://www.youtube.com/embed/nuCzHmEgcQQ",
       "originalUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1775834781943
-    },
-    {
-      "key": "673:o5JzyBt3f0Y",
-      "articleId": "673",
-      "articleTitle": "기리보이-내가너를사랑하지않는다는것은너의망할친구들의아이디어같아",
-      "writer": "Kdkwp",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/673",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/673",
-      "videoId": "o5JzyBt3f0Y",
-      "watchUrl": "https://www.youtube.com/watch?v=o5JzyBt3f0Y",
-      "embedUrl": "https://www.youtube.com/embed/o5JzyBt3f0Y",
-      "originalUrl": "https://youtu.be/o5JzyBt3f0Y?",
-      "origin": "detail",
-      "writeTimestamp": 1775834781943
-    },
-    {
-      "key": "673:narDaXUfJiw",
-      "articleId": "673",
-      "articleTitle": "기리보이-내가너를사랑하지않는다는것은너의망할친구들의아이디어같아",
-      "writer": "Kdkwp",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/673",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/673",
-      "videoId": "narDaXUfJiw",
-      "watchUrl": "https://www.youtube.com/watch?v=narDaXUfJiw",
-      "embedUrl": "https://www.youtube.com/embed/narDaXUfJiw",
-      "originalUrl": "https://youtu.be/narDaXUfJiw?",
       "origin": "detail",
       "writeTimestamp": 1775834781943
     },
