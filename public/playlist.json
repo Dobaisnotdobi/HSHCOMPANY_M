@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T22:59:08.017Z",
+  "generatedAt": "2026-10-09T22:33:18.811Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 184,
-  "detailMatchCount": 256,
+  "detailMatchCount": 252,
   "items": [
     {
       "key": "5429:4gVTeMxJ32M",
@@ -1138,20 +1138,6 @@
       "originalUrl": "https://www.youtube.com/embed/DuBgP5G1yrI?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1784986332563
-    },
-    {
-      "key": "4296:NU4uudLN4QY",
-      "articleId": "4296",
-      "articleTitle": "slayr - having anxiety is annoying",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4296",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4296",
-      "videoId": "NU4uudLN4QY",
-      "watchUrl": "https://www.youtube.com/watch?v=NU4uudLN4QY",
-      "embedUrl": "https://www.youtube.com/embed/NU4uudLN4QY",
-      "originalUrl": "https://youtu.be/NU4uudLN4QY?",
-      "origin": "detail",
-      "writeTimestamp": 1784943247003
     },
     {
       "key": "4283:59JTmJo2jLM",
@@ -3758,20 +3744,6 @@
       "writeTimestamp": 1777700520883
     },
     {
-      "key": "2176:ldfmc4lnwoY",
-      "articleId": "2176",
-      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
-      "videoId": "ldfmc4lnwoY",
-      "watchUrl": "https://www.youtube.com/watch?v=ldfmc4lnwoY",
-      "embedUrl": "https://www.youtube.com/embed/ldfmc4lnwoY",
-      "originalUrl": "https://youtube.com/watch?v=ldfmc4lnwoY&amp;",
-      "origin": "detail",
-      "writeTimestamp": 1777559801880
-    },
-    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -5606,20 +5578,6 @@
       "writeTimestamp": 1775971679680
     },
     {
-      "key": "882:52a9LrbBQUk",
-      "articleId": "882",
-      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
-      "videoId": "52a9LrbBQUk",
-      "watchUrl": "https://www.youtube.com/watch?v=52a9LrbBQUk",
-      "embedUrl": "https://www.youtube.com/embed/52a9LrbBQUk",
-      "originalUrl": "https://youtu.be/52a9LrbBQUk?",
-      "origin": "detail",
-      "writeTimestamp": 1775970684243
-    },
-    {
       "key": "881:9PukqhfMxfc",
       "articleId": "881",
       "articleTitle": "예로부터 레게는 힙합의 가족이었다, 데미안 말리 - Medication(Feat. 스티븐 말리)",
@@ -6080,20 +6038,6 @@
       "originalUrl": "https://youtu.be/QgYa3gBpQME?",
       "origin": "summary",
       "writeTimestamp": 1775841331817
-    },
-    {
-      "key": "673:nuCzHmEgcQQ",
-      "articleId": "673",
-      "articleTitle": "기리보이-내가너를사랑하지않는다는것은너의망할친구들의아이디어같아",
-      "writer": "Kdkwp",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/673",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/673",
-      "videoId": "nuCzHmEgcQQ",
-      "watchUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ",
-      "embedUrl": "https://www.youtube.com/embed/nuCzHmEgcQQ",
-      "originalUrl": "https://www.youtube.com/watch?v=nuCzHmEgcQQ&amp;li",
-      "origin": "detail",
-      "writeTimestamp": 1775834781943
     },
     {
       "key": "666:HH6BZ5M6jVA",
