@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T22:33:18.811Z",
+  "generatedAt": "2026-10-10T21:20:54.924Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 184,
-  "detailMatchCount": 252,
+  "detailMatchCount": 253,
   "items": [
     {
       "key": "5429:4gVTeMxJ32M",
@@ -4650,6 +4650,20 @@
       "watchUrl": "https://www.youtube.com/watch?v=Akl6UTC9E9c",
       "embedUrl": "https://www.youtube.com/embed/Akl6UTC9E9c",
       "originalUrl": "https://www.youtube.com/watch?v=Akl6UTC9E9c",
+      "origin": "detail",
+      "writeTimestamp": 1776585321990
+    },
+    {
+      "key": "1426:Wk2RY20ibfg",
+      "articleId": "1426",
+      "articleTitle": "역시 내 친구들이야",
+      "writer": "Orlip",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1426",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1426",
+      "videoId": "Wk2RY20ibfg",
+      "watchUrl": "https://www.youtube.com/watch?v=Wk2RY20ibfg",
+      "embedUrl": "https://www.youtube.com/embed/Wk2RY20ibfg",
+      "originalUrl": "https://youtube.com/shorts/Wk2RY20ibfg?",
       "origin": "detail",
       "writeTimestamp": 1776585321990
     },
