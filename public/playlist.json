@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-10T21:20:54.924Z",
+  "generatedAt": "2026-10-11T21:45:06.999Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 184,
-  "detailMatchCount": 253,
+  "detailMatchCount": 255,
   "items": [
     {
       "key": "5429:4gVTeMxJ32M",
@@ -186,6 +186,20 @@
       "originalUrl": "https://www.youtube.com/watch?v=m2BvjIN38Ik&amp;li",
       "origin": "detail",
       "writeTimestamp": 1790314847230
+    },
+    {
+      "key": "5319:7R6xf4Dd9pw",
+      "articleId": "5319",
+      "articleTitle": "[추석 영화 추천] 넷플릭스 지ㅡ니어스 칸예 3부작 추천",
+      "writer": "해온반",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5319",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5319",
+      "videoId": "7R6xf4Dd9pw",
+      "watchUrl": "https://www.youtube.com/watch?v=7R6xf4Dd9pw",
+      "embedUrl": "https://www.youtube.com/embed/7R6xf4Dd9pw",
+      "originalUrl": "https://youtube.com/shorts/7R6xf4Dd9pw?",
+      "origin": "detail",
+      "writeTimestamp": 1790208666880
     },
     {
       "key": "5283:XPwnhxc3eu8",
@@ -4204,6 +4218,20 @@
       "originalUrl": "https://youtu.be/kZUPLToG788?",
       "origin": "summary",
       "writeTimestamp": 1776969144897
+    },
+    {
+      "key": "1722:e6HcArFcgCo",
+      "articleId": "1722",
+      "articleTitle": "이거 진짜 나만아는듯",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
+      "videoId": "e6HcArFcgCo",
+      "watchUrl": "https://www.youtube.com/watch?v=e6HcArFcgCo",
+      "embedUrl": "https://www.youtube.com/embed/e6HcArFcgCo",
+      "originalUrl": "https://youtube.com/shorts/e6HcArFcgCo?",
+      "origin": "detail",
+      "writeTimestamp": 1776945731630
     },
     {
       "key": "1718:Qn8F_u0vBNI",
