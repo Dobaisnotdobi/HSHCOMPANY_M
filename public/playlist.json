@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-10-13T00:38:38.453Z",
+  "generatedAt": "2026-10-13T22:42:27.766Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 184,
-  "detailMatchCount": 253,
+  "detailMatchCount": 259,
   "items": [
+    {
+      "key": "5486:9vuUOeCezfg",
+      "articleId": "5486",
+      "articleTitle": "선진,재림 GMBT",
+      "writer": "haneul57",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5486",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5486",
+      "videoId": "9vuUOeCezfg",
+      "watchUrl": "https://www.youtube.com/watch?v=9vuUOeCezfg",
+      "embedUrl": "https://www.youtube.com/embed/9vuUOeCezfg",
+      "originalUrl": "https://www.youtube.com/watch?v=9vuUOeCezfg",
+      "origin": "detail",
+      "writeTimestamp": 1791785549397
+    },
     {
       "key": "5429:4gVTeMxJ32M",
       "articleId": "5429",
@@ -1124,6 +1138,20 @@
       "originalUrl": "https://www.youtube.com/embed/cvGtjTA_pcU?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1785427038230
+    },
+    {
+      "key": "4345:0FgGmQDWETE",
+      "articleId": "4345",
+      "articleTitle": "한요한-shining star",
+      "writer": "doh",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4345",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4345",
+      "videoId": "0FgGmQDWETE",
+      "watchUrl": "https://www.youtube.com/watch?v=0FgGmQDWETE",
+      "embedUrl": "https://www.youtube.com/embed/0FgGmQDWETE",
+      "originalUrl": "https://youtu.be/0FgGmQDWETE?",
+      "origin": "detail",
+      "writeTimestamp": 1785349038677
     },
     {
       "key": "4298:-EIZCnpFRb4",
@@ -4220,6 +4248,48 @@
       "writeTimestamp": 1776969144897
     },
     {
+      "key": "1722:elPY91kBLyY",
+      "articleId": "1722",
+      "articleTitle": "이거 진짜 나만아는듯",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
+      "videoId": "elPY91kBLyY",
+      "watchUrl": "https://www.youtube.com/watch?v=elPY91kBLyY",
+      "embedUrl": "https://www.youtube.com/embed/elPY91kBLyY",
+      "originalUrl": "https://youtube.com/shorts/elPY91kBLyY?",
+      "origin": "detail",
+      "writeTimestamp": 1776945731630
+    },
+    {
+      "key": "1722:e6HcArFcgCo",
+      "articleId": "1722",
+      "articleTitle": "이거 진짜 나만아는듯",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
+      "videoId": "e6HcArFcgCo",
+      "watchUrl": "https://www.youtube.com/watch?v=e6HcArFcgCo",
+      "embedUrl": "https://www.youtube.com/embed/e6HcArFcgCo",
+      "originalUrl": "https://youtube.com/shorts/e6HcArFcgCo?",
+      "origin": "detail",
+      "writeTimestamp": 1776945731630
+    },
+    {
+      "key": "1722:0FgGmQDWETE",
+      "articleId": "1722",
+      "articleTitle": "이거 진짜 나만아는듯",
+      "writer": "Gangbool",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
+      "videoId": "0FgGmQDWETE",
+      "watchUrl": "https://www.youtube.com/watch?v=0FgGmQDWETE",
+      "embedUrl": "https://www.youtube.com/embed/0FgGmQDWETE",
+      "originalUrl": "https://youtu.be/0FgGmQDWETE?",
+      "origin": "detail",
+      "writeTimestamp": 1776945731630
+    },
+    {
       "key": "1718:Qn8F_u0vBNI",
       "articleId": "1718",
       "articleTitle": "디깅하다 찾은 몽글몽글 r&b",
@@ -5366,6 +5436,20 @@
       "originalUrl": "https://www.youtube.com/embed/h9eqGcij9W0?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776050380903
+    },
+    {
+      "key": "971:0FgGmQDWETE",
+      "articleId": "971",
+      "articleTitle": "ycs - vista",
+      "writer": "공백",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/971",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/971",
+      "videoId": "0FgGmQDWETE",
+      "watchUrl": "https://www.youtube.com/watch?v=0FgGmQDWETE",
+      "embedUrl": "https://www.youtube.com/embed/0FgGmQDWETE",
+      "originalUrl": "https://youtu.be/0FgGmQDWETE?",
+      "origin": "detail",
+      "writeTimestamp": 1776017657410
     },
     {
       "key": "970:WXDagpyphlo",
