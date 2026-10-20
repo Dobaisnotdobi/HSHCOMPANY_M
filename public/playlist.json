@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-19T22:21:16.111Z",
+  "generatedAt": "2026-10-20T21:35:00.388Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 190,
-  "detailMatchCount": 261,
+  "detailMatchCount": 255,
   "items": [
     {
       "key": "5569:X5e5YyXLX18",
@@ -678,34 +678,6 @@
       "writeTimestamp": 1788232585603
     },
     {
-      "key": "4901:MHur-H1VOIY",
-      "articleId": "4901",
-      "articleTitle": "싱드컵떼 이노래 듣고 깜짝 놀람...",
-      "writer": "솜니움",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4901",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4901",
-      "videoId": "MHur-H1VOIY",
-      "watchUrl": "https://www.youtube.com/watch?v=MHur-H1VOIY",
-      "embedUrl": "https://www.youtube.com/embed/MHur-H1VOIY",
-      "originalUrl": "https://youtu.be/MHur-H1VOIY?",
-      "origin": "detail",
-      "writeTimestamp": 1788181992693
-    },
-    {
-      "key": "4901:JLQTiFwBVyI",
-      "articleId": "4901",
-      "articleTitle": "싱드컵떼 이노래 듣고 깜짝 놀람...",
-      "writer": "솜니움",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4901",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4901",
-      "videoId": "JLQTiFwBVyI",
-      "watchUrl": "https://www.youtube.com/watch?v=JLQTiFwBVyI",
-      "embedUrl": "https://www.youtube.com/embed/JLQTiFwBVyI",
-      "originalUrl": "https://youtu.be/JLQTiFwBVyI?",
-      "origin": "detail",
-      "writeTimestamp": 1788181992693
-    },
-    {
       "key": "4895:BzIxRC2bX1o",
       "articleId": "4895",
       "articleTitle": "오노추",
@@ -1320,20 +1292,6 @@
       "originalUrl": "https://www.youtube.com/embed/cvGtjTA_pcU?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1785427038230
-    },
-    {
-      "key": "4302:-LQ7rItAbHY",
-      "articleId": "4302",
-      "articleTitle": "KWAII - DISTORTED",
-      "writer": "TiMeWiNe",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4302",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4302",
-      "videoId": "-LQ7rItAbHY",
-      "watchUrl": "https://www.youtube.com/watch?v=-LQ7rItAbHY",
-      "embedUrl": "https://www.youtube.com/embed/-LQ7rItAbHY",
-      "originalUrl": "https://youtu.be/-LQ7rItAbHY?",
-      "origin": "detail",
-      "writeTimestamp": 1785027641643
     },
     {
       "key": "4299:h3gEkwhdXUE",
@@ -2412,20 +2370,6 @@
       "originalUrl": "https://youtu.be/zwf5MpcuKDM?",
       "origin": "summary",
       "writeTimestamp": 1780574488943
-    },
-    {
-      "key": "3535:-LQ7rItAbHY",
-      "articleId": "3535",
-      "articleTitle": "언텔 - AMBITIUN",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3535",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3535",
-      "videoId": "-LQ7rItAbHY",
-      "watchUrl": "https://www.youtube.com/watch?v=-LQ7rItAbHY",
-      "embedUrl": "https://www.youtube.com/embed/-LQ7rItAbHY",
-      "originalUrl": "https://youtu.be/-LQ7rItAbHY?",
-      "origin": "detail",
-      "writeTimestamp": 1780557991880
     },
     {
       "key": "3534:ZxvPthCebW8",
@@ -3646,20 +3590,6 @@
       "writeTimestamp": 1778253960517
     },
     {
-      "key": "2721:-LQ7rItAbHY",
-      "articleId": "2721",
-      "articleTitle": "요즘 킫밀 오카시 지리는거 같음",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2721",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2721",
-      "videoId": "-LQ7rItAbHY",
-      "watchUrl": "https://www.youtube.com/watch?v=-LQ7rItAbHY",
-      "embedUrl": "https://www.youtube.com/embed/-LQ7rItAbHY",
-      "originalUrl": "https://youtu.be/-LQ7rItAbHY?",
-      "origin": "detail",
-      "writeTimestamp": 1778252621780
-    },
-    {
       "key": "2715:reDvXLJBAtA",
       "articleId": "2715",
       "articleTitle": "어버이날 기념 노래추천!",
@@ -4374,6 +4304,20 @@
       "writeTimestamp": 1777118887560
     },
     {
+      "key": "1794:MqFkwO4g37g",
+      "articleId": "1794",
+      "articleTitle": "김감전 EP나옴!!!!!!!!!!!!!!!!!! NOISVAN!",
+      "writer": "yes창",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1794",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1794",
+      "videoId": "MqFkwO4g37g",
+      "watchUrl": "https://www.youtube.com/watch?v=MqFkwO4g37g",
+      "embedUrl": "https://www.youtube.com/embed/MqFkwO4g37g",
+      "originalUrl": "https://youtu.be/MqFkwO4g37g?",
+      "origin": "detail",
+      "writeTimestamp": 1777094474980
+    },
+    {
       "key": "1793:-LmfocAM9rI",
       "articleId": "1793",
       "articleTitle": "애초부터 돈 따위완 상관 없었어, Movement 4 (꺼지지 않는 초심) (Feat. Movement)",
@@ -4498,34 +4442,6 @@
       "originalUrl": "https://youtu.be/kZUPLToG788?",
       "origin": "summary",
       "writeTimestamp": 1776969144897
-    },
-    {
-      "key": "1722:elPY91kBLyY",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "elPY91kBLyY",
-      "watchUrl": "https://www.youtube.com/watch?v=elPY91kBLyY",
-      "embedUrl": "https://www.youtube.com/embed/elPY91kBLyY",
-      "originalUrl": "https://youtube.com/shorts/elPY91kBLyY?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
-    },
-    {
-      "key": "1722:e6HcArFcgCo",
-      "articleId": "1722",
-      "articleTitle": "이거 진짜 나만아는듯",
-      "writer": "Gangbool",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1722",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1722",
-      "videoId": "e6HcArFcgCo",
-      "watchUrl": "https://www.youtube.com/watch?v=e6HcArFcgCo",
-      "embedUrl": "https://www.youtube.com/embed/e6HcArFcgCo",
-      "originalUrl": "https://youtube.com/shorts/e6HcArFcgCo?",
-      "origin": "detail",
-      "writeTimestamp": 1776945731630
     },
     {
       "key": "1718:Qn8F_u0vBNI",
@@ -4948,6 +4864,20 @@
       "writeTimestamp": 1776599403090
     },
     {
+      "key": "1438:MqFkwO4g37g",
+      "articleId": "1438",
+      "articleTitle": "오앨추",
+      "writer": "Orlip",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1438",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1438",
+      "videoId": "MqFkwO4g37g",
+      "watchUrl": "https://www.youtube.com/watch?v=MqFkwO4g37g",
+      "embedUrl": "https://www.youtube.com/embed/MqFkwO4g37g",
+      "originalUrl": "https://youtu.be/MqFkwO4g37g?",
+      "origin": "detail",
+      "writeTimestamp": 1776597797990
+    },
+    {
       "key": "1436:lh1JjR0YJIE",
       "articleId": "1436",
       "articleTitle": "더 편리해 졌다고 내가 행복해진게 아니야 UMC - 사랑은 재방송",
@@ -5030,6 +4960,20 @@
       "originalUrl": "https://www.youtube.com/embed/g9HDWl31kfQ?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1776512557953
+    },
+    {
+      "key": "1363:COGJ4mPYfVk",
+      "articleId": "1363",
+      "articleTitle": "4월 24일에 NOISVAN을 예고한 김감전 - 군계일학",
+      "writer": "켄서펀트",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1363",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1363",
+      "videoId": "COGJ4mPYfVk",
+      "watchUrl": "https://www.youtube.com/watch?v=COGJ4mPYfVk",
+      "embedUrl": "https://www.youtube.com/embed/COGJ4mPYfVk",
+      "originalUrl": "https://www.youtube.com/embed/COGJ4mPYfVk?feature=oembed",
+      "origin": "detail",
+      "writeTimestamp": 1776511651587
     },
     {
       "key": "1344:R4N3I0VbIgc",
@@ -5760,20 +5704,6 @@
       "writeTimestamp": 1776010893590
     },
     {
-      "key": "951:-LQ7rItAbHY",
-      "articleId": "951",
-      "articleTitle": "ycs - 黎崍阿",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
-      "videoId": "-LQ7rItAbHY",
-      "watchUrl": "https://www.youtube.com/watch?v=-LQ7rItAbHY",
-      "embedUrl": "https://www.youtube.com/embed/-LQ7rItAbHY",
-      "originalUrl": "https://youtu.be/-LQ7rItAbHY?",
-      "origin": "detail",
-      "writeTimestamp": 1776006657800
-    },
-    {
       "key": "936:BMJnGgX_N0A",
       "articleId": "936",
       "articleTitle": "‘나는 또 다시 너랑 가라앉고 있네’",
@@ -5898,20 +5828,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=TUVXiINIwQM&li",
       "origin": "summary",
       "writeTimestamp": 1775971679680
-    },
-    {
-      "key": "882:-LQ7rItAbHY",
-      "articleId": "882",
-      "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
-      "writer": "ch1tkeyCHITWORLD",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
-      "videoId": "-LQ7rItAbHY",
-      "watchUrl": "https://www.youtube.com/watch?v=-LQ7rItAbHY",
-      "embedUrl": "https://www.youtube.com/embed/-LQ7rItAbHY",
-      "originalUrl": "https://youtu.be/-LQ7rItAbHY?",
-      "origin": "detail",
-      "writeTimestamp": 1775970684243
     },
     {
       "key": "881:9PukqhfMxfc",
