@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-10-28T22:37:29.008Z",
+  "generatedAt": "2026-10-29T22:43:26.137Z",
   "pageCount": 40,
   "sourceArticleCount": 600,
   "summaryMatchCount": 194,
-  "detailMatchCount": 257,
+  "detailMatchCount": 254,
   "items": [
+    {
+      "key": "5666:EIFPd7Zeb14",
+      "articleId": "5666",
+      "articleTitle": "CURRY THE FREEMAN - 초소형 초가스",
+      "writer": "해온반",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/5666",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/5666",
+      "videoId": "EIFPd7Zeb14",
+      "watchUrl": "https://www.youtube.com/watch?v=EIFPd7Zeb14",
+      "embedUrl": "https://www.youtube.com/embed/EIFPd7Zeb14",
+      "originalUrl": "https://youtu.be/EIFPd7Zeb14?",
+      "origin": "summary",
+      "writeTimestamp": 1793277477957
+    },
     {
       "key": "5640:YN1WpiYyF9w",
       "articleId": "5640",
@@ -860,20 +874,6 @@
       "writeTimestamp": 1788232585603
     },
     {
-      "key": "4901:-gZlOkTAU08",
-      "articleId": "4901",
-      "articleTitle": "싱드컵떼 이노래 듣고 깜짝 놀람...",
-      "writer": "솜니움",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4901",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4901",
-      "videoId": "-gZlOkTAU08",
-      "watchUrl": "https://www.youtube.com/watch?v=-gZlOkTAU08",
-      "embedUrl": "https://www.youtube.com/embed/-gZlOkTAU08",
-      "originalUrl": "https://youtu.be/-gZlOkTAU08?",
-      "origin": "detail",
-      "writeTimestamp": 1788181992693
-    },
-    {
       "key": "4895:BzIxRC2bX1o",
       "articleId": "4895",
       "articleTitle": "오노추",
@@ -1488,20 +1488,6 @@
       "originalUrl": "https://www.youtube.com/embed/cvGtjTA_pcU?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1785427038230
-    },
-    {
-      "key": "4302:-gZlOkTAU08",
-      "articleId": "4302",
-      "articleTitle": "KWAII - DISTORTED",
-      "writer": "TiMeWiNe",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/4302",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/4302",
-      "videoId": "-gZlOkTAU08",
-      "watchUrl": "https://www.youtube.com/watch?v=-gZlOkTAU08",
-      "embedUrl": "https://www.youtube.com/embed/-gZlOkTAU08",
-      "originalUrl": "https://youtu.be/-gZlOkTAU08?",
-      "origin": "detail",
-      "writeTimestamp": 1785027641643
     },
     {
       "key": "4298:-EIZCnpFRb4",
@@ -2384,20 +2370,6 @@
       "originalUrl": "https://www.youtube.com/embed/8lVu1lCjLyM?feature=oembed",
       "origin": "detail",
       "writeTimestamp": 1781189758913
-    },
-    {
-      "key": "3671:-gZlOkTAU08",
-      "articleId": "3671",
-      "articleTitle": "AMBITION 6/10 -언텔, 해쉬스완, 던말릭",
-      "writer": "2400시간",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/3671",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/3671",
-      "videoId": "-gZlOkTAU08",
-      "watchUrl": "https://www.youtube.com/watch?v=-gZlOkTAU08",
-      "embedUrl": "https://www.youtube.com/embed/-gZlOkTAU08",
-      "originalUrl": "https://youtu.be/-gZlOkTAU08?",
-      "origin": "detail",
-      "writeTimestamp": 1781139092390
     },
     {
       "key": "3646:b-8vyymBx7w",
@@ -4150,6 +4122,20 @@
       "writeTimestamp": 1777700520883
     },
     {
+      "key": "2176:mu81HL1gEA0",
+      "articleId": "2176",
+      "articleTitle": "요즘 이 노래에 빠져서 헤어나어지 못 하고 있음",
+      "writer": "2400시간",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/2176",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/2176",
+      "videoId": "mu81HL1gEA0",
+      "watchUrl": "https://www.youtube.com/watch?v=mu81HL1gEA0",
+      "embedUrl": "https://www.youtube.com/embed/mu81HL1gEA0",
+      "originalUrl": "https://youtu.be/mu81HL1gEA0?",
+      "origin": "detail",
+      "writeTimestamp": 1777559801880
+    },
+    {
       "key": "2148:Z2neajn3mCI",
       "articleId": "2148",
       "articleTitle": "'나는 *****를 말할 수 있는 유일한 아시아인이야'",
@@ -4484,20 +4470,6 @@
       "originalUrl": "https://youtu.be/bwVNydbMTO0?",
       "origin": "summary",
       "writeTimestamp": 1777118887560
-    },
-    {
-      "key": "1794:-gZlOkTAU08",
-      "articleId": "1794",
-      "articleTitle": "김감전 EP나옴!!!!!!!!!!!!!!!!!! NOISVAN!",
-      "writer": "yes창",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1794",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1794",
-      "videoId": "-gZlOkTAU08",
-      "watchUrl": "https://www.youtube.com/watch?v=-gZlOkTAU08",
-      "embedUrl": "https://www.youtube.com/embed/-gZlOkTAU08",
-      "originalUrl": "https://youtu.be/-gZlOkTAU08?",
-      "origin": "detail",
-      "writeTimestamp": 1777094474980
     },
     {
       "key": "1793:-LmfocAM9rI",
@@ -5494,6 +5466,20 @@
       "writeTimestamp": 1776235735720
     },
     {
+      "key": "1170:I3f05qYeVl8",
+      "articleId": "1170",
+      "articleTitle": "어제 추천하려 했던 곡",
+      "writer": "한세현",
+      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/1170",
+      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/1170",
+      "videoId": "I3f05qYeVl8",
+      "watchUrl": "https://www.youtube.com/watch?v=I3f05qYeVl8",
+      "embedUrl": "https://www.youtube.com/embed/I3f05qYeVl8",
+      "originalUrl": "https://www.youtube.com/watch?v=I3f05qYeVl8&amp;li",
+      "origin": "detail",
+      "writeTimestamp": 1776227786750
+    },
+    {
       "key": "1154:EmGV8AyBvYU",
       "articleId": "1154",
       "articleTitle": "제 앨범입니다) GLARE",
@@ -5886,20 +5872,6 @@
       "writeTimestamp": 1776010893590
     },
     {
-      "key": "951:-gZlOkTAU08",
-      "articleId": "951",
-      "articleTitle": "ycs - 黎崍阿",
-      "writer": "파인애플피자억까ㄴㄴ",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/951",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/951",
-      "videoId": "-gZlOkTAU08",
-      "watchUrl": "https://www.youtube.com/watch?v=-gZlOkTAU08",
-      "embedUrl": "https://www.youtube.com/embed/-gZlOkTAU08",
-      "originalUrl": "https://youtu.be/-gZlOkTAU08?",
-      "origin": "detail",
-      "writeTimestamp": 1776006657800
-    },
-    {
       "key": "936:BMJnGgX_N0A",
       "articleId": "936",
       "articleTitle": "‘나는 또 다시 너랑 가라앉고 있네’",
@@ -6026,16 +5998,16 @@
       "writeTimestamp": 1775971679680
     },
     {
-      "key": "882:-gZlOkTAU08",
+      "key": "882:7mjg-7ibaQA",
       "articleId": "882",
       "articleTitle": "Lov3rboi - B town (feat.Lobonabeat!)",
       "writer": "ch1tkeyCHITWORLD",
       "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/882",
       "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/882",
-      "videoId": "-gZlOkTAU08",
-      "watchUrl": "https://www.youtube.com/watch?v=-gZlOkTAU08",
-      "embedUrl": "https://www.youtube.com/embed/-gZlOkTAU08",
-      "originalUrl": "https://youtu.be/-gZlOkTAU08?",
+      "videoId": "7mjg-7ibaQA",
+      "watchUrl": "https://www.youtube.com/watch?v=7mjg-7ibaQA",
+      "embedUrl": "https://www.youtube.com/embed/7mjg-7ibaQA",
+      "originalUrl": "https://youtube.com/watch?v=7mjg-7ibaQA&amp;",
       "origin": "detail",
       "writeTimestamp": 1775970684243
     },
@@ -6304,20 +6276,6 @@
       "originalUrl": "https://www.youtube.com/watch?v=TGuRfQDWT1c&li",
       "origin": "summary",
       "writeTimestamp": 1775907319307
-    },
-    {
-      "key": "784:pE0QO8Fi4i0",
-      "articleId": "784",
-      "articleTitle": "이한울 - I wanna know",
-      "writer": "공백",
-      "sourceUrl": "https://cafe.naver.com/f-e/cafes/31702916/articles/784",
-      "mobileSourceUrl": "https://m.cafe.naver.com/ca-fe/web/cafes/31702916/articles/784",
-      "videoId": "pE0QO8Fi4i0",
-      "watchUrl": "https://www.youtube.com/watch?v=pE0QO8Fi4i0",
-      "embedUrl": "https://www.youtube.com/embed/pE0QO8Fi4i0",
-      "originalUrl": "https://youtu.be/pE0QO8Fi4i0?li",
-      "origin": "summary",
-      "writeTimestamp": 1775907158300
     }
   ]
 }
